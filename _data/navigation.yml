@@ -1,19 +1,13 @@
 # Site navigation links
 
-- title: About
+- title: Starte hier
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: C#
+  url: /lernmoment-csharp/
 
-- title: Blog
-  url: /blog/
+- title: C
+  url: /lernmoment-c/
 
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
-
-- title: Search
+- title: Newsletter
   url: /search/

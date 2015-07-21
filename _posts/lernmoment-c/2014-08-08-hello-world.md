@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World"
 modified:
-categories: blog
+categories: lernmoment-c
 excerpt:
 tags: []
 image:
