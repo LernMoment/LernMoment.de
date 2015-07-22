@@ -7,7 +7,7 @@ lernmoment: C#
 excerpt: "wie du einfach asynchron Daten liest"
 tags: [Async, File]
 image:
-  feature:
+  feature: csharp-programmieren.jpg
 date: 2015-07-22T09:25:00+00:00
 ---
 

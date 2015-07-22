@@ -2,6 +2,8 @@
 layout: page
 title: C# (.NET / Mono)
 excerpt: "Alle bisher veröffentlichten LernMomente für die Programmiersprache C#."
+image:
+  feature: csharp-programmieren.jpg
 search_omit: true
 ---
 

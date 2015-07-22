@@ -7,7 +7,7 @@ lernmoment: C
 excerpt: "kennst du den Mythos um return 0?"
 tags: [Syntax, stdlib.h]
 image:
-  feature:
+  feature: c-programmieren.jpg
 date: 2015-07-22T09:25:00+00:00
 ---
 
