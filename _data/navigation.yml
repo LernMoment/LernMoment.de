@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: Starte hier
-  url: /about/
+  url: /starte-hier/
 
 - title: C#
   url: /csharp-programmieren/
@@ -9,5 +9,5 @@
 - title: C
   url: /c-programmieren/
 
-- title: Newsletter
-  url: /search/
+- title: Werde Meister
+  url: /newsletter-abonieren/
