@@ -2,7 +2,7 @@
 layout: post
 title: "Einführung in Async / Await"
 modified:
-categories: lernmoment-csharp/
+categories: csharp-programmieren
 lernmoment: C#
 excerpt: "wie du einfach asynchron Daten liest"
 tags: [Async, File]
