@@ -12,9 +12,9 @@ image:
     <form action="http://lernmoment.us9.list-manage2.com/subscribe/post" method="POST" target="_blank">
       <input type="hidden" name="u" value="d0206d57f5002e40b651a0f60">
       <input type="hidden" name="id" value="8845c28e62">
-      <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
-      <input type="text" name="MERGE1" id="MERGE1" size="25" value="">
-      <input type="submit" class="button" name="submit" value="Subscribe to list">
+      <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" placeholder="Deine beste E-Mail-Adresse">
+      <input type="text" name="MERGE1" id="MERGE1" size="25" value="" placeholder="Dein Name">
+      <input type="submit" class="btn" name="submit" value="Ich bin dabei!">
     </form>
 </div>
 
