@@ -1,6 +1,6 @@
 ---
 layout: page
-title: C
+title: Entwickeln mit C
 excerpt: "Alle bisher veröffentlichten LernMomente für die Programmiersprache C."
 image:
   feature: c-programmieren.jpg
