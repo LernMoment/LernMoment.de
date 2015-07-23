@@ -7,6 +7,17 @@ image:
   feature: intro-mac.jpg
 ---
 
+<div class="post-subscribe">
+  <p>Mache es dir noch heute zur Gewohnheit jeden Tag deine Softwareentwicklung zu verbessern</p>
+    <form action="http://lernmoment.us9.list-manage2.com/subscribe/post" method="POST" target="_blank">
+      <input type="hidden" name="u" value="d0206d57f5002e40b651a0f60">
+      <input type="hidden" name="id" value="8845c28e62">
+      <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
+      <input type="text" name="MERGE1" id="MERGE1" size="25" value="">
+      <input type="submit" class="button" name="submit" value="Subscribe to list">
+    </form>
+</div>
+
 #### Die aktuellsten LernMomente
 
 <ul class="post-list">
