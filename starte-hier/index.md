@@ -38,9 +38,9 @@ Um LernMomente möglichst effektiv einzusetzen, solltest du dich besser erstmal 
 Zukünftig plane ich LernMomente zu folgenden Themen:
 
 -    [Docker](http://www.docker.com) - Entwickle, baue und setze deine Software unabhängig vom Betriebssystem ein.
--    [Git](http://www.git.com) - Verwalte deine Softwareprojekte in einer dezentralen Versionskontrolle.
+-    [Git](http://git-scm.com/book/de/v1) - Verwalte deine Softwareprojekte in einer dezentralen Versionskontrolle.
 
-Allerdings wird es noch etwas dauern, bis auch für diese Themen täglich LernMomente erscheinen. Wenn du weitere Vorschläge hast, oder vielleicht sogar helfen möchtest bei einigen der Themen, dann schreib mir doch einfach eine [E-Mail](jan@lernmoment.de). Möchtest du benachrichtigt werden, wenn LernMomente für ein neues Thema starten, dann schreib dich doch ein für den kostenlosen Newsletter:
+Allerdings wird es noch etwas dauern, bis auch für diese Themen täglich LernMomente erscheinen. Wenn du weitere Vorschläge hast, oder vielleicht sogar helfen möchtest bei einigen der Themen, dann schreib mir doch einfach eine <a href="mailto:jan@lernmoment.de">E-Mail<a/>. Möchtest du benachrichtigt werden, wenn LernMomente für ein neues Thema starten, dann schreib dich doch ein für den kostenlosen Newsletter:
 
 {% include lernmoment-subscribe.html %}
 
@@ -60,3 +60,7 @@ Nun ging es mir mit meinem Wissen rund um die Softwareentwicklung ähnlich wie m
 In Kombination mit der Erfahrung wie ich neue Gewohnheiten erlerne und wie ich effektiv lernen kann, ist die Idee des LernMoments entstanden.
 
 Nun aber genug von mir. Es geht hier darum wie du deine Softwareentwicklung verbessern kannst. Probier doch einfach mal einen LernMoment aus. Ich würde mich sehr freuen, wenn du mir anschließend etwas über <a href="mailto:jan@lernmoment.de">deine Erfahrungen damit schreibst<a/>.
+
+Viel Erfolg und lass uns gemeinsam dafür sorgen, dass Softwareentwicklung ein wenig professioneller wird
+
+Jan
