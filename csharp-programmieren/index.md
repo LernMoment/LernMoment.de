@@ -3,7 +3,7 @@ layout: page
 title: C# (.NET / Mono)
 excerpt: "Alle bisher veröffentlichten LernMomente für die Programmiersprache C#."
 image:
-  feature: csharp-programmieren.jpg
+  feature: csharp-programmieren-ohne.jpg
 search_omit: true
 ---
 
