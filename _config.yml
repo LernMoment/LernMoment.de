@@ -7,6 +7,8 @@ logo: site-logo.png
 search: true
 url: http://www.lernmoment.de
 
+timezone: Europe/Berlin
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/
