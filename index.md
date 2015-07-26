@@ -9,16 +9,23 @@ image:
 
 {% include lernmoment-subscribe.html %}
 
-#### Die aktuellsten LernMomente
+#### Die aktuellsten LernMomente - Entwickeln mit C\#
 
 <ul class="post-list">
-{% for post in site.posts limit:10 %}
-{% if post.lernmoment %}
+{% for post in site.categories.csharp-programmieren limit:5 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} </span><span class="entry-date">{{ post.lernmoment }} &nbsp;&bull;&nbsp; {% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
-{% endif %}
 {% endfor %}
 </ul>
 
+#### VORSCHAU: LernMomente - Entwickeln mit C
+
+LernMomente in C erscheinen momentan noch nicht täglich. Mehr Informationen, findest du [hier]({{ site.url }}/c-programmieren/)
+
+<ul class="post-list">
+{% for post in site.categories.c-programmieren limit:5 %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} </span><span class="entry-date">{{ post.lernmoment }} &nbsp;&bull;&nbsp; {% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
 
 #### Hintergrundinformationen
 
