@@ -62,5 +62,5 @@ Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherige
 
 ### Weitere Informationen
 
--	Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](https://github.com/inginform/lernmomente/tree/master/C_ProgrammBeenden).
+-	Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](https://github.com/LernMoment/c/tree/master/ProgrammeBeenden).
 -	Einen kleinen Hinweis wie du den Rückgabewert in deinem Betriebssystem benutzt gibt es [hier](https://de.wikibooks.org/wiki/C-Programmierung:_Funktionen#exit.28.29)

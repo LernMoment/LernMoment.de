@@ -76,4 +76,4 @@ Sofern du die Fragen nicht beantworten kannst, solltest du nochmal beim vorherig
 
 ### Weitere Informationen
 
-Das komplette Programm in der Version mit und ohne Funktion findest du wie immer im Verzeichnis der [C Lernmomente](tbd). Den Quellcode kannst du so in einer Entwicklungsumgebung ausprobieren. Ausserdem enthält er zusätzliche Informationen.
+Das komplette Programm in der Version mit und ohne Funktion findest du wie immer im Verzeichnis der [C Lernmomente](https://github.com/LernMoment/c/tree/master/FunktionenDefinieren). Den Quellcode kannst du so in einer Entwicklungsumgebung ausprobieren. Ausserdem enthält er zusätzliche Informationen.
