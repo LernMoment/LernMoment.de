@@ -3,9 +3,13 @@ layout: page
 title: Entwickeln mit C
 excerpt: "Alle bisher veröffentlichten LernMomente für die Programmiersprache C."
 image:
-  feature: c-programmieren.jpg
+  feature: c-programmieren-ohne.jpg
 search_omit: true
 ---
+
+> **Hinweis:** Dieser LernMoment ist momentan nur eine Vorschau. Er erscheint also noch nicht täglich. Wenn du Interesse an diesem LernMoment hast, dann trag dich in den Newsletter ein. Ich informiere dich, sobald es Neuigkeiten zu "Entwickeln in C" gibt. Schau dir außerdem unbedingt die bisher veröffentlichten LernMomente zu diesem Thema an.
+
+{% include lernmoment-subscribe.html %}
 
 <ul class="post-list">
 {% for post in site.categories.c-programmieren %} 
