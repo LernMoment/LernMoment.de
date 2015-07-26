@@ -63,5 +63,5 @@ Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherige
 
 ### Weitere Informationen
 
--	Das komplette Beispielprogramm zu diesem LernMoment findest du [hier](tbd)
+-	Das komplette Beispielprogramm zu diesem LernMoment findest du [hier](https://github.com/LernMoment/csharp/tree/master/DieKlasseFile)
 -	Die ganzen Methoden der Klasse `File` sind sehr gut [hier](https://msdn.microsoft.com/de-de/library/system.io.file(v=vs.110).aspx) beschrieben.

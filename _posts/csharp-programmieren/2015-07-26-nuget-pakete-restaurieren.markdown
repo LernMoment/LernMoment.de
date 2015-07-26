@@ -51,6 +51,6 @@ Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherige
 
 ### Weitere Informationen
 
--	Weitere Details wie sich NuGet beim Package Restore in Visual Studio und MSBuild verhält, findest du [hier](tbd)
+-	Weitere Details wie sich NuGet beim Package Restore in Visual Studio und MSBuild verhält, findest du [hier](https://github.com/LernMoment/csharp/tree/master/Nuget)
 -	[Hier](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore) findest du ein Beispiel für eine `.gitignore` Datei die die eigentlichen NuGet Pakete ignoriert. So kommen nur `packages.config` in dein Git-Verzeichnis
 -	Um die NuGet Pakete im TFS zu ignorieren, musst du auch ein paar Dinge machen. Das ist [hier](https://docs.nuget.org/consume/NuGet-Config-Settings) beschrieben.

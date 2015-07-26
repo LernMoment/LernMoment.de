@@ -79,5 +79,5 @@ Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherige
 ### Weitere Informationen
 
 -	Zu diesem LernMoment gibt es keinen zusätzlichen Quellcode.
-- Eine Einführung und (teilweise etwas komische) Beispiele findest du bei [MSDN](https://msdn.microsoft.com/de-de/library/bb384061.aspx)
-- Eine super Erklärung, allerdings nur auf Englisch, gibt der [Artikel von Eric Lippert](http://blogs.msdn.com/b/ericlippert/archive/2011/04/20/uses-and-misuses-of-implicit-typing.aspx).
+-	Eine Einführung und (teilweise etwas komische) Beispiele findest du bei [MSDN](https://msdn.microsoft.com/de-de/library/bb384061.aspx)
+-	Eine super Erklärung, allerdings nur auf Englisch, gibt der [Artikel von Eric Lippert](http://blogs.msdn.com/b/ericlippert/archive/2011/04/20/uses-and-misuses-of-implicit-typing.aspx).
