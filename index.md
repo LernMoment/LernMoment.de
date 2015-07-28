@@ -13,7 +13,7 @@ image:
 
 <ul class="post-list">
 {% for post in site.categories.csharp-programmieren limit:5 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} </span><span class="entry-date">{{ post.lernmoment }} &nbsp;&bull;&nbsp; {% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date">{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
 
@@ -23,7 +23,7 @@ LernMomente in C erscheinen momentan noch nicht täglich. Mehr Informationen, fi
 
 <ul class="post-list">
 {% for post in site.categories.c-programmieren limit:5 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} </span><span class="entry-date">{{ post.lernmoment }} &nbsp;&bull;&nbsp; {% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date">{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
 
@@ -33,7 +33,7 @@ Wenn du mehr zum Konzept des LernMoments erfahren möchtest, dann findest du hie
 
 <ul class="post-list">
 {% for post in site.categories.hintergrund limit:5 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} </span><span class="entry-date">{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date">{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
 
