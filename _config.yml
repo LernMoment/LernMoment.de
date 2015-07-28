@@ -8,6 +8,7 @@ search: true
 url: http://www.lernmoment.de
 
 timezone: Europe/Berlin
+future: false
 
 # Jekyll configuration
 
