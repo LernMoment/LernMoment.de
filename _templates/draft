@@ -1,10 +1,33 @@
 ---
 layout: {{ layout }}
 title: {{ title }}
-modified:
-categories: {{ dir }}
 excerpt:
+modified:
+categories: csharp-programmieren
+lernmoment: C#
 tags: []
 image:
-  feature:
+  feature: csharp-programmieren.jpg
+date:
 ---
+
+Jetzt erstmal viel Spa
+
+Jan
+
+### Merke
+
+-
+
+### Lernquiz 
+
+Verwende folgende Fragen um das gelernte von heute zu festigen:
+
+-
+
+Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherigen Fragen an und beantwortest sie ohne den Text vorher gelesen zu haben.
+
+### Weitere Informationen
+
+-Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](https://github.com/LernMoment/csharp/tree/master/tbd).
+
