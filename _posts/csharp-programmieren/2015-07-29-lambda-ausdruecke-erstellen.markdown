@@ -15,7 +15,7 @@ Lambda Ausdrücke bieten dir die Möglichkeit Anonyme Methoden und Delegates in 
 
 Die Basis der Lambda Ausdrücke ist der `=>` Operator. Dieser Operator wird auch Lambda-Operator genannt. Hier ein Beispiel (das komplette und lauffähige Beispiel findest du [hier](tbd)):
 
-```c#
+```cs
 // Deklariere ein Delegate
 delegate int RechenOperation(int a, int b);
 
@@ -28,19 +28,19 @@ int resultat = multipliziere(4, 5);
 
 Der im Beispiel verwendete Lambda Ausdruck ist folgender:
 
-```c#
+```cs
 (x, y) => x * y;
 ```
 
 Wie du siehst gibt es links vom Lambda-Operator die Parameterliste. In ihr deklarierst du welche Parameter übergeben werden sollen. Da die Parameter in diesem Fall ohne Datentypen deklariert sind, verwendet C# implizit typisierte Datentypen. Je nachdem in welchem Kontext der Lambda-Ausdruck verwendet wird, versucht C# den richtigen Datentypen zu ermitteln. Du kannst auch explizit Datentypen angeben. Dann sieht das Beispiel von oben so aus:
 
-```c#
+```cs
 (int x, int y) => x * y;
 ```
 
 Weiterhin ist für Lambda-Ausdrücke definiert, dass wenn rechts vom Lambda-Operator nur eine `return` Anweisung steht, die geschweiften Klammern und das `return` weggelassen werden können. Der vorherige Lambda-Ausdruck ist also eine verkürzte Form von:
 
-```c#
+```cs
 (int x, int y) => { return x * y; }
 ```
 
@@ -48,7 +48,7 @@ Willst du einen Lambda-Ausdruck erstellen der mehrere Anweisungen enthält, dann
 
 Wenn dein Lambda-Ausdruck nur einen Parameter benötigt, kannst du sogar noch die runden Klammern weglassen. Anders ist es, wenn du gar keinen Parameter benötigst, dann sind die runden Klammern Pflicht:
 
-```c#
+```cs
 // Lambda mit nur einem Parameter
 x => x * x;
 
@@ -60,7 +60,8 @@ Jetzt viel Spaß mit der Erkundung kleinster Methoden
 
 Jan
 
-## Merke
+
+### Merke
 
 -	`=>` ist der Lambda-Operator.
 -   Die Anweisungen die ausgeführt werden sollen, stehen rechts bom Lambda-Operator in geschweiften Klammern.
@@ -68,7 +69,7 @@ Jan
 -   Die Parameter für einen Lambda-AusDruck können explizit oder implizit typisiert sein.
 -   Wenn dein Lambda-Ausdruck nur aus einem `return` Ausdruck besteht, kannst du die geschweiften Klammern wie auch das `return` weglassen.
 
-## Lernquiz
+### Lernquiz
 
 Verwende folgende Fragen um das gelernte von heute zu festigen:
 
@@ -78,7 +79,7 @@ Verwende folgende Fragen um das gelernte von heute zu festigen:
 
 Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherigen Fragen an und beantwortest sie ohne den Text vorher gelesen zu haben.
 
-## Weitere Informationen
+### Weitere Informationen
 
 -	Das komplette Beispielprogramm zu diesem LernMoment findest du [hier](https://github.com/LernMoment/csharp/tree/master/LambdaErstellen)
 
