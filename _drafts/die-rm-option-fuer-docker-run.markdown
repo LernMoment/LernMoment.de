@@ -44,7 +44,7 @@ Jan
 Verwende folgende Fragen um das gelernte von heute zu festigen:
 
 -	Wie stellst du sicher, dass dein Container **nicht** gelöscht wird, sobald er sich beendet?
--	Mit welcher Option teilst du `docker-compose` mit, dass dein Container gelöscht werden soll, wenn er beendet wurde?
+-	Mit welchem Befehl und welcher Option teilst du `docker-compose` mit, dass dein Container gestartet wird und gelöscht werden soll, wenn er beendet wurde?
 -	Wie löschst du einen Container der mit `-d` gestartet wurde und als daemon läuft?
 
 Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherigen Fragen an und beantwortest sie ohne den Text vorher gelesen zu haben.
