@@ -5,7 +5,13 @@ excerpt: "Alle bisher veröffentlichten LernMomente für die Programmiersprache 
 image:
   feature: csharp-programmieren-ohne.jpg
 search_omit: true
+lm-newsletter-group-id: 2
 ---
+
+<div class="subscribe-notice">
+	<h5>Melde dich an zu DEINEM täglichen LernMoment C#:</h5>
+	{% include lernmoment-subscribe.html %}
+</div>
 
 <ul class="post-list">
 {% for post in site.categories.csharp-programmieren %} 

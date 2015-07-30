@@ -5,11 +5,15 @@ excerpt: "Alle bisher veröffentlichten LernMomente für die Programmiersprache 
 image:
   feature: c-programmieren-ohne.jpg
 search_omit: true
+lm-newsletter-group-id: 1
 ---
 
 > **Hinweis:** Dieser LernMoment ist momentan nur eine Vorschau. Er erscheint also noch nicht täglich. Wenn du Interesse an diesem LernMoment hast, dann trag dich in den Newsletter ein. Ich informiere dich, sobald es Neuigkeiten zu "Entwickeln in C" gibt. Schau dir außerdem unbedingt die bisher veröffentlichten LernMomente zu diesem Thema an.
 
-{% include lernmoment-subscribe.html %}
+<div class="subscribe-notice">
+	<h5>Informiere mich, wenn der tägliche LernMoment <br> Entwickeln mit C startet:</h5>
+	{% include lernmoment-subscribe.html %}
+</div>
 
 <ul class="post-list">
 {% for post in site.categories.c-programmieren %} 

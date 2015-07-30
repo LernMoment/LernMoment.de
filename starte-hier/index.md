@@ -1,11 +1,12 @@
 ---
 layout: page
-title: "Du weißt nicht was das hier soll?"
+title: "Du weißt nicht, was das hier soll?"
 date: 
 modified:
 excerpt: "Hier findest du die wichtigsten Informationen Rund um das Konzept des LernMoments."
 image:
   feature: intro-code.jpg
+lm-newsletter-group-id: 16
 ---
 
 Willkommen und schön, dass du dir Zeit nimmst meine Zeilen zu lesen. Du bist bei diesem Blog genau richtig, wenn du bereits Software entwickelst und darin besser werden willst, oder auch, wenn du gerade anfängst zu lernen. Ganz genau richtig bist du hier, wenn Softwareentwicklung dein Beruf oder deine Berufung ist und du dich darin kontinuierlich verbessern willst.
@@ -42,7 +43,10 @@ Zukünftig plane ich LernMomente zu folgenden Themen:
 
 Allerdings wird es noch etwas dauern, bis auch für diese Themen täglich LernMomente erscheinen. Wenn du weitere Vorschläge hast, oder vielleicht sogar helfen möchtest bei einigen der Themen, dann schreib mir doch einfach eine <a href="mailto:jan@lernmoment.de">E-Mail<a/>. Möchtest du benachrichtigt werden, wenn LernMomente für ein neues Thema starten, dann schreib dich doch ein für den kostenlosen Newsletter:
 
-{% include lernmoment-subscribe.html %}
+<div class="subscribe-notice">
+	<h5>Informiere mich, wenn es was neues gibt:</h5>
+	{% include lernmoment-subscribe.html %}
+</div>
 
 ### Wer steckt dahinter?
 
