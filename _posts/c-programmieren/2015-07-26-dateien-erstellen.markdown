@@ -4,6 +4,7 @@ title: "Dateien Erstellen"
 excerpt: "Es heißt fopen, nicht foppen!"
 categories: c-programmieren
 lernmoment: C
+lm-newsletter-group-id: 1
 tags: [Syntax, stdio.h, File]
 image:
   feature: c-programmieren.jpg

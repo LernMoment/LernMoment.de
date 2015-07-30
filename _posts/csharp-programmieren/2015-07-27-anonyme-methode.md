@@ -5,6 +5,7 @@ excerpt: "Vereinfache deinen Quellcode mit etwas unbekanntem"
 modified:
 categories: csharp-programmieren
 lernmoment: C#
+lm-newsletter-group-id: 2
 tags: [Syntax, Delegate, Lambda]
 image:
   feature: csharp-programmieren.jpg

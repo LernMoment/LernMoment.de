@@ -4,6 +4,7 @@ title: "Parameter Uebergeben"
 excerpt: "Oder wie du das unveränderliche verändern kannst."
 categories: c-programmieren
 lernmoment: C
+lm-newsletter-group-id: 1
 tags: [Syntax, Compiler, Funktionen]
 image:
   feature: c-programmieren.jpg

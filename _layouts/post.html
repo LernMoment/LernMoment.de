@@ -41,6 +41,12 @@
       </footer>
       <div class="entry-content">
         {{ content }}
+        {% if page.lm-newsletter-group-id %}
+          <div class="subscribe-notice">
+            <h5>Dieser LernMoment hat dir gefallen? <br> Dann melde dich an, zu DEINEM täglichen LernMoment {{ page.lernmoment }}:</h5>
+            {% include lernmoment-subscribe.html %}
+          </div>
+        {% endif %}
         {% if (site.owner.disqus-shortname and page.comments) or site.comments %}
           <div id="disqus_thread"></div><!-- /#disqus_thread -->
           {% include disqus-comments.html %}

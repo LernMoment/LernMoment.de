@@ -4,6 +4,7 @@ title: "Var Schluesselwort"
 excerpt: "Warum einfach, wenn es auch mit implizit typisierten lokalen Variablen geht?"
 categories: csharp-programmieren
 lernmoment: C#
+lm-newsletter-group-id: 2
 tags: [Syntax, Datentypen]
 image:
   feature: csharp-programmieren.jpg

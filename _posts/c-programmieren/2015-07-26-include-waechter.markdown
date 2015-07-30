@@ -4,6 +4,7 @@ title: "Include Wächter"
 excerpt: "Jetzt auch mit ohne doppelter Definition!"
 categories: c-programmieren
 lernmoment: C
+lm-newsletter-group-id: 1
 tags: [Syntax, Präprozessor, Header]
 image:
   feature: c-programmieren.jpg

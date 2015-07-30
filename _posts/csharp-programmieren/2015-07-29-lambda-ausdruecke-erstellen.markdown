@@ -4,6 +4,7 @@ title: Lambda-Ausdrücke Erstellen
 excerpt: "=> vereinfache deinen Quellcode mit diesem Operator."
 categories: csharp-programmieren
 lernmoment: C#
+lm-newsletter-group-id: 2
 tags: [Syntax, Lambda, Delegate]
 image:
   feature: csharp-programmieren.jpg

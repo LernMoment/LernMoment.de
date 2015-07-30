@@ -4,6 +4,7 @@ title: Predicate Delegate
 excerpt: "Wie du spezifische Abfragen in generischen Algorithmen verwendest."
 categories: csharp-programmieren
 lernmoment: C#
+lm-newsletter-group-id: 2
 tags: [Syntax, Delegate, Generics]
 image:
   feature: csharp-programmieren.jpg

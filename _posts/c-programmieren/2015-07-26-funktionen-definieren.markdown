@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Funktionen Definieren"
-modified:
+excerpt: "Dein erster Schritt zu strukturiertem Quellcode"
 categories: c-programmieren
 lernmoment: C
-excerpt: "Dein erster Schritt zu strukturiertem Quellcode"
+lm-newsletter-group-id: 1
 tags: [Syntax, Konzept, Funktionen]
 image:
   feature: c-programmieren.jpg
+modified:
 date: 2015-07-26T08:00:00+00:00
 ---
 

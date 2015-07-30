@@ -4,6 +4,7 @@ title: "NuGet Pakete Restaurieren"
 excerpt: "Delegiert! Wie du automatisch fehlende Pakete laden lässt."
 categories: csharp-programmieren
 lernmoment: C#
+lm-newsletter-group-id: 2
 tags: [Werkzeug, NuGet]
 image:
   feature: csharp-programmieren.jpg

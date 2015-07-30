@@ -5,6 +5,7 @@ excerpt: "In der Praxis (fast) ganz einfach, aber in der Theorie echt abgefahren
 modified:
 categories: csharp-programmieren
 lernmoment: C#
+lm-newsletter-group-id: 2
 tags: [Konzept, Datentypen, Vererbung]
 image:
   feature: csharp-programmieren.jpg

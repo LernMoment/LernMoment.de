@@ -5,6 +5,7 @@ excerpt: "Wie du mit `--rm` deine Container vom Deck fegst und welche trotzdem s
 modified:
 categories: docker
 lernmoment: Docker
+lm-newsletter-group-id: 4
 tags: [run, container, compose]
 image:
   feature: 

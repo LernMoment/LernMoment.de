@@ -4,6 +4,7 @@ title: Automatisiere Deine Installation
 excerpt: "Installierst du noch, oder entwickelst du schon?"
 categories: csharp-programmieren
 lernmoment: C#
+lm-newsletter-group-id: 2
 tags: [Werkzeug, Installation]
 image:
   feature: csharp-programmieren.jpg

@@ -4,6 +4,7 @@ title: "Einführung in Async / Await"
 modified:
 categories: csharp-programmieren
 lernmoment: C#
+lm-newsletter-group-id: 2
 excerpt: "wie du einfach asynchron Daten liest"
 tags: [Async, File]
 image:

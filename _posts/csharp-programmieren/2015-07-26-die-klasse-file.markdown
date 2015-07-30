@@ -4,6 +4,7 @@ title: "Die Klasse File"
 excerpt: "Wie du einfach mal gerade eine Datei bearbeitest"
 categories: csharp-programmieren
 lernmoment: C#
+lm-newsletter-group-id: 2
 tags: [Syntax, File, System.IO]
 image:
   feature: csharp-programmieren.jpg

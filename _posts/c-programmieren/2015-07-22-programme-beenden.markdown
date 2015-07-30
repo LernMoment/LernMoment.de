@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Programme Beenden"
-modified:
+excerpt: "kennst du den Mythos um return 0?"
 categories: c-programmieren
 lernmoment: C
-excerpt: "kennst du den Mythos um return 0?"
+lm-newsletter-group-id: 1
 tags: [Syntax, stdlib.h]
 image:
   feature: c-programmieren.jpg
+modified:
 date: 2015-07-22T09:25:00+00:00
 ---
 

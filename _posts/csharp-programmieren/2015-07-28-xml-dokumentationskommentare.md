@@ -4,6 +4,7 @@ title: XML Dokumentationskommentare
 excerpt: "Tags die deine Kommentare in IntelliSense erscheinen lassen."
 categories: csharp-programmieren
 lernmoment: C#
+lm-newsletter-group-id: 2
 tags: [Syntax, Intellisense, Tags]
 image:
   feature: csharp-programmieren.jpg
