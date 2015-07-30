@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kovariante Felder
+title: Kovarianz und Felder
 excerpt: "In der Praxis (fast) ganz einfach, aber in der Theorie echt abgefahren"
 modified:
 categories: csharp-programmieren
