@@ -52,6 +52,17 @@
   margin-bottom: 0.5em;
 }
 
+.lernmomentgroup {
+  overflow: auto;  
+}
+.lernmomentgroup label{
+  text-align: right;
+  vertical-align: middle;
+  width: auto;
+  border: 2px solid $black !important;
+  border-radius: $border-radius;
+}
+
 /*
    Browser upgrade notice
    ========================================================================== */
