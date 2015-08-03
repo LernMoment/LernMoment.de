@@ -12,6 +12,11 @@ lm-newsletter-group-id: 16
 >
 > Dann mach dir 2 Minuten systematisch und fokussiert lernen am Tag zur Gewohnheit. Somit wirst du dein Können langfristig verbessern. Das macht dich nicht nur besser in deinem Beruf, sondern gibt dir auch etwas Freizeit zurück. Probier es aus:
 
+<div class="subscribe-notice">
+	<h5>Informiere mich, wenn es was neues gibt:</h5>
+	{% include lernmoment-subscribe.html %}
+</div>
+
 #### Die aktuellsten LernMomente - Entwickeln mit C\#
 
 <ul class="post-list">
@@ -19,11 +24,6 @@ lm-newsletter-group-id: 16
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date">{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
-
-<div class="subscribe-notice">
-	<h6>C# meistern! Melde dich an für deinen täglichen LernMoment:</h6>
-	{% include lernmoment-subscribe.html %}
-</div>
 
 #### VORSCHAU: LernMomente - Entwickeln mit C
 
