@@ -5,14 +5,14 @@ excerpt: Wie du mit .NET 4.6 eine Eigenschaft mit nur get automatisch implementi
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2
-tags: []
+tags: [Syntax, Eigenschaften, C# 6.0]
 image:
   feature: csharp-programmieren.jpg
 modified:
 date: 2015-08-04T07:00:00+02:00
 ---
 
-Die Syntax von automatisch implementierten Eigenschaften ist nicht wirklich kompliziert. Mit C# in der Sprachversion 6.0 sind allerdings einige Neuerungen rein gekommen, bei denen sich das Nachdenken doch lohnt.
+Die Syntax von automatisch implementierten Eigenschaften ist nicht wirklich kompliziert. Mit C# in der Sprachversion 6.0 sind einige Neuerungen insbesondere für die Initialisierung hinzu gekommen.
 
 Seit C# 3.0 konntest du einfach eine Eigenschaft ohne explizite Definition von `get` und `set` machen:
 
