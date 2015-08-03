@@ -53,14 +53,23 @@
 }
 
 .lernmomentgroup {
+  padding: 8px 20px;
   overflow: auto;  
 }
+.lernmomentgroup legend{
+  border-bottom: 0px;
+}
 .lernmomentgroup label{
-  text-align: right;
+  text-align: left;
+}
+.lernmomentgroup input{
+  display: inline-block;
+  margin-right: 0.5em;
+}
+.lernmomentgroup span{
+  font-weight: normal;
   vertical-align: middle;
-  width: auto;
-  border: 2px solid $black !important;
-  border-radius: $border-radius;
+  @include font-size(14);
 }
 
 /*
