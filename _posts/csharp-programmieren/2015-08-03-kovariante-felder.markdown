@@ -9,6 +9,8 @@ lm-newsletter-group-id: 2
 tags: [Konzept, Datentypen, Vererbung]
 image:
   feature: csharp-programmieren.jpg
+modified:
+date: 2015-08-03T09:04:46+02:00
 ---
 
 Es gibt Collections, es gibt Generic Collections, es gibt threadsichere (Generic) Collections und bestimmt noch eine Menge andere Auflistungsklassen. Wann verwendest du also überhaupt noch Felder? Sicherlich verwendest du sie nicht sehr häufig. Wenn du sie verwendest, dann solltest du aber auch das Problem kennen, welches sich durch Kovarianz bei Feldern ergibt.
@@ -92,3 +94,5 @@ Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherige
 -	Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](https://github.com/LernMoment/csharp/tree/master/KovarianteFelder).
 -	[MSDN](https://msdn.microsoft.com/de-de/library/ee207183(v=vs.140).aspx) hat eine Erklärung aber nur aufg Englisch.
 -	Eric Lippert hat C# in diesem Bereich maßgeblich entwickelt und dazu einiges zu sagen. Eine ganze Serie zum Thema Kovarianz und Kontravarianz findest du auf seinem [Blog](http://blogs.msdn.com/b/ericlippert/archive/tags/covariance+and+contravariance/). Der erste Artikel der Serie ist ganz unten.
+
+
