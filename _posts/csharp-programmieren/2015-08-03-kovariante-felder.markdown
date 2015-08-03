@@ -92,7 +92,7 @@ Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherige
 ### Weitere Informationen
 
 -	Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](https://github.com/LernMoment/csharp/tree/master/KovarianteFelder).
--	[MSDN](https://msdn.microsoft.com/de-de/library/ee207183(v=vs.140).aspx) hat eine Erklärung aber nur aufg Englisch.
+-	[MSDN](https://msdn.microsoft.com/de-de/library/ee207183(v=vs.140).aspx) hat eine gute Erklärung, aber nur auf Englisch.
 -	Eric Lippert hat C# in diesem Bereich maßgeblich entwickelt und dazu einiges zu sagen. Eine ganze Serie zum Thema Kovarianz und Kontravarianz findest du auf seinem [Blog](http://blogs.msdn.com/b/ericlippert/archive/tags/covariance+and+contravariance/). Der erste Artikel der Serie ist ganz unten.
 
 
