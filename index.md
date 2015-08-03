@@ -25,6 +25,12 @@ lm-newsletter-group-id: 16
 {% endfor %}
 </ul>
 
+<div class="subscribe-notice">
+	<h5>Mehr zu den LernMomenten - Entwickeln mit C#?</h5>
+	<a href="/csharp-programmieren/" class="subscribe-notice-button">LernMomente C# - Archiv >></a> 
+	<a href="/werde-meister/" class="subscribe-notice-button">Will ich meistern >></a> 	
+</div>
+
 #### VORSCHAU: LernMomente - Entwickeln mit C
 
 LernMomente in C erscheinen momentan noch nicht täglich. Mehr Informationen, findest du [hier]({{ site.url }}/c-programmieren/)
