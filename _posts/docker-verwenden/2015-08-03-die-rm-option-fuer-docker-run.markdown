@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "Die `--rm` Option für `docker* run`"
-excerpt: "Wie du mit `--rm` deine Container vom Deck fegst und welche trotzdem stehen bleiben."
+title: "Die --rm Option für docker* run"
+excerpt: "Wie du mit --rm deine Container vom Deck fegst und welche trotzdem stehen bleiben."
 modified:
-categories: docker
+categories: docker-verwenden
 lernmoment: Docker
 lm-newsletter-group-id: 4
 tags: [run, container, compose]
 image:
   feature: 
+modified:
+date: 2015-08-03T08:00:00+02:00
 ---
 
 Nachdem du einen Container mit `docker run` gestartet hast, wird dieser erstmal nicht ohne einen weiteren Befehl gelöscht. Sobald ein Container erfolgreich oder mit Fehler beendet wurde, steht er im Status `Exited`. So kannst du ihn nach seinem ableben noch genauer untersuchen. Vielleicht gab es ja einen Fehler oder du möchtest noch Daten sichern.
