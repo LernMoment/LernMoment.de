@@ -6,7 +6,6 @@ lm-newsletter-group-id: 16
 image:
   feature: intro-code.jpg
 modified:
-published: false
 date: 2015-07-30T23:50:50+02:00
 ---
 
