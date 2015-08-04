@@ -2,16 +2,17 @@
 layout: post
 title: "Vorsicht Optimierung: Die Klasse StringBuilder"
 excerpt: "Regeln der Optimierung: 1.) Tue es nicht, 2.) Tue es noch nicht!"
-modified:
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2
 tags: [Methoden, string]
 image:
   feature: csharp-programmieren.jpg
+modified:
+date: 2015-08-05T06:00:00+02:00
 ---
 
-Optimierung ist eines der Themen bei denen es mir wirklich schwer fällt nicht missionarisch zu werden. Um zu zeigen wie meine Einstellung dazu ist:
+Optimierung ist eines der Themen bei denen es mir wirklich schwer fällt nicht missionarisch zu werden. Meine Einstellung zum Thema kannst du ganz gut anhand folgender Optimierungsregeln erkennen:
 
 > Regeln für das Optimieren:
 > Regel 1: Tue es **nicht**
@@ -47,7 +48,7 @@ Jetzt erstmal viel Spaß beim **nicht** optimieren
 Jan
 
 PS: Es gibt sicherlich Situationen in denen du optimieren kannst, aber sei dir sicher, dass du es **wirklich** brauchst.
-PPS: Der `StringBuilder` könnte vielleicht seine Berechtigung in Windows Phone Apps haben.
+
 
 ### Merke
 
@@ -55,7 +56,7 @@ PPS: Der `StringBuilder` könnte vielleicht seine Berechtigung in Windows Phone 
 -	Die Klasse `StringBuilder` repräsentiert eine dynamisch wachsende Zeichenkette.
 -	Optimierung kann in (wenigen) ausgewählten Situationen sinnvoll sein.
 -	Optimierung geht immer zu lasten der (allgemeinen) Verständlichkeit.
--	Wenn du optimierst, dann sie dir sicher, dass du es richtig machst (Profiler verwenden) und das es einen wirklichen Nutzen für deinen Kunden hat.
+-	Wenn du optimierst, dann sei dir sicher, dass du es richtig machst (Profiler verwenden) und das es einen wirklichen Nutzen für deinen Kunden hat.
 
 ### Lernquiz 
 
@@ -69,6 +70,6 @@ Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherige
 
 ### Weitere Informationen
 
--	Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](https://github.com/LernMoment/csharp/tree/master/DieKlasseStringBuilder).
+-	Heute kein Quellcode. Beschreibung und Beispiele zur Klasse `StringBuilder` findest du in [MSDN](https://msdn.microsoft.com/de-de/library/system.text.stringbuilder(v=vs.110).aspx).
 -	["Vorsicht vor Optimierungen!"](http://ccd.ralfw.domainfactory-kunde.de/die-grade/roter-grad/#Vorsicht_vor_Optimierungen) ist eines der Prinzipien im roten Grad des [Clean Code Developers](http://ccd.ralfw.domainfactory-kunde.de).
 -	Einen guten Artikel (allerdings nur in Englisch) zum Thema Optimierung mit StringBuilder findest du [hier](http://blog.codinghorror.com/the-sad-tragedy-of-micro-optimization-theater/).
