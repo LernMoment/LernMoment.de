@@ -10,7 +10,7 @@ lm-newsletter-group-id: 16
 
 > Du schaust die Syntax **deiner** Programmiersprache immer wieder nach und hast keine Zeit dein Können mit Büchern und Kursen zu verbessern?
 >
-> Dann mach dir 2 Minuten systematisch und fokussiert lernen am Tag zur Gewohnheit. Somit wirst du dein Können langfristig verbessern. Das macht dich nicht nur besser in deinem Beruf, sondern gibt dir auch etwas Freizeit zurück. Probier es aus:
+> Dann mach dir 2 Minuten systematisches und fokussiertes Lernen am Tag zur Gewohnheit. Somit wirst du dein Können langfristig verbessern. Das macht dich nicht nur besser in deinem Beruf, sondern gibt dir auch etwas Freizeit zurück. Probier es aus:
 
 <div class="subscribe-notice">
 	<h5>Informiere mich, wenn es was neues gibt:</h5>

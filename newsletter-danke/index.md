@@ -10,6 +10,6 @@ image:
 
 Endlich geschafft! Du hast dich erfolgreich für den LernMoment angemeldet.
 
-Der aktuellste LernMoment zu **deinem** Thema wird in kürze in deinem Postfach liegen. Wenn du noch ein wenig stöbern möchtest, dann kann ich dir die [Starte Hier]({{ site.url }}/starte-hier/) Seite empfehlen.
+Der aktuellste LernMoment zu **deinem** Thema wird in Kürze in deinem Postfach liegen. Wenn du noch ein wenig stöbern möchtest, dann kann ich dir die [Starte Hier]({{ site.url }}/starte-hier/) Seite empfehlen.
 
 Jan
