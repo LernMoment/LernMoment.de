@@ -9,7 +9,7 @@ tags: [Syntax, Eigenschaften, C# 6.0]
 image:
   feature: csharp-programmieren.jpg
 modified:
-date: 2015-08-04T07:00:00+02:00
+date: 2015-08-04T06:00:00+02:00
 ---
 
 Die Syntax von automatisch implementierten Eigenschaften ist nicht wirklich kompliziert. Mit C# in der Sprachversion 6.0 sind einige Neuerungen insbesondere für die Initialisierung hinzu gekommen.
