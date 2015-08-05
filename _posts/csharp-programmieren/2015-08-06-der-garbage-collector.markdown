@@ -31,7 +31,7 @@ Grundsätzlich gibt es folgende Aktionen bei denen du den GC im Hinterkopf haben
 1.	Verwendung von Klassen, die `IDisposable` implementieren. Wenn eine Klasse dieses Interface implementiert, verwendet sie entweder Ressourcen, die nicht vom GC entfernt werden können, oder es sollte schon etwas aufgeräumt werden, bevor der GC läuft. Ein klassisches Beispiel ist `StreamReader`. Ein Objekt dieser Klasse, hält die Datei so lange offen, bis entweder `Dispose` aufgerufen wurde oder der GC das Objekt gelöscht hat. Somit kann die Datei für andere Benutzer lange gesperrt sein.
 2.	Erstellen von Klassen die unmanaged Ressourcen verwenden. Erstellst du eine solche Klasse, musst du dir überlegen, wie und wann die Ressourcen freigegeben werden sollen. Dazu kannst du einen Destruktor und/oder `IDisposable` einsetzen.
 
-Jetzt erstmal viel Spaß beim experimentieren mit der Speicherverwaltung
+Jetzt erstmal viel Spaß beim Experimentieren mit der Speicherverwaltung
 
 Jan
 
