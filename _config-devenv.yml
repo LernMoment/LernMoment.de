@@ -1,3 +1,14 @@
 # adapt configuration to development environment within docker
 url: http://192.168.59.103:4000
 future: true
+
+# Site owner
+owner:
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+
