@@ -5,11 +5,11 @@ excerpt: Antworten auf die wichtigsten Fragen um Quelltext ohne Speicherlöcher 
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2
-tags: [Konzept, Garbage Collector]
+tags: [Konzept, Garbage Collection]
 image:
   feature: csharp-programmieren.jpg
 modified:
-date: 2015-08-05T06:00:00+02:00
+date: 2015-08-06T06:00:00+02:00
 ---
 
 Inbesondere, wenn du von C oder C++ kommst, dann ist der Garbage Collector eine tolle Sache. Im besten Fall brauchst du nichts machen, und er passt auf, dass der Speicher aller Objekte freigegeben wird. Der Garbage Collector ist allerdings ein komplexes Gebilde, welches du beeinflussen kannst und solltest. Es kann sich nämlich direkt auf das Verhalten und die Performance deiner Anwendung auswirken.
