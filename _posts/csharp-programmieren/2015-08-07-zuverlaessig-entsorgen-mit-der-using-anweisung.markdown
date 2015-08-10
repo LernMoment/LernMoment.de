@@ -61,13 +61,13 @@ Jan
 
 ### Lernquiz 
 
-Verwende folgende Fragen um das gelernte von heute zu festigen:
+Verwende folgende Fragen, um das Gelernte von heute zu festigen:
 
 -	Auf welchen Objekten kannst du `using` anwenden?
 -	Was steht in den runden Klammern einer `using` Anweisung?
 -	Kannst du ein Objekt, welches in einer `using` Anweisung angelegt wurde später (nach der geschlossenen geschweiften Klammer) noch verwenden?
 
-Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherigen Fragen an und beantwortest sie ohne den Text vorher gelesen zu haben.
+Am besten schaust du dir morgen und dann nochmal in ein paar Tagen die vorherigen Fragen an und beantwortest sie, ohne den Text vorher gelesen zu haben.
 
 ### Weitere Informationen
 
