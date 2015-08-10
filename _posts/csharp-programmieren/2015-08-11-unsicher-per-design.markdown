@@ -12,7 +12,7 @@ modified:
 date: 2015-08-11T06:00:00+02:00
 ---
 
-Bei der Definition und Entwicklung von C# hat das Team rund um [Anders Hejlsberg](https://de.wikipedia.org/wiki/Anders_Hejlsberg), Chef-Architekt von C#, versucht, viele Anwendungsfälle zu berücksichtigen. Ein wichtiger war dabei, dass du nicht die Programmiersprache wechseln musst. Die Vorteile von einfacher Speicherverwaltung, Typsicherheit und so weiter in Programmiersprachen mit Laufzeitumgebung gehen immer zu Lasten der Performanz und Interoperabilität.
+Bei der Definition und Entwicklung von C# hat das Team rund um [Anders Hejlsberg](https://de.wikipedia.org/wiki/Anders_Hejlsberg), Chef-Architekt von C#, versucht, viele Anwendungsfälle zu berücksichtigen. Ein wichtiger war dabei, dass du selber entscheiden kannst, ob dir Performanz oder Interoperabilität wichtiger sind als Speicherverwaltung, Typsicherheit und so weiter. Anders als in anderen Programmiersprachen mit Laufzeitumgebung (wie beispielsweise Java oder Smalltalk), kannst du direkt in C# Zeiger verwenden, ohne Marshalling.
 
 C# bietet dir das Schlüsselwort `unsafe`. Damit kannst du Zeiger in deinem Quelltext verwenden. Somit kannst du manchmal die Performanz verbessern und es ist so möglich mit Programmen bzw. Bibliotheken ausserhalb von managed .NET zu interagieren.
 
