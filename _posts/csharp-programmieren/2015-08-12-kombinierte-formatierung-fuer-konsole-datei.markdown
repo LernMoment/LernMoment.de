@@ -5,7 +5,7 @@ excerpt: Tipps wie du mühelos Werte in Strings einfügst und formatierst
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2
-tags: []
+tags: [Syntax, Konzept, String]
 image:
   feature: csharp-programmieren.jpg
 modified:
