@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kombinierte Formatierung für Konsole, Datei, ...
-excerpt:
+excerpt: Tipps wie du mühelos Werte in Strings einfügst und formatierst
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2
@@ -45,7 +45,7 @@ Jan
 
 -	Mit der kombinierten Formatierung kannst du Werte aus Objekten in einen String einfügen und formatieren.
 -	Es gibt Methoden an verschiedenen Klassen, die diese Formatierung unterstützen (u.a. `String.Format`, `Console.WriteLine`, `TextWriter.WriteLine` und `Console.WriteLine`)
--	Die kombinierte Formatierung besteht aus zwei Teilen: 1) einem String mit Formatierungselementen und 2) einer Liste von Objekten die in den String eingefügt werden.
+-	Die kombinierte Formatierung besteht aus zwei Teilen: 1) einem String mit Formatierungselementen und 2) einer Liste von Objekten, deren Werte in den String eingefügt werden.
 -	Das Formatierungselement besteht mindestens aus einem Paar geschweifter Klammern und dem Index des Objektes, dessen Wert eingefügt werden soll. Das erste Objekt hat den Index 0.
 -	Im Formatierungselement kann nach dem Index ein Doppelpunkt gefolgt von Formatierungsinformationen stehen.
 
