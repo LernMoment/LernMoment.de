@@ -12,7 +12,7 @@ modified:
 date: 2015-08-13T06:00:00+02:00
 ---
 
-Egal ob WPF mit oder ohne MVVM, Windows Forms oder einfach nur zwischen zwei Klassen, Datenbindung in C# ist cool! Seit C# 5.0, also .NET 4.5, ist es noch cooler. Bis dahin, war die Implementierung von `INotifyPropertyChanged` entweder problematisch in der Wartung, oder langsam. Dann hatte das Entwicklungsteam in Redmond ein Einsehen gehabt und hat das `[CallerMemberName]` Attribut eingeführt.
+Egal ob WPF mit oder ohne MVVM, Windows Forms oder einfach nur zwischen zwei Klassen, Datenbindung in C# ist cool! Seit C# 5.0, also .NET 4.5, ist es noch cooler. Bis dahin, war die Implementierung von `INotifyPropertyChanged` entweder problematisch in der Wartung, oder langsam. Dann hat das Entwicklungsteam in Redmond ein Einsehen gehabt und hat das `[CallerMemberName]` Attribut eingeführt.
 
 Um deine Klasse mit Datenbindung verwenden zu können, musst du das Interface `INotifyPropertyChanged` implementieren. Das ist eigentlich ganz einfach, weil dieses Interface lediglich ein Event beinhaltet. Blöd ist nur, dass die zu übergebenden `PropertyChangedEventArgs` den Namen der geänderten Eigenschaft beinhalten müssen.
 
@@ -79,6 +79,6 @@ Am besten schaust du dir morgen und dann nochmal in ein paar Tagen die vorherige
 
 ### Weitere Informationen
 
--	Den Quelltext zum heutigen LernMoment findest du [hier](https://github.com/LernMoment/csharp/tree/master/INotifyPropertyChanged)
+-	Heute kein Beispiel.
 -	Eine Beschreibung der neuen Attribute gibt es bei [MSDN](https://msdn.microsoft.com/de-de/library/hh534540.aspx).
 -	Ein "How To" bezüglich der Implementierung von `INotifyPropertyChanged` im Kontext von Windows Forms gibt es auch bei [MSDN](https://msdn.microsoft.com/de-de/library/ms229614(v=vs.110).aspx)
