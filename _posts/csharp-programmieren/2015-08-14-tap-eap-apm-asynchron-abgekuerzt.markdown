@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Asynchron Abgekürzt: APM, EAP und TAP"
+title: "Asynchron abgekürzt: APM, EAP und TAP"
 excerpt: Wann du welchen Ansatz zur asynchronen Ausführung verwendest.
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2
-tags: [Konzept, Async]
+tags: [Konzept, Async, TPL]
 image:
   feature: csharp-programmieren.jpg
 modified:
