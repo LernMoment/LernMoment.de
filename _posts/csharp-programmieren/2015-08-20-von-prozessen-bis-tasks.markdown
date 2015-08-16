@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Von Prozessen zu Tasks
+date: 2015-08-20T06:00:00+02:00
 excerpt: Die 5 wichtigsten Klassen für Parallelisierung ab .NET 4.0
 modified:
 categories: csharp-programmieren
@@ -9,12 +10,11 @@ lm-newsletter-group-id: 2
 tags: [Konzept, Async, TPL]
 image:
   feature: csharp-programmieren.jpg
-date: 2015-08-21T06:00:00+02:00
 ---
 
 Im LernMoment [Asynchron abgekürzt](/csharp-programmieren/tap-eap-apm-asynchron-abgekuerzt/) hast du dir die drei Konzepte für asynchrone Methoden angeschaut. Für das nebenläufige Ausführen von Aufgaben hat Microsoft nicht nur verschiedene Konzepte eingeführt, sondern auch viele verschiedene Klassen.
 
-Die Klasse [Process](https://msdn.microsoft.com/de-de/library/system.diagnostics.process(v=vs.110).aspx) aus dem Namenraum `System.Diagnostics` gibt dir Zugriff auf Informationen und teilweise auch Kontrolle über Prozesse. Es ist also eine Klasse die eng an Betriebssystemprozessen angelehnt ist. So kannst du beispielsweise mit `Process.GetProcesses()` eine Liste aller aktuell laufender Prozesse auf deinem Rechner bekommen.
+Die Klasse [Process](https://msdn.microsoft.com/de-de/library/system.diagnostics.process(v=vs.110).aspx) aus dem Namensraum `System.Diagnostics` gibt dir Zugriff auf Informationen und teilweise auch Kontrolle über Prozesse. Es ist also eine Klasse die eng an Betriebssystemprozessen angelehnt ist. So kannst du beispielsweise mit `Process.GetProcesses()` eine Liste aller aktuell laufender Prozesse auf deinem Rechner bekommen.
 
 Grundsätzlich kannst du sagen, dass ein Prozess ein Programm abbildet. Handelt es sich dabei um ein .NET-Programm, so läuft innerhalb des Prozesses mindestens eine Instanz der Klasse [AppDomain](https://msdn.microsoft.com/de-de/library/system.appdomain(v=vs.110).aspx). Bei Bedarf kannst du in einem Prozess zusätzliche Objekte der Klasse `AppDomain` erstellen. In ihnen kannst du Assemblies laden die beispielsweise deine eigentliche Anwendung nicht beeinflussen soll. Du wirst diese Klasse selten benötigen.
 
@@ -32,7 +32,7 @@ Jan
 ### Merke
 
 -	Die Basiseinheit zur Parallelisierung ist ein Prozess. Mit der Klasse `System.Diagnostics.Process` kannst du aus .NET Prozesse auf Betriebssystemebene steuern und überwachen.
--	Jeder Prozess hat mindestens eine `AppDomain`. Eine `AppDomain` ist wie ein leichtgewichtiger Prozess.
+-	Jeder .NET-Prozess hat mindestens eine `AppDomain`. Eine `AppDomain` ist wie ein leichtgewichtiger Prozess.
 -	Ein `Thread` führt deinen Quelltext aus. Die Klasse `System.Threading.Thread` ist nicht direkt vergleichbar mit einem Betriebssystem-Thread. Sofern du TPL verwendest, brauchst du nur sehr selten diese Klasse.
 -	Pro Prozess gibt es einen `ThreadPool`. Er war vor der Einführung der TPL eine einfache Möglichkeit kurze Aufgaben im Hintergrund ausführen zu lassen.
 -	`Task` sollte der Startpunkt für dich sein, wenn du etwas nebenläufiges in deiner Anwendung realisieren willst und mindestens .NET 4.0 verwendest.

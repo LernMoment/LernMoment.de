@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ein Multicast-Delegate erstellen
+date: 2015-08-21T06:00:00+02:00
 excerpt: Erst kombinieren, dann delegieren
 categories: csharp-programmieren
 lernmoment: C#
@@ -8,9 +9,8 @@ lm-newsletter-group-id: 2
 tags: [Syntax, Deleagte]
 image:
   feature: csharp-programmieren.jpg
----
 modified:
-date:
+---
 
 Wenn ich so drüber nachdenke, dann ist es schon logisch, aber ist dir bewusst, dass jedes Delegate ein Multicast-Delegate ist? Außerdem, wie erzeugst du ein solches Multicast-Delegate und wofür setzt du es ein? Schauen wir uns das ganze mal an.
 
@@ -53,7 +53,7 @@ Daher gibt es auch für Multicast-Delegates eine etwas einfachere Schreibweise:
   plusGleich += StarteZweitenSchritt;
 ```
 
-Du siehst, es kann einfach der `+=` Operator verwendet werden, um weitere Delegates hinzu zufügen. So kannst du auch zu einem späteren Zeitpunkt noch weitere Delegates hinzufügen. Natürlich kann auch entgegengesetzt ein Delegate mit `-=` Operator wieder abgemeldet werden.
+Du siehst, es kann einfach der `+=` Operator verwendet werden, um weitere Delegates hinzu zufügen. So kannst du auch zu einem späteren Zeitpunkt noch weitere Delegates hinzufügen. Natürlich kann auch ein Delegate mit dem `-=` Operator wieder abgemeldet werden.
 
 Mit Multicast-Delegates kannst du beispielsweise zur Laufzeit entscheiden ob einem Bearbeitungsschritt noch weitere hinzugefügt werden sollen oder vielleicht wieder welche entfernt werden sollen.
 

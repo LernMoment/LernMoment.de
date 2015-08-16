@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Die Klasse File"
-excerpt: "Wie du einfach mal gerade eine Datei bearbeitest"
+excerpt: Wie du einfach eine Datei bearbeitest.
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2
 tags: [Syntax, File, System.IO]
 image:
   feature: csharp-programmieren.jpg
-modified:
+modified: 2015-08-19T06:00:00+02:00
 date: 2015-07-26T16:18:54+02:00
 ---
 
