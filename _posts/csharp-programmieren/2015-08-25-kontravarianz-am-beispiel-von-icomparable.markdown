@@ -8,8 +8,8 @@ lm-newsletter-group-id: 2
 tags: [Konzept, Generics, Datentypen]
 image:
   feature: csharp-programmieren.jpg
-date: 2015-08-25T06:00:00+02:00
 modified:
+date: 2015-08-25T06:00:00+02:00
 ---
 
 In [Kovarianz und Felder](/csharp-programmieren/kovariante-felder/) hast du gesehen, dass das Konzept der Kovarianz bei Feldern etwas kompliziert ist, aber die praktische Umsetzung sehr einfach. Nun möchte ich dir zeigen wie du generische Interfaces mit kontravarianten Typen verwendest.
