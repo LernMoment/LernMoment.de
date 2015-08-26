@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Flag(ge) zeigen für Bitpopelei
+date: 2015-08-26T06:00:00+02:00
 excerpt: "Wie du mit [Flags] schnell ein Bitfeld aus deiner Enum machst."
 modified:
 categories: csharp-programmieren
@@ -9,7 +10,6 @@ lm-newsletter-group-id: 2
 tags: [Syntax, Datentypen, Enum]
 image:
   feature: csharp-programmieren.jpg
-date: 2015-08-26T06:00:00+02:00
 ---
 
 Insbesondere, wenn du Daten mit eingebetteten Systemen austauschst, kommst du früher oder später an den Punkt, dass du auf einzelne Bits zugreifen musst. Für die Wartbarkeit und Verständlichkeit deines Quelltextes ist es da gut, wenn du `Enum` verwendest. So können auch andere verstehen was die Bits und Bytes bedeuten.
