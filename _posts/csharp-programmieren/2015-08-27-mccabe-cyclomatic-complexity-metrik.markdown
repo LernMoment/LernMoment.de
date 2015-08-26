@@ -2,13 +2,13 @@
 layout: post
 title: Mit zyklomatischer Komplexität Quelltext vereinfachen
 excerpt: Die McCabe Metrik zeigt dir wo du Fehler und Testaufwand minimieren kannst.
-modified:
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2
 tags: [Konzept, Metrik, Qualität]
 image:
   feature: csharp-programmieren.jpg
+modified:
 date: 2015-08-27T06:00:00+02:00
 ---
 
