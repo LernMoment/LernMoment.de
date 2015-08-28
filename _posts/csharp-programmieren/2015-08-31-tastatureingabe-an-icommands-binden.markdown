@@ -9,7 +9,7 @@ tags: [Syntax, WPF, MVVM]
 image:
   feature: csharp-programmieren.jpg
 modified:
-date: 2015-08-29T06:00:00+02:00
+date: 2015-08-31T06:00:00+02:00
 ---
 
 Das du Benutzereingaben vom View zum ViewModel deiner WPF-Anwendung über `ICommand` schicken kannst, habe ich bereits im LernMoment [Command.CanExecute](/csharp-programmieren/command-canexecute/) beschrieben. Seit WPF 4.0 (veröffentlicht mit .NET 4.0) kannst du mit wenigen XAML-Anweisungen eine Taste an dein `Command` binden.
