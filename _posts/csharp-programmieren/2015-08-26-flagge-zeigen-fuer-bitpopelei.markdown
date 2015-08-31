@@ -12,11 +12,11 @@ image:
   feature: csharp-programmieren.jpg
 ---
 
-Insbesondere, wenn du Daten mit eingebetteten Systemen austauschst, kommst du früher oder später an den Punkt, dass du auf einzelne Bits zugreifen musst. Für die Wartbarkeit und Verständlichkeit deines Quelltextes ist es da gut, wenn du `Enum` verwendest. So können auch andere verstehen was die Bits und Bytes bedeuten.
+Insbesondere wenn du Daten mit eingebetteten Systemen austauschst, kommst du früher oder später an den Punkt, dass du auf einzelne Bits zugreifen musst. Für die Wartbarkeit und Verständlichkeit deines Quelltextes ist es da gut, wenn du `Enum` verwendest. So können auch andere verstehen was die Bits und Bytes bedeuten.
 
 Das Attribut `[Flags]` an einem `Enum` sagt, dass die Enumeration als Bitfeld verwendet werden soll. Um deine `Enum` tatsächlich so verwenden zu können, musst du allerdings noch ein paar weitere Vorkehrungen treffen.
 
-Auch eine `Enum` mit `[Flags]` wird nicht automatisch in zweier Potenzen nummeriert. Wenn du also ein Bitfeld aufbauen willst, dann musst du die Nummerierung von Hand machen. Dies ist in den meisten Fällen auch sinnvoll, weil die Beziehung zwischen Name und Nummer vordefiniert ist (z.B. in einem Kommunikationsprotokoll). Ein Bitfeld welches Informationen über den Gerätefehlerzustand liefert, könnte dementsprechend so erstellt werden:
+Auch eine `Enum` mit `[Flags]` wird nicht automatisch in zweier Potenzen nummeriert. Wenn du also ein Bitfeld aufbauen willst, dann musst du die Nummerierung von Hand machen. Dies ist in den meisten Fällen auch sinnvoll, weil die Beziehung zwischen Name und Nummer vordefiniert ist (z.B. in einem Kommunikationsprotokoll). Ein Bitfeld, welches Informationen über den Gerätefehlerzustand liefert, könnte dementsprechend so erstellt werden:
 
 ```cs
 [Flags]
@@ -34,7 +34,7 @@ enum DeviceErrorStatus : byte
 
 Ein weiterer wichtiger Aspekt bei der Definition eines Bitfeldes ist die Verwendung von 0. Jede Variable vom Typ deiner `Enum` wird mit `0` initialisiert. Du solltest also bei der Definition deiner `Enum` darauf achten, dass der Eintrag mit der Enumerationskonstanten `0` entweder ein Standardwert ist oder `None`.
 
-Eine weitere Möglichkeit um Werte in zweier Potenzen für die Einträge zu definieren ist der Schiebeoperator:
+Eine andere Möglichkeit um Werte in Zweierpotenzen für die Einträge zu definieren ist der Schiebeoperator:
 
 ```cs
 [Flags]
@@ -51,11 +51,11 @@ enum AccessRights : byte
 
 In dem vorherigen Beispiel siehst du gleich noch eine weitere Möglichkeit von `Enum` mit `[Flags]` Attribut. Du kannst einzelne Bits mit `OR` bzw. `|` kombinieren. So kannst du für häufig genutzte Kombinationen auch einen passenden Namen definieren. Dies macht deinen Quelltext verständlicher.
 
-Jetzt erstmal viel Spaß beim definieren von Bitfeldern
+Jetzt erstmal viel Spaß beim Definieren von Bitfeldern
 
 Jan
 
-PS: Methoden und Operatoren die dir bei der Verwendung eines Bitfelds behilflich sind, gibt es in einem weiteren LernMoment.
+PS: Methoden und Operatoren, die dir bei der Verwendung eines Bitfelds behilflich sind, gibt es in einem weiteren LernMoment.
 
 ### Merke
 
