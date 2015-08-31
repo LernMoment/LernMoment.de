@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Verwende deine C# Bibliothek in anderen .NET Sprachen
+date: 2015-09-01T06:00:00+02:00
 excerpt: Der Trick mit CLSCompliant
 modified:
 categories: csharp-programmieren
@@ -9,7 +10,6 @@ lm-newsletter-group-id: 2
 tags: [Konzept, ]
 image:
   feature: csharp-programmieren.jpg
-date: 2015-09-01T06:00:00+02:00
 ---
 
 Knapp 60 Programmiersprachen werden, laut [Wikipedia](https://de.wikipedia.org/wiki/Liste_von_.NET-Sprachen), aktuell von .NET unterstützt. Dabei hat jede ihre Stärken und Schwächen. Du kannst, je nach Aufgabe entsprechend, dir eine passende auswählen. So kannst du beispielsweise für die Automatisierung von Administrationsaufgaben Windows Power Shell oder auch IronRuby verwenden. Du könntest auch entscheiden, dass du einige Algorithmen in F#, aber die Oberfläche deiner Anwendung lieber in C# mit WPF, entwickeln möchtest.
