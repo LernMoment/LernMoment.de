@@ -6,7 +6,7 @@ excerpt: Erst kombinieren, dann delegieren
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2
-tags: [Syntax, Deleagte]
+tags: [Syntax, Delegate]
 image:
   feature: csharp-programmieren.jpg
 modified:
