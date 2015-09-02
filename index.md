@@ -20,7 +20,7 @@ lm-newsletter-group-id: 16
 {% endfor %}
 </ul>
 
-<a markdown="0" href="{{ site.url }}/werde-meister/" class="btn">Werde Meister in C# >></a> <a markdown="0" href="{{ site.url }}/csharp-programmieren/" class="btn">Mehr LernMomente für C# >></a>
+<a markdown="0" href="{{ site.url }}/werde-meister/" class="notice-button">Werde Meister in C# >></a> <a markdown="0" href="{{ site.url }}/csharp-programmieren/" class="notice-button">Mehr LernMomente für C# >></a>
 
 #### VORSCHAU: LernMomente - Entwickeln mit C
 
