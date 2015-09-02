@@ -25,6 +25,8 @@ lm-newsletter-group-id: 16
 {% endfor %}
 </ul>
 
+<a markdown="0" href="{{ site.url }}/werde-meister/" class="btn">Werde Meister in C# >></a>
+
 #### VORSCHAU: LernMomente - Entwickeln mit C
 
 LernMomente in C erscheinen momentan noch nicht täglich. Mehr Informationen, findest du [hier]({{ site.url }}/c-programmieren/)
