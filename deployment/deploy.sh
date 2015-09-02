@@ -11,6 +11,16 @@ ENV="$1"
 # Verzeichnis in das jekyll die Seite erzeugt
 SITE_SOURCE=_site
 
+# Branch von dem die Seite erzeugt werden soll
+BRANCH=master
+# Momentan läuft alles lokal. Da teste ich nur, ob ich auch im richtigen Branch bin.
+# Später sollte ich für jeden build den passenden branch aus github holen!
+if [ "$BRANCH" != "$(git symbolic-ref --short -q HEAD)" ]
+then
+  echo "ABBRUCH: Du bist nicht im $BRANCH branch!"
+  exit 1
+fi
+
 # Informationen für Staging
 STAGING_SITE_CONFIG=_config.yml,_config-staging.yml
 STAGING_ZIPPED_SITE=deployment/lm-site-staging.tgz
