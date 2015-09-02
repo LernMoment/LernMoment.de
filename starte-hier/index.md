@@ -41,12 +41,9 @@ Zukünftig plane ich LernMomente zu folgenden Themen:
 -    [Docker](http://www.docker.com) - Entwickle, baue und setze deine Software unabhängig vom Betriebssystem ein.
 -    [Git](http://git-scm.com/book/de/v1) - Verwalte deine Softwareprojekte in einer dezentralen Versionskontrolle.
 
-Allerdings wird es noch etwas dauern, bis auch für diese Themen täglich LernMomente erscheinen. Wenn du weitere Vorschläge hast, oder vielleicht sogar bei einigen der Themen helfen möchtest, dann schreib mir doch einfach eine <a href="mailto:jan@lernmoment.de">E-Mail<a/>. Möchtest du benachrichtigt werden, wenn LernMomente für ein neues Thema starten, dann schreib dich doch ein für den kostenlosen Newsletter:
+Allerdings wird es noch etwas dauern, bis auch für diese Themen täglich LernMomente erscheinen. Wenn du weitere Vorschläge hast, oder vielleicht sogar bei einigen der Themen helfen möchtest, dann schreib mir doch einfach eine <a href="mailto:jan@lernmoment.de">E-Mail<a/>. Möchtest du benachrichtigt werden, wenn LernMomente für ein neues Thema starten, oder willst du einen LernMoment täglich bekommen? Dann ist es Zeit, dass du Meister wirst:
 
-<div class="subscribe-notice">
-	<h5>Informiere mich, wenn es was neues gibt:</h5>
-	{% include lernmoment-subscribe.html %}
-</div>
+<a markdown="0" href="{{ site.url }}/werde-meister/" class="notice-button">Werde Meister mit LernMomente >></a>
 
 ### Wer steckt dahinter?
 
