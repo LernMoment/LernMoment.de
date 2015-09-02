@@ -29,6 +29,6 @@ Hier kannst du dich für einen oder mehrere LernMomente, oder einfach nur zu Neu
         <input type="email" class="subscribe-notice-input-box" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" placeholder="Deine beste E-Mail-Adresse">
         <input type="text" class="subscribe-notice-input-box" name="MERGE1" id="MERGE1" size="25" value="" placeholder="Dein Name">
         <input type="submit" class="subscribe-notice-button" name="submit" value="Ich bin dabei!">
-        <legend class="subscribe-notice-legend">Natürlich kein Spam! Nur der Inhalt, den ich dir versprochen habe.</legend>
+        <legend class="subscribe-notice-legend">Kostenlos. Kein Spam. Nur der Inhalt, den ich dir versprochen habe.</legend>
     </form>
 </div>
