@@ -21,7 +21,7 @@ Hier kannst du dich für einen oder mehrere LernMomente, oder einfach nur zu Neu
         <fieldset class="lernmomentgroup">
             <legend>LernMomente und Themen zu denen du E-Mails bekommen willst:</legend>
             <label><input type="checkbox" id="group_1" name="group[20205][1]" value="1"/>C <span> - Noch in der Erprobung! Momentan bekommst du wenige LernMomente pro Monat.</span></label>
-            <label><input type="checkbox" id="group_2" name="group[20205][2]" value="1"/>C# <span> - Täglich ein LernMoment zum Thema C# (.NET / Mono) in dein Postfach.</span></label>
+            <label><input type="checkbox" id="group_2" name="group[20205][2]" value="1" checked="true" />C# <span> - Täglich ein LernMoment zum Thema C# (.NET / Mono) in dein Postfach.</span></label>
             <label><input type="checkbox" id="group_4" name="group[20205][4]" value="1"/>Docker <span> - Noch in der Erprobung! Momentan bekommst du wenige LernMomente pro Monat.</span></label>
             <label><input type="checkbox" id="group_8" name="group[20205][8]" value="1"/>Git <span> - Erprobung startet bald. Du wirst informiert, so bald der erste LernMoment online ist.</span></label>
             <label><input type="checkbox" id="group_16" name="group[20205][16]" value="1" checked="true" />Allgemeines <span> - Sporadisch eine E-Mail, wenn es Neuigkeiten oder einen neuen Hintergrundartikel gibt.</span></label>
