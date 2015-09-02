@@ -8,10 +8,9 @@ search_omit: true
 lm-newsletter-group-id: 2
 ---
 
-<div class="subscribe-notice">
-	<h5>Melde dich an zu DEINEM täglichen LernMoment C#:</h5>
-	{% include lernmoment-subscribe.html %}
-</div>
+Hier findest du alle bisher erschienen LernMomente. Wenn du es dir zur Gewohnheit machen möchtest jeden Tag ein paar Minuten zu lernen, dann melde dich für den Newsletter an. Damit bekommst du jeden Werktag den aktuellen LernMoment in dein Postfach. So wirst du täglich an das Lernen erinnert.
+
+<a markdown="0" href="{{ site.url }}/werde-meister/" class="notice-button">Werde Meister in C# mit deinem täglichen LernMoment >></a>
 
 <ul class="post-list">
 {% for post in site.categories.csharp-programmieren %} 
