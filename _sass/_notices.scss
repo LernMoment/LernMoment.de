@@ -15,6 +15,11 @@
   @include rounded(4px);
 }
 
+.notice-button {
+  @extend .btn;
+  @include font-size(16);
+}
+
 .subscribe-notice {
   padding: .5em 1em;
   background-color: $notice-color;
