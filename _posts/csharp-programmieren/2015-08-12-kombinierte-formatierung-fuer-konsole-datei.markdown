@@ -8,7 +8,7 @@ lm-newsletter-group-id: 2
 tags: [Syntax, Konzept, String]
 image:
   feature: csharp-programmieren.jpg
-modified:
+modified: 2015-09-03T17:00:00+02:00
 date: 2015-08-12T06:00:00+02:00
 ---
 
@@ -24,6 +24,14 @@ static void Main()
 
 	Console.WriteLine("LernMoment '{0}', erschienen am {1:D}, um {1:t}", name, datum);
 }
+```
+
+Wenn du dies Programm ausführst, solltest du eine Ausgabe wie diese bekommen:
+
+```sh
+bash$  mono Einfuehrung.exe
+
+LernMoment 'Kombinierte Formatierung', erschienen am Wednesday, 12 August 2015, um 09:30
 ```
 
 Die kombinierte Formatierung kann für Methoden verschiedener Klassen angewendet werden. Dazu zählen unter anderem `String.Format`, `Console.WriteLine`, `TextWriter.WriteLine` und seine Erben `StreamWriter` und `HtmlTextWriter`.
