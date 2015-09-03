@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mit der Ausrichtungskomponente zu erstaunlichen Ausgaben
+date: 2015-09-04T06:00:00+02:00
 excerpt: Tabellarische Ausgabe mit kombinierter Formatierung
 modified:
 categories: csharp-programmieren
@@ -9,7 +10,6 @@ lm-newsletter-group-id: 2
 tags: [Syntax, String, Datentypen]
 image:
   feature: csharp-programmieren.jpg
-date: 2015-09-04T06:00:00+02:00
 ---
 
 Insbesondere die Konsole ist nun nicht gerade der Ort für eine schöne Benutzerschnittstelle, aber gerade in technischen Bereichen hilft dir eine Konsolenanwendung häufig weiter. Die Ausrichtungskomponente ist Teil der kombinierten Formatierung. Damit kannst du auch auf der Konsole (oder in Dateien) deine Daten übersichtlich anzeigen. Gerade für Log-Dateien ist beispielsweise die tabellarische Ausgabe relevant.
