@@ -46,18 +46,18 @@ else
   exit 1
 fi
 
-echo 'Local #1 -> Lösche die bisherige Version'
+echo "Local #1 -> Lösche die bisherige Version"
 rm -rf $SITE_SOURCE
 rm -f $ZIPPED_SITE
 
-echo 'Local #2 -> Erstelle Seite neu für $ENV'
+echo "Local #2 -> Erstelle Seite neu für $ENV"
 docker run --rm -it -v $(pwd):/src -e "TZ=Europe/Berlin" -e "LANG=C.UTF-8" --entrypoint="/bin/bash" -p 4000:4000 grahamc/jekyll -c "bundle install && jekyll build --config $SITE_CONFIG --no-watch"
 tar cvzf $ZIPPED_SITE $SITE_SOURCE
 
-echo 'Local #3 -> Kopiere neue Version auf Server'
+echo "Local #3 -> Kopiere neue Version auf Server"
 scp $ZIPPED_SITE $SERVER_AREA
 
-echo 'Local #4 -> Starte deploy-on-server script auf Server'
+echo "Local #4 -> Starte deploy-on-server script auf Server"
 ssh 1und1 'bash -s' < deployment/deploy-on-server.sh $ENV
 
-echo 'Neue Seite ist aktiv! Ist MailChimp vorbereitet????'
+echo "Neue Seite ist aktiv! Ist MailChimp vorbereitet????"
