@@ -71,5 +71,6 @@ Am besten schaust du dir morgen und dann nochmal in ein paar Tagen die vorherige
 
 ### Weitere Informationen
 
--	Den kompletten Quelltext zum heutigen Lernmoment findest du [hier](https://github.com/LernMoment/csharp/tree/master/tbd).
-
+-	Den kompletten Quelltext zum heutigen Lernmoment findest du [hier](https://github.com/LernMoment/csharp/tree/master/ObjectInitializer).
+-	Eine umfangreichere Erklärung warum der *Object Initializer* eine atomare Operation ist und was dies bedeutet findest du auf [dieser Webseite](http://community.bartdesmet.net/blogs/bart/archive/2007/11/22/c-3-0-object-initializers-revisited.aspx)
+-	Wie immer gibt es eine allgemeine Einführung auf [MSDN](https://msdn.microsoft.com/de-de/library/bb384062.aspx)
