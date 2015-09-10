@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Initialisierung mit Konstructor und Object Initializer
+title: Initialisierung mit Konstruktor und Object Initializer
 date: 2015-09-10T06:00:00+02:00
 excerpt: Wie du Objekte sinnvoll initialisierst.
 modified:
@@ -71,6 +71,6 @@ Am besten schaust du dir morgen und dann nochmal in ein paar Tagen die vorherige
 
 ### Weitere Informationen
 
--	Den kompletten Quelltext zum heutigen Lernmoment findest du [hier](https://github.com/LernMoment/csharp/tree/master/ObjectInitializer).
+-	Den kompletten Quelltext zum heutigen Lernmoment findest du [hier](https://github.com/LernMoment/csharp/tree/master/ObjektInitialisierung).
 -	Eine umfangreichere Erklärung warum der *Object Initializer* eine atomare Operation ist und was dies bedeutet findest du auf [dieser Webseite](http://community.bartdesmet.net/blogs/bart/archive/2007/11/22/c-3-0-object-initializers-revisited.aspx)
 -	Wie immer gibt es eine allgemeine Einführung auf [MSDN](https://msdn.microsoft.com/de-de/library/bb384062.aspx)
