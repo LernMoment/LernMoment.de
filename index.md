@@ -12,6 +12,8 @@ lm-newsletter-group-id: 16
 > 
 > Dann mach dir 2 Minuten systematisches und fokussiertes Lernen am Tag zur Gewohnheit. Somit wirst du dein Können langfristig verbessern. Das macht dich nicht nur besser in deinem Beruf, sondern gibt dir auch etwas Freizeit zurück.
 
+<a markdown="0" href="{{ site.url }}/starte-hier/" class="notice-button">Mehr zum Konzept des LernMoments >></a>
+
 #### Entwickeln mit C\#
 
 <ul class="post-list">
