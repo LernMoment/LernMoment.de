@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Variablen einfangen mit Lambda-Ausdrücken
+date: 2015-09-11T10:00:00+02:00
 excerpt: Die 2 wichtigsten Grundsätze für externe Variablen in Lambda-Ausdrücken.
 modified:
 categories: csharp-programmieren
@@ -9,7 +10,6 @@ lm-newsletter-group-id: 2
 tags: []
 image:
   feature: csharp-programmieren.jpg
-date: 2015-09-11T10:00:00+02:00
 ---
 
 Weißt du noch wie der kürzeste Lambda-Ausdruck zum multiplizieren zweier Zahlen ist? Wenn nicht, lies nochmals den LernMoment [Lambda-Ausdrücke erstellen](/csharp-programmieren/lambda-ausdruecke-erstellen/) bevor du hier weiter machst.
