@@ -7,7 +7,7 @@ modified:
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2
-tags: []
+tags: [Konzept, Lambda, Delegate]
 image:
   feature: csharp-programmieren.jpg
 ---
@@ -60,9 +60,13 @@ In diesem Zusammenhang gibt es einen weiteren Aspekt, den du kennen solltest. Di
 
 Auch dieser zweite Grundsatz für sich ist erstmal nicht sonderlich umwerfend. Er gibt dir allerdings einen ersten Einblick wie der Compiler und die CLR mit Daten in Lambda-Ausdrücken umgeht. In einem weiteren LernMoment werde ich dir einige Fälle zeigen, die auf den ersten Blick nicht zu erklären sind. Mit diesen beiden Grundsätze ist das jedoch ganz einfach.
 
-*"One more thing ..."* die beiden Grundsätze gelten nur für Variablen die über Inklusion im Lambda-Ausdruck verwendet werden. Definierst du also einen Lambda-Ausdruck dem Parameter übergeben werden, ist das ein ganz anderes Thema. Hier noch ein abschließendes Beispiel um dies zu verdeutlichen:
+#### "One more thing ..."
+
+Die beiden Grundsätze gelten nur für Variablen die über Inklusion im Lambda-Ausdruck verwendet werden. Definierst du also einen Lambda-Ausdruck dem Parameter übergeben werden, ist das ein ganz anderes Thema. Hier noch ein abschließendes Beispiel um dies zu verdeutlichen:
 
 ```cs
+void EineVoelligAndereMethode()
+{
   int dieMagischeZahl = 42;
 
   Func<int, int, int> multipliziereZahlen = (zahl1, zahl2) => zahl1 * zahl2;
@@ -70,9 +74,10 @@ Auch dieser zweite Grundsatz für sich ist erstmal nicht sonderlich umwerfend. E
   dieMagischeZahl = 10;
 
   Console.WriteLine( multipliziereZahlen(dieMagischeZahl, 25) ); // Gibt 250 aus
+}
 ```
 
-Jetzt erstmal viel Spaß mit dem Einfagen von Variablen
+Jetzt erstmal viel Spaß mit dem Einfangen von Variablen
 
 Jan
 
