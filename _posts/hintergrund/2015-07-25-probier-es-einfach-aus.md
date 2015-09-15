@@ -26,9 +26,9 @@ Ein kompletter LernMoment sollte dich nicht mehr als 10 - 15 Minuten kosten, wen
 
 Somit hast du deinen Kopf nicht überanstrengt und hast bestimmt das richtig gute Gefühl, etwas geschafft zu haben. Nun kannst du dich ganz ohne schlechtes Gewissen deiner Arbeit oder vielleicht sogar deiner Freizeit widmen.
 
-Den größten Nutzen aus dem LernMoment Konzept bekommst du, wenn du täglich einen LernMoment bearbeitest. Wenn du es dir ganz einfach machen willst, dann abonniere den Newsletter für dein Thema. So bekommst du kostenlos jeden Morgen um 9.30 Uhr den neuesten LernMoment in dein Postfach.
+Den größten Nutzen aus dem LernMoment Konzept bekommst du, wenn du täglich einen LernMoment bearbeitest. Wenn du es dir ganz einfach machen willst, dann abonniere den LernMoment für dein Thema. So bekommst du kostenlos jeden Morgen um 9.30 Uhr die Erinnerung zum Lernen der neuesten Inhalte in dein Postfach.
 
-{% include lernmoment-subscribe.html %}
+<a markdown="0" href="{{ site.url }}/werde-meister/" class="notice-button">LernMoment kostenlos abonnieren >></a>
 
 Übrigens, für das Lesen dieses Artikels hast du ca. 2 Minuten benötigt. Genauso schnell kannst du deine Softwareentwicklung verbessern.
 
