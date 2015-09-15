@@ -1,34 +1,10 @@
-BundleData:
-  image: grahamc/jekyll:latest
-  entrypoint: true
-  volumes:
-    - /bundle
-  environment:
-    - BUNDLE_PATH="/bundle"
-    - GEM_HOME="/bundle"
-
-
-BundleInstall:
-  image: grahamc/jekyll:latest
-  entrypoint: true
-  volumes:
-    - .:/src
-  volumes_from:
-    - BundleData
-  command: bundle install
-  environment:
-    - BUNDLE_PATH="/bundle"
-    - GEM_HOME="/bundle"
-
-JekyllServe:
+Jekyll:
   image: grahamc/jekyll:latest
   ports:
     - "4000:4000"
   volumes:
     - .:/src
-  volumes_from:
-    - BundleData
-  command: serve -H 0.0.0.0 --config _config.yml,_config-devenv.yml
+  entrypoint: /bin/bash
   environment:
-    - BUNDLE_PATH="/bundle"
-    - GEM_HOME="/bundle"
+    - TZ="Europe/Berlin"
+    - LANG="C.UTF-8"
