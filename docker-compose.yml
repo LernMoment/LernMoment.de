@@ -6,5 +6,5 @@ Jekyll:
     - .:/src
   entrypoint: /bin/bash
   environment:
-    - TZ="Europe/Berlin"
-    - LANG="C.UTF-8"
+    - TZ=Europe/Berlin
+    - LANG=C.UTF-8
