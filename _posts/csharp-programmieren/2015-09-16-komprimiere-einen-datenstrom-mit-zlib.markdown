@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Komprimiere deinen Datenstrom mit zlib
+date: 2015-09-16T06:00:00+02:00
 excerpt: InspirationsMoment - System.IO.Compression.DeflateStream
 modified:
 categories: csharp-programmieren
@@ -9,10 +10,9 @@ lm-newsletter-group-id: 2
 tags: [Inspiration, Komprimierung, Serialisierung]
 image:
   feature: csharp-programmieren.jpg
-date: 2015-09-16T06:00:00+02:00
 ---
 
-Willkommen zum ersten InspirationMoment. Wenn du davon noch nichts gehört hast, bekommst du im Hintergrundartikel [Mehr Output! Weniger Input!](/hintergrund/mehr-output-weniger-input/) mehr Informationen dazu.
+Willkommen zum ersten InspirationMoment. Wenn du davon noch nichts gehört hast, bekommst du im Hintergrundartikel ["Mehr Output! Weniger Input!"](/hintergrund/mehr-output-weniger-input/) mehr Informationen dazu.
 
 ### DeflateStream
 
@@ -30,3 +30,6 @@ Ab .NET 4.0 kann diese Klasse auch mit Dateien umgehen, die größer als 4GB sin
 Viel Spaß mit dem Komprimieren deiner Daten
 
 Jan
+
+
+PS: Gefällt dir das Konzept des InspirationsMoment? Über ein kurzes [Feedback](mailto:jan@lernmoment.de) würde ich mich freuen.
