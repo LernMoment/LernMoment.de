@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Die geheimen Ziele des LernMoments"
+date: 2015-07-24T12:21:00+00:00
 modified:
 categories: hintergrund
 excerpt: "oder wobei dir LernMomente helfen können"
 tags: [Neugierde, Fokus, Systematik]
 image:
   feature:
-date: 2015-07-24T12:21:00+00:00
 ---
 
 Ein LernMoment hilft dir jeden Tag eine Kleinigkeit in systematischer Form über dein Fachgebiet zu lernen und zu üben. Du brauchst weder viel Zeit, noch Motivation. Mit LernMomenten machst du es dir einfach zur Gewohnheit, deine Fähigkeiten täglich zu verbessern.
