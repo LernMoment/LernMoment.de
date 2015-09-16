@@ -23,9 +23,8 @@ Jeder LernMoment hat zum Ziel, dass
 
 Wenn du mehr über die Hintergründe von den LernMomenten erfahren möchtest, kann ich dir folgende Artikel empfehlen:
 
--	Warum LernMomente einen hohen Nutzen für dich haben, obwohl sie nichts Neues vermitteln.
--	LernMomente ersetzen keine Bücher, Kurse oder sonstige Lernmaterialien.
 -	[Probier es einfach aus]({% post_url /hintergrund/2015-07-25-probier-es-einfach-aus %})
+-	[Mehr Output! Weniger Input!]{/hintergrund/mehr-output-weniger-input/}
 
 ### Welche LernMomente gibt es?
 
