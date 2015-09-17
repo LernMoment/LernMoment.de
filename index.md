@@ -22,7 +22,7 @@ lm-newsletter-group-id: 16
 {% endfor %}
 </ul>
 
-<a markdown="0" href="{{ site.url }}/werde-meister/" class="notice-button">Werde Meister in C# >></a> <a markdown="0" href="{{ site.url }}/csharp-programmieren/" class="notice-button">Mehr LernMomente für C# >></a>
+<a markdown="0" href="{{ site.url }}/werde-meister/" class="notice-button">Werde Meister in C# >></a> <a markdown="0" href="{{ site.url }}/csharp-programmieren/" class="notice-button">Mehr LernMomente für C# >></a> <a markdown="0" href="/kooperation-dotnet-developer-conference-2015/" class="notice-button">.NET Dev Conference 2015 >></a>
 
 #### VORSCHAU: Docker in der Softwareentwicklung
 
