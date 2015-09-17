@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kooperation mit Dotnet Developer Conference 2015
-date: 2015-09-18T06:00:00+02:00
+date: 2015-09-17T18:00:00+02:00
 excerpt: LernMoment.de kooperiert mit .NET Developer Conference 2015
 search_omit: true
 image:
