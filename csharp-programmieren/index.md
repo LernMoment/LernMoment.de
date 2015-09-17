@@ -12,6 +12,11 @@ Hier findest du alle bisher erschienen LernMomente. Wenn du es dir zur Gewohnhei
 
 <a markdown="0" href="{{ site.url }}/werde-meister/" class="notice-button">Werde Meister in C# mit deinem täglichen LernMoment >></a>
 
+Aktuelle Kooperation:
+<a href="/kooperation-dotnet-developer-conference-2015/">
+<img src="{{ site.url }}/images/Logo_DDC_2015.jpg" alt=".NET Developer Conference 2015">
+</a>
+
 <ul class="post-list">
 {% for post in site.categories.csharp-programmieren %} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
