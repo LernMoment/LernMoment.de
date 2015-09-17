@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Kooperation mit Dotnet Developer Conference 2015
+date: 2015-09-18T06:00:00+02:00
 excerpt: LernMoment.de kooperiert mit .NET Developer Conference 2015
 search_omit: true
 image:
   feature: 
-date: 2015-09-18T06:00:00+02:00
 ---
 
 Ich freue mich, dass die [.NET Developer Conference 2015](http://www.dotnet-developer-conference.de/) und [LernMoment.de](/) kooperieren. Bei der Konferenz kannst du viele interessante Vorträge hören. Die Kombination von Wissens-/Erfahrungsaustausch auf der Konferenz und das regelmäßige Lernen mit LernMomenten hilft dir Softwareentwicklung mit .NET zu meistern.
