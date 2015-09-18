@@ -54,10 +54,10 @@ echo "Local #2 -> Erstelle Seite neu für $ENV"
 docker run --rm -it -v $(pwd):/src -e "TZ=Europe/Berlin" -e "LANG=C.UTF-8" --entrypoint="/bin/bash" -p 4000:4000 grahamc/jekyll -c "bundle install && jekyll build --config $SITE_CONFIG --no-watch"
 tar cvzf $ZIPPED_SITE $SITE_SOURCE
 
-echo "Local #3 -> Kopiere neue Version auf Server"
+echo "Local #3 -> Kopiere neue Version auf Server nach: $ENV"
 scp $ZIPPED_SITE $SERVER_AREA
 
 echo "Local #4 -> Starte deploy-on-server script auf Server"
 ssh 1und1 'bash -s' < deployment/deploy-on-server.sh $ENV
 
-echo "Neue Seite ist aktiv! Ist MailChimp vorbereitet????"
+echo "Neue Seite ist aktiv auf: $ENV ! Ist MailChimp vorbereitet????"
