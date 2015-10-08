@@ -26,8 +26,8 @@ Hier kannst du dich für einen oder mehrere LernMomente, oder einfach nur zu Neu
             <label><input type="checkbox" id="group_8" name="group[20205][8]" value="1"/>Git <span> - Erprobung startet bald. Du wirst informiert, so bald der erste LernMoment online ist.</span></label>
             <label><input type="checkbox" id="group_16" name="group[20205][16]" value="1" checked="true" />Allgemeines <span> - Sporadisch eine E-Mail, wenn es Neuigkeiten oder einen neuen Hintergrundartikel gibt.</span></label>
         </fieldset>
-        <input type="email" class="subscribe-notice-input-box" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" placeholder="Deine beste E-Mail-Adresse">
-        <input type="text" class="subscribe-notice-input-box" name="MERGE1" id="MERGE1" size="25" value="" placeholder="Dein Name">
+        <input type="email" class="subscribe-notice-input-box" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" placeholder="Deine E-Mail-Adresse">
+        <input type="text" class="subscribe-notice-input-box" name="MERGE1" id="MERGE1" size="25" value="" placeholder="Dein Vorame">
         <input type="submit" class="subscribe-notice-button" name="submit" value="Ich bin dabei!">
         <legend class="subscribe-notice-legend">Kostenlos. Kein Spam. Nur der Inhalt, den ich dir versprochen habe.</legend>
     </form>
