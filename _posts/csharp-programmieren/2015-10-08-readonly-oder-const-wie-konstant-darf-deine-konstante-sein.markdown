@@ -71,5 +71,6 @@ Am besten schaust du dir morgen und dann nochmal in ein paar Tagen die vorherige
 
 ### Weitere Informationen
 
+-	Das Beispiel findest du auch im [Quelltext zum LernMoment](https://github.com/LernMoment/csharp/tree/master/Readonly)
 -	Die Beschreibung von [readonly bei MSDN](https://msdn.microsoft.com/de-de/library/acdd6hb7(v=vs.140).aspx)
 -	Die Beschreibung von [const bei MSDN](https://msdn.microsoft.com/de-de/library/e6w8fe1b.aspx)
