@@ -1,10 +1,10 @@
 Jekyll:
-  image: grahamc/jekyll:latest
+  image: jekyll-env
   ports:
     - "4000:4000"
   volumes:
-    - .:/src
-  entrypoint: /bin/bash
+    - .:/src/LernMoment.de
+  command: /bin/bash
   environment:
     - TZ=Europe/Berlin
     - LANG=C.UTF-8
