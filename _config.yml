@@ -9,6 +9,7 @@ url: http://www.lernmoment.de
 
 timezone: Europe/Berlin
 future: false
+comments: true
 
 # Jekyll configuration
 
@@ -39,7 +40,7 @@ owner:
   name: Jan Suchotzki
   avatar: jan-suchotzki-photo.jpg
   email: jan@lernmoment.de
-  disqus-shortname:
+  disqus-shortname: lernmomentde
   twitter: #username
   facebook: #username
   github: lernmoment
