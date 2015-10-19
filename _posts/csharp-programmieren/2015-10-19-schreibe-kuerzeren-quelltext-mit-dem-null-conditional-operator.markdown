@@ -12,7 +12,7 @@ image:
   feature: csharp-programmieren.jpg
 ---
 
-Wie häufig hast du schon am Anfang einer Methode die Parameter auf `null` überprüft um eine `NullReferenceException` zu vermeiden? In C# 6.0 kommt Microsoft dir zur Hilfe. In der Version wurde ein Operator eingeführt, der direkt bei der Verwendung einer Variablen auf `null` überprüft.
+Wie häufig hast du schon am Anfang einer Methode die Parameter auf `null` überprüft um eine `NullReferenceException` zu vermeiden? In C# 6.0 kommt Microsoft dir zur Hilfe. In dieser Version wurde ein Operator eingeführt, der direkt beim Zugriff auf ein Objekt dieses auf `null` überprüft.
 
 Es geht also um Aufrufe wie diesen:
 
