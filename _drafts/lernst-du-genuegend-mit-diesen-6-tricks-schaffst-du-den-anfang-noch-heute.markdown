@@ -8,6 +8,7 @@ tags: [Lernen]
 image:
   feature:
 date: 2015-10-11T06:00:00+02:00
+published: false
 ---
 
 Hand aufs Herz, wieviel hast du letzte Woche gelernt? Ich meine nicht den Namen eines neuen Kollegen, sonderen beispielsweise die Verwendung einer Bibliothek, oder Methode mit der du deine alltägliche Arbeit schneller oder besser machen kannst. Scheinbar ist es gerade bei angestellten Softwareentwicklern so, dass für Weiterbildung im Tagesgeschäft keine Zeit bleibt.
@@ -34,7 +35,7 @@ Das klappt nicht mit Fortbildungen und auch Bücher und Artikel können dir da n
 
 Das schöne am Lernen aus Gewohnheit ist, dass du wenig Motivation und Zeit brauchst. Genau das ist der Unterschied zum Studium. Im Studium ist das Lernen deine Hauptbeschäftigung. Im Beruf ist es das nicht. Daher habe ich für dich meine 3 Lieblingstricks, mit denen du noch heute anfangen kannst das Lernen als Gewohnheit zu etablieren.
 
-### 1. Definiere dein Ziel
+### Trick 1 - Definiere dein Ziel
 
 Auch wenn das abgedroschen klingt, der erste Schritt beim Übernehmen der Verantwortung für deine Bildung ist das Definieren des Ziels. Dabei ist es nicht wichtig wie toll ausformuliert dein Ziel ist. Es geht mehr um die allgemeine Richtung. Willst du eine Programmiersprache, ein Werkzeug oder eine Methode, die du bereits im Detail kennst, komplett meistern? Oder willst du dich eher mit einem für dich komplett unbekanntem Gebiet beschäftigen.
 
@@ -42,7 +43,7 @@ Für jedes allgemeine Ziel gibt es verschiedenste Lernmethoden. Sobald du dir ü
 
 Absolut wichtig ist, dass du es nicht übertreibst. Wenn du erst Stunden benötigst um dein Ziel zu definieren, dann wirst du ganz schnell mit dem Lernen wieder aufhören oder erst gar nicht damit anfangen. Mit dem Anfangen beschäftigt sich auch der zweite Trick.
 
-### 2. Fange klein an und werde nicht größer
+### Trick 2 - Fange klein an und werde nicht größer
 
 Egal was dein konkretes Lernziel ist, fange klein an und überlege nicht lange. Es gibt Tage, gerade wenn du mit einer Aktivität neu anfängst, da bist du motiviert. Du erstellst dir große Pläne. Malst dir aus, was du alles erreichen und schaffen willst. Setzt dich auch Stunden lang hin und arbeitest auf diese Ziel hin.
 
@@ -52,7 +53,7 @@ Wenn du von Anfang an übst alles in kleine Minischritte zu unterteilen, dann ka
 
 Es geht darum zu liefern. Immer. Wenn du dich einen Tag richtig motiviert fühlst, dann kannst du natürlich mehr machen. Erwarte dies aber nicht von dir. Dein Tagesziel sollte immer konstant klein sein. Aus meiner Erfahrung sind wenige Minuten am Tag ausreichend. Die schaffst du auch an einem richtig stressigen Tag.
 
-### 3. Lerne regelmäßig
+### 3. Trick 3 - Lerne regelmäßig
 
 Eine Gewohnheit ist eine Reaktionsweise die nach entsprechender WIederholung wie automatisch ausgeführt wird. Willst du dir das Lernen zur Gewohnheit machen, solltest du es regelmäßig machen. Ähnlich wie beim Zähne putzen kann dir ein Auslöser helfen. Wie wäre es zum Beispiel, wenn du beim Frühstück mit deinem Kaffee in der Hand jeden Tag einen kurzen Fachartikel liest?
 
