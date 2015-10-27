@@ -39,6 +39,12 @@ Solltest du dich doch mal allein gelassen fühlen oder einfach nicht weiter komm
 
 Zusätzlich zu den einzelnen LernMomenten findest du im [YouTube-Kanal](tbd) ein komplettes Beispiel. Dieses kannst du dir ergänzend anschauen, wenn du sehen möchtest, wie ich die Inhalte von diesem Kurs in der Praxis einsetze.
 
+### Was du NICHT in diesem Kurs lernst
+
+Dieser Kurs ist kein Referenzhandbuch für *Git*. Rund um *Git* gibt es viele gute Beschreibungen, die dir die einzelnen Kommandos und deren Parameter erklären. Du kannst den Kurs also später nicht als Nachschlagewerk nutzen.
+
+Da es sich im Kurs hauptsächlich darum dreht zu zeigen wie du lokal dein Softwareprojekt mit *Git* verwalten kannst, erfährst du im Kurs nicht, wie du Projekte von Plattformen wie [GitHub](https://github.com) oder [Bitbucket](https://bitbucket.org) holst und mit anderen daran arbeitest.
+
 ## Kursübersicht
 
 Folgende Lektionen sind Bestandteil des Kurses:
