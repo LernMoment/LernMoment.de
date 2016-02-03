@@ -14,40 +14,6 @@ lm-newsletter-group-id: 16
 
 <a markdown="0" href="{{ site.url }}/starte-hier/" class="notice-button">Mehr zum Konzept des LernMoments >></a>
 
-#### Entwickeln mit C\#
-
-<ul class="post-list">
-{% for post in site.categories.csharp-programmieren limit:5 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date">{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
-
-<a markdown="0" href="{{ site.url }}/werde-meister/" class="notice-button">Werde Meister in C# >></a> <a markdown="0" href="{{ site.url }}/csharp-programmieren/" class="notice-button">Mehr LernMomente für C# >></a> <a markdown="0" href="/kooperation-dotnet-developer-conference-2015/" class="notice-button">.NET Dev Conference 2015 >></a>
-
-#### VORSCHAU: Docker in der Softwareentwicklung
-
-LernMomente für Docker erscheinen momentan noch nicht täglich. Mehr Informationen, findest du [hier]({{ site.url }}/docker-verwenden/)
-
-<ul class="post-list">
-{% for post in site.categories.docker-verwenden limit:5 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date">{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
-
-#### VORSCHAU: Entwickeln mit C
-
-LernMomente in C erscheinen momentan noch nicht täglich. Mehr Informationen, findest du [hier]({{ site.url }}/c-programmieren/)
-
-<ul class="post-list">
-{% for post in site.categories.c-programmieren limit:5 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date">{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
-
-#### Hintergrundinformationen
-
-Wenn du mehr zum Konzept des LernMoments erfahren möchtest, dann findest du hier einige Artikel dazu:
-
 <ul class="post-list">
 {% for post in site.categories.hintergrund limit:5 %} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date">{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
