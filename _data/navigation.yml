@@ -6,14 +6,8 @@
 - title: Starte hier
   url: /starte-hier/
 
-- title: C#
+- title: Kurse
+  url: /kurse/
+
+- title: "C#-Archiv"
   url: /csharp-programmieren/
-
-- title: C
-  url: /c-programmieren/
-
-- title: Docker
-  url: /docker-verwenden/
-
-- title: Werde Meister
-  url: /werde-meister/
