@@ -7,17 +7,23 @@ set -e
 
 # Eingabe in Variable sichern
 ENV="$1"
+if [ -z "$2" ]
+then
+  # Standardmäßig soll die Site vom Branch master erzeugt werden
+  SELECTED_BRANCH=master
+else
+  # Wenn ein Branch angegeben wurde, verwenden wir den!
+  SELECTED_BRANCH="$2"
+fi
 
 # Verzeichnis in das jekyll die Seite erzeugt
 SITE_SOURCE=_site
 
-# Branch von dem die Seite erzeugt werden soll
-BRANCH=master
 # Momentan läuft alles lokal. Da teste ich nur, ob ich auch im richtigen Branch bin.
 # Später sollte ich für jeden build den passenden branch aus github holen!
-if [ "$BRANCH" != "$(git symbolic-ref --short -q HEAD)" ]
+if [ "$SELECTED_BRANCH" != "$(git symbolic-ref --short -q HEAD)" ]
 then
-  echo "ABBRUCH: Du bist nicht im $BRANCH branch!"
+  echo "ABBRUCH: Du bist nicht im $SELECTED_BRANCH branch!"
   exit 1
 fi
 
@@ -30,12 +36,20 @@ STAGING_SERVER_AREA=1und1:staging
 PRODUCTION_SITE_CONFIG=_config.yml
 PRODUCTION_ZIPPED_SITE=deployment/lm-site-production.tgz
 PRODUCTION_SERVER_AREA=1und1:production
+PRODUCTION_BRANCH=master
 
 if [ "$ENV" == "production" ]
 then
   SITE_CONFIG=$PRODUCTION_SITE_CONFIG
   ZIPPED_SITE=$PRODUCTION_ZIPPED_SITE
   SERVER_AREA=$PRODUCTION_SERVER_AREA
+
+  # Sicherheitsüberprüfung für Production. Ich will nur vom zulässigen PRODUCTION_BRANCH
+  # deployen!
+  if [ "$SELECTED_BRANCH" != "$PRODUCTION_BRANCH" ]; then
+    echo "ABBRUCH: Du kannst nur aus dem $PRODUCTION_BRANCH branch ein Deployment für $ENV machen!"
+  fi
+
 elif [ "$ENV" == "staging" ]
 then
   SITE_CONFIG=$STAGING_SITE_CONFIG
