@@ -4,6 +4,7 @@ title: Release-Party - So einfach kann Lernen sein!
 excerpt: "Mit diesem Link kannst du professionelle Softwareentwicklung in C# zum Einführungspreis lernen."
 categories: kurse
 lernmoment: C#
+share: true
 tags: [Sale]
 image:
   feature: MatheFormel.jpg
