@@ -6,6 +6,7 @@ search_omit: true
 image:
   feature: MatheFormel.jpg
 modified:
+lm-newsletter-group-id: 32
 date: 2016-02-03T09:30:00+01:00
 ---
 
@@ -17,4 +18,15 @@ Neben den Inhalten rund um das Thema "nebenberufliches Lernen", kannst du auch v
 
 Ich erweitere sowohl den Kurs wie auch die zusätzlichen (kostenlosen) Ressourcen kontinuierlich. Wenn du über Neuigkeiten zu diesem und weiteren Kursen informiert werden möchtest, dann kannst du dich hier einschreiben:
 
+<div class="subscribe-notice">
+	<h5>Informiere mich, wenn es was neues gibt:</h5>
+	{% include lernmoment-subscribe.html %}
+</div>
+
 ## Details und weitere Ressourcen zum Kurs
+
+<ul class="post-list">
+{% for post in site.categories.kurse %} 
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date">{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
