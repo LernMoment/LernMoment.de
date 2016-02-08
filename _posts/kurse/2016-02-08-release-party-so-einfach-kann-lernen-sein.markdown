@@ -1,0 +1,20 @@
+---
+layout: post
+title: Release-Party - So einfach kann Lernen sein!
+excerpt: "Mit diesem Kurs kannst du C# und professionelle Softwareentwicklung zum Einführungspreis lernen."
+categories: kurse
+lernmoment: C#
+lm-newsletter-group-id: 32
+tags: [Sale]
+image:
+  feature: MatheFormel.jpg
+modified:
+date: 2016-02-08T15:39:25+01:00
+---
+
+Ich freue mich wie ein kleiner Junge zu Weihnachten. Nach langer Zeit, habe ich meinen ersten Online-Kurs fertig. [Hier](/kurse/) erfährst du alles dazu! Klicke einfach auf das nachfolgende Bild und du bekommst **80%** Rabatt. Dieses Angebot ist nur kurzfristig verfügbar und ein kleines Dankeschön an alle die mich in den letzten Wochen unterstützt haben.
+
+<figure>
+	<a href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCsK_EinSta"><img src="/images/UCsK_LandingPage_Rabatt_Gross.png" alt="image"></a>
+</figure>
+
