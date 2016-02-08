@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Release-Party - So einfach kann Lernen sein!
-excerpt: "Mit diesem Kurs kannst du C# und professionelle Softwareentwicklung zum Einführungspreis lernen."
+excerpt: "Mit diesem Link kannst du professionelle Softwareentwicklung in C# zum Einführungspreis lernen."
 categories: kurse
 lernmoment: C#
 lm-newsletter-group-id: 32
