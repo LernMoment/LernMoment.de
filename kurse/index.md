@@ -10,8 +10,9 @@ lm-newsletter-group-id: 32
 date: 2016-02-03T09:30:00+01:00
 ---
 
-Neben den Inhalten rund um das Thema "nebenberufliches Lernen", kannst du auch von meinem Wissen und meinen Erfahrungen aus über 13 Jahren hauptberuflicher Tätigkeit als Softwareentwickler lernen. Wenn du Ein- oder Umsteiger in die Softwareentwicklung mit C# (.NET / Mono) bist oder deine Arbeitsweise noch nicht ganz so professionell ist, dann schau dir meinen ersten Online-Kurs genauer an:
+Mit diesem Kurs hast du in 30 Minuten deine erste C#-Anwendung entwickelt. Viel wichtiger ist jedoch, dass du nicht nur Programmieren lernst, sondern die Arbeitsweise, die professionelle Softwareentwickler verwenden um herausragende Anwendungen zu entwickeln. Ich verdiene seid über 13 Jahren mit Softwareentwicklung mein Geld und erkläre dir in diesem Kurs anhand vieler Beispiele, Übungen und direktem Feedback, die wichtigsten Aspekte der professionellen Softwareentwicklung.
 
+Alles wissenswerte zum Kurs und **80% Einführungsrabatt** bekommst du, wenn du auf das folgende Bild klickst. Weiter unten findest du (kostenloses) Bonusmaterial zum Kurs. 
 <figure>
 	<a href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCsK_EinSta" target="_blank"><img src="/images/UCsK_LandingPage_Rabatt_Gross.png" alt="image"></a>
 </figure>
