@@ -3,8 +3,9 @@ layout: post
 title: Versionsverwaltung - Dein Rückgaberecht für Quellcodeänderungen!
 excerpt: In diesem Artikel geht es um das schnelle Finden einer Entscheidung.
 categories: kurse
-lernmoment: C#
-tags: [Mut, Entscheidungen, Motivation]
+lernmoment: UCsK
+share: true
+tags: [Artikel]
 image:
   feature: MatheFormel.jpg
 modified:

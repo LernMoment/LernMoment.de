@@ -3,9 +3,9 @@ layout: post
 title: Release-Party - So einfach kann das Lernen von C# sein!
 excerpt: "Mit diesem Link kannst du professionelle Softwareentwicklung in C# zum Einführungspreis lernen."
 categories: kurse
-lernmoment: C#
+lernmoment: UCsK
 share: true
-tags: [Sale]
+tags: [Rabatt]
 image:
   feature: MatheFormel.jpg
 modified:

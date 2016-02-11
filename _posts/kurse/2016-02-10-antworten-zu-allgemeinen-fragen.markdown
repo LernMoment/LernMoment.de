@@ -3,7 +3,7 @@ layout: post
 title: Allgemeine Fragen zu Udemy? Hier gibt es Antworten!
 excerpt: Gibt es ein Rückgaberecht? Welche Voraussetzungen muss mein Rechner erfüllen? Und mehr
 categories: kurse
-lernmoment: C#
+lernmoment: UCsK
 share: true
 tags: [FAQ, Udemy]
 image:
