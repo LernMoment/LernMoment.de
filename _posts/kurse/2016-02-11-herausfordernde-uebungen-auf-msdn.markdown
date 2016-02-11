@@ -5,7 +5,7 @@ excerpt: Hast du den Kurs schon absolviert und brauchst eine Herausforderung? Wi
 categories: kurse
 lernmoment: UCsK
 share: true
-tags: [Einstieg C#, Ressourcen]
+tags: [Übungen]
 image:
   feature: MatheFormel.jpg
 modified:

@@ -5,7 +5,7 @@ excerpt: Gibt es ein Rückgaberecht? Welche Voraussetzungen muss mein Rechner er
 categories: kurse
 lernmoment: UCsK
 share: true
-tags: [FAQ, Udemy]
+tags: [FAQ]
 image:
   feature: MatheFormel.jpg
 modified:

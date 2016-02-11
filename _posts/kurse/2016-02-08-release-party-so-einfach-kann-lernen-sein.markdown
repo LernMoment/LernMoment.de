@@ -5,7 +5,7 @@ excerpt: "Mit diesem Link kannst du professionelle Softwareentwicklung in C# zum
 categories: kurse
 lernmoment: UCsK
 share: true
-tags: [Rabatt]
+tags: [Rabatt, Einführungspreis]
 image:
   feature: MatheFormel.jpg
 modified:
