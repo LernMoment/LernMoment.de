@@ -30,7 +30,6 @@ Alles wissenswerte zum Kurs und **80% Einführungsrabatt** bekommst du, wenn du 
 Ich erweitere sowohl den Kurs wie auch die zusätzlichen (kostenlosen) Ressourcen kontinuierlich. Wenn du über Neuigkeiten zu diesem und weiteren Kursen informiert werden möchtest, dann kannst du dich hier einschreiben:
 
 <div class="subscribe-notice">
-	<h5>Informiere mich, wenn es was neues gibt:</h5>
 	{% include lernmoment-subscribe.html %}
 </div>
 
