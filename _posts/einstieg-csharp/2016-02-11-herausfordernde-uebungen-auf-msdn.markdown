@@ -2,7 +2,7 @@
 layout: post
 title: Herausfordernde Übungen auf MSDN
 excerpt: Hast du den Kurs schon absolviert und brauchst eine Herausforderung? Wie wäre es hiermit?
-categories: kurse
+categories: einstieg-csharp
 lernmoment: UCsK
 share: true
 tags: [Übungen]

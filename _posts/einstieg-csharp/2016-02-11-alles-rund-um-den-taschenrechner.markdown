@@ -2,7 +2,7 @@
 layout: post
 title: Zeige was du kannst! Dein ganz persönlicher Taschenrechner.
 excerpt: In wenigen Schritten kannst du den Taschenrechner aus dem Kurs auf GitHub weiter entwickeln.
-categories: kurse
+categories: einstieg-csharp
 lernmoment: UCsK
 share: true
 tags: [Taschenrechner, GitHub]
