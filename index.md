@@ -8,9 +8,9 @@ image:
 lm-newsletter-group-id: 16
 ---
 
-> Du schaust die Syntax **deiner** Programmiersprache immer wieder nach und hast keine Zeit dein Können mit Büchern und Kursen zu verbessern?
+> Deine Arbeitstage in der Softwareentwicklung sind häufig stressig? Du weißt nicht was deine beruflichen Ziele sind und/oder wie du sie erreichen kannst?
 > 
-> Dann mach dir 2 Minuten systematisches und fokussiertes Lernen am Tag zur Gewohnheit. Somit wirst du dein Können langfristig verbessern. Das macht dich nicht nur besser in deinem Beruf, sondern gibt dir auch ein Stück Freizeit zurück.
+> Dann ist es Zeit, dass du deine Professionalität erhöhst. Hier bekommst du Anregungen, Hintergrundwissen und ich zeige dir Schritt für Schritt wie du deine Zufriedenheit im Job erhöhen kannst ohne jede Minute Freizeit opfern zu müssen.
 
 <a markdown="0" href="{{ site.url }}/starte-hier/" class="notice-button">Mehr zum Konzept des LernMoments >></a>
 
