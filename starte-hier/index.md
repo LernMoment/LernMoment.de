@@ -11,7 +11,7 @@ lm-newsletter-group-id: 16
 
 Willkommen und schön, dass du dir Zeit nimmst, meine Zeilen zu lesen. Du bist bei diesem Blog genau richtig, wenn du bereits Software entwickelst und darin besser werden willst, oder auch, wenn du gerade anfängst zu lernen. Ganz genau richtig bist du hier, wenn Softwareentwicklung dein Beruf oder deine Berufung ist und du dich darin kontinuierlich verbessern willst.
 
-### Überblick (wenn du es eilige hast)
+### Überblick (wenn du es eilig hast)
 
 Beim LernMoment geht es darum, dass du als (angehender) Softwareentwickler deine beruflichen Ziele kennst und diese erreichst, ohne dafür jede Minute deiner Freizeit zu opfern.
 
