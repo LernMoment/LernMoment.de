@@ -18,17 +18,17 @@ Beim LernMoment geht es darum, dass du als (angehender) Softwareentwickler deine
 Hier findest du Antworten auf die Fragen:
 
 - In welche Richtung kann ich mich entwickeln und passt das auch zu mir?
-- Wie kann ich mich meinen beruflichen Zielen nähren ohne alles andere um mich herum zu vernachlässigen?
+- Wie kann ich mich meinen beruflichen Zielen nähern, ohne alles andere um mich herum zu vernachlässigen?
 - Was ist professionelle Softwareentwicklung und wie kann ich sie meistern?
 
-Das Konzept des LernMoments beruht auf den folgenden Erkenntnissen die ich in über 13 Jahren als angestellter Tester, Entwickler, Architekt und Projektleiter gesammelt habe:
+Das Konzept des LernMoments beruht auf den folgenden Erkenntnissen, die ich in über 13 Jahren als angestellter Tester, Entwickler, Architekt und Projektleiter gesammelt habe:
 
-- **Eigenverantwortung** - Egal wie toll dein Chef, Personalabteilung, … sind, es ist deine Verantwortung heraus zu finden wo du hin willst, wie du dahin kommst und es umzusetzen.
+- **Eigenverantwortung** - Egal wie dein Vorgesetzter dich fördert, es ist deine Verantwortung herauszufinden wo du hin willst, wie du dahin kommst und es umzusetzen.
 - **Du kannst alles lernen** - Du brauchst weder viel Zeit, Geld, noch Motivation. Mit ein wenig Geduld und den für dich passenden Methoden kannst du alles lernen.
-- **Stress im Beruf machst du dir hauptsächlich selbst** - Mit jedem Fehler den du im Arbeitsalltag machst, wächst der Stress für dich. Nun geht es nicht darum keine Fehler mehr zu machen, sondern aus den Fehlern zu lernen und sie nicht zu wiederholen.
-- **Professionalität macht sich bezahlt** - Im Bereich der Softwareentwicklung gibt es viele spannende Jobs die hervorragend bezahlt sind (in Form von Geld, aber auch Freiheit - Was ist dir wichtiger?). Professionalität ist einer der Kernfaktoren um sie zu bekommen.
+- **Stress im Beruf machst du dir hauptsächlich selbst** - Mit jedem Fehler, den du im Arbeitsalltag machst, wächst der Stress für dich. Nun geht es nicht darum keine Fehler mehr zu machen, sondern aus den Fehlern zu lernen und sie nicht zu wiederholen.
+- **Professionalität macht sich bezahlt** - Im Bereich der Softwareentwicklung gibt es viele spannende Jobs, die hervorragend bezahlt sind (in Form von Geld, aber auch Freiheit - Was ist dir wichtiger?). Professionalität ist einer der Kernfaktoren um sie zu bekommen.
 
-Du hast nun meine Denkweise und die wichtigsten Ideen hinter LernMoment kennen gelernt. Wenn du neugierig auf die konkreten Inhalte bist und vor allem wie du voran kommen kannst, dann stöbere doch durch die Artikel. Im Newsletter informiere ich dich auch, wenn ich neue Inhalte für dich habe:
+Du hast nun meine Denkweise und die wichtigsten Ideen hinter LernMoment kennen gelernt. Wenn du neugierig auf die konkreten Inhalte bist und vor allem wie du vorankommen kannst, dann stöbere doch durch die Artikel. Im Newsletter informiere ich dich auch, wenn ich neue Inhalte für dich habe:
 
 <div class="subscribe-notice">
 	{% include lernmoment-subscribe.html %}

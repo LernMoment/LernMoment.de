@@ -17,9 +17,9 @@ Die Entwicklung eines Taschenrechners als Konsolenprojekt ist eines der wichtigs
 Willst du
 
 - mit mir und anderen Teilnehmern Änderungen am Taschenrechner diskutieren?
-- den Taschenrechner nach deinen Anforderungen erweitern oder anpassen möchtest?
+- den Taschenrechner nach deinen Anforderungen erweitern oder anpassen?
 - deinen Kollegen oder zukünftigem Arbeitgeber zeigen wie du Software entwickelst?
 
-Dann ist eine Möglichkeit, dass du dir einen eigenen (kostenlosen) GitHub-Account anlegst. Du kannst dann einfach den Quellcode vom Taschenrechner übernehmen und nach belieben verändern. Wenn du dann noch die Änderungen die du lokal in Visual Studio gemacht hast zurück in dein GitHub-Verzeichnis spielst, kannst du jedem zeigen woran du arbeitest.
+Dann ist eine Möglichkeit, dass du dir einen eigenen (kostenlosen) GitHub-Account anlegst. Du kannst dann einfach den Quellcode vom Taschenrechner übernehmen und nach Belieben verändern. Wenn du dann noch die Änderungen, die du lokal in Visual Studio gemacht hast zurück in dein GitHub-Verzeichnis spielst, kannst du jedem zeigen, woran du arbeitest.
 
-**Coming soon:** Ich arbeite gerade an einer kleinen Video-Serie in der ich dir Schritt für Schritt erkläre, wie du das alles machen kannst. 
+**Coming soon:** Ich arbeite gerade an einer kleinen Video-Serie, in der ich dir Schritt für Schritt erkläre, wie du dies alles umsetzen kannst.

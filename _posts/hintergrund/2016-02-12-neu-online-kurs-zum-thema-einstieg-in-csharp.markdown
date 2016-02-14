@@ -12,6 +12,6 @@ modified:
 date: 2016-02-12T13:35:03+01:00
 ---
 
-Bei LernMoment.de geht es nicht nur darum wie du dich entwickeln und lernen kannst, sondern auch ganz konkret um Inhalte. In meinem neuen umfangreichen Kurs bekommst du nicht nur Syntax erklärt, sondern ich gebe viel meiner Erfahrung weiter die ich in den letzten 13 Jahren gesammelt habe.
+Bei LernMoment.de geht es nicht nur darum, wie du dich entwickeln und lernen kannst, sondern auch ganz konkret um Inhalte. In meinem neuen umfangreichen Kurs bekommst du nicht nur Syntax erklärt, sondern ich gebe viel meiner Erfahrung weiter, die ich in den letzten 13 Jahren gesammelt habe.
 
 Alle Details zum Kurs findest du im Bereich ["C# Kurs"](/einstieg-csharp/).

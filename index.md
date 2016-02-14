@@ -8,9 +8,9 @@ image:
 lm-newsletter-group-id: 16
 ---
 
-> Deine Arbeitstage in der Softwareentwicklung sind häufig stressig? Du weißt nicht was deine beruflichen Ziele sind und/oder wie du sie erreichen kannst?
+> Deine Arbeitstage in der Softwareentwicklung sind häufig stressig? Du weißt nicht, was deine beruflichen Ziele sind und/oder wie du sie erreichen kannst?
 > 
-> Dann ist es Zeit, dass du deine Professionalität erhöhst. Hier bekommst du Anregungen, Hintergrundwissen und ich zeige dir Schritt für Schritt wie du deine Zufriedenheit im Job erhöhen kannst ohne jede Minute Freizeit opfern zu müssen.
+> Dann ist es Zeit, dass du deine Professionalität erhöhst. Ich zeige dir Schritt für Schritt wie du deine Zufriedenheit im Job und dein Gehalt erhöhen kannst, ohne jede Minute Freizeit opfern zu müssen.
 
 <a markdown="0" href="{{ site.url }}/starte-hier/" class="notice-button">Mehr zum Konzept des LernMoments >></a>
 
