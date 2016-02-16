@@ -2,6 +2,7 @@
 layout: post
 title: Lambda-Ausdrücke Erstellen
 excerpt: "=> vereinfache deinen Quellcode mit diesem Operator."
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

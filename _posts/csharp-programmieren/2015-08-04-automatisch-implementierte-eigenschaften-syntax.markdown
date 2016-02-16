@@ -2,6 +2,7 @@
 layout: post
 title: Automatisch Implementierte Eigenschaften - Die C# 6.0 Syntax
 excerpt: Wie du mit .NET 4.6 eine Eigenschaft mit nur get automatisch implementieren kannst.
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

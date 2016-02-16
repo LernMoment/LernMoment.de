@@ -4,6 +4,7 @@ title: Wenn du Antworten zu C# in Deutsch brauchst, ...
 date: 2015-10-20T06:00:00+02:00
 excerpt: InspirationsMoment - myCSharp.de
 modified:
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

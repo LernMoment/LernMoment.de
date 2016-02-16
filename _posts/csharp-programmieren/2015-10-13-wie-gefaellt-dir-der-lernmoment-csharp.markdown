@@ -4,6 +4,7 @@ title: Wie gefällt dir der LernMoment C#?
 date: 2015-10-13T06:00:00+02:00
 excerpt: Du kannst mir helfen LernMoment.de besser zu machen.
 modified:
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

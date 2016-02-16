@@ -2,6 +2,7 @@
 layout: post
 title: "Command.CanExecute"
 excerpt: "Wie du mit nur 3 Schritten deinem Benutzer die Bedienung erleichterst"
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

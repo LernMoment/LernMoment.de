@@ -3,6 +3,7 @@ layout: post
 title: Mit der Ausrichtungskomponente zu erstaunlichen Ausgaben
 date: 2015-09-04T06:00:00+02:00
 excerpt: Tabellarische Ausgabe mit kombinierter Formatierung
+share: true
 modified:
 categories: csharp-programmieren
 lernmoment: C#

@@ -4,6 +4,7 @@ title: DataContract - Von der Einfachheit Objekte in eine XML-Datei zu schreiben
 date: 2015-10-16T06:00:00+02:00
 excerpt: Verwende die Klassen DataContractSerializer, XmlWriter und XmlDictionaryWriter.
 modified:
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

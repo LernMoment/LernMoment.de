@@ -2,6 +2,7 @@
 layout: post
 title: Zuverlässig Entsorgen mit der using Anweisung
 excerpt: Wie du auch in Ausnahmefällen sicherstellst, dass Dispose aufgerufen wird.
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

@@ -2,6 +2,7 @@
 layout: post
 title: Ist C# unsicher per Design?
 excerpt: Wie du das Schlüsselwort unsafe verwendest.
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

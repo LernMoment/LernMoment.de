@@ -4,6 +4,7 @@ title: Parallel.ForEach und thread-lokale Daten
 date: 2015-09-15T06:00:00+02:00
 excerpt: Der Turboboost für einige deiner Schleifen.
 modified:
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

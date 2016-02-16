@@ -2,6 +2,7 @@
 layout: post
 title: XML Dokumentationskommentare
 excerpt: "Tags die deine Kommentare in IntelliSense erscheinen lassen."
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

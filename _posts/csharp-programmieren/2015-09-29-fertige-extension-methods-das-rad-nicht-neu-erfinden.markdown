@@ -4,6 +4,7 @@ title: Fertige Extension Methods - Das Rad nicht neu erfinden
 date: 2015-09-29T06:00:00+02:00
 excerpt: InspirationsMoment - ExtensionMethod.net
 modified:
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

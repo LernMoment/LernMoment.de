@@ -2,6 +2,7 @@
 layout: post
 title: Verwende deine C# Bibliothek in anderen .NET Sprachen
 date: 2015-09-01T06:00:00+02:00
+share: true
 excerpt: Der Trick mit CLSCompliant
 modified:
 categories: csharp-programmieren

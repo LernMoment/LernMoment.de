@@ -4,6 +4,7 @@ title: Weißt du wie die Versionsnummern von C# und .NET zusammenpassen?
 date: 2015-10-02T06:00:00+02:00
 excerpt: InspirationsMoment - .NET / C# Versionen
 modified:
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

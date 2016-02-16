@@ -4,6 +4,7 @@ title: Was magst du in deinen Wrap? Ausnahmen?
 date: 2015-09-17T06:00:00+02:00
 excerpt: Wie du wichtige Informationen über InnerException bekommst.
 modified:
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

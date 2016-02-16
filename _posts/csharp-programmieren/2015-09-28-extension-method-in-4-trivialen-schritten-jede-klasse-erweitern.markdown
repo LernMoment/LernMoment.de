@@ -4,6 +4,7 @@ title: Extension Method - Wie du in 4 trivialen Schritten jede Klasse erweitern 
 date: 2015-09-28T06:00:00+02:00
 excerpt: Und warum du es nicht so häufig tun solltest
 modified:
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

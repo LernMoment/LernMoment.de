@@ -4,6 +4,7 @@ title: Wie du WPF Oberflächen programmatisch bearbeitest und testest
 date: 2015-09-30T06:00:00+02:00
 excerpt: InspirationsMoment - UI Automation
 modified:
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

@@ -3,6 +3,7 @@ layout: post
 title: Kovarianz und Felder
 excerpt: "In der Praxis (fast) ganz einfach, aber in der Theorie echt abgefahren"
 modified:
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

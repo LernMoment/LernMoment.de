@@ -4,6 +4,7 @@ title: Warum das Abmelden von Events überbewertet ist.
 date: 2015-09-21T06:00:00+02:00
 excerpt: Und wann du es trotzdem machen solltest.
 modified:
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

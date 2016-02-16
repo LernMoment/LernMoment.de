@@ -3,6 +3,7 @@ layout: post
 title: DataContract - Die Flatrate zum Serialisieren deiner Objekte
 date: 2015-09-02T06:00:00+02:00
 excerpt: Wie du (fast) kostenlos einen Datenvertrag für deine Klasse realisierst
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

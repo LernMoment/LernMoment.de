@@ -4,6 +4,7 @@ title: Data-Templates - Stelle mühelos Details deiner Objekte in WPF dar
 date: 2015-10-05T06:00:00+02:00
 excerpt: Die wichtigsten Klassen und Eigenschaften zur Verwendung von DataTemplate.
 modified:
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

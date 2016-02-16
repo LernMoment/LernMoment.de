@@ -2,6 +2,7 @@
 layout: post
 title: Kombinierte Formatierung - Enumformate
 excerpt: Enums ausgeben mit ein wenig HEXerei
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

@@ -4,6 +4,7 @@ title: Mit C# 6.0 noch müheloser Werte in Strings einfügen
 date: 2015-09-25T06:00:00+02:00
 excerpt: InspirationsMoment - String Interpolation
 modified:
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2

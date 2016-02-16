@@ -2,6 +2,7 @@
 layout: post
 title: "Die Klasse File"
 excerpt: Wie du einfach eine Datei bearbeitest.
+share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 2
