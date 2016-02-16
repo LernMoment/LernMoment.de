@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Einstieg in C# - Software programmieren wie ein Profi
-excerpt: Hier stelle ich dir meinen Online-Kurs Einstieg in C# bei Udemy vor.
+excerpt: Online-Kurs bei dem du professionelle Softwareentwicklung und die Grundlagen von C# lernst.
 search_omit: true
 image:
   feature: MatheFormel.jpg
