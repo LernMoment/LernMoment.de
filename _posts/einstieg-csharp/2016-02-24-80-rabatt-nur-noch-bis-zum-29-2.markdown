@@ -16,7 +16,7 @@ Der Februar nähert sich dem Ende und die Aktion mit dem Einführungspreis für 
 
 Hier geht es direkt zum Kurs:
 <figure>
-	<a href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCsK_EinSta" target="_blank"><img src="/images/UCsK_LandingPage_Rabatt_Gross.png" alt="image"></a>
+	<a href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCsK_EinSta" target="_blank"><img src="/images/UCsK_LandingPage_Rabatt_Gross.jpg" alt="image"></a>
 </figure>
 
 Ein kleiner Tipp noch: Udemy macht immer mal wieder Aktionen. Wenn du also noch nicht bereit bist, hast du vielleicht auch später nochmals eine Chance auf einen Rabatt. Allerdings wird es keine 80% mehr geben.
