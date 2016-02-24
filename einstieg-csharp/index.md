@@ -20,7 +20,18 @@ Alles Wissenswerte zum Kurs und **80% Einführungsrabatt** bekommst du, wenn du 
 ## Details und weitere Ressourcen zum Kurs
 
 <ul class="post-list">
-{% for post in site.categories.einstieg-csharp %} 
+<!-- Create empty arrays -->
+{% assign both_categories = '' | split: ',' %}
+<!-- Push to both_categories -->
+{% for post in site.categories.einstieg-csharp '%}
+  {% assign both_categories = both_categories | push: post %}
+{% endfor %}
+{% for post in site.categories.alle '%}
+  {% assign both_categories = both_categories | push: post %}
+{% endfor %}
+{% assign both_categories = both_categories | sort: 'date' %}
+
+{% for post in both_categories reversed %} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date">{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
