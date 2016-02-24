@@ -14,7 +14,7 @@ Mit diesem Kurs hast du in 30 Minuten deine erste C#-Anwendung entwickelt. Viel 
 
 Alles Wissenswerte zum Kurs und **80% Einführungsrabatt** bekommst du, wenn du auf das folgende Bild klickst. Weiter unten findest du (kostenloses) Bonusmaterial zum Kurs. 
 <figure>
-	<a href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCsK_EinSta" target="_blank"><img src="/images/UCsK_LandingPage_Rabatt_Gross.png" alt="image"></a>
+	<a href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCsK_EinSta" target="_blank"><img src="/images/UCsK_LandingPage_Rabatt_Gross.jpg" alt="image"></a>
 </figure>
 
 ## Details und weitere Ressourcen zum Kurs
