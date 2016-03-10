@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Einführung in Async / Await"
-modified:
+modified: 2016-03-10T20:00:00+02:00
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
 excerpt: "wie du einfach asynchron Daten liest"
 tags: [Async, File]
 image:
@@ -90,20 +89,20 @@ Zusätzlich wird automatisch ein `Task` Objekt zur Verfügung gestellt. So ist e
 
 Es gibt sicherlich noch das ein oder andere zu beachten, aber `async / await` machen das asynchrone programmieren wirklich einfach. Trotzdem solltest du wissen was du tust!
 
-Jetzt erstmal viel Spaß beim warten.
+Jetzt erstmal viel Spaß beim Warten
 
 Jan
 
 ### Merke
 
 -	`StreamReader` bietet verschiedene Async-Methoden an, um asynchron Daten aus dem Stream zu lesen.
--	Ein `await` vor dem Aufruf von `ReadLineAsync` macht alles Task-Handling und sorgt dafür, dass ein String oder NULL zurückgegeben wird.
+-	Ein `await` vor dem Aufruf von `ReadLineAsync` macht das Task-Handling und sorgt dafür, dass ein String oder NULL zurückgegeben wird.
 -	Du kannst auch das `Task<string>` Objekt von `ReadLineAsync` verwenden, um beispielsweise andere Befehle auszuführen, bevor du `await` aufrufst.
 -	Definierst du eine Methode mit dem `async` Schlüsselwort im Methodenkopf, muss im Methodenrumpf wenigstens einmal `await` verwendet werden.
 
 ### Lernquiz 
 
-Verwende folgende Fragen um das gelernte von heute zu festigen:
+Verwende folgende Fragen um das Gelernte von heute zu festigen:
 
 -	Welches Schlüsselwort verwendest du in Kombination mit `ReadLineAsync` um die Wartezeit nicht zu vertrödeln?
 -	Was passiert durch die Verwendung von `await`?
