@@ -14,7 +14,7 @@ Amselstr. 20
 ### Kontakt:
 
 Telefon: +49 (0) 521 4549065
-E-Mail: jan@inginform.de
+E-Mail: jan@lernmoment.de
 
 ### Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:
 
