@@ -5,22 +5,21 @@ excerpt: "Warum einfach, wenn es auch mit implizit typisierten lokalen Variablen
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
 tags: [Syntax, Datentypen]
 image:
   feature: csharp-programmieren.jpg
-modified:
+modified: 2016-03-11T15:22:36+02:00
 date: 2015-07-26T16:22:36+02:00
 ---
 
-Wenn ich bisher in einem Quellcode die Verwendung von `var` gesehen habe, dann konnte ich immer ein leichtes Unbehagen verspühren. Das liegt vielleicht daran, dass mir bisher noch nicht wirklich klar war, was die Verwendung des Schlüsselwortes bedeutet. Irgendwie hatte ich wohl den Eindruck, dass damit die Typisierung aufgehoben wird. Aber:
+Wenn ich bisher in einem Quellcode die Verwendung von `var` gesehen habe, dann konnte ich immer ein leichtes Unbehagen verspühren. Das liegt wohl daran, dass mir bisher noch nicht klar war, was die Verwendung des Schlüsselwortes bedeutet. Bisher hatte ich den Eindruck, dass damit die Typisierung aufgehoben wird. Aber:
 
 > Das var-Schlüsselwort weist den Compiler an, den Typ der Variable aus dem Ausdruck an der rechten Seite der Initialisierungsanweisung abzuleiten.
 > -- <cite>[MSDN](https://msdn.microsoft.com/de-de/library/bb384061.aspx)</cite>
 
 Wie du siehst, geht es nicht darum, die Typisierung aufzuheben. Vielmehr überlässt du es dem Compiler den besten Typ auszuwählen. Dies ist ein klarer Unterschied zu beispielsweise JavaScript! Nun aber zu den Beispielen.
 
-Gerade bei anonymen Typen und LINQ-Abfragen kommst du ohne `var` nicht wirklich gut zurecht (dazu mehr in späteren LernMomenten). Ob du deren Einsatz brauchst oder für sinnvoll erachtest, bleibt dir überlassen. Hier noch Quellcode den ich in diesem Kontext interessant finde:
+Gerade bei anonymen Typen und LINQ-Abfragen kommst du ohne `var` nicht zurecht. Ob du deren Einsatz brauchst oder für sinnvoll erachtest, bleibt dir überlassen. Hier Quellcode den ich in diesem Kontext interessant finde:
 
 ```cs
 // mit var - ohne Wissen von LINQ und anonymen Typen kann ich nicht erklären
@@ -43,7 +42,7 @@ Console.WriteLine("Apfel hat folgende Unterschiede zu Birne: " + resultat.ToStri
 
 Wenn die Methode `VergleicheMit` ihren Rückgabewert ändert, z.B. durch ein Refactoring, brauchst du den aufrufenden Code nicht zu ändern. Für mich ist das kein gutes Beispiel für die Verwendung von `var`, weil ich es bevorzuge diese Stellen anzuschauen. Vielleicht macht die Ausgabe des neuen Rückgabetyps gar keinen Sinn mehr. Da finde ich es besser, dass der Compiler mir sagt, dass die Typen nicht zusammen passen und ich die Stellen von Hand ändere. Das ist natürlich zusätzlicher Aufwand.
 
-Ein wichtiger Fall in dem die Verwendung von `var` wirklich Sinn macht, ist die Reduzierung von Redundanz. Schau dir folgendes Beispiel an:
+Ein wichtiger Fall in dem die Verwendung von `var` Sinn macht, ist die Reduzierung von Redundanz. Schau dir folgendes Beispiel an:
 
 ```cs
 //explizite Definition ohne var
