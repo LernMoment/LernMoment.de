@@ -1,7 +1,7 @@
 ---
 layout: main-page
 title: 
-excerpt: "Beherrsche Softwareentwicklung indem du täglich kurze Lerneinheiten für C# (.NET / Mono) und C absolvierst."
+excerpt: "Beherrsche Softwareentwicklung in kontinuierlichen, aber kleinen Schritten. Vom Anfänger zum Profi in C#, Git, GitHub und mehr."
 search_omit: true
 image:
   feature: intro-mac.jpg
