@@ -5,17 +5,17 @@ excerpt: "=> vereinfache deinen Quellcode mit diesem Operator."
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
 tags: [Syntax, Lambda, Delegate]
+lm-newsletter-group-id: 2
 image:
   feature: csharp-programmieren.jpg
-modified:
+modified: 2016-03-18T08:00:00+02:00
 date: 2015-07-29T08:00:00+02:00
 ---
 
-Lambda Ausdrücke bieten dir die Möglichkeit Anonyme Methoden und Delegates in einer sehr kurzen Schreibweise zu erstellen. Ich finde diese Schreibweise etwas gewöhnungsbedürftig. Da sie aber eine sehr ausdrucksstarke Möglichkeit bietet kurze Methoden zu erstellen (z.B. als Prädikate oder für die asynchrone Ausführung) und sie insbesondere für LINQ intensiv benutzt wird, solltest du ihre Syntax beherrschen.
+Lambda Ausdrücke bieten dir die Möglichkeit [Anonyme Methoden]({% post_url /csharp-programmieren/2015-07-27-anonyme-methode %}) und Delegates in einer kurzen Schreibweise zu erstellen. Ich finde diese Schreibweise durchaus gewöhnungsbedürftig. Da sie aber eine ausdrucksstarke Möglichkeit bietet kurze Methoden zu erstellen (z.B. als Prädikate oder für die asynchrone Ausführung) und sie insbesondere für LINQ intensiv benutzt wird, solltest du ihre Syntax beherrschen.
 
-Die Basis der Lambda Ausdrücke ist der `=>` Operator. Dieser Operator wird auch Lambda-Operator genannt. Hier ein Beispiel (das komplette und lauffähige Beispiel findest du [hier](tbd)):
+Die Basis der Lambda Ausdrücke ist der `=>` Operator. Dieser Operator wird auch Lambda-Operator genannt. Hier ein Beispiel (das komplette und lauffähige Beispiel findest du [hier](https://github.com/LernMoment/csharp/tree/master/LambdaErstellen)):
 
 ```cs
 // Deklariere ein Delegate
@@ -84,4 +84,6 @@ Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherige
 ### Weitere Informationen
 
 -	Das komplette Beispielprogramm zu diesem LernMoment findest du [hier](https://github.com/LernMoment/csharp/tree/master/LambdaErstellen)
+-	Eine Einführung in das Thema Delegates (inkl. Func & Lambda) findest du [hier](http://www.codeproject.com/Articles/47887/C-Delegates-Anonymous-Methods-and-Lambda-Expressio).
+-	Eine weitere Art von Delegates stelle ich dir im [LernMoment - Predicate Delegate vor.]({% post_url /csharp-programmieren/2015-07-31-predicate-delegate %})
 
