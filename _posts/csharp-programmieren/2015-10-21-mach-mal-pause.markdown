@@ -3,9 +3,10 @@ layout: post
 title: Mach mal Pause
 date: 2015-10-21T06:00:00+02:00
 excerpt: Planung nächste Generation LernMoment.de
-modified:
+modified: 2016-03-18T06:00:00+02:00
 categories: csharp-programmieren
 lernmoment: C#
+share: true
 lm-newsletter-group-id: 2
 tags: [Konzept, Lernen]
 image:
@@ -18,7 +19,7 @@ Damit bin ich bereits angefangen und werde dies in den kommenden Wochen finalisi
 
 Wenn du mich unterstützen möchtest bei der Überarbeitung des Konzeptes, und bisher die Umfrage "Wie gefällt dir der LernMoment?" noch nicht ausgefüllt hast, dann würde ich mich über deine Antworten freuen. Die Umfrage findest du [hier](http://goo.gl/forms/QIKMzQdIAm). Hast du Anregungen, welche Themen dich interessieren würden, oder weitere Rückmeldungen, dann kannst du mir gerne ein [Mail schreiben](mailto:jan@lernmoment.de) oder einen Kommentar zu diesem Artikel hinterlassen.
 
-Möchtest du über Neuigkeiten bezüglich LernMoment und neuen Inhalten für C# informiert werden, dann melde dich einfach für die Themen an, die dich interessieren. [Hier geht es zur Anmeldung (kostenlos und ohne Spam)](/werde-meister/).
+Möchtest du über Neuigkeiten bezüglich LernMoment und neuen Inhalten für C# informiert werden, dann melde dich einfach über den gelben Kasten unten an.
 
 Jetzt erstmal viel Spaß beim Anwenden deines Wissens
 
