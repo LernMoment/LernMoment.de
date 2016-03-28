@@ -48,3 +48,5 @@ In dieser Hinsicht sei zum Schluss noch auf die <a href="https://xamarin.com/pla
 Vielen Dank an Tobias für diesen Gastartikel und dir viel Spaß beim Überlegen wozu du C# nutzen möchtest
 
 Jan
+
+PS: Wenn du eine noch detailliertere Einführung in diese und weitere Spieleframeworks (auch in den Sprachen C++ und JavaScript) möchtest, kann ich dir <a href="https://channel9.msdn.com/Shows/gamedev/1" target="_blank">dieses Video auf Channel9</a> empfehlen. Es ist allerdings nur in Englisch verfügbar.
