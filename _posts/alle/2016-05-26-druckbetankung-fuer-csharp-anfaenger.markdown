@@ -22,7 +22,7 @@ Wenn du [#DailyGitHub](https://github.com/LernMoment/DailyGitHub) verfolgst, dan
  - aber insbesondere, weil ich an dem von mir gewählten Thema dranbleibe!
 
 In letzter Zeit wurden mir immer wieder Fragen wie diese gestellt: **"Ich habe eine erste Idee der Konzepte von professioneller Softwareentwicklung (in C#) und JETZT?"**
-Wenn es dir ähnlich geht, dann erstmal meinen herzlichen Glückwunsch! Es macht mich immer glücklich, wenn jemand sich nicht nur mit dem Programmieren beschäftigt, sondern auch mit dem (fast) wichtigeren Drumherum.
+Wenn es dir ähnlich geht, dann erstmal meinen herzlichen Glückwunsch! Es macht mich immer glücklich, wenn sich jemand nicht nur mit der Syntax, sondern auch mit dem wichtigeren Drumherum beschäftigt.
 
 Egal ob du einen [Kurs belegt](/einstieg-csharp/), ein Buch gelesen oder [Tutorials auf Youtube](https://www.youtube.com/playlist?list=PLP2TrPpx5VNkr-wmkjguVZAvN4T5EPJbF) gesehen hast, die nächsten Schritte sind dann ungemein schwer. Stell dir vor, jemand sagt zu dir *"Schreib doch mal ein kleines Programm, dass xyz macht."* Was kommt dir als erstes in den Sinn? 
 
@@ -32,7 +32,7 @@ Egal ob du einen [Kurs belegt](/einstieg-csharp/), ein Buch gelesen oder [Tutori
 > Welche Daten und Methoden benötige ich?
 > Nehme ich besser eine `for` oder eine `while` Schleife?
 
-Kommen dir solche Gedanken bekannt vor? Dann sollte die **??? C# Challenge** für dich wie geschaffen sein. Es geht darum, dass du ein komplettes Projekt vom Anfang bis zum Ende machst. Du hast mich an deiner Seite, wenn du Probleme bekommst. Ich helfe dir dabei das Projekt in kleine Aufgaben zu unterteilen, ein Design zu entwickeln und ein Release zu erstellen. Die Herausforderung ist jedoch, dass du dran arbeitest. Nicht ich ;-).
+Kommen dir solche Gedanken bekannt vor? Dann sollte die **??? C# Challenge** für dich wie geschaffen sein. Es geht darum, dass du ein komplettes Projekt vom Anfang bis zum Ende machst. Du hast mich an deiner Seite, wenn du Probleme bekommst. Ich helfe dir dabei das Projekt in kleine Aufgaben zu unterteilen, ein Design zu entwickeln und ein Release zu erstellen. Die Herausforderung ist jedoch, dass du daran arbeitest. Nicht ich.
 
 Warum *??? C# Challenge*? Das Thema verrate ich dir noch nicht. Warte noch ein wenig ab und freue dich schon mal. Die Challenge beginnt in wenigen Wochen. 
 
