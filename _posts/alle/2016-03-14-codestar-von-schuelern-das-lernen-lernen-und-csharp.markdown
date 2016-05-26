@@ -4,6 +4,7 @@ title: "CodeStar.ch - Von Schülern das Lernen lernen (und C#)"
 excerpt: Erfahre was mich an 2 Schülern beeindruckt und auch du von ihnen lernen kannst.
 categories: alle
 lernmoment: C#
+show-lm-newsletter-subscribe-box: false
 tags: [Weiterbildung, Professionalität, C#]
 share: true
 image:

@@ -7,6 +7,7 @@ share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1
+show-lm-newsletter-subscribe-box: true
 tags: [Konzept, Datentypen, Vererbung]
 image:
   feature: csharp-programmieren.jpg

@@ -5,6 +5,7 @@ excerpt: Tobias Vetter stellt dir Unity, XNA und MonoGame vor
 categories: alle
 lernmoment: C#
 lm-newsletter-group-id: 1
+show-lm-newsletter-subscribe-box: true
 share: true
 tags: [C#, Spieleentwicklung, Frameworks]
 image:

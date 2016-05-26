@@ -5,6 +5,8 @@ modified: 2016-03-10T20:00:00+02:00
 share: true
 categories: csharp-programmieren
 lernmoment: C#
+lm-newsletter-group-id: 1
+show-lm-newsletter-subscribe-box: true
 excerpt: "wie du einfach asynchron Daten liest"
 tags: [Async, File]
 image:

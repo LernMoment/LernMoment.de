@@ -4,6 +4,7 @@ title: NEU - Online-Kurs zum Thema "Einstieg in C#"
 excerpt: Mit diesem Kurs hast du in 30 Minuten deine erste C#-Anwendung entwickelt und lernst was professionelle Softwareentwicklung bedeutet.
 categories: hintergrund
 lernmoment: UCsK
+show-lm-newsletter-subscribe-box: false
 share: true
 tags: [Professionelle Softwareentwicklung, C#]
 image:

@@ -4,6 +4,7 @@ title: Versionsverwaltung - Dein Rückgaberecht für Quellcodeänderungen!
 excerpt: In diesem Artikel geht es um das schnelle Finden einer Entscheidung.
 categories: einstieg-csharp
 lernmoment: UCsK
+show-lm-newsletter-subscribe-box: false
 share: true
 tags: [Artikel]
 image:

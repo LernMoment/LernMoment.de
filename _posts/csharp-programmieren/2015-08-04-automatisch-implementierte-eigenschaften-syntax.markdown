@@ -6,6 +6,7 @@ share: true
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1
+show-lm-newsletter-subscribe-box: true
 tags: [Syntax, Eigenschaften, C# 6.0]
 image:
   feature: csharp-programmieren.jpg

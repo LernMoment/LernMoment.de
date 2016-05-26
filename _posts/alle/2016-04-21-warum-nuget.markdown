@@ -5,6 +5,7 @@ excerpt: Auf NuGet.org gibt es fast 55.000 Pakete mit grandioser Funktionalität
 categories: alle
 lernmoment: C#
 lm-newsletter-group-id: 1
+show-lm-newsletter-subscribe-box: true
 share: true
 tags: [C#, Werkzeug, NuGet]
 image:

@@ -8,6 +8,7 @@ modified:
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1
+show-lm-newsletter-subscribe-box: true
 tags: [Syntax, String, Datentypen]
 image:
   feature: csharp-programmieren.jpg

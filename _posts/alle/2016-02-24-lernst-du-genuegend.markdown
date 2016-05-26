@@ -3,6 +3,7 @@ layout: post
 title: Lernst du genügend? Mit diesen 3 Schritten schaffst du den Anfang noch heute!
 excerpt: "Es ist deine Verantwortung dich weiter zu bilden. In diesem Gastartikel beschreibe ich einen möglichen Weg."
 categories: alle
+show-lm-newsletter-subscribe-box: false
 share: true
 tags: [Weiterbildung, Professionalität]
 image:

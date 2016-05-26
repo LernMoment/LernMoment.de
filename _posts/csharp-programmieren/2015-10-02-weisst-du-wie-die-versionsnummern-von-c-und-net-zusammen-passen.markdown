@@ -7,6 +7,8 @@ modified: 2016-03-10T19:00:00+02:00
 share: true
 categories: csharp-programmieren
 lernmoment: C#
+lm-newsletter-group-id: 1
+show-lm-newsletter-subscribe-box: true
 tags: [Inspiration, C# 6.0, Versionen]
 image:
   feature: csharp-programmieren.jpg

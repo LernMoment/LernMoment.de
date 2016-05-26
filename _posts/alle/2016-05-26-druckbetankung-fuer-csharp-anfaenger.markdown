@@ -5,8 +5,9 @@ excerpt: "Turbo für C# Anfänger um mehr zu lernen und zu üben."
 categories: alle
 lernmoment: C#
 lm-newsletter-group-id: 8
+show-lm-newsletter-subscribe-box: false
 share: true
-tags: [C#, "??? Challenge"]
+tags: [C#, "??? Challenge", GitHub]
 image:
   feature: intro-code.jpg
 modified:
@@ -33,7 +34,14 @@ Egal ob du einen [Kurs belegt](/einstieg-csharp/), ein Buch gelesen oder [Tutori
 
 Kommen dir solche Gedanken bekannt vor? Dann sollte die **??? C# Challenge** für dich wie geschaffen sein. Es geht darum, dass du ein komplettes Projekt vom Anfang bis zum Ende machst. Du hast mich an deiner Seite, wenn du Probleme bekommst. Ich helfe dir dabei das Projekt in kleine Aufgaben zu unterteilen, ein Design zu entwickeln und ein Release zu erstellen. Die Herausforderung ist jedoch, dass du dran arbeitest. Nicht ich ;-).
 
-Warum *??? C# Challenge*? Das Thema verrate ich dir noch nicht. Warte noch ein wenig ab und freue dich schon mal. Die Challenge beginnt in wenigen Wochen. Melde dich jetzt (unverbindlich und kostenlos) an und ich halte dich auf dem Laufendem. Apropos! Die Challenge ist komplett kostenfrei und du kannst auch ohne Anmeldung dabei sein. Allerdings haben die angemeldeten Teilnehmer ein wenig mehr von der Challenge (und mir ;). Dazu demnächst mehr.
+Warum *??? C# Challenge*? Das Thema verrate ich dir noch nicht. Warte noch ein wenig ab und freue dich schon mal. Die Challenge beginnt in wenigen Wochen. 
+
+<div class="subscribe-notice">
+  <h5>Melde dich jetzt (unverbindlich und kostenlos) an:</h5>
+    {% include lernmoment-subscribe.html %}
+</div>
+
+Apropos! Die Challenge ist komplett kostenfrei und du kannst auch ohne Anmeldung dabei sein. Allerdings haben die angemeldeten Teilnehmer ein wenig mehr von der Challenge (und mir ;). Dazu demnächst mehr.
 
 Viel Spaß beim Lernen und Überlegen was das Thema sein könnte
 

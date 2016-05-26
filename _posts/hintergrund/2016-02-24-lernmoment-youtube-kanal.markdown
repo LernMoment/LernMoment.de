@@ -10,6 +10,7 @@ image:
 modified:
 date: 2016-02-24T13:13:09+01:00
 lm-newsletter-group-id: 2
+show-lm-newsletter-subscribe-box: true
 ---
 
 Letztes Jahr habe ich mit den Lesern von LernMoment.de diskutiert, wie für das Lernen neben dem Beruf wichtig ist. Ein Aspekt der dabei immer wieder angesprochen wurde, ist die praktische Umsetzung. Das erklären von Konzepten und Zusammenhängen ist wichtig, aber es hilft auch, wenn Beispiele gezeigt werden.

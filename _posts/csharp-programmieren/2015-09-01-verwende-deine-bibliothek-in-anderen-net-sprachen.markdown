@@ -8,6 +8,7 @@ modified:
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1
+show-lm-newsletter-subscribe-box: true
 tags: [Konzept, Compiler, Runtime]
 image:
   feature: csharp-programmieren.jpg

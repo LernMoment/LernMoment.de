@@ -8,6 +8,7 @@ categories: csharp-programmieren
 lernmoment: C#
 share: true
 lm-newsletter-group-id: 1
+show-lm-newsletter-subscribe-box: true
 tags: [Konzept, Lernen]
 image:
   feature: csharp-programmieren.jpg

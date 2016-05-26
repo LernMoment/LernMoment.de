@@ -4,6 +4,7 @@ title: "C# Tutorial in Deutsch - Erste Schritte mit Visual Studio 2015"
 excerpt: "Du bist noch unentschlossen ob der Online-Kurs etwas für dich ist? Dann starte doch mit diesem kostenlosen Tutorial."
 categories: einstieg-csharp
 lernmoment: C#
+show-lm-newsletter-subscribe-box: false
 share: true
 tags: [Video, Tutorial]
 image:
