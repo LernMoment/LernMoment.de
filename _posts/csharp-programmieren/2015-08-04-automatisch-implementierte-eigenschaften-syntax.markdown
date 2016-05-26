@@ -5,7 +5,7 @@ excerpt: Wie du mit .NET 4.6 eine Eigenschaft mit nur get automatisch implementi
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 tags: [Syntax, Eigenschaften, C# 6.0]
 image:
   feature: csharp-programmieren.jpg

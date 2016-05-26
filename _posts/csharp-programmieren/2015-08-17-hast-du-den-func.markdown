@@ -5,7 +5,7 @@ excerpt: Vereinfache deinen Quelltext mit Func<...>
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 tags: [Konzept, Delegate, Generics]
 image:
   feature: csharp-programmieren.jpg

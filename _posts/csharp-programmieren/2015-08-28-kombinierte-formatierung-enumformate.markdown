@@ -5,7 +5,7 @@ excerpt: Enums ausgeben mit ein wenig HEXerei
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 tags: [Syntax, String, Datentypen]
 image:
   feature: csharp-programmieren.jpg

@@ -5,7 +5,7 @@ excerpt: Verstehe das Konzept mühelos am Beispiel von IComparable.
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 tags: [Konzept, Generics, Datentypen]
 image:
   feature: csharp-programmieren.jpg

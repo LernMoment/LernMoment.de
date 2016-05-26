@@ -6,7 +6,7 @@ excerpt: Wie du (fast) kostenlos einen Datenvertrag für deine Klasse realisiers
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 tags: [Syntax, File, Serialisierung]
 image:
   feature: csharp-programmieren.jpg

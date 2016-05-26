@@ -5,7 +5,7 @@ excerpt: Wie du auch in Ausnahmefällen sicherstellst, dass Dispose aufgerufen w
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 tags: [Syntax, Dispose, Garbage Collection]
 image:
   feature: csharp-programmieren.jpg

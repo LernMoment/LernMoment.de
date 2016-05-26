@@ -7,7 +7,7 @@ modified: 2015-10-07T13:00:00+02:00
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 tags: [Übung, Pattern, Async]
 image:
   feature: csharp-programmieren.jpg

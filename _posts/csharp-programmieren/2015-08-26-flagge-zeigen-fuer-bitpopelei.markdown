@@ -7,7 +7,7 @@ share: true
 modified:
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 tags: [Syntax, Datentypen, Enum]
 image:
   feature: csharp-programmieren.jpg

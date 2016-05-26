@@ -5,7 +5,7 @@ excerpt: Wann du welchen Ansatz zur asynchronen Ausführung verwendest.
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 tags: [Konzept, Async, TPL]
 image:
   feature: csharp-programmieren.jpg

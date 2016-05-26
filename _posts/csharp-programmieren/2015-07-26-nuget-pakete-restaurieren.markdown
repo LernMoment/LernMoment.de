@@ -5,7 +5,7 @@ excerpt: "Delegiert! Wie du automatisch fehlende Pakete laden lässt."
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 tags: [Werkzeug, NuGet]
 image:
   feature: csharp-programmieren.jpg

@@ -5,7 +5,7 @@ excerpt: "Alle bisher veröffentlichten LernMomente für die Programmiersprache 
 image:
   feature: csharp-programmieren-ohne.jpg
 search_omit: true
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 ---
 
 <ul class="post-list">

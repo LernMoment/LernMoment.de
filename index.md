@@ -5,7 +5,7 @@ excerpt: "Beherrsche Softwareentwicklung in kontinuierlichen, aber kleinen Schri
 search_omit: true
 image:
   feature: intro-mac.jpg
-lm-newsletter-group-id: 16
+lm-newsletter-group-id: 2
 ---
 
 > Deine Arbeitstage in der Softwareentwicklung sind häufig stressig? Du weißt nicht, was deine beruflichen Ziele sind und/oder wie du sie erreichen kannst?

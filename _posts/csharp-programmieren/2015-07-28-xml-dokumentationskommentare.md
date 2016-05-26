@@ -5,7 +5,7 @@ excerpt: "Tags die deine Kommentare in IntelliSense erscheinen lassen."
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 tags: [Syntax, Intellisense, Tags]
 image:
   feature: csharp-programmieren.jpg

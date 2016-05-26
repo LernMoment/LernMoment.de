@@ -4,7 +4,7 @@ title: "Zeitersparnis - einer von vielen Gründen für NuGet"
 excerpt: Auf NuGet.org gibt es fast 55.000 Pakete mit grandioser Funktionalität. Nutze Sie!
 categories: alle
 lernmoment: C#
-lm-newsletter-group-id: 16
+lm-newsletter-group-id: 1
 share: true
 tags: [C#, Werkzeug, NuGet]
 image:

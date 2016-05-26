@@ -6,7 +6,7 @@ search_omit: true
 image:
   feature: MatheFormel.jpg
 modified:
-lm-newsletter-group-id: 32
+lm-newsletter-group-id: 4
 date: 2016-02-03T09:30:00+01:00
 ---
 

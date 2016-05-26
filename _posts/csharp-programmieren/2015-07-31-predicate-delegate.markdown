@@ -5,7 +5,7 @@ excerpt: "Wie du spezifische Abfragen in generischen Algorithmen verwendest."
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 tags: [Syntax, Delegate, Generics]
 image:
   feature: csharp-programmieren.jpg

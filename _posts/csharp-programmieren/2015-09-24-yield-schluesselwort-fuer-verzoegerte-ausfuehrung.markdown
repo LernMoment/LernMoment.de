@@ -7,7 +7,7 @@ modified:
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 tags: [Konzept, Methoden, Generics]
 image:
   feature: csharp-programmieren.jpg

@@ -5,7 +5,7 @@ excerpt: Die McCabe Metrik zeigt dir wo du Fehler und Testaufwand minimieren kan
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 tags: [Konzept, Metrik, Qualität]
 image:
   feature: csharp-programmieren.jpg

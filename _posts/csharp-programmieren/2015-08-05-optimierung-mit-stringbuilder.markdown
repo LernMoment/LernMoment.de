@@ -5,7 +5,7 @@ excerpt: "Regeln der Optimierung: 1.) Tue es nicht, 2.) Tue es noch nicht!"
 share: true
 categories: csharp-programmieren
 lernmoment: C#
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 tags: [Methoden, string]
 image:
   feature: csharp-programmieren.jpg

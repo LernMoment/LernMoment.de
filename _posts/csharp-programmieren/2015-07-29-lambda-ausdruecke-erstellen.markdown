@@ -6,7 +6,7 @@ share: true
 categories: csharp-programmieren
 lernmoment: C#
 tags: [Syntax, Lambda, Delegate]
-lm-newsletter-group-id: 2
+lm-newsletter-group-id: 1
 image:
   feature: csharp-programmieren.jpg
 modified: 2016-03-18T08:00:00+02:00

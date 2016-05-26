@@ -4,7 +4,7 @@ title: Warum C# Lernen? Möglichkeit 1 - Spieleentwicklung mit Spieleframeworks
 excerpt: Tobias Vetter stellt dir Unity, XNA und MonoGame vor
 categories: alle
 lernmoment: C#
-lm-newsletter-group-id: 16
+lm-newsletter-group-id: 1
 share: true
 tags: [C#, Spieleentwicklung, Frameworks]
 image:
