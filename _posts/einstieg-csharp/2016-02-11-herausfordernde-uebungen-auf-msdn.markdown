@@ -23,6 +23,8 @@ Solche "Tiefenbohrungen" sind zwar überaus anstrengend, aber sie sind auch ungl
 
 Wenn du Fragen zu den Aufgaben hast, dann kannst du gerne hier oder auch im Diskussionsforum einen Kommentar hinterlassen.
 
+**Du willst ein wenig intensiver üben? Dann schau dir unbedingt die** [??? C# Challenge an](/alle/druckbetankung-fuer-csharp-anfaenger/).
+
 Viel Spaß beim weiteren Üben
 
 Jan
