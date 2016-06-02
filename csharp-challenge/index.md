@@ -26,8 +26,12 @@ JETZT werden wir gemeinsam eine kleine C# Anwendung entwickeln. Es ist nicht wie
 {% for post in site.categories.fragezeichen-csc '%}
   {% assign both_categories = both_categories | push: post %}
 {% endfor %}
-{% for post in site.categories.alle '%}
-  {% assign both_categories = both_categories | push: post %}
+{% for post in site.categories.alle %}
+  {% for tag in post.tags %}
+    {% if tag == "??? Challenge" %}
+      {% assign both_categories = both_categories | push: post %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
 {% assign both_categories = both_categories | sort: 'date' %}
 
