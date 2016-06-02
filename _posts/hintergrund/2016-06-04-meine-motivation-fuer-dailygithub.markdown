@@ -50,13 +50,13 @@ Wenn ich also zeigen kann, dass diese und meine anderen Thesen bezüglich GitHub
 
 ### Schritt 3 - Auslöser definieren
 
-Wenn du dich schon mal mit dem Etablieren oder ändern von Gewohnheiten beschäftigt hast, wirst du wissen, dass für viele Leute der Auslöser ein Erfolgsfaktor ist. Bei Mini-Gewohnheiten geht es auch ohne. Allerdings geht es häufig nicht ohne eine Erinnerung.
+Wenn du dich schon mal mit dem Etablieren oder Ändern von Gewohnheiten beschäftigt hast, wirst du wissen, dass für viele Leute der Auslöser ein Erfolgsfaktor ist. Bei Mini-Gewohnheiten geht es auch ohne. Allerdings geht es häufig nicht ohne eine Erinnerung.
 
 Ich habe schon einige Gewohnheiten mit diesem System verändert und musste feststellen, dass ich einfach eine Erinnerung brauche. Es ist nicht wichtig, dass ich eine Mini-Gewohnheit zu einer festen Zeit oder vor/nach einer andere Aktivität ausführe. Allerdings brauche ich (wenigstens) zu Anfang eine Liste oder ähnliches.
 
 Für diese Mini-Gewohnheit habe ich mir keinen festen Auslöser gewählt. Es ist nur wichtig, dass ich sie innerhalb von 24h einmal erledigt habe. Dazu habe ich eine App auf meinem Smartphone. Da schaue ich täglich vor dem ins Bett gehen rein. Wenn ich sehe, dass ich eine Mini-Gewohnheit noch nicht erledigt habe, dann mache ich sie eben dann.
 
-Probier es einfach aus. Es funktioniert tatsächlich großartig. Ich habe schon einige Abende noch da gesessen und habe einen Kommentar an ein Issue geschrieben, damit ich ins Bett gehen konnte. Das tolle ist, dass ich mich dann erfolgreich fühle. Auch wenn es nur eine kleine Aktivität war, habe ich sie einfach umgesetzt.
+Probier es einfach aus. Es funktioniert tatsächlich großartig. Ich habe schon einige Abende noch da gesessen und habe einen Kommentar an ein Issue geschrieben, damit ich ins Bett gehen konnte. Das Tolle ist, dass ich mich dann erfolgreich fühle. Auch wenn es nur eine kleine Aktivität war, habe ich sie einfach umgesetzt.
 
 ### Schritt 4 - Belohnungssystem
 
