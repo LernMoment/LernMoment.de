@@ -1,71 +1,118 @@
 ---
 layout: post
-title: "These: GitHub ist DAS Killerargument im Bewerbungsgespräch."
-excerpt: "Warum ich im Rahmen der #DailyGitHub Challenge jeden Tag aktiv bin."
-categories: alle
+title: "#DailyGitHub - Kleine Schritte und große Resultate"
+excerpt: "In 8 Schritten zur großen Veränderung."
+categories: hintergrund
 lernmoment: C#
 lm-newsletter-group-id: 8
 show-lm-newsletter-subscribe-box: true
 share: true
-tags: [Inspiration, Challenge, DailyGitHub]
+tags: [Inspiration, Mini-Gewohnheit, DailyGitHub]
 image:
   feature: intro-code.jpg
 modified:
-date: 2016-06-01T13:00:00+01:00
+date: 2016-06-04T09:00:00+01:00
 ---
 
-Obwohl ich schon seit einigen Jahren bei [GitHub](https://github.com/suchja) aktiv bin, habe ich erst vor einigen Monaten das ganze Potential erkannt. Es ist herausragend, wenn du Ideen benötigst, Lernen/Üben willst, mit anderen Entwicklern in Kontakt kommen willst oder dein Wissen, dein Portfolio und deine Arbeitsweise darstellen willst.
+Wenn du dich auf LernMoment schon umgesehen hast oder schon länger liest, dann weißt du, dass ich ein großer Freund von kleinen Schritten bin. Das habe ich in einem Experiment in den letzten 14 Tagen konsequent umgesetzt und bin begeistert!
 
-Das Projekt #DailyGitHub habe ich gestartet, weil ich der Ansicht bin, dass du auf dieser Plattform **üben, lernen, umsetzen und vermarkten** kannst. Das sind für mich die Kernaktivitäten, wenn du dich als Softwareentwickler auf die nächste Ebene bringen willst. Da ich bisher allerdings noch kein schlüssiges Gesamtkonzept habe, ist es mein Ziel dieses mit #DailyGitHub zu erarbeiten.
+Das Experiment nennt sich **#DailyGitHub** und ist - Überraschung! - auf [GitHub zu finden](https://github.com/LernMoment/DailyGitHub). Neben dem Projekt gibt es sogar eine Videoserie: [Die #DailyGitHub Show](https://www.youtube.com/playlist?list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ). Darin bekommst du Tipps und Tricks zum Umgang mit GitHub und kannst täglich sehen welche Resultate ich mit meinen kleinen Schritten erreiche.
 
-Ich werde in den nächsten Monaten (und wahrscheinlich Jahren) jeden Tag wenigstens eine Kleinigkeit auf GitHub ausprobieren. Geleitet werden diese Mini-Versuche durch allgemeine Thesen die ich bisher aufgestellt habe. Genau diese Thesen möchte ich dir im folgenden vorstellen.
+Warum erzähle ich dir das alles? Die Idee habe ich basierend auf einem wunderbaren Buch von Stephen Guise entwickelt: ["Viel besser als gute Vorsätze: Wie Sie mit Mini-Gewohnheiten Maxi-Erfolge erleben"](https://www.amazon.de/Viel-besser-gute-Vorsätze-Mini-Gewohnheiten/dp/3867311641/ref=sr_1_1?ie=UTF8&qid=1464902660&sr=8-1&keywords=stephen+guise). Im folgenden stelle ich dir die **8 Schritte zur großen Veränderung** aus dem Buch vor und wie ich sie für mich in #DailyGitHub umsetzte.
 
+### Schritt 1 - Mini-Gewohnheit wählen
 
+Das war einfach für mich. Nachdem ich meinen neuen Kurs ["GitHub für Entwickler"](https://www.udemy.com/github-fuer-entwickler/?couponCode=LernMoment_15-UGiHuK) fertig hatte, war ich bis in die Haarspitzen motiviert GitHub bis ins kleinste Detail zu verstehen.
 
-Das Projekt #DailyGitHub ist für mich eines der wichtigsten, wenn nicht gar das wichtigste Projekt, welches ich in den letzten Jahren begonnen habe. Warum? Ich habe zum erstenmal das Gefühl, dass sich alles was ich in den letzten 20 Jahren gelernt habe zusammenfügt. GitHub ist für mich eine Plattform, auf der du
+Nach einigen Wochen Recherche über GitHub ist mir folgende These eingeschossen:
 
- - üben,
- - lernen,
- - reflektieren,
- - dokumentieren,
- - vermarkten und
- - gemeinsam mit anderen arbeiten kannst.
+> GitHub ist DAS Killerargument für dein Bewerbungsgespräch. - [Jan Suchotzki](https://github.com/LernMoment/DailyGitHub/issues/31)
 
-Das sind für mich die Kernaktivitäten von professioneller Softwareentwicklung.
+Obwohl es erstmal noch eine These ist, die ich in den kommenden Wochen und Monaten validieren oder wiederlegen werde, bin ich überzeugt davon. Wenn ich in 10 Bewerbungsgesprächen (nicht als Bewerber) einen GitHub Account der Bewerber gehabt hätte, hätte ich mir viel Zeit ersparen können. Auf GitHub geht es um das Umsetzen. Es ist also einfach zusehen, wie ein Entwickler arbeitet.
 
-## Angetreten um meine Thesen zu validieren
+Zurück zu den Mini-Gewohnheiten. Langfristig möchte ich also verstehen welche Vorzüge GitHub bietet und wie ich darauf arbeiten muss um das beste herauszuholen. Nun ist das definitiv keine Mini-Gewohnheit.
 
-Nun bin ich noch relativ "frisch" auf GitHub. Daher habe ich im Rahmen von #DailyGitHub einige These entwickelt. Meine Grundthese ist:
+Nach Definition von Stephen Guise sollte eine Mini-Gewohnheit so verdammt klein sein, dass man eigentlich nur drüber lachen kann. Daher habe ich für mich beschlossen, dass eine Aktivität am Tag ausreicht. Es ist also okay, wenn ich einen Commit mache oder einen Kommentar an einem Issue erstelle. Das sollte auf jeden Fall in einer Minute möglich sein.
 
-> GitHub ist DIE Plattform für professionelle Softwareentwickler. - Jan Suchotzki
+Damit meine Mini-Gewohnheit beim aufschreiben nicht so lang ist, habe ich mir einfach **ein Commit** aufgeschrieben. Das Dokumentieren ist ein elementarer Punkt der Mini-Gewohnheiten. Daher habe ich das gleich mal in [einem Video](https://www.youtube.com/watch?v=n319RS-8LZY&list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ&index=12) und auch im [DailyGitHub Projekt auf GitHub](https://github.com/LernMoment/DailyGitHub#warum) festgehalten.
 
-Soll heißen, dass du nur mit GitHub es schaffen kannst ein professioneller Softwareentwickler zu werden. Das würde beispielsweise auch implizieren, dass du keinerlei Bücher, Kurse, ... benötigst um zu lernen. Das finde ich momentan noch unglaubwürdig und kann dir auch nicht beweisen, dass ich damit recht habe. Daher ist es ja eine These ;-).
+### Schritt 2 - Den wahren Grund finden
 
-Wichtig für mich ist jedoch, dass ich diese These habe. Natürlich hoffe ich, dass ich damit recht habe, aber es mir viel wichtiger alles um diese These herum zu verstehen. Denn nur so kann ich meinem Ziel 
+Nach Aussage von Stephen Guise kannst du eine (Mini-) Gewohnheit wesentlich einfacher etablieren, wenn du weißt warum du es machst. Wenn sich die Gewohnheit in deinen Werten gründet, machst du es dir einfach. Dann ist dir diese Gewohnheit nämlich wichtig.
 
-Die [Kernidee von #DailyGitHub](https://github.com/LernMoment/DailyGitHub#warum) habe ich bereits beschrieben. In diesem Artikel werde ich dir erklären 
+Für mich ist das Thema "professionelle Softwareentwicklung" der Mittelpunkt meines beruflichen Lebens. Ich habe es mir zum Ziel gesetzt Softwareentwicklern zu helfen ein bißchen mehr "sauberen" Quellcode zu schreiben. Ich habe in meinem Beurfsleben schon so viel Spaghetticode gesehen, dass ich bald keine Nudeln mehr mag. Ärgerlicherweise habe ich selber auch schon genug "häßlichen" Quellcode geschrieben.
 
-ZIEL DES ARTIKELS:
+Eine weitere These die ich in den letzten Tagen entwickelt habe ist diese:
 
- 1. Meine grundsätzliche Motivation hinter DailyGitHub vorstellen. (kurz)
- 2. Die Thesen vorstellen. (kurz)
- 3. Erklären wie ich mein Ziel mithilfe von DailyGitHub erreichen werde
-   - Mini Habits um mich täglich mit dem Thema zu beschäftigen und um auf GitHub aktiv zu sein
-   - "Harte Arbeit" um meine Thesen verfeinern zu können und zu bestätigen / wiederlegen
+> GitHub ist perfekt um professionelle Softwareentwicklung zu üben. - [Jan Suchotzki](https://github.com/LernMoment/DailyGitHub/issues/38)
 
-Obwohl ich schon seit einigen Jahren bei [GitHub](https://github.com) aktiv bin, habe ich erst vor einigen Monaten das ganze Potential erkannt. Es ist herausragend, wenn du Ideen benötigst, Lernen/Üben willst, mit anderen Entwicklern in Kontakt kommen willst oder dein Wissen, dein Portfolio und deine Arbeitsweise darstellen willst.
+Wenn ich also zeigen kann, dass diese und meine anderen Thesen bezüglich GitHub stimmen, bin ich meinem beruflichen Ziel wieder ein großes Stück näher gekommen. Dann kann ich nämlich Softwareentwicklern zeigen wie sie GitHub zum **üben, lernen, umsetzen und vermarkten** einsetzen können.
 
-Was mich an GitHub am meisten beeindruckt ist, dass es um das Umsetzen, das Machen und das Tun geht. Heiße Luft plaudern kannst du auf Facebook und Co. Wenn du GitHub für dich nutzen willst, dann musst du liefern. Du kannst dort Projekte voran bringen, du kannst dir bei Projekten helfen lassen und vor allem du kannst zeigen woran, und noch viel wichtiger, wie du arbeitest.
+### Schritt 3 - Auslöser definieren
 
-Kontinuierliches Umsetzen ist aus meiner bisherigen Erfahrung die Grundlage um die vielen Vorteile von GitHub als professioneller Softwareentwickler nutzen zu können.
+Wenn du dich schon mal mit dem Etablieren oder ändern von Gewohnheiten beschäftigt hast, wirst du wissen, dass für viele Leute der Auslöser ein Erfolgsfaktor ist. Bei Mini-Gewohnheiten geht es auch ohne. Allerdings geht es häufig nicht ohne eine Erinnerung.
 
-## Angetreten um die Thesen zu validieren
+Ich habe schon einige Gewohnheiten mit diesem System verändert und musste feststellen, dass ich einfach eine Erinnerung brauche. Es ist nicht wichtig, dass ich eine Mini-Gewohnheit zu einer festen Zeit oder vor/nach einer andere Aktivität ausführe. Allerdings brauche ich (wenigstens) zu Anfang eine Liste oder ähnliches.
 
-Wie ich dir im Trailer zu #DailyGitHub schon berichtet habe, habe ich DailyGitHub gestartet, weil ich jeden Tag mein Projekt ein wenig voran bringen möchte. Momentan ist mein Projekt "#DailyGitHub". Okay, hört sich vielleicht etwas verwirrend an und du könntest sogar auf die Idee kommen, dass das alles nur ein Fake ist. Warum schließlich sollte man ein Projekt mit GitHub umsetzen, wenn es noch nicht mal Quellcode hat? Und ist es tatsächlich Arbeit auf GitHub, wenn ich ein neues Issue öffne, in dem ich beschreibe was ich in der nächste Show sage und dieses dann wieder schließe?
+Für diese Mini-Gewohnheit habe ich mir keinen festen Auslöser gewählt. Es ist nur wichtig, dass ich sie innerhalb von 24h einmal erledigt habe. Dazu habe ich eine App auf meinem Smartphone. Da schaue ich täglich vor dem ins Bett gehen rein. Wenn ich sehe, dass ich eine Mini-Gewohnheit noch nicht erledigt habe, dann mache ich sie eben dann.
 
-Ich denke nicht! Meine Motivation für #DailyGitHub ist nämlich auch herauszufinden was mit GitHub gut umzusetzen ist und was eher nicht. Dafür ist es halt einfach notwendig, dass ich die verschiedenen Dinge ausprobiere. Ich sehe mich da so als Crash-Test-Dummy. Ich probiere ob und wie etwas auf GitHub geht und berichte dann dir darüber in der Show.
+Probier es einfach aus. Es funktioniert tatsächlich großartig. Ich habe schon einige Abende noch da gesessen und habe einen Kommentar an ein Issue geschrieben, damit ich ins Bett gehen konnte. Das tolle ist, dass ich mich dann erfolgreich fühle. Auch wenn es nur eine kleine Aktivität war, habe ich sie einfach umgesetzt.
 
-Um dein Projekt zu starten, erfolgreich dranzubleiben und irgendwann auch abzuschließen braucht es jedoch noch ein bisschen mehr als nur eine Idee. Es braucht ein Ziel auf das du hin arbeiten magst. Für mich ist es wichtig, dass ich jemandem helfen kann. Obwohl dieses Bedürfnis stark in meinem Wertesystem verankert ist, würde es wahrscheinlich nicht ausreichen um an diesem Projekt wirklich dran zu bleiben.
+### Schritt 4 - Belohnungssystem
 
-Es gibt also noch mehr. Und dieses mehr sind ein paar Thesen die ich überprüfen möchte. Der Grundgedanke ist:
-> GitHub ist DIE Plattform für (professionelle) Softwareentwickler um weiter zu kommen. - Jan Suchotzki
+Bei diesem Punkt tappe ich im Dunkeln. Die grundsätzliche Überlegung ist, dass du dir nach dem Umsetzen deiner Mini-Gewohnheit eine kleine Belohnung gönnen kannst. Für mich ist die Mini-Gewohnheit jedoch so klein, dass ich nicht das Verlangen nach einer Belohnung habe.
+
+Zu diesem Schritt kann ich also nicht mehr sagen.
+
+### Schritt 5 - Alles aufschreiben
+
+Das ist das aller wichtigste für mich. Es gibt mir ein wahnsinniges Glücksgefühl, wenn ich sehe wie ich einige Tage, Wochen, Monate, ... am Stück eine Mini-Gewohnheit umgesetzt habe.
+
+Für #DailyGitHub verwende ich zwar auch meine App, aber es gibt noch eine viel bessere Dokumentation. GitHub zeigt mir an, wie viel Aktivitäten ich an einem Tag gemacht habe. Noch besser ist, dass ich über die "Mentions" andere Leute informieren kann, dass ich meine Aktivität erledigt habe.
+
+So kann ich beispielsweise meinen "Accountability-Partner" in einem GitHub Issue erwähnen um ihm zu signalisieren, dass ich meine Aufgabe erledigt habe. Zusätzlich verwende ich noch den Hashtag #DailyGitHub in Commits, Issues, .... Daher kann ich mein Verzeichnis einfach nach diesem Hashtag durchsuchen und kann sofort sehen was ich alles geleistet habe.
+
+### Schritt 6 - Denke klein
+
+Keine Ahnung wie es dir geht, aber wenn ich eine riesige Aufgabe vor mir habe, oder nicht weiß wie ich eine Aufgabe umsetzen kann, dann schiebe ich diese Aufgabe vor mir her. Wenn du mir zum Beispiel sagen würdest: "Jan, du musst heute 100 Commits machen.", dann würde ich üblicherweise erst gar nicht anfangen.
+
+Bei den Mini-Gewohnheiten geht es jedoch um lachhaft kleine Schritte. Es geht also um den *ersten* Commit. Wenn ich den gemacht habe, dann geht es wieder um *einen* Commit und so weiter. In dem du dir deine Aufgabe in kleinste Schritte unterteilst und immer nur über den nächsten nachdenkst 
+
+ - siehst du immer einen Fortschritt, 
+ - brauchst nicht unnötig viel Willenskraft um den Schritt zu gehen und
+ - erhöhst über die Zeit sogar deine Willenskraft, weil du einfach immer erfolgreich bist.
+
+### Schritt 7 - Erfülle den Plan und erwarte nicht zu viel
+
+Die grundsätzlich Überlegung bei Mini-Gewohnheiten ist, dass du mehr machst. Wenn ich also meine Mini-Gewohnheit umsetze und einen Commit oder einen Kommentar erstelle, dann bleibt es häufig nicht dabei. Das ist erstmal überbaus positiver Effekt. So habe ich zum Beispiel in den letzten Tagen einige Stunden an #DailyGitHub gearbeitet, obwohl ich eigentlich nur einen Commit machen wollte.
+
+Das kann allerdings auch zu einem Problem führen. Mir ging das gerade zu Anfang so, dass ich für mich gesagt habe ich mache die Mini-Gewohnheit, aber ich erwarte von mir, dass ich täglich viel mehr schaffe. Dann wird das ganze Konzept zum Einsturz gebracht. Dann hast du nämlich keine Mini-Gewohnheit, die lachhaft klein ist. Vielmehr hast du deine große Aufgabe, die dir Angst macht.
+
+Wenn du dir einige Episoden der #DailyGitHub Show ansiehst, kannst du merken, dass ich nicht zufrieden bin mit dem Resultat vom Tag. Daran gilt es für mich zu arbeiten. Ich empfinde es immer besonders schwer, wenn es sich bei den Mini-Gewohnheiten um etwas berufliches dreht. Dann gibt es nämlich neben der intrinsischen Motivation häufig noch einen externen Druck. Bei mir ist das, dass ich möglichst schnell alles über GitHub gelernt haben will.
+
+Wenn du Mini-Gewohnheiten in deinem Beruf einsetzen willst, dann solltest du dir diesem Problem bewußt sein.
+
+### Schritt 8 - Geduld
+
+Das Etablieren oder Verändern von Gewohnheiten benötigt Zeit. Eine der größten Herausforderungen dabei ist, dass du dich nicht von Erfolgen verleiten lässt. Einen Tag habe ich knapp 4h am Stück für #DailyGitHub gearbeitet und viele Commits und neue Issues erstellt. Trotzdem bedeutet das nicht, dass ich anfange mein Ziel zu erhöhen.
+
+In dem Moment, wenn du deine Mini-Gewohnheit machst, ohne nachzudenken bzw. ohne eine explizite Entscheidung zu treffen, kann es sein, dass sich deine Aktivität als Gewohnheit etabliert hat. 
+
+Ein weiterer Indikator ist, dass es langweilig ist. Wieviel Spaß hast du beim Zähne putzen? Bei mir hält sich das in Grenzen. Trotzdem ist es für mich wichtig und ich mache es ohne drüber nachzudenken. Es ist also eine Gewohnheit.
+
+Wenn du an dem Punkt angekommen bist, dass deine Aktivität eine Gewohnheit ist, dann herzlichen Glückwunsch. Du kannst nun eine neue Mini-Gewohnheit auf deinen Zettel schreiben.
+
+Für mich steht eine spannende Probe gerade bevor. Ich fahre in den Urlaub. Das ist grundsätzlich zu begrüssen, aber was es für meine #DailyGitHub Gewohnheit bedeutet kann ich noch nicht sagen.
+
+### DailyGitHub auch für dich?
+
+Warum ich #DailyGitHub mache und wie ich daraus eine Gewohnheit entwickeln will weißt du nun. Es ist aber auch so konzipiert, dass es dich dabei unterstützt die Arbeit an deinem Projekt zu einer Mini-Gewohnheit werden zu lassen. Wenn du also ein Entwicklungsprojekt hast, welches du endlich umsetzen willst und dafür Mini-Gewohnheiten einsetzen möchtest, dann schau dir folgendes Video an. Darin erkläre ich dir, wie du die verschiedenen Elemente von #DailyGitHub für dich nutzen kannst.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5IBnrO0HVSc?list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ" frameborder="0" allowfullscreen></iframe>
+
+Nun ist aber auch zu Ende ;-).
+
+Viel Spaß beim Ausprobieren der Mini-Gewohnheiten
+
+Jan
+
