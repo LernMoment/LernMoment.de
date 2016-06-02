@@ -8,7 +8,7 @@ lm-newsletter-group-id: 8
 share: true
 tags: [C#, "??? Challenge", GitHub]
 image:
-  feature: intro-code.jpg
+  feature: csharp-challenge.jpg
 modified:
 date: 2016-06-02T06:00:00+01:00
 ---
