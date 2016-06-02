@@ -20,7 +20,7 @@ Das Motto meiner Herausforderung ist:
 
 > Üben. Lernen. Umsetzen. - Professionelle Softwareentwicklung mit C# am Beispiel.
 
-Es geht also darum, dass du eine Aufgabenstellung bekommst und damit übst ein Projekt eigenständig umzusetzen. Da es gerade bei den ersten Projekten gar nicht so einfach ist, hast du mich an der Seite, um Werzeuge, Methoden, Objektorientierung und natürlich auch Syntax zu festigen und gegebenenfalls zu lernen.
+Es geht also darum, dass du eine Aufgabenstellung bekommst und damit übst ein Projekt eigenständig umzusetzen. Da es gerade bei den ersten Projekten gar nicht so einfach ist, hast du mich an der Seite, um Werzeuge, Methoden, Objektorientierung und natürlich auch Syntax zu festigen und gegebenenfalls zu lernen. Mehr zum Motto im Artikel ["Ich fordere dich heraus!"](/alle/ich-fordere-dich-heraus/).
 
 Wenn dich dieses Thema interessiert und du es ernst meinst mit der Challenge, dann melde dich hier kostenlos und unverbindlich an. Als angemeldeter Teilnehmer hast du einige Vorteile. So gibt es zum Beispiel eine halbe Stunde **kostenloses Einzelcoaching** von mir. Das mache ich, weil ich weiß wie schwierig der Einstieg ist und mir wichtig ist, dass du C# und professionelle Softwareentwicklung mit Erfolg lernst. 
 
