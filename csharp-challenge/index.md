@@ -37,7 +37,7 @@ Wenn dich dieses Thema interessiert und du es ernst meinst mit der Challenge, da
 <!-- Create empty arrays -->
 {% assign both_categories = '' | split: ',' %}
 <!-- Push to both_categories -->
-{% for post in site.categories.fragezeichen-csc '%}
+{% for post in site.categories.csharp-challenge '%}
   {% assign both_categories = both_categories | push: post %}
 {% endfor %}
 {% for post in site.categories.alle %}
