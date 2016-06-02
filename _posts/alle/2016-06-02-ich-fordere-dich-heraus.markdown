@@ -37,6 +37,8 @@ Das konkrete Beispiel nenne ich dir noch nicht. Ein kleiner Hinweis? Na gut: "Di
 
 Mehr sage ich erstmal nicht. Das ganze beginnt in exakt 20 Tagen. **Wenn du also am 22.6.2016 noch nichts vor hast, dann erwarte ich dich zur Eröffnung der Challenge im "virtuellen Labor".**
 
+Bis dahin werde ich immer mehr Artikel und Videos auf der [Seite zur ??? C# Challenge](/csharp-challenge/) veröffentlichen.
+
 Viel Spaß und bis bald
 
 Jan
