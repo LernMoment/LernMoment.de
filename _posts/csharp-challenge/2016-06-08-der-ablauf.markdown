@@ -31,7 +31,7 @@ Wenn du dich auf die Challenge freust, solltest du dich anmelden. Neben der Teil
   - Für alle angemeldeten Teilnehmer gibt es ein Webinar in dem ich dir die Aufgabe vorstelle und wir gemeinsam die ersten Schritte definieren und umsetzen.
   - Natürlich kannst du auch Fragen zur Challenge stellen
 - Ab dem 24.6. wird jeden Abend (ca. 18:00 Uhr) die Beschreibung der Aufgabe für den nächsten Tag veröffentlicht
-- Ab dem 25.6. veröffentliche gegen 17:00 Uhr
+- Ab dem 25.6. veröffentliche ich gegen 17:00 Uhr
   - meinen Quellcode zur Tagesaufgabe
   - Videos zur Tagesaufgabe
 - Jeden Tag beantworte ich Fragen, die du über GitHub Issues im *??? C# Challenge*-Verzeichnis oder deinem Fork an mich stellen kannst (nicht vergessen @suchja einzufügen).
