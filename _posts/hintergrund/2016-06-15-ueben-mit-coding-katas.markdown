@@ -30,6 +30,8 @@ Genau diese Unterteilung zeigt einen in meinen Augen wichtigen Aspekt von *Code 
 
 Nehmen wir zum Beispiel die [Function Kata "CSV tabellieren"](http://ccd-school.de/coding-dojo/function-katas/csv-tabellieren/). Dabei kannst du nun erstmal einfach die eigentliche Aufgabe machen. Wenn du das geübt hast, kannst du beispielsweise die gleiche Aufgabe machen aber mit TDD (Test-Driven-Development), Clean Code oder du versuchst die "schnellste" (bezogen auf Performance) Realisierung zu finden. Eine weitere Alternative wäre zu versuchen die Abarbeitung zu parallelisieren bzw. asynchron zu machen.
 
+Eine weitere spannende Möglichkeit ist der Einsatz von Werkzeugen. So kannst du zum Beispiel sagen, dass du den Einsatz von *Git* mithilfe einer *Function Kata* üben willst. Dann geht es darum, dass du passende Stellen findest an denen du einen *Commit* machst und übst aussagekräftige *Commit-Messages* zu schreiben.
+
 Du siehst, es gibt auch zu den einfachen *Code Katas* viele Varianten. Wichtig ist also, dass du dir vor dem Start überlegst welches Themengebiet du üben möchtest und dann auch tatsächlich dabei bleibst.
 
 Eine Coding Kata wird auch Grundlage meiner Herausforderung an C# Entwickler (und solche die es noch werden wollen) sein: [??? C# Challenge](/csharp-challenge/). Magst du mitmachen?
