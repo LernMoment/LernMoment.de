@@ -5,7 +5,7 @@ excerpt: "Erfahre wann es womit los geht und was alles auf dich zu kommt."
 categories: csharp-challenge
 lernmoment: C#
 lm-newsletter-group-id: 8
-show-lm-newsletter-subscribe-box: true
+show-lm-newsletter-subscribe-box: false
 share: true
 tags: [C#, "??? Challenge", GitHub]
 image:
