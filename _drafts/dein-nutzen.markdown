@@ -13,6 +13,8 @@ modified:
 date: 2016-06-08T06:00:00+01:00
 ---
 
+ACHTUNG: Der Ablauf ist erstmal wichtiger! Dieses hier ist wahrscheinlich etwas redundant zum Ablauf!
+
 Link und Zusammenfassung des entsprechenden Videos, welches auf YouTube erscheint
 - Worauf wir uns fokussieren: Projektstart, Design, Implementierung
 - Es läuft natürlich auf GitHub
