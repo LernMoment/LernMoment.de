@@ -2,7 +2,7 @@
 layout: post
 title: "Zu einfach? Ich kann auch anders!"
 excerpt: "Du kannst die Challenge auch selbstständig und mit Erweiterung machen."
-categories: csharp-challenge
+categories: alle
 lernmoment: C#
 lm-newsletter-group-id: 8
 show-lm-newsletter-subscribe-box: false
