@@ -5,6 +5,7 @@ excerpt: "Beschreibt wie dir die Challenge helfen kann."
 categories: csharp-challenge
 lernmoment: C#
 lm-newsletter-group-id: 8
+show-lm-newsletter-subscribe-box: true
 share: true
 tags: [C#, "??? Challenge", GitHub]
 image:

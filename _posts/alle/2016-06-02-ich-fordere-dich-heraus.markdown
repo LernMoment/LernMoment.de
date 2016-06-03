@@ -5,6 +5,7 @@ excerpt: "Üben. Lernen. Umsetzen. - Die 3 Säulen meiner Herausforderung an C# 
 categories: alle
 lernmoment: C#
 lm-newsletter-group-id: 8
+show-lm-newsletter-subscribe-box: false
 share: true
 tags: [C#, "??? Challenge", GitHub]
 image:
