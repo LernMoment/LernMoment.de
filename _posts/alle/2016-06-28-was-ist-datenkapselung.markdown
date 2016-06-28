@@ -14,8 +14,6 @@ modified:
 date: 2016-06-28T10:00:00+01:00
 ---
 
-C#Tut-Palylist: 
-
 Im [C# Tutorial Deutsch](https://www.youtube.com/playlist?list=PLP2TrPpx5VNkr-wmkjguVZAvN4T5EPJbF) geht es viel um das Thema Objekt-Orientierung. Gerade, wenn du mit der Objekt-Orientierten-Programmierung (OOP) anfängst, dann kann es beinahe unverständlich sein, wie der Entwickler es geschafft hat bestimmte Klassen zu finden. Darüber hinaus habe ich gerade zu Anfang nicht verstehen können warum eine Klasse gewisse Attribute, Eigenschaften und Methode hat und nicht andere. Datenkapselung ist eines der Prinzipien, die dir den Weg weisen zu einem "guten" Objekt-Orientierten Design und Quellcode.
 
 Datenkapselung, im Englischen "Information Hiding" genannt, ist ein sehr grundlegendes Konzept der Objektorientierung. Wie ich im [C# Kurs](/einstieg-csharp/) erkläre besteht eine Klasse aus Daten (Attribute & Eigenschaften) und Verhalten (Methoden). Die Idee ist nun, dass du über das Verhalten einer Klasse die Daten dieser Klasse änderst. Das wird als Datenkapselung bezeichnet.
