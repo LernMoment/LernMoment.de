@@ -7,7 +7,7 @@ lernmoment: C#
 lm-newsletter-group-id: 8
 show-lm-newsletter-subscribe-box: false
 share: true
-tags: [C#, "??? Challenge", GitHub]
+tags: [C#, "TTT Challenge", GitHub]
 image:
   feature: intro-code.jpg
 modified:

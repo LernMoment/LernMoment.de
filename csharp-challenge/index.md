@@ -36,7 +36,7 @@ Es geht also darum, dass du eine Aufgabenstellung bekommst und damit übst ein P
 {% endfor %}
 {% for post in site.categories.alle %}
   {% for tag in post.tags %}
-    {% if tag == "??? Challenge" %}
+    {% if tag == "TTT Challenge" %}
       {% assign both_categories = both_categories | push: post %}
     {% endif %}
   {% endfor %}
