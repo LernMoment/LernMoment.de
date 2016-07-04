@@ -10,7 +10,7 @@ lm-newsletter-group-id: 8
 date: 2016-06-02T09:30:00+01:00
 ---
 
-*UPDATE: Auch wenn die Challenge schon begonnen hat, kannst du dich immer noch anmelden (siehe unten)!*
+> UPDATE: Die Challenge neigt sich dem Ende. Trotzdem kannst du sie für dich anhand der Übungen (siehe unten) durchziehen. Wenn du Feedback haben möchtest, melde dich per [eMail](mailto:jan@lernmoment) oder zeige mir was du bisher erreicht hast auf [GitHub](https://github.com/LernMoment/ttt-challenge/issues/1).
 
 In letzter Zeit wurden mir immer wieder Fragen wie diese gestellt: **"Ich habe eine erste Idee der Konzepte von professioneller Softwareentwicklung in C# und JETZT?"**
 
@@ -24,27 +24,21 @@ Das Motto meiner Herausforderung ist:
 
 Es geht also darum, dass du eine Aufgabenstellung bekommst und damit übst ein Projekt eigenständig umzusetzen. Da es gerade bei den ersten Projekten gar nicht so einfach ist, hast du mich an der Seite, um Werzeuge, Methoden, Objektorientierung und natürlich auch Syntax zu festigen und gegebenenfalls zu lernen. Mehr zum Motto im Artikel ["Ich fordere dich heraus!"](/alle/ich-fordere-dich-heraus/).
 
+## Die Challenge Schritt für Schritt
 
-## Videos und Artikel zur Challenge
+Damit du die Challenge in dem für dich richtigen Tempo duchführen kannst, habe ich einzelne Übungen definiert. Nachdem du alle Übungen umgesetzt hast, wirst du deine Version von "TicTacToe als Konsolenanwendung" entwickelt haben.
+
+Alle Übungen sind im Detail beschrieben, beinhalten zusätzliches Material welches dir beim Lösen helfen wird und zeigen dir verschiedene Musterlösungen. Sie sind so definiert, dass du sie meistens in kurzer Zeit erledigen kannst. So ist es beispielsweise möglich, dass du jeden Tag eine Übung machst, wenn du nicht viel Zeit hast.
+
+Hinweis für **Fortgeschrittene und Profis**: Du glaubst, dass ist alles viel zu einfach? In jeder Übung gebe ich dir Anregungen wie du die Übung anpassen kannst, damit auch deine Fähigkeiten trainiert werden. Du kannst auch die Übungen komplett ignorieren und die [Aufgabe](http://ccd-school.de/coding-dojo/application-katas/tic-tac-toe/) alleine umsetzen. Falls du Feedback zu deiner Lösung haben möchtest oder Fragen diskutieren möchtest, dann kannst du mich gerne [anschreiben](mailto:jan@lernmoment.de) oder hier einen Kommentar hinterlassen.
 
 <ul class="post-list">
-<!-- Create empty arrays -->
-{% assign both_categories = '' | split: ',' %}
-<!-- Push to both_categories -->
-{% for post in site.categories.csharp-challenge '%}
-  {% assign both_categories = both_categories | push: post %}
-{% endfor %}
-{% for post in site.categories.alle %}
+{% for post in site.categories.csharp-challenge reversed %} 
   {% for tag in post.tags %}
-    {% if tag == "TTT Challenge" %}
-      {% assign both_categories = both_categories | push: post %}
+    {% if tag == "Übung" %}
+      <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
     {% endif %}
   {% endfor %}
-{% endfor %}
-{% assign both_categories = both_categories | sort: 'date' %}
-
-{% for post in both_categories reversed %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
 

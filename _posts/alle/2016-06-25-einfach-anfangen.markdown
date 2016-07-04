@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Tag #1 - Beginne dein Projekt EINFACH"
-excerpt: "Sowohl bei den Werkzeugen wie auch dem Softwaredesign solltest du einfach anfangen."
-categories: csharp-challenge
+title: "KISS - Komplexe Lösungen machen dich nicht zum Experten"
+excerpt: "Suche immer nach der einfachsten Lösung und der Nutzen wird dich überraschen."
+categories: alle
 lernmoment: C#
 lm-newsletter-group-id: 8
 show-lm-newsletter-subscribe-box: false
@@ -11,8 +11,16 @@ tags: [C#, "TTT Challenge", GitHub]
 image:
   feature: csharp-challenge.jpg
 modified:
-date: 2016-06-25T06:00:00+01:00
+date: 2016-08-25T06:00:00+01:00
 ---
+
+Titel für neues YT-Video: "Experten suchen die einfachsten Lösungen. Und du?"
+[Hier was CCD dazu sagt](http://clean-code-developer.de/die-grade/roter-grad/#Keep_it_simple_stupid_KISS).
+
+Artikel so umschreiben, dass ich ihn als Hintergrundartikel veröffentlichen kann. Darin trotzdem die Challenge als Beispiel anführen. Grundaussage: Design, Quellcode und Projekte sollten einfach gehalten werden. Prozesse, Entwurfsmuster, ... sind wichtig, aber das wichtigste ist der Nutzen für den Kunden. Einfache Lösungen helfen sowohl Einsteigern in die Softwareentwicklung, wie auch dem Kunden. Das haben gerade Experten erkannt und diese versuchen daher möglichst einfache Lösungen zu finden (Siehe Dreyfuss-Modell aus dem Kurs von Thorsten).
+
+
+
 
 Wie ich bereits ich bereits im Video [Der Weg zur ersten Klasse](https://youtu.be/JClVrFlc4k4) erklärt habe, fängt für mich ein Projekt immer damit an, dass ich mich in die Domäne einarbeite. Das bedeutet, dass ich erstmal versuche das Problem und seine Umgebung genau zu verstehen.
 
