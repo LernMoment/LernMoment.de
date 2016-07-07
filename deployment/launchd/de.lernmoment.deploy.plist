@@ -27,13 +27,23 @@
     <integer>08</integer>
   </dict>
 
+  <key>KeepAlive</key>
+  <dict>
+    <key>SuccessfulExit</key>
+    <false/>
+    <key>AfterInitialDemand</key>
+    <true/>
+  </dict>
+  <key>ThrottleInterval</key>
+  <integer>60</integer>
+
   <key>RunAtLoad</key>
   <true/>
 
   <key>StandardErrorPath</key>
-  <string>/tmp/LernMomentDeployment.err</string>
+  <string>/Users/developer/Development/blogs/LernMoment.de/deployment/launchd/LernMomentDeployment.err</string>
 
   <key>StandardOutPath</key>
-  <string>/tmp/LernMomentDeployment.out</string>
+  <string>/Users/developer/Development/blogs/LernMoment.de/deployment/launchd/LernMomentDeployment.out</string>
 </dict>
 </plist>
