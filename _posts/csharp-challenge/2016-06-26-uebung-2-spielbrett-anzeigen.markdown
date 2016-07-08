@@ -56,7 +56,7 @@ Eine weitere Mölglichkeit wäre, dass du dir die absolut einfachste Implementie
 
 Hier ein paar Videos die dir bei der Lösung dieser Aufgabe helfen könnten:
 
- - Im Video [Der Weg zur ersten Klasse](https://youtu.be/JClVrFlc4k4) erkläre ich dir im Detail wie ich die erste Klasse gefunden habe und warum wir mit der Anzeige des Spielbretts beginnen.
+ - Im Video [Der Weg zur ersten Klasse](https://youtu.be/JClVrFlc4k4) erkläre ich dir im Detail wie ich die erste Klasse gefunden habe und warum wir mit der Anzeige des Spielbretts beginnen. **Achtung** - Wenn du die [Zusatzaufgabe #1 - Domänenanalyse](/csharp-challenge/zusatzuebung-1-klassen-identifizieren/) machen möchtest, solltest du dieses Video erst hinterher ansehen! 
  - Beschreibungen zu den verwendeten Klassen und Methoden findest du auf MSDN:
    - Die Klasse [Console](https://msdn.microsoft.com/de-de/library/system.console(v=vs.110).aspx)
    - Die Methode [WriteLine](https://msdn.microsoft.com/de-de/library/xf2k8ftb(v=vs.110).aspx)
