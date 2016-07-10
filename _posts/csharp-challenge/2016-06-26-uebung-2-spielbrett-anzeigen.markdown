@@ -14,7 +14,7 @@ modified:
 date: 2016-06-26T06:00:00+01:00
 ---
 
-**Übungsfokus:** C# Syntax - Klasse `Console`
+**Übungsfokus:** C# Syntax - Methoden erstellen & Klasse `Console`
 **Geschätzte Übungsdauer:** ca. 10 Minuten
 
 Nachdem die Infrastruktur läuft, sollst du nun das Spielbrett anzeigen lassen. Wie es genau aussehen soll siehst du in der [Beschreibung der Kata](http://ccd-school.de/coding-dojo/application-katas/tic-tac-toe/). Hier eine Möglichkeit wie ein leeres Spielbrett dargestellt werden kann:
@@ -38,7 +38,7 @@ Als kleine Erweiterung kannst du bereits in der `Main` Methode auf eine Tastenei
 Du brauchst noch mehr Hilfe bei der Umsetzung dieser Übung? Hier habe ich die notwendigen Schritte aufgelistet:
 
   - [  ] Neue Klasse `Spielbrett` anlegen
-  - [  ] Der Klasse `Spielbrett` eine statische Methode `Anzeigen` hinzufügen
+  - [  ] Der Klasse `Spielbrett` eine statische Methode `Anzeigen` hinzufügen (kein Rückgabewert, keine Parameter)
   - [  ] Die Ausgabe des Spielbretts mit `Console.WriteLine` in der Methode `Anzeigen` umsetzen
   - [  ] Die Methode `Spielbrett.Anzeigen()` in der `Main` Methode aufrufen
   - [  ] Optional: Die `Main` Methode erst verlassen, wenn Benutzer `Enter` gedrückt hat (verwende dazu `Console.ReadLine`)
@@ -54,9 +54,12 @@ Eine weitere Mölglichkeit wäre, dass du dir die absolut einfachste Implementie
 
 ### Artikel, Videos & Links zu dieser Aufgabe
 
-Hier ein paar Videos die dir bei der Lösung dieser Aufgabe helfen könnten:
+Hier ein paar Videos die dir bei der Lösung dieser Aufgabe helfen könnten und/oder dir zusätzliche Informationen bieten:
 
- - Im Video [Der Weg zur ersten Klasse](https://youtu.be/JClVrFlc4k4) erkläre ich dir im Detail wie ich die erste Klasse gefunden habe und warum wir mit der Anzeige des Spielbretts beginnen. **Achtung** - Wenn du die [Zusatzaufgabe #1 - Domänenanalyse](/csharp-challenge/zusatzuebung-1-klassen-identifizieren/) machen möchtest, solltest du dieses Video erst hinterher ansehen! 
+ - Eine ["Einführung in Methoden"](https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/learn/v4/t/lecture/4184288) bekommst du in der gleichnamigen Lektion meines Online-Kurses "C# für Einsteiger".
+ - In der Lektion ["Erstellen einer Methode - Wir verlagern die Eingabe"](https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/learn/v4/t/lecture/4179026) meines Online-Kurses "C# für Einsteiger" zeige ich dir ganz genau wie du eine Methode erstellst.
+ - Im GitHub-Projekt ["C# Syntax"](https://github.com/LernMoment/einstieg-csharp-syntax/blob/master/Methoden/Einfuehrung.cs) beschreibe ich dir die wichtigsten Begriffe rund um Methoden direkt im Quellcode.
+ - Im Video [Der Weg zur ersten Klasse](https://youtu.be/JClVrFlc4k4) erkläre ich dir im Detail wie ich die Klasse `Spielbrett` gefunden habe und warum wir mit der Anzeige des Spielbretts beginnen. **Achtung** - Wenn du die [Zusatzaufgabe #1 - Domänenanalyse](/csharp-challenge/zusatzuebung-1-klassen-identifizieren/) machen möchtest, solltest du dieses Video erst hinterher ansehen! 
  - Beschreibungen zu den verwendeten Klassen und Methoden findest du auf MSDN:
    - Die Klasse [Console](https://msdn.microsoft.com/de-de/library/system.console(v=vs.110).aspx)
    - Die Methode [WriteLine](https://msdn.microsoft.com/de-de/library/xf2k8ftb(v=vs.110).aspx)

@@ -52,7 +52,7 @@ Hier ein paar Videos die dir bei der Lösung dieser Aufgabe helfen könnten:
 
 ### Lösung
 
-Für diese Übung gibt es keine Musterlösung. Du kannst dir jedoch mein [Verzeichnis auf GitHub](https://github.com/LernMoment/ttt-challenge) anschauen.
+Für diese Übung gibt es keine Musterlösung. Du kannst dir jedoch mein [Verzeichnis auf GitHub](https://github.com/LernMoment/ttt-challenge) anschauen. Dort bekommst du einen ersten Eindruck davon welche Beschreibungen und Dateien sinnvoll sind. Beachte dabei bitte, dass dein Verzeichnis zu Beginn weniger Informationen beinhalten kann und du diese nach und nach erweiterst. [Hier](https://github.com/LernMoment/ttt-challenge/tree/8e75c7260a20ae765a8bb76760e1a04e6bae5815) siehst du mein Verzeichnis auf GitHub direkt nach dem Anlegen.
 
 Viel Spaß beim Üben
 
