@@ -41,7 +41,7 @@ Hier ein paar Videos die dir bei der Lösung dieser Aufgabe helfen könnten und/
 
  - In der Lektion ["C# Syntax: Variablen - Merke dir den ersten Summanden"](https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/learn/v4/t/lecture/4126104) meines Online-Kurses "C# für Einsteiger" bekommst du eine grundlegende Einführung in das Konzept von Variablen.
  - In der Lektion ["ObjektOrientierung in der Praxis - Klassen definieren"](https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/learn/v4/t/lecture/4247880) meines Online-Kurses "C# für Einsteiger" zeige ich dir auch wie Attribute angelegt werden. Diese Lektion findest du auch auf YouTube als Teil meines ["C# Tutorial Deutsch"](https://youtu.be/xKfepjFQNuI).
- - Eine ausführliche Beschreibung zum Thema *Arrays* gibt auf [MSDN](https://msdn.microsoft.com/de-de/library/9b9dty7d.aspx)
+ - Eine ausführliche Beschreibung zum Thema *Arrays* gibt es auf [MSDN](https://msdn.microsoft.com/de-de/library/9b9dty7d.aspx)
 
 ### Lösung
 
