@@ -21,7 +21,7 @@ Bisher hast du nur ein leeres Spielbrett angezeigt. Um im nächsten Schritt Spie
 
 Ziel ist es, dass deine Klasse `Spielbrett` nach dieser Übung Attribute enthält in der Spielsteine gespeichert werden können. Dabei gehört es noch nicht zu dieser Übung, dass du schon Spielstein darin speicherst. Lege bitte erstmal nur die Attribute an (also leere Spielfelder) und initialisiere sie.
 
-Um zu überlegen welche Attribute du benötigst und welche Datentypen diese haben könnten, solltest du dir nochmals das Spielbrett vorstellen. Wie bereits [hier beschrieben]() hat das Spielbrett insgesamt 9 Spielfelder. Jedes Spielfeld kann entweder leer sein, oder einen Spielstein (mit dem Symbol 'X' oder 'O') aufnehmen. Die Spielfelder werden über Koordinaten (z.B. B1) identifiziert/angesprochen und sind in Spalten und Zeilen aufgeteilt.
+Um zu überlegen welche Attribute du benötigst und welche Datentypen diese haben könnten, solltest du dir nochmals das Spielbrett vorstellen. Das Spielbrett hat insgesamt 9 Spielfelder. Jedes Spielfeld kann entweder leer sein, oder einen Spielstein (mit dem Symbol 'X' oder 'O') aufnehmen. Die Spielfelder werden über Koordinaten (z.B. B1) identifiziert/angesprochen und sind in Spalten und Zeilen aufgeteilt.
 
 Der zweite Teil dieser Übung besteht darin, dass du das `Spielbrett` mit den leeren Spielfelder ausgeben sollst. Aktuell wird deine Ausgabe des Spielbretts wahrscheinlich ähnlich [wie bei mir](https://github.com/LernMoment/ttt-challenge/blob/f0a7cb46bd8409a94aead2391a74c45cc2fe1724/TicTacToe/Spielbrett.cs) aussehen. Es wird also lediglich statischer Text ausgegeben. Nun geht es darum, dass du in diesen Text den Inhalt der einzelnen Spielfelder einfügst.
 
