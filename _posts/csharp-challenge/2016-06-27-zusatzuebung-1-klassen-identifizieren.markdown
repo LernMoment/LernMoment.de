@@ -25,16 +25,6 @@ Für die Beschreibung legst du dir am besten ein Designdokument in deinem GitHub
 
 **WICHTIG:** Ein ganz elementarer Bestandteil einer jeden Übung (wenigstens, wenn sie dich weiterbringen soll) ist [das Reflektieren](http://clean-code-developer.de/die-grade/roter-grad/#Taeglich_reflektieren). Wenn du die Aufgabe erledigt hast ziehe bitte eine Bilanz was die Aufgabe dir bezüglich deiner Fähigkeiten gezeigt hat. So kannst du einfach für dich erkunden in welchen Bereichen du noch mehr Aufgaben machen solltest und welche Bereiche du schon gut beherrschst. Du kannst gerne die Ergebnisse deiner Reflexion hier als Kommentar hinterlassen. Dann kann ich dir weitere Übungen empfehlen.
 
-Du brauchst noch mehr Hilfe bei der Umsetzung dieser Übung? Hier habe ich die notwendigen Schritte aufgelistet:
-
-  - [  ] `Design.md` in deinem GitHub-Projekt anlegen.
-  - [  ] Die [Aufgabenbeschreibung](http://ccd-school.de/coding-dojo/application-katas/tic-tac-toe/) durchgehen und Substantive finden, die eine wichtige Bedeutung für das Spiel haben.
-  - [  ] Jedes Substantiv beschreiben bezüglich seiner Relevanz für das Spiel und in wie weit du glaubst, dass es eine Klasse sein könnte. Beachte hier, dass du überlegst ob das Substantiv einen internen Zustand oder zusätzliche Daten hat.
-  - [  ] Male deine Kandidaten (Substantive) auf einen Schmierzettel und überlege in welcher Beziehung sie zueinander stehen.
-  - [  ] Dokumentiere die Beziehungen in deinem `Design.md` (Foto deiner Skizze oder Beschreibung).
-  - [  ] Gehe nochmals die Aufgabenbeschreibung durch und identifiziere alle Aktivitäten bzw. Verhalten.
-  - [  ] Versuche die gefundenen Aktivitäten zu einem Ablauf zusammenzufassen und füge sie dem `Design.md` hinzu.
-
 ### Erweiterung der Übung für Fortgeschrittene
 
 War das immer noch nicht genug? Okay!
@@ -56,7 +46,19 @@ Hier ein paar Videos die dir bei der Lösung dieser Aufgabe helfen könnten:
 
 ### Lösung
 
-Für diese Übung gibt es keine Musterlösung. Meine [Designdokument](https://github.com/LernMoment/ttt-challenge/blob/master/Design.md) enthält meine Antworten zu den Fragen oben. Allerdings sehe ich es nicht als Musterlösung an, weil gerade beim Softwaredesign gibt es viele verschiedene Möglichkeiten und auch selten ein Richtig oder Falsch.
+Führe fogende Schritte aus, wenn du keine Idee hast, wie du die Übung angehen kannst:
+
+  - [  ] `Design.md` in deinem GitHub-Projekt anlegen.
+  - [  ] Die [Aufgabenbeschreibung](http://ccd-school.de/coding-dojo/application-katas/tic-tac-toe/) durchgehen und Substantive finden, die eine wichtige Bedeutung für das Spiel haben.
+  - [  ] Jedes Substantiv beschreiben bezüglich seiner Relevanz für das Spiel und in wie weit du glaubst, dass es eine Klasse sein könnte. Beachte hier, dass du überlegst ob das Substantiv einen internen Zustand oder zusätzliche Daten hat.
+  - [  ] Male deine Kandidaten (Substantive) auf einen Schmierzettel und überlege in welcher Beziehung sie zueinander stehen.
+  - [  ] Dokumentiere die Beziehungen in deinem `Design.md` (Foto deiner Skizze oder Beschreibung).
+  - [  ] Gehe nochmals die Aufgabenbeschreibung durch und identifiziere alle Aktivitäten bzw. Verhalten.
+  - [  ] Versuche die gefundenen Aktivitäten zu einem Ablauf zusammenzufassen und füge sie dem `Design.md` hinzu.
+  - [  ] Reflektieren
+
+
+Für diese Übung gibt es keine Musterlösung. Mein [Designdokument](https://github.com/LernMoment/ttt-challenge/blob/master/Design.md) enthält meine Antworten zu den Fragen oben. Allerdings sehe ich es nicht als Musterlösung an, weil gerade beim Softwaredesign gibt es viele verschiedene Möglichkeiten und auch selten ein Richtig oder Falsch.
 
 Du kannst dir gerne meine Lösung anschauen, aber lass dich davon nicht verunsichern, bezüglich deiner eigenen Lösung.
 
