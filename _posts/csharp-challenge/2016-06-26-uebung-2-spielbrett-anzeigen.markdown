@@ -35,17 +35,6 @@ Als kleine Erweiterung kannst du bereits in der `Main` Methode auf eine Tastenei
 
 **WICHTIG:** Ein ganz elementarer Bestandteil einer jeden Übung (wenigstens, wenn sie dich weiterbringen soll) ist [das Reflektieren](http://clean-code-developer.de/die-grade/roter-grad/#Taeglich_reflektieren). Wenn du die Aufgabe erledigt hast ziehe bitte eine Bilanz was die Aufgabe dir bezüglich deiner Fähigkeiten gezeigt hat. So kannst du einfach für dich erkunden in welchen Bereichen du noch mehr Aufgaben machen solltest und welche Bereiche du schon gut beherrschst. Du kannst gerne die Ergebnisse deiner Reflexion hier als Kommentar hinterlassen. Dann kann ich dir weitere Übungen empfehlen.
 
-Du brauchst noch mehr Hilfe bei der Umsetzung dieser Übung? Hier habe ich die notwendigen Schritte aufgelistet:
-
-  - [  ] Neue Klasse `Spielbrett` anlegen
-  - [  ] Der Klasse `Spielbrett` eine statische Methode `Anzeigen` hinzufügen (kein Rückgabewert, keine Parameter)
-  - [  ] Die Ausgabe des Spielbretts mit `Console.WriteLine` in der Methode `Anzeigen` umsetzen
-  - [  ] Die Methode `Spielbrett.Anzeigen()` in der `Main` Methode aufrufen
-  - [  ] Optional: Die `Main` Methode erst verlassen, wenn Benutzer `Enter` gedrückt hat (verwende dazu `Console.ReadLine`)
-  - [  ] Deinen Quellcode kompilieren und testen
-  - [  ] Einen lokalen Commit deiner Änderungen durchführen und dann dein lokales Verzeichnis mit dem GitHub Verzeichnis synchronisieren.
-  - [  ] Reflektieren
-
 ### Erweiterung der Übung für Fortgeschrittene
 
 Als **Fortgeschrittener oder Profi** kannst du die Klasse `Console` wahrscheinlich schon perfekt bedienen. Du könntest allerdings die Domänenanalyse bzw. das Grobdesign üben. Überlege beispielsweise in welcher Klasse du die Ausgabe machst und schreibe hier in den Kommentaren eine Begründung dazu.
@@ -70,6 +59,17 @@ Hier ein paar Videos die dir bei der Lösung dieser Aufgabe helfen könnten und/
 Hast du die Aufgabe umgesetzt, oder willst du nur ein wenig spicken? Mach es dir nicht zu einfach ;-). Du willst schließlich was lernen, oder?
 
 Wenn du eine erste Inspiration benötigst, dann schau dir mal den Quellcode von [Erik](https://github.com/supermew10/TicTacToe) an. Wie immer in der Softwareentwicklung gibt es jedoch sehr viele verschiedene Lösungsmöglichkeiten.
+
+Du brauchst Hilfe bei der Umsetzung dieser Übung? Hier habe ich die notwendigen Schritte aufgelistet:
+
+  - [  ] Neue Klasse `Spielbrett` anlegen
+  - [  ] Der Klasse `Spielbrett` eine statische Methode `Anzeigen` hinzufügen (kein Rückgabewert, keine Parameter)
+  - [  ] Die Ausgabe des Spielbretts mit `Console.WriteLine` in der Methode `Anzeigen` umsetzen
+  - [  ] Die Methode `Spielbrett.Anzeigen()` in der `Main` Methode aufrufen
+  - [  ] Optional: Die `Main` Methode erst verlassen, wenn Benutzer `Enter` gedrückt hat (verwende dazu `Console.ReadLine`)
+  - [  ] Deinen Quellcode kompilieren und testen
+  - [  ] Einen lokalen Commit deiner Änderungen durchführen und dann dein lokales Verzeichnis mit dem GitHub Verzeichnis synchronisieren.
+  - [  ] Reflektieren
 
 Meine Lösung siehst du [in diesem Commit](https://github.com/LernMoment/ttt-challenge/commit/f0a7cb46bd8409a94aead2391a74c45cc2fe1724). Er zeigt dir was ich im Vergleich zu einem leeren Konsolenprojekt geändert habe.
 

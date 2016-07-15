@@ -25,16 +25,6 @@ Abschließend kannst du mir mitteilen wo ich dein Projekt auf GitHub finde. Dazu
 
 **WICHTIG:** Ein ganz elementarer Bestandteil einer jeden Übung (wenigstens, wenn sie dich weiterbringen soll) ist [das Reflektieren](http://clean-code-developer.de/die-grade/roter-grad/#Taeglich_reflektieren). Wenn du die Aufgabe erledigt hast ziehe bitte eine Bilanz was die Aufgabe dir bezüglich deiner Fähigkeiten gezeigt hat. So kannst du einfach für dich erkunden in welchen Bereichen du noch mehr Aufgaben machen solltest und welche Bereiche du schon gut beherrschst. Du kannst gerne die Ergebnisse deiner Reflexion hier als Kommentar hinterlassen. Dann kann ich dir weitere Übungen empfehlen.
 
-Du brauchst noch mehr Hilfe bei der Umsetzung dieser Übung? Hier habe ich die notwendigen Schritte aufgelistet:
-
-  - [  ] `TicTacToe` Projekt bei GitHub anlegen (inkl. README.md und License)
-  - [  ] Einen Clone des GitHub-Projekts auf deinem Rechner erstellen
-  - [  ] `TicTacToe` Konsolenprojekt in Visual Studio anlegen
-  - [  ] Begrüßungstext per `Console.WriteLine` in der `Main` Methode ausgeben lassen.
-  - [  ] Projekt übersetzen, ausführen und sicherstellen, dass keine Fehler / Warnung ausgegeben werden
-  - [  ] Das Visual Studio Projekt nach GitHub synchronisieren
-  - [  ] Reflektieren
-
 ### Erweiterung der Übung für Fortgeschrittene
 
 Das Anlegen eines Projektes ist sicherlich kein Thema für dich. Damit dich die Übung tatsächlich herausfordert, könntest du beispielsweise anstelle einer normalen Konsolenanwendung eine [.NET Core Konsolenanwendung](https://blogs.msdn.microsoft.com/dmx/2016/06/09/developers-home-teil-1-net-core-auf-mac-linux/) erstellen.
@@ -51,6 +41,16 @@ Hier ein paar Videos die dir bei der Lösung dieser Aufgabe helfen könnten:
  - Wenn du Hilfe brauchst bei der Verwendung von GitHub, dann kannst du das [kostenlose GitHub Tutorial Deutsch](https://www.youtube.com/playlist?list=PLP2TrPpx5VNlLOYo5pook-0_0Uy0YLdHW) verwenden. Darin erkläre ich dir Schritt für Schritt wie du ein Projekt auf GitHub anlegst und deinen Quellcode aus Visual Studio nach GitHub bekommst.
 
 ### Lösung
+
+Du brauchst Hilfe bei der Umsetzung dieser Übung? Hier habe ich die notwendigen Schritte aufgelistet:
+
+  - [  ] `TicTacToe` Projekt bei GitHub anlegen (inkl. README.md und License)
+  - [  ] Einen Clone des GitHub-Projekts auf deinem Rechner erstellen
+  - [  ] `TicTacToe` Konsolenprojekt in Visual Studio anlegen
+  - [  ] Begrüßungstext per `Console.WriteLine` in der `Main` Methode ausgeben lassen.
+  - [  ] Projekt übersetzen, ausführen und sicherstellen, dass keine Fehler / Warnung ausgegeben werden
+  - [  ] Das Visual Studio Projekt nach GitHub synchronisieren
+  - [  ] Reflektieren
 
 Für diese Übung gibt es keine Musterlösung. Du kannst dir jedoch mein [Verzeichnis auf GitHub](https://github.com/LernMoment/ttt-challenge) anschauen. Dort bekommst du einen ersten Eindruck davon welche Beschreibungen und Dateien sinnvoll sind. Beachte dabei bitte, dass dein Verzeichnis zu Beginn weniger Informationen beinhalten kann und du diese nach und nach erweiterst. [Hier](https://github.com/LernMoment/ttt-challenge/tree/8e75c7260a20ae765a8bb76760e1a04e6bae5815) siehst du mein Verzeichnis auf GitHub direkt nach dem Anlegen.
 
