@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Übung #5 - Ein Spiel abbrechen und neustarten"
-excerpt: "Erstelle eine while-Schleife und lege neue Objekte mit new an."
+excerpt: "Erstelle eine neue Klasse und lege Instanzen mit new an."
 categories: csharp-challenge
 lernmoment: C#
 lm-newsletter-group-id: 8
@@ -29,29 +29,36 @@ Mehr sage ich hier erstmal nicht. Wenn du gar keine Idee hast, kannst du im folg
 
 ### Erweiterung der Übung für Fortgeschrittene
 
-Lass deiner Kreativität freien lauf und überlege welche zusätzlichen Funktionalitäten das Spiel gebrauche könnten. Wie wäre es zum Beispiel mit:
+Lass deiner Kreativität freien lauf und überlege welche zusätzlichen Funktionalitäten das Spiel gebrauchen könnte. Wie wäre es zum Beispiel mit:
 
  - Die Spieler wollen nach dem Spielende die für das Spiel benötigte Zeit wissen. Du könntest also beispielsweise eine Klasse `Spiel` erstellen die in ihrem Konstruktor die aktuelle Zeit übergeben bekommt und beim Spielende über eine Eigenschaft anzeigt wie lange das Spiel gedauert hat.
- - Wenn du dich schon ein wenig mit Abhängigkeiten zwischen Klassen beschäftigt hast, dann weißt du auch, dass es nicht immer eine gute Idee ist Instanzen einer Klasse in einer Klasse zu erstellen. Häufig ist es besser, wenn di Instanzen außerhalb erstellt werden und dann per Konstruktor in eine Instanzen gegeben werden (*Dependency Injection*). Kannst du das bei dieser Übung auch anwenden?
+ - Wenn du dich schon ein wenig mit Abhängigkeiten zwischen Klassen beschäftigt hast, dann weißt du auch, dass es nicht immer eine gute Idee ist Instanzen einer Klasse in einer Klasse zu erstellen. Häufig ist es besser, wenn die Instanzen außerhalb erstellt werden und dann per Konstruktor in eine Instanzen gegeben werden (*Dependency Injection*). Kannst du das bei dieser Übung auch anwenden?
 
 ### Artikel, Videos & Links zu dieser Aufgabe
 
 Hier ein paar Videos die dir bei der Lösung dieser Aufgabe helfen könnten und/oder dir zusätzliche Informationen bieten:
 
- - tbd
+ - In der Lektion ["ObjektOrientierung in der Praxis - Klassen definieren"](https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/learn/v4/t/lecture/4247880) meines Online-Kurses "C# für Einsteiger" zeige ich dir im Detail wie du in Visual Studio 2015 und C# eine Klasse erstellst. Diese Lektion bekommst du auch [kostenlos auf YouTube](https://youtu.be/xKfepjFQNuI).
+ - In der Lektion ["ObjektOrientierung in der Praxis - Objekte anlegen und verändern"](https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/learn/v4/t/lecture/4247898) meines Online-Kurses "C# für Einsteiger" erfährst du wie du `new` verwendest um Objekte anzulegen. Diese Lektion bekommst du auch [kostenlos auf YouTube](https://youtu.be/q1iJ_hdO7dg).
  - Eine ausführliche Beschreibung des *new-Operators* gibt es auf [MSDN](https://msdn.microsoft.com/de-de/library/fa0ab757.aspx)
 
 ### Lösung
 
 Hast du die Aufgabe umgesetzt, oder willst du nur ein wenig spicken? Mach es dir nicht zu einfach ;-). Du willst schließlich was lernen, oder?
 
-Als **Lösungshinweis** kann ich dir verraten, dass die Methode `SpielsteinSetzen` mit 3 Parametern definiert habe. Dabei verwende ich je einen Parameter für `symbol`, `spalte` und `zeile`. 
+Als **Lösungshinweis** kann ich dir verraten, dass ich die neue Klasse `Spiel` erstellt habe, welches das `Spielbrett` beinhaltet. Eine Instanz dieser Klasse hält also immer den aktuellen Spielstand. Um ein Spiel zu starten kann die aktuelle Instanz einfach gelöscht werden und eine neue Instanz erstellt werden.
 
 Führe fogende Schritte aus, wenn du keine Idee hast, wie du die Übung angehen kannst:
 
-  - [  ] tbd
+  - [  ] Erstelle eine neue Klasse mit dem Namen `Spiel`
+  - [  ] Füge der neuen Klasse ein Attribut mit dem Datentyp `Spielbrett` hinzu und initialisiere dieses Attribut mit einer neuen Instanz (verwende dazu den `new` Operator)
+  - [  ] Füge der neuen Klasse 2 Methoden hinzu die das `Spielbrett` anzeigen und jeweils einen unterschiedlichen Spielzug ausführen. So kannst du gleich die Funktionalität testen.
+  - [  ] Damit du Instanzen der Klasse `Spielbrett` anlegen kannst, musst du das Schlüsselwort `static` bei den Methoden und Attributen entfernen.
+  - [  ] Lege nun eine Instanz der Klasse `Spiel` in `Main` an und führe einen Spielzug auf dieser Instanz aus. Diese Instanz solltest du in einer lokalen Variable speichern (z.B. in `aktuellesSpiel`).
+  - [  ] Starte das Spiel neu in dem du deiner lokalen Variablen eine neue Instanz von `Spiel` zuweist. Damit wird das vorherige Spiel gelöscht.
+  - [  ] Führe auf der neuen Instanz von `Spiel` einen anderen Spielzug aus um zu überprüfen, dass das Spiel tatsächlich neugestartet wurde.
 
-Meine Lösung siehst du [tbd](). 
+Meine Lösung siehst du [in diesem Commit](https://github.com/LernMoment/ttt-challenge/commit/76d91276b18fe8812dd8090e3933c8692223ffc4). 
 
 Viel Spaß beim Üben
 
