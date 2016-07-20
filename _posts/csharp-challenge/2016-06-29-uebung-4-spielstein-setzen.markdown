@@ -68,7 +68,7 @@ Führe fogende Schritte aus, wenn du keine Idee hast, wie du die Übung angehen 
   - [  ] Methode implementieren: Überprüfe ob der Parameter `spalte` einen Wert hat der **innerhalb** des zulässigen Wertebereichs ist und weise dann das `symbol` dem Spielfeld an der angegebenen `zeile` und `spalte` zu.
   - [  ] Reflektieren
 
-Meine Lösung siehst du [tbd](). 
+Meine Lösung siehst du [in diesem Commit](https://github.com/LernMoment/ttt-challenge/commit/1a018fb73a4f090dd7074ba88f6b404b6d880754). 
 
 Viel Spaß beim Üben
 
