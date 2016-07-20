@@ -1,0 +1,22 @@
+---
+layout: slide
+title: "Test Slides"
+description: A presentation slide for how to use reveal.js in Jekyll
+theme: solarized
+transition: slide
+categories: slides
+date: 2016-07-19T06:00:00+01:00
+---
+
+<section data-markdown>
+# Folie 1
+
+Text auf Folie 1
+
+</section>
+<section data-markdown>
+
+# Folie 2
+
+Hier ein anderer Text
+</section>
