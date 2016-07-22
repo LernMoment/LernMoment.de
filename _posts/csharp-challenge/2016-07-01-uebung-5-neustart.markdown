@@ -23,7 +23,7 @@ Der Fokus ist hier erstmal nicht auf der Interaktion mit dem Benutzer, sondern d
 
 Es gibt hier einige Lösungsansätze. Ich würde nah an der Domäne bleiben. D.h. wenn wir beiden das Spiel machen und wollen es abbrechen, dann würden wir einfach unser Blatt zerreißen und auf einem neuen Blatt ein neues Spielbrett zeichnen. In C# kannst du mit dem `new` Schlüsselwort eine neue Instanz einer Klasse erstellen.
 
-Mehr sage ich hier erstmal nicht. Wenn du gar keine Idee hast, kannst du im folgenden Kapitel mit der Lösung nachschauen.
+Du könntest also die Klasse `Spielbrett` so modifizieren, dass du eine Instanz von ihr anlegen kannst. Nachdem du einmal `SpielsteinSetzen` aufgerufen hast könntest du eine neue Instanz von `Spielbrett` erstellen und zeigen, dass die neue Instanz leer ist. Als Ergänzung werde ich noch eine neue Klasse `Spiel` anlegen, weil wir ja immer davon sprechen, dass wir ein Spiel neustarten und nicht, dass wir ein neues Spielbrett zeichnen. Dabei wird bei mir eine neue Instanz von `Spielbrett` in der Klasse `Spiel` angelegt und verwendet.
 
 **WICHTIG:** Ein ganz elementarer Bestandteil einer jeden Übung (wenigstens, wenn sie dich weiterbringen soll) ist [das Reflektieren](http://clean-code-developer.de/die-grade/roter-grad/#Taeglich_reflektieren). Wenn du die Übung erledigt hast ziehe bitte eine Bilanz was die Übung dir bezüglich deiner Fähigkeiten gezeigt hat. So kannst du einfach für dich erkunden in welchen Bereichen du noch mehr Aufgaben machen solltest und welche Bereiche du schon gut beherrschst. Du kannst gerne die Ergebnisse deiner Reflexion hier als Kommentar hinterlassen. Dann kann ich dir weitere Übungen empfehlen.
 
