@@ -17,9 +17,9 @@ date: 2016-07-03T06:00:00+01:00
 **Übungsfokus:** C# Syntax - Methoden mit Parameter & Rückgabewert, Strings; Design - Algorithmus
 **Geschätzte Übungsdauer:** ca. 20 Minuten
 
-In der [letzten Übung](/csharp-challenge/uebung-6-spielerwechsel/) hast du die Klasse `Spiel` erweitert um den Spielerwechsel auszuführen. Somit könnten schon mal 2 Spieler abwechseln ihre Spielzüge ausführen. Allerdings kann die Anwendung bisher die möglichen Kommandos `ende`, `neustart` und Spielzug (in Form einer Koordinate) noch nicht unterscheiden. Darum geht es in dieser Übung.
+In der [letzten Übung](/csharp-challenge/uebung-6-spielerwechsel/) hast du die Klasse `Spiel` erweitert um den Spielerwechsel auszuführen. Somit könnten schon mal 2 Spieler abwechselnd ihre Spielzüge ausführen. Allerdings kann die Anwendung bisher die möglichen Kommandos `ende`, `neustart` und Spielzug (in Form einer Koordinate) noch nicht unterscheiden. Darum geht es in dieser Übung.
 
-In dieser Übung liegt der Fokus auf der Erstellung eines Algorithmus um ein eingegebenes Kommando zu analysieren und zu entscheiden ob es sich um einen Spielzug handelt. Dabei ist auf dieser Ebene nicht relevant, ob es sich um einen gültigen Spielzug handelt.
+In dieser Übung liegt der Fokus auf der Erstellung eines Algorithmus um ein eingegebenes Kommando zu analysieren und zu identifizieren ob es sich um einen Spielzug handelt. Dabei ist auf dieser Ebene nicht relevant, ob es sich um einen gültigen Spielzug handelt.
 
 Ein Spieler kann unserem TicTacToe Spiel mitteilen, dass er einen Spielzug machen möchte in dem er eine Koordinate eingibt. Dabei besteht eine Koordinate immer aus einem Buchstaben (an erster Stelle) und einer Zahl (an zweiter Stelle). Sofern eine Eingabe diesem Schema folgt, kann in einem nächsten Schritt (siehe nächste Übung) der Spielzug ausgeführt werden. Dann kann auch beispielsweise im `Spielbrett` entschieden werden ob es sich um eine für den aktuellen Spielstand gültige Koordinate handelt.
 
