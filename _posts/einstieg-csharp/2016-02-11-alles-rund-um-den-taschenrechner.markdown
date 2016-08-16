@@ -28,8 +28,6 @@ Der Hammer wäre es natürlich, wenn du eine Änderunge am Taschenrechner vorber
 
 Du hast keine Idee was du am Taschenrechner noch machen kannst? Dann schau doch mal bei den <a href="https://github.com/LernMoment/einstieg-csharp-taschenrechner/issues" target="_blank"> Issues vom Taschenrechner</a>. Dort werden Verbesserungsvorschläge und Fehler gesammelt.
 
-**Wenn du lieber eine ganz neue Herausforderung angehen möchtest, dann verpasse nicht die** [??? C# Challenge](/alle/druckbetankung-fuer-csharp-anfaenger/)! Bald geht es los!
-
 <div class="subscribe-notice">
   <h5>Du willst keine Übung oder Challenge verpassen? Dann melde dich hier an:</h5>
     {% include lernmoment-subscribe.html %}
