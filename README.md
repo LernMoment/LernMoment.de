@@ -28,6 +28,8 @@ jekyll serve --host 0.0.0.0 --config _config.yml,_config-devenv.yml --no-watch
 
 Dabei ist insbesondere wichtig, dass beide Konfigurationsdateien verwendet werden: `--config _config.yml,_config-devenv.yml`. In der `_config.yml` sind alle Einstellungen, die für die Produktionsumgebung verwendet werden. Dadurch, dass `_config-devenv.yml` als weitere Konfigurationsdatei geladen wird, werden insbesondere die Domäne überschrieben und somit ist es nun möglich auf deinem Host einen Browser zu starten und die laufende Seite per `http://192.168.99.100:4000` anzuschauen.
 
+*ACHTUNG:* Solltest du eine abweichende IP verwenden (z.B. wenn das neue [Dock for Mac](https://docs.docker.com/docker-for-mac/) oder [Docker for Windows](https://docs.docker.com/docker-for-windows/)), dann musst du die `_config-devenv.yml` entsprechend anpassen. Das erkennst du daran, dass die Seite nach längerer Zeit geladen wird, aber nicht vollständig ist. Für *Docker für Mac* habe ich die `_config-devenv.yml` angepasst und verwende nun die IP `0.0.0.0`.
+
 Es kann sein, dass deine Docker-Installation eine andere IP-Adresse verwendet. Sofern du `docker-machine` verwendest, kannst du die IP-Adresse mit `docker-machine ip default` überprüfen. Dabei ist `default` der Name der virtuellen Maschine in der deine Docker-Engine läuft. Sofern du Docker unter Linux verwendest, wird dies anders funktionieren (die Docker-Doku ist dein Freund ;)!
 
 ### Verändern des Themes
