@@ -55,7 +55,7 @@ Neues Git-Repository erstellen
 
 Nachdem du nun dein Projekt von *Git* verwalten lässt, solltest du deine Änderungen von Zeit zu Zeit mit einem *Commit* bei *Git* "abliefern". *Git* sind alle deine Änderungen bekannt, aber es weiß nicht was deine Änderungen für dich bedeuten.
 
-Hast du mehrere Dateien geändert, dann weiß *Git* auch nicht welche Änderungen für dich einen logischen Zusammenhang haben. Du könntest beispielsweise mehrere Änderungen gemacht haben, die dein Projekt um verschiedene Funktionalitäten erweitern. Ich versuche immer möglichst kleine *Commits* zu machen. Das bedeutet, dass ich nach wenigen Änderungen bereits ein Commit erstelle. Bevor ich hier jedoch wieder abschweife, zurück zur eigentlichen Kurzanleitung (eine genauere Beschreibung der "best practices" für einen Commit bekommst du dann in einem späteren Artikel).
+Hast du mehrere Dateien geändert, dann weiß *Git* auch nicht welche Änderungen für dich einen logischen Zusammenhang haben. Du könntest beispielsweise mehrere Änderungen gemacht haben, die dein Projekt um verschiedene Funktionalitäten erweitern. Ich versuche immer möglichst kleine *Commits* zu machen. Das bedeutet, dass ich nach wenigen Änderungen bereits ein Commit erstelle. Bevor ich hier jedoch wieder abschweife, zurück zur eigentlichen Anleitung (eine genauere Beschreibung der "best practices" für einen Commit bekommst du dann in einem späteren Artikel).
 
 Der einfachste Weg alle deine aktuellen Änderungen in einen Commit zu packen ist, dass du in den `Team Explorer` gehst und dort den Bereich `Änderungen` auswählst. Dieser wird dir üblicherweise direkt angezeigt. Sollte das nicht der Fall sein, dann kannst du über das Haussymbol (`Startseite`) eine Übersichtsseite aufrufen und dort `Änderungen` auswählen.
 
@@ -77,9 +77,9 @@ Commit-Beschreibung eingeben
 
 Sobald du einige *Commits* erstellt hast, kannst du dir in *Visual Studio* den bisherigen Verlauf anschauen. Dazu gehst du am besten in den `Projektmappen-Explorer`. Darin kannst du auf der Datei für die du den Verlauf sehen möchtest das Kontextmenü (rechte Maustaste) öffnen und `Verlauf anzeigen...` auswählen. Dies öffnet einen weiteren Tab.
 
-Darin siehst du für jeden *Commit* sowohl das Datum und auch die Nachricht. Wenn du zu einem *Commit* die Details sehen möchtest, dann gehst du einfach auf diesen *Commit* im *Verlauf* und rufst über das *Kontextmenü* den Punkt `Commitdetails anzeigen` auf. Damit wechselt *Visual Studio* automatisch vom `Projektmappen-Explorer` zum `Team Explorer`. Darin siehst zu auch welche Dateien von dem *Commit* verändert wurden.
+Darin siehst du für jeden *Commit* sowohl das Datum und auch die Nachricht. Wenn du zu einem *Commit* die Details sehen möchtest, dann gehst du einfach auf diesen *Commit* im *Verlauf* und rufst über das *Kontextmenü* den Punkt `Commitdetails anzeigen` auf. Damit wechselt *Visual Studio* automatisch vom `Projektmappen-Explorer` zum `Team Explorer`. Darin siehst du auch welche Dateien vom *Commit* verändert wurden.
 
-Insbesondere im Verlauf siehst du warum gute *Commit-Beschreibungen* wichtig sind. Sobald du nämlich einie *Commits* gemacht hast, wird es immer schwieriger einzelne *Commits* wiederzufinden. Insbesondere wenn einige Tage oder gar Wochen vergangen sind, dann kommst du mit kryptischen Beschreibungen nicht wirklich weiter.
+Insbesondere im Verlauf siehst du warum gute *Commit-Beschreibungen* wichtig sind. Sobald du nämlich einige *Commits* gemacht hast, wird es immer schwieriger einzelne *Commits* wiederzufinden. Insbesondere wenn einige Tage oder gar Wochen vergangen sind, dann kommst du mit kryptischen Beschreibungen nicht wirklich weiter.
 
 Möchtest du den Verlauf für das ganze Projekt sehen, dann musst du den `Team Explorer` bemühen. Darin gehst du am besten über das Haussymbol zur `Startseite` wechseln. Dort wählst du dann `Branches` aus. Üblicherweise siehst du in der folgenden Auflistung nur den Projektnamen und dadrunter den Eintrag `master`. Solltest du mehrere *Branches* haben, dann wird dir der Aktive mit fettgedruckten Buchstaben angezeigt.
 
@@ -117,5 +117,8 @@ Wenn nun der `master` Branch aktiv ist, kannst du auf ihm im `Team Explorer` per
 
 Nun kann es passieren, dass du noch *Konflikte* auflösen musst. Dabei solltest du dir alles im Detail anschauen, aber üblicherweise kannst du immer die Änderungen aus der `Quelle` übernehmen.
 
-Jan
+Hoffentlich hat dir diese Anleitung ein wenig geholfen beim Umgang mit Git und Visual Studio. Momentan fehlen dieser Anleitung noch ein paar Bilder. Diese werde ich in den nächsten Tagen nachliefern.
 
+Viel Erfolg beim Verwalten deiner Versionen mit Git und Visual Studio
+
+Jan
