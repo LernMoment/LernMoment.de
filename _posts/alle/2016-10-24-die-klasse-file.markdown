@@ -14,6 +14,7 @@ date: 2016-10-24T06:00:00+02:00
 ---
 
 > NEU: Dieser Artikel als Video im [kostenlosen C# Tutorial Deutsch](https://youtu.be/KjP9v7xPUQE).
+> Den Quellcode zum Beispielprogramm findest du auf [GitHub](https://github.com/LernMoment/csharp/tree/master/DieKlasseFile).
 
 Der Namespace `System.IO` bietet dir viele Klassen um Dateien zu erstellen, bearbeiten, komprimieren, löschen und noch vieles mehr. In diesem LernMoment zeige ich dir die Klasse `System.IO.File`, welche viele von den täglichen Aufgaben sehr einfach erledigt. Es handelt sich dabei um eine rein statische Klasse. Du solltest aber wissen, dass es andere Klassen gibt, die bezüglich der Ausführungszeit die selben Aufgaben schneller erledigen. Dafür sind sie auch etwas komplexer in der Verwendung.
 
@@ -76,5 +77,7 @@ Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherige
 
 ### Weitere Informationen
 
+-	Grundlagen C# und professionelle Softwareentwicklung lernen im Online-Kurs [Einstieg in C#](https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=LM2016_UCSK75)
 -	Das komplette Beispielprogramm zu diesem LernMoment findest du [hier](https://github.com/LernMoment/csharp/tree/master/DieKlasseFile)
 -	Die ganzen Methoden der Klasse `File` sind sehr gut [hier](https://msdn.microsoft.com/de-de/library/system.io.file(v=vs.110).aspx) beschrieben.
+-	Mehr über Pfade erfährst du auch im Artikel [Pfade trennen sich auf allen Plattformen anders](/csharp-programmieren/pfade-trennen-sich-auf-allen-plattformen-anders/).
