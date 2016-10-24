@@ -7,7 +7,7 @@ categories: alle
 lernmoment: C#
 lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
-tags: [Syntax, File, System.IO]
+tags: [C#, File, Syntax]
 image:
   feature: csharp-programmieren.jpg
 date: 2016-10-24T06:00:00+02:00
