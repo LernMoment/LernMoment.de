@@ -15,7 +15,7 @@ date: 2016-10-24T09:30:00+01:00
 Du kannst auf GitHub üben, lernen, mit anderen Entwicklern in Kontakt kommen, Unterstützung für dein Open Source Projekt aus der Community bekommen und dein Wissen vermarkten. Es ist somit ein Turbo für deine Karriere, deine privaten Softwareentwicklungsprojekte und deine Fähigkeiten im Bereich der professionellen Softwareentwicklung.
 
 <figure>
-	<a href="https://www.udemy.com/github-fuer-entwickler/?couponCode=LM50-UGIHUK-2016" target="_blank"><img src="/images/UGiHuK_LandingPage_Rabatt.jpg" alt="image"></a>
+	<a href="https://www.udemy.com/github-fuer-entwickler/?couponCode=LM30-UGIHUK-2016" target="_blank"><img src="/images/UGiHuK_LandingPage_Rabatt.jpg" alt="image"></a>
 </figure>
 
 Das wichtigste ist jedoch, dass du es auch einsetzen kannst. Ein gepflegtes GitHub-Projekt und professionelle Issues und Pull Request können dein Ticket für einen neue Job sein. Einige Konzepte und Arbeitsschritte sind auf GitHub allerdings nicht unbedingt intuitiv. Das kommt auch daher, dass GitHub viele Freiheiten lässt.
