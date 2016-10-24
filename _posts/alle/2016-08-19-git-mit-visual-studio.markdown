@@ -27,6 +27,11 @@ In dieser Kurzanleitung zeige ich dir die wichtigsten Schritte um mit *Visual St
  3. den aktuellen Verlauf deiner Commits anzuschauen und
  4. auf einen älteren Commit zurück zufallen.
 
+<div class="subscribe-notice">
+<h5>Lerne GitHub mit Visual Studio zu verwenden!</h5>
+<a markdown="0" href="https://www.udemy.com/github-fuer-entwickler/?couponCode=LM30-UGIHUK-2016" class="notice-button">Mit 40% Rabatt zum Online-Kurs "Einstieg in GitHub" >></a>
+</div>
+
 ## Ein Projekt erstellen
 
 Jedesmal, wenn du ein *neues Projekt* erstellst (in Visual Studio das Menü `Datei -> Neu -> Projekt...` auswählen), kannst du über die *Checkbox:* `Neues Git-Repository erstellen` (direkt über dem `OK` Button) auswählen ob dein Projekt mit *Git* verwaltet werden soll.
@@ -82,6 +87,11 @@ Darin siehst du für jeden *Commit* sowohl das Datum und auch die Nachricht. Wen
 Insbesondere im Verlauf siehst du warum gute *Commit-Beschreibungen* wichtig sind. Sobald du nämlich einige *Commits* gemacht hast, wird es immer schwieriger einzelne *Commits* wiederzufinden. Insbesondere wenn einige Tage oder gar Wochen vergangen sind, dann kommst du mit kryptischen Beschreibungen nicht wirklich weiter.
 
 Möchtest du den Verlauf für das ganze Projekt sehen, dann musst du den `Team Explorer` bemühen. Darin gehst du am besten über das Haussymbol zur `Startseite` wechseln. Dort wählst du dann `Branches` aus. Üblicherweise siehst du in der folgenden Auflistung nur den Projektnamen und dadrunter den Eintrag `master`. Solltest du mehrere *Branches* haben, dann wird dir der Aktive mit fettgedruckten Buchstaben angezeigt.
+
+<div class="subscribe-notice">
+<h5>Du kennst dich noch nicht mit Visual Studio 2015 aus?</h5>
+<a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=LM2016_UCSK75" class="notice-button">Lerne die Grundlagen im Online-Kurs "Einstieg in C#" >></a>
+</div>
 
 Auf dem gewünschten Branch kannst du im *Kontextmenü* ebenfalls `Verlauf anzeigen...` auswählen. Dann siehst du alle Commits die es bisher in dem ausgewählten Branch gegeben hat.
 

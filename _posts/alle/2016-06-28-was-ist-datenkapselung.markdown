@@ -10,7 +10,7 @@ share: true
 tags: [C#, Konzept, Professionalität]
 image:
   feature: intro-code.jpg
-modified:
+modified: 2016-10-24T20:00:00+01:00
 date: 2016-06-28T10:00:00+01:00
 ---
 
@@ -61,6 +61,11 @@ public class Auto
 Hier siehst du eine Version der Klasse Auto. Wenn du dir diese Version anschaust, wirst du sehen, dass es folgendes Attribut gibt: `public string marke;`
 
 Das Attribut `marke`ist nicht gekapselt. D.h. jeder kann es in jeder erdenklichen Art und Weise von außerhalb verändern. Solange sich an der Klasse nichts ändert, ist das auch erstmal nicht so ein riesiges Problem (ausser, dass es in diesem Fall zu einigen Fehler führen wird). Wenn du als Benutzer dieser Klasse jedoch davon ausgehst, dass du in diesem Attribut jede beliebige Zeichenkette speichern kannst und ich später die Klasse ändere, so dass nur noch eine Automarke in einer ganz bestimmten Schreibweise erlaubt ist, dann wird das Programm ab einem bestimmten Zeitpunkt nicht mehr funktionieren bzw. noch mehr Fehler haben.
+
+<div class="subscribe-notice">
+<h5>Lerne weitere Grundlagen von Datenkapselung und Objekt-Orientierung</h5>
+<a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=LM2016_UCSK75" class="notice-button">Mit 40% Rabatt zum Online-Kurs "Einstieg in C#" >></a>
+</div>
 
 Eine geänderte Version der Klasse `Auto` könnte zum Beispiel so aussehen:
 

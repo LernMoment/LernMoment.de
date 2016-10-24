@@ -10,9 +10,11 @@ show-lm-newsletter-subscribe-box: true
 tags: [Werkzeug, NuGet]
 image:
   feature: csharp-programmieren.jpg
-modified:
+modified: 2016-10-23T20:44:49+02:00
 date: 2015-07-26T16:44:49+02:00
 ---
+
+> NEU: Einführung in NuGet als Teil von LernMoment's kostenlosen [C# Tutorial Deutsch](https://youtu.be/WsvhwW2M7AY?list=PLP2TrPpx5VNkr-wmkjguVZAvN4T5EPJbF).
 
 Mit [NuGet](http://www.nuget.org) kannst du sehr einfach zusätzliche Bibliotheken in dein Entwicklungsprojekt integrieren. Dabei ist es sogar egal, ob du Visual Studio oder MonoDevelop verwendest. Für die Funktion "Package Restore" kommst du sogar ohne Entwicklungsumgebung aus. Du brauchst lediglich die `nuget.exe` für die Kommandozeile.
 
@@ -57,3 +59,5 @@ Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherige
 -	Weitere Details wie sich NuGet beim Package Restore in Visual Studio und MSBuild verhält, findest du [hier](https://github.com/LernMoment/csharp/tree/master/Nuget)
 -	[Hier](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore) findest du ein Beispiel für eine `.gitignore` Datei die die eigentlichen NuGet Pakete ignoriert. So kommen nur `packages.config` in dein Git-Verzeichnis
 -	Um die NuGet Pakete im TFS zu ignorieren, musst du auch ein paar Dinge machen. Das ist [hier](https://docs.nuget.org/consume/NuGet-Config-Settings) beschrieben.
+- Video: [Pakete integrieren mit NuGet](https://youtu.be/bsuEqUelxvg) als Teil des kostelosen [C# Tutorial Deutsch](https://www.youtube.com/playlist?list=PLP2TrPpx5VNkr-wmkjguVZAvN4T5EPJbF) 
+- Video: [Wofür NuGet?](https://youtu.be/WsvhwW2M7AY) als Teil des kostelosen [C# Tutorial Deutsch](https://www.youtube.com/playlist?list=PLP2TrPpx5VNkr-wmkjguVZAvN4T5EPJbF)

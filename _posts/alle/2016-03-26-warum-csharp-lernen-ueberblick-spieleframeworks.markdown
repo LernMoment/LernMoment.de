@@ -5,7 +5,7 @@ excerpt: Tobias Vetter stellt dir Unity, XNA und MonoGame vor
 categories: alle
 lernmoment: C#
 lm-newsletter-group-id: 1
-show-lm-newsletter-subscribe-box: true
+show-lm-newsletter-subscribe-box: false
 share: true
 tags: [C#, Spieleentwicklung, Frameworks]
 image:
@@ -51,3 +51,8 @@ Vielen Dank an Tobias für diesen Gastartikel und dir viel Spaß beim Überlegen
 Jan
 
 PS: Wenn du eine noch detailliertere Einführung in diese und weitere Spieleframeworks (auch in den Sprachen C++ und JavaScript) möchtest, kann ich dir <a href="https://channel9.msdn.com/Shows/gamedev/1" target="_blank">dieses Video auf Channel9</a> empfehlen. Es ist allerdings nur in Englisch verfügbar.
+
+<div class="subscribe-notice">
+<h5>Heute deine erste C#-Anwendung und morgen dein erstes Spiel?</h5>
+<a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=LM2016_UCSK75" class="notice-button">Mit 40% Rabatt zum Online-Kurs "Einstieg in C#" >></a>
+</div>
