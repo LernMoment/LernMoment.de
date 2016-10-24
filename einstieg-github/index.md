@@ -20,6 +20,11 @@ Du kannst auf GitHub üben, lernen, mit anderen Entwicklern in Kontakt kommen, U
 
 Das wichtigste ist jedoch, dass du es auch einsetzen kannst. Ein gepflegtes GitHub-Projekt und professionelle Issues und Pull Request können dein Ticket für einen neue Job sein. Einige Konzepte und Arbeitsschritte sind auf GitHub allerdings nicht unbedingt intuitiv. Das kommt auch daher, dass GitHub viele Freiheiten lässt.
 
+<div class="subscribe-notice">
+<h5>Werde mit GitHub professioneller Softwareentwickler</h5>
+<a markdown="0" href="https://www.udemy.com/github-fuer-entwickler/?couponCode=LM30-UGIHUK-2016" class="notice-button">Mit 40% Rabatt zum Kurs "Einstieg in GitHub" >></a>
+</div>
+
 In diesem Kurs zeige ich dir Schritt für Schritt wie du GitHub professionell verwendest um möglichst schnell zu den gewünschten Ergebnissen zu kommen. Alle Themen erkläre ich dir anhand vieler Beispiele. Dazu gibt es reichlich Übungen und Beispielprojekte, Issues und Pull Requests direkt auf GitHub.
 
 ### Was Teilnehmer sagen
@@ -31,6 +36,11 @@ Ein Teilnehmer hat mir persönlich diese Rückmeldung geschickt über die ich mi
 > Mein Kernnutzen aus dem Kurs war das ich nun erstmal eigene Projekte dort bearbeite und ich meine Arbeit nun besser Dokumentieren kann was ich wo verändert und wie bearbeitet habe (Versionierung).
 >
 > Der Kurs ist für mich sehr ausführlich gewesen und ich würde mich sozusagen als Ideale Zielgruppe ansehen, sprich Programmier Anfänger mit wenig bis begrenzten Kenntnissen, die GitHub nicht kennen oder kaum nutzen."
+
+<div class="subscribe-notice">
+<h5>Softwareentwicklung lernen, üben und anwenden!</h5>
+<a markdown="0" href="https://www.udemy.com/github-fuer-entwickler/?couponCode=LM30-UGIHUK-2016" class="notice-button">Mit 40% Rabatt zum Kurs "Einstieg in GitHub" >></a>
+</div>
 
 ## Details und weitere Ressourcen zum Kurs
 
