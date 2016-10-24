@@ -10,9 +10,11 @@ show-lm-newsletter-subscribe-box: true
 tags: [Syntax, File, System.IO]
 image:
   feature: csharp-programmieren.jpg
-modified: 2015-08-19T06:00:00+02:00
+modified: 2016-10-24T06:00:00+02:00
 date: 2015-07-26T16:18:54+02:00
 ---
+
+> NEU: Dieser Artikel als Video im [kostenlosen C# Tutorial Deutsch](https://youtu.be/KjP9v7xPUQE)
 
 Der Namespace `System.IO` bietet dir viele Klassen um Dateien zu erstellen, bearbeiten, komprimieren, löschen und noch vieles mehr. In diesem LernMoment zeige ich dir die Klasse `System.IO.File`, welche viele von den täglichen Aufgaben sehr einfach erledigt. Es handelt sich dabei um eine rein statische Klasse. Du solltest aber wissen, dass es andere Klassen gibt, die bezüglich der Ausführungszeit die selben Aufgaben schneller erledigen. Dafür sind sie auch etwas komplexer in der Verwendung.
 
@@ -27,6 +29,13 @@ if ( File.Exists(dateiPfadUndName) )
 ```
 
 Die Methode erwartet den Pfad (egal ob relativ, absolut oder UNC) und gibt per `bool` das Resultat zurück. Dabei ist zu beachten, dass auch ein `false` zurück kommt, wenn der Pfad nicht korrekt ist. Wenn du also statt `@"C:\temp\test.txt"` nur `"C:\temp\test.txt"` verwendest, dann kommt immer ein `false` aus der Methode `File.Exists` zurück, weil der Pfad nicht korrekt ist. Mit dem `@` werden alle Zeichen die als "Escape-Sequenz" interpretiert werden, wie zum Beispiel das `\`, als normales Zeichen verwendet. Alternativ könntest du auch `"C:\\temp\\test.txt"` schreiben.
+
+Mehr über Pfade erfährst du auch im Artikel [Pfade trennen sich auf allen Plattformen anders](/csharp-programmieren/pfade-trennen-sich-auf-allen-plattformen-anders/).
+
+<div class="subscribe-notice">
+<h5>Lerne alles über C# und professionelle Softwareentwicklung</h5>
+<a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=LM2016_UCSK75" class="notice-button">Mit 40% Rabatt zum Online-Kurs "Einstieg in C#" >></a>
+</div>
 
 Der nächste Schritt ist schon die Verwendung einer `File.Read*`, `File.Write*` oder `File.Append*` Methode. Die unterschiedlichen Ausprägungen dieser Methoden sind [hier](https://msdn.microsoft.com/de-de/library/system.io.file(v=vs.110).aspx) beschrieben. Diese Methoden öffnen bzw. erstellen eine Datei, lesen oder schreiben den angegebenen Inhalt und schließen die Datei wieder. Um beispielsweise den Inhalt einer Datei zeilenweise zu lesen und auf der Console auszugeben, schreibst du einfach folgendes:
 
