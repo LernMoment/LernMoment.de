@@ -6,7 +6,7 @@ categories: hintergrund
 lernmoment: UCsK
 show-lm-newsletter-subscribe-box: false
 share: true
-tags: [Professionelle Softwareentwicklung, C#]
+tags: [Professionelle Softwareentwicklung, C#, Kurs]
 image:
   feature: MatheFormel.jpg
 modified:
