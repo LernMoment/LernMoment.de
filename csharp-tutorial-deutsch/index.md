@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "C# Tutorial Deutsch"
+title: "Moin und willkommen zum C# Tutorial Deutsch"
 excerpt: "Das C# Tutorial Deutsch hilft dir beim Einstieg in die professionelle Softwareentwicklung mit Visual Studio 2015 und C#."
 search_omit: true
 image:
-  feature: intro-code.jpg
+  feature: csharp-tutorial-large-feature.jpg
 modified:
 lm-newsletter-group-id: 1
 date: 2016-02-20T09:30:00+01:00
