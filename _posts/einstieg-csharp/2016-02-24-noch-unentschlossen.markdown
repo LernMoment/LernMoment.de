@@ -6,12 +6,14 @@ categories: einstieg-csharp
 lernmoment: C#
 show-lm-newsletter-subscribe-box: false
 share: true
-tags: [Video, Tutorial]
+tags: [Video, Tutorial, YouTube]
 image:
   feature:
-modified:
+modified: 2016-10-28T20:15:00+01:00
 date: 2016-02-24T13:13:45+01:00
 ---
+
+> NEU: Überblick und detailierte Beschreibung aller Videos im [C# Tutorial Deutsch](/csharp-tutorial-deutsch/).
 
 Die ersten Schritte in Visual Studio können ganz schön kompliziert sein. In diesem Tutorial zeige ich dir Schritt für Schritt was du tun musst um deine erste C#-Anwendung mit Visual Studio 2015 Community Edition zu estellen. Dabei starten wir mit der Installation und hören auf mit einer fertigen (kleinen) Anwendung.
 
