@@ -54,5 +54,5 @@ PS: Wenn du eine noch detailliertere Einführung in diese und weitere Spielefram
 
 <div class="subscribe-notice">
 <h5>Heute deine erste C#-Anwendung und morgen dein erstes Spiel?</h5>
-<a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=LM2016_UCSK75" class="notice-button">Mit 40% Rabatt zum Online-Kurs "Einstieg in C#" >></a>
+<a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=GEB2016_UCSK12" class="notice-button">Für 12€ Geburtstags-Spezial-Preis zum Online-Kurs "Einstieg in C#" >></a>
 </div>

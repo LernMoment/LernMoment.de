@@ -24,7 +24,7 @@ Schritt für Schritt zeige ich dir wie du Visual Studio 2015 in der Community Ed
 
 <div class="subscribe-notice">
 <h5>Lerne alles über C# und professionelle Softwareentwicklung</h5>
-<a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=LM2016_UCSK75" class="notice-button">Mit 40% Rabatt zum Online-Kurs "Einstieg in C#" >></a>
+<a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=GEB2016_UCSK12" class="notice-button">Für 12€ Geburtstags-Spezial-Preis zum Online-Kurs "Einstieg in C#" >></a>
 </div>
 
 Das C# Tutorial in Deutsch ist unterteilt in 6 Schritte (die Links starten das Video an der passenden Stelle):
