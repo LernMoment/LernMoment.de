@@ -4,7 +4,7 @@ title: "LernMoment wird 1 Jahr - Ich gebe einen aus!"
 excerpt: "Angebote, Videos, Kurse, Artikel und vieles mehr zum ersten Geburtstag von LernMoment.de"
 search_omit: true
 image:
-  feature: intro-code.jpg
+  feature: HappyBirthdayFeatureImage.jpeg
 modified:
 lm-newsletter-group-id: 1
 date: 2016-11-10T09:30:00+01:00
