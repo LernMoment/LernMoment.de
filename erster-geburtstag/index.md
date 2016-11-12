@@ -54,6 +54,6 @@ Hier bekommst du eine Übersicht was im Rahmen der LernMoment's Geburtstagswoche
  - *19.11.16 + 20.11.16* - Kleine Pause für dich und für mich. Nächste Woche geht es nochmals so richtig rund. Daher hast du das Wochenende Zeit die bisherigen Themen aufzuarbeiten oder dich einfach auszuruhen ;-).
  - *Montag 21.11.16* - Webinar *Bowling-Kata - so einfach wie möglich*. In diesem live Webinar kannst du mir zu sehen wie ich eine Coding-Kata umsetze. Du kannst mir quasi über die Schulter schauen und anschließend Fragen stellen. Das solltest du wirklich nicht verpassen!
  - *Dienstag 22.11.16* - Webinar *Entwickle einen einfach Twitch-Client mit WPF-Oberfläche*. Schaue mir über die Schulter, wie ich einen Twitch-Client mit WPF entwickle. Im Anschluss kannst du gerne Fragen stellen die ich direkt beantworte.
- - *Mittwoch 23.11.16* - Lass dich überraschen  
+ - *Mittwoch 23.11.16* - Webinar *"Digitale Visitenkarte" mit GitHub Pages*. Du bist live dabei wie ich eine Webseite erstelle die mir als digitale Visitenkarte dient. Alles läuft auf GitHub und du lernst damit die GitHub Pages kennen. Anschließend kannst du Fragen stellen.
  - *Donnerstag 24.11.16* - Lass dich überraschen  
  - *Freitag 25.11.16* - Lass dich überraschen  
