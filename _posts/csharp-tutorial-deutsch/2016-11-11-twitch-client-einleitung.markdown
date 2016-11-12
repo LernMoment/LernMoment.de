@@ -15,7 +15,7 @@ date: 2016-11-11T00:01:00+01:00
 ---
 
 > Die weiteren Teile dieser Mini-Serie findest du hier:
-> Teil #2 - Architektur eines Twitch Client: Erscheint am 13.11.2016
+> Teil #2 - [Architektur eines Twitch Client](/csharp-tutorial-deutsch/twitch-client-architektur/)
 > Teil #3 - Lesen per TwitchAPI: Erscheint am 15.11.2016
 
 Im Rahmen des [C# Tutorials Deutsch](https://www.youtube.com/playlist?list=PLP2TrPpx5VNkr-wmkjguVZAvN4T5EPJbF) gibt es eine neue Mini-Serie in der ich dir zeige wie du mit C# einen [Twitch](http://www.twitch.tv)-Client erstellen kannst. Dabei liegt der Fokus nicht so sehr darauf eine fertige Anwendung zu erstellen. Vielmehr möchte ich dir die Grundlagen zeigen, so dass du selber die für dich wichtige Anwendung erstellen kannst.
