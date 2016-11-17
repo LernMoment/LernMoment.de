@@ -66,7 +66,7 @@ Nun kommt es auf deine Anwendung an. Möchtest du die Daten einfach nur ausgeben
 ### Weitere Links
 
  - Wenn du nicht weißt, wie du mit NuGet die TwitchLib in dein Projekt bekommst, dann habe ich das in [dieser Episode des C# Tutorials Deutsch](https://youtu.be/bsuEqUelxvg?list=PLP2TrPpx5VNkr-wmkjguVZAvN4T5EPJbF) für dich erklärt.
- - [Die GitHub Projekt](https://github.com/LernMoment/csharp-twitch-client) beinhaltet den kompletten Quellcode von mir zu diesem Client (inkl. weiterer Beispiele die ich nicht im Video gezeigt habe).
+ - [Das GitHub Projekt](https://github.com/LernMoment/csharp-twitch-client) beinhaltet den kompletten Quellcode von mir zu diesem Client (inkl. weiterer Beispiele die ich nicht im Video gezeigt habe).
  - Weitere Infos zu `async` und `await` gibt es im Artikel [Einführung in Async / Await](/csharp-programmieren/einfuehrung-in-async-und-await/)  
  - Auf [Twitch Developers](https://dev.twitch.tv/docs) findest du viele Informationen über Daten die der Twitch-Server zurück liefert. Darunter auch beispielsweise eine genau Beschreibung der [Benutzerdaten](https://dev.twitch.tv/docs/api/v3/users/). Diese Beschreibung sind häufig etwas umfangreicher als die Dokumentation der *TwitchLib*. Allerdings geht es dort immer um *HTTP* und nicht *C#*. 
  - [C# Tutorial Deutsch - Dateien lesen und schreiben mit File](https://youtu.be/KjP9v7xPUQE) beschreibt wie du Daten in eine Textdatei schreiben kannst.
