@@ -17,6 +17,8 @@ date: 2016-11-15T06:00:00+01:00
 > Die weiteren Teile dieser Mini-Serie findest du hier:
 > Teil #1 - [Einleitung  und Authentifizierung](/csharp-tutorial-deutsch/twitch-client-einleitung/)
 > Teil #2 - [Architektur eines Twitch Client](/csharp-tutorial-deutsch/twitch-client-architektur/)
+> Teil #4 - [AccessToken erstellen](/csharp-tutorial-deutsch/twitch-client-access-token-erstellen/)
+> Teil #5 - [Schreiben per TwitchAPI - Follow Channel Client](/csharp-tutorial-deutsch/twitch-client-daten-schreiben-per-api/)
 
 Links zu den im Video genannten Seiten und Ressourcen findest du am Ende dieses Artikels.
 

@@ -17,6 +17,8 @@ date: 2016-11-13T00:30:00+01:00
 > Die weiteren Teile dieser Mini-Serie findest du hier:
 > Teil #1 - [Einleitung  und Authentifizierung](/csharp-tutorial-deutsch/twitch-client-einleitung/)
 > Teil #3 - [Lesen per TwitchAPI](/csharp-tutorial-deutsch/twitch-client-daten-lesen-per-api/)
+> Teil #4 - [AccessToken erstellen](/csharp-tutorial-deutsch/twitch-client-access-token-erstellen/)
+> Teil #5 - [Schreiben per TwitchAPI - Follow Channel Client](/csharp-tutorial-deutsch/twitch-client-daten-schreiben-per-api/)
 
 Grundsätzlich ist eine Kommunikation mit den Twitch-Servern nur über das Internet möglich. Damit du trotzdem einen Client in C# entwickeln kannst, gibt es Bibliotheken wie die [TwitchLib]() die die Interaktion via *REST API, IRC* und *Websockets* in C# Klassen verpacken. Wie das alles zusammenhängt und funktioniert, erkläre ich dir in diesem Video:
 
