@@ -55,7 +55,7 @@ Hier bekommst du eine Übersicht was im Rahmen der LernMoment's Geburtstagswoche
  - *Freitag 18.11.16* - Heute gibt es eine neue Folge des [C# Tutorial Deutsch](/csharp-tutorial-deutsch/) mit dem Thema [**Der Datentyp string**](/csharp-tutorial-deutsch/der-datentyp-string/).
  - *19.11.16 + 20.11.16* - Kleine Pause für dich und für mich. Nächste Woche geht es nochmals so richtig rund. Daher hast du das Wochenende Zeit die bisherigen Themen aufzuarbeiten oder dich einfach auszuruhen ;-).
  - *Montag 21.11.16* - Im Rahmen der neuen Reihe *Wie du programmieren lernst* beschäftige ich mich mit der Frage [**Welche Programmiersprache für den Einstieg?**](/alle/welche-programmiersprache/). Der Link führt dich sowohl zu einem neuen Artikel wie auch einem Video!
- - *Dienstag 22.11.16* - Git setzt sich immer mehr als DIE Versionsverwaltung durch. In seinem neuen Artikel *Warum Git?* hat mein Gastautor Tobias Vetter beschrieben was die Vorteile dieser Versionsverwaltung sind und warum du sie einsetzen solltest.
+ - *Dienstag 22.11.16* - Git setzt sich immer mehr als DIE Versionsverwaltung durch. In seinem neuen Artikel [**Warum Git?**](/alle/warum-git/) hat mein Gastautor Tobias Vetter beschrieben was die Vorteile dieser Versionsverwaltung sind und warum du sie einsetzen solltest. Vielen Dank Tobias für den Artikel.
  - *Mittwoch 23.11.16* - Lass dich überraschen
  - *Donnerstag 24.11.16* - Lass dich überraschen  
  - *Freitag 25.11.16* - Lass dich überraschen  
