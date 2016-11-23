@@ -56,6 +56,6 @@ Hier bekommst du eine Übersicht was im Rahmen der LernMoment's Geburtstagswoche
  - *19.11.16 + 20.11.16* - Kleine Pause für dich und für mich. Nächste Woche geht es nochmals so richtig rund. Daher hast du das Wochenende Zeit die bisherigen Themen aufzuarbeiten oder dich einfach auszuruhen ;-).
  - *Montag 21.11.16* - Im Rahmen der neuen Reihe *Wie du programmieren lernst* beschäftige ich mich mit der Frage [**Welche Programmiersprache für den Einstieg?**](/alle/welche-programmiersprache/). Der Link führt dich sowohl zu einem neuen Artikel wie auch einem Video!
  - *Dienstag 22.11.16* - Git setzt sich immer mehr als DIE Versionsverwaltung durch. In seinem neuen Artikel [**Warum Git?**](/alle/warum-git/) hat mein Gastautor Tobias Vetter beschrieben was die Vorteile dieser Versionsverwaltung sind und warum du sie einsetzen solltest. Vielen Dank Tobias für den Artikel.
- - *Mittwoch 23.11.16* - Lass dich überraschen
- - *Donnerstag 24.11.16* - Lass dich überraschen  
+ - *Mittwoch 23.11.16* - Heute ist schon wieder Mittwoch und daher habe ich etwas bezüglich GitHub für dich vorbereitet! Im heutigen Video geht es um [**README - Beschreibe dein Projekt**](https://youtu.be/RUGPwI5iGGc). Es ist Teil des [**Grundlagen: GitHub Tutorial Deutsch**](https://www.youtube.com/playlist?list=PLP2TrPpx5VNlLOYo5pook-0_0Uy0YLdHW). Im Video erkläre ich dir was das `README.md` ist und welche Kerninformationen du integrieren solltest.
+ - *Donnerstag 24.11.16* - Widmen wir uns wieder dem Thema C#. Du erfährst was die Struktur `TimeSpan` ist und wie du sie in deinem Quellcode verwenden kannst.
  - *Freitag 25.11.16* - Lass dich überraschen  
