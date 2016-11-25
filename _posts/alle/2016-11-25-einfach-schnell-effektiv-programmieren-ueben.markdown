@@ -1,14 +1,16 @@
 ---
 layout: post
-title: Übst Du genügend? Mit diesen 6 Voraussetzungen übst du schnell und effektiv!
-excerpt: Gastartikel auf werd-fachinformatiker.de
-modified:
-categories: hintergrund
-tags: [Lernen]
+title: "Einfach, schnell und effektiv Programmieren üben. So geht's!"
+excerpt: "Ein entscheidendes Element beim Programmieren lernen ist das Üben. Hier lernst du die wichtigsten Voraussetzungen und einen systematischen Ansatz!"
+categories: alle
+lernmoment: Hintergrund
+lm-newsletter-group-id: 2
+show-lm-newsletter-subscribe-box: false
+share: true
+tags: [Geburtstag]
 image:
-  feature:
-date: 2016-11-23T06:00:00+02:00
-published: false
+  feature: HappyBirthdayFeatureImage.jpeg
+date: 2016-11-25T06:00:00+02:00
 ---
 
 Üben ist eine der wichtigsten Tätigkeiten um professionelle Softwareentwicklung möglichst effizient zu erlernen. Ohne das praktische Umsetzen kannst du zwar Wissen aufnehmen, aber du behälst es nicht wirklich lange und dir fehlt die Erfahrung wie du das Wissen anwenden sollst. Das kennst du vielleicht von grundlegenden Konzepten wie der Objektorientierung. In der Theorie hört sich das erstmal noch irgendwie logisch an (zumindest nach einiger Zeit ;), aber wenn du deine erste Klasse finden sollst oder dich entscheiden musst zu welcher Klasse eine Methode gehört, dann bist du bestimmt schon mal ins Schwitzen gekommen. Mir geht es nach über 13 Jahren Softwareentwicklung manchmal noch so.
