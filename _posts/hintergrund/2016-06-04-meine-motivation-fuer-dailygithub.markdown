@@ -22,7 +22,7 @@ Warum erzähle ich dir das alles? Die Idee habe ich basierend auf einem wunderba
 
 ### Schritt 1 - Mini-Gewohnheit wählen
 
-Das war einfach für mich. Nachdem ich meinen neuen Kurs ["GitHub für Entwickler"](https://www.udemy.com/github-fuer-entwickler/?couponCode=LernMoment_15-UGiHuK) fertig hatte, war ich bis in die Haarspitzen motiviert GitHub bis ins kleinste Detail zu verstehen.
+Das war einfach für mich. Nachdem ich meinen neuen Kurs ["Einstieg in GitHub"](https://www.udemy.com/github-fuer-entwickler/?couponCode=LM30-UGIHUK-2016) fertig hatte, war ich bis in die Haarspitzen motiviert GitHub bis ins kleinste Detail zu verstehen.
 
 Nach einigen Wochen Recherche über GitHub ist mir folgende These eingeschossen:
 
