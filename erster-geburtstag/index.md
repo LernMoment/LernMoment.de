@@ -58,4 +58,14 @@ Hier bekommst du eine Übersicht was im Rahmen der LernMoment's Geburtstagswoche
  - *Dienstag 22.11.16* - Git setzt sich immer mehr als DIE Versionsverwaltung durch. In seinem neuen Artikel [**Warum Git?**](/alle/warum-git/) hat mein Gastautor Tobias Vetter beschrieben was die Vorteile dieser Versionsverwaltung sind und warum du sie einsetzen solltest. Vielen Dank Tobias für den Artikel.
  - *Mittwoch 23.11.16* - Heute ist schon wieder Mittwoch und daher habe ich etwas bezüglich GitHub für dich vorbereitet! Im heutigen Video geht es um [**README - Beschreibe dein Projekt**](https://youtu.be/RUGPwI5iGGc). Es ist Teil des [**Grundlagen: GitHub Tutorial Deutsch**](https://www.youtube.com/playlist?list=PLP2TrPpx5VNlLOYo5pook-0_0Uy0YLdHW). Im Video erkläre ich dir was das `README.md` ist und welche Kerninformationen du integrieren solltest.
  - *Donnerstag 24.11.16* - Widmen wir uns wieder dem Thema C#. Du erfährst was die [**Struktur TimeSpan**](/csharp-tutorial-deutsch/dotnet-klassen-timespan/) ist und wie du sie in deinem Quellcode verwenden kannst.
- - *Freitag 25.11.16* - Lass dich überraschen  
+ - *Freitag 25.11.16* - Heute beende ich die Geburtstagswochen mit einem, wie ich finde, großartigen Artikel. Diese Bescheidenheit ;-) kommt wahrscheinlich daher, dass ich für das Thema wirklich brenne! Es geht darum wie du [**einfach, schnell und effektiv Programmieren üben kannst**](/alle/einfach-schnell-effektiv-programmieren-ueben/). Es ist ein sehr langer Artikel geworden allerdings wird er sich hoffentlich für dich lohnen schon weil eine komplette Übung inkl. Musterlösung enthalten ist!
+
+Hiermit möchte ich mich nochmals bei dir für das riesige Interesse und die viele positive Rückmeldung bedanken. Mir hat diese Aktion richtig viel Spaß gemacht und ich habe beschlossen, dass ich ab sofort kontinuierlicher Inhalte auf dem Blog erstelle.
+
+Alleine das Erstellen von Artikeln und Videos hat mich auf viele weitere Ideen gebracht! Wenn du auch Themenwünsche hast, dann kannst du mir die gerne [direkt mitteilen](mailto:jan@lernmoment.de).
+
+Ich bin dann nächste Woche wieder mit mindestens einem neuen Artikel / Video für dich da.
+
+Dir ein super tolles Wochenende und ganz viel Spaß mit den ganzen Materialien
+
+Jan  
