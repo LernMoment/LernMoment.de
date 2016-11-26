@@ -14,6 +14,8 @@ modified:
 date: 2016-02-21T06:00:00+01:00
 ---
 
+> Schau dir auch die weiteren Folgen des [C# Tutorial Deutsch](/csharp-tutorial-deutsch/) an.
+
 Die ersten Schritte in Visual Studio können ganz schön kompliziert sein. In diesem Tutorial zeige ich dir Schritt für Schritt was du tun musst um deine erste C#-Anwendung mit Visual Studio 2015 Community Edition zu erstellen. Dabei starten wir mit der Installation und hören auf mit einer fertigen (kleinen) Anwendung.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rtilizFAldA" frameborder="0" allowfullscreen></iframe>

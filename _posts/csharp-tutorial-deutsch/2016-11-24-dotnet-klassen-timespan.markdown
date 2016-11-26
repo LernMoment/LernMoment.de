@@ -14,6 +14,8 @@ modified:
 date: 2016-11-24T07:00:00+01:00
 ---
 
+> Schau dir auch die weiteren Folgen des [C# Tutorial Deutsch](/csharp-tutorial-deutsch/) an.
+
 `TimeSpan` wirst du spätestens dann verwenden, wenn du mit einem Timer arbeiten möchtest, oder die Differenz von zwei Zeitpunkten (in Form von [DateTime](https://youtu.be/Rlu5rPAQQwk) Objekten) bestimmen willst.
 
 Die Struktur `TimeSpan` ist ähnlich wie [der Datentyp string](/csharp-tutorial-deutsch/der-datentyp-string/) immutable. D.h. wenn du einmal eine Instanz angelegt hast, dann kannst du die Werte dieser Instanz (bzw. Objekt) nicht mehr ändern. Willst du beispielsweise zu einer bestehenden Zeitspanne einfach nochmals 10 Minunten hinzu addieren, wird bei der Addition ein neues Objekt erstellt welches den addierten Wert enthält.

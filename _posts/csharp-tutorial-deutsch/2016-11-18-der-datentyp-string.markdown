@@ -14,6 +14,8 @@ modified:
 date: 2016-11-18T07:00:00+01:00
 ---
 
+> Schau dir auch die weiteren Folgen des [C# Tutorial Deutsch](/csharp-tutorial-deutsch/) an.
+
 Der Datentyp `string` kommt wohl in so ziemlich jedem Programm vor. In diesem Video erkläre ich dir, dass:
 
  - `string` ein Alias (also ein Verweis) auf `System.String` ist.
