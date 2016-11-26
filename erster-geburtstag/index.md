@@ -8,7 +8,10 @@ image:
 modified:
 lm-newsletter-group-id: 1
 date: 2016-11-10T09:30:00+01:00
+modified: 2016-11-26T09:30:00+01:00
 ---
+
+> UPDATE: Die Geburtstagswochen sind vorbei. Vielen Dank für deine tolle Unterstützung. Die Angebote gibt es nicht mehr, aber hier findest du natürlich noch Links zu allen Artikeln und Videos die in diesem Kontext erschienen sind. 
 
 Vor genau einem Jahr habe ich mit dem Kurs [Einstieg in C#](/einstieg-csharp/) begonnen. Das war die Grundlage für die Neuausrichtung von LernMoment.de. Seitdem ist das Angebot wesentlich mehr fokussiert auf Einsteiger in die professionelle Softwareentwicklung. 
 
@@ -18,30 +21,9 @@ Vielen Dank und viel Spaß mit dem neuem Material
 
 Jan von LernMoment.de
 
-### Alle Kurse zum Geburtstags-Spezial-Preis
-
-Vom 11.11. bis 25.11. bekommst du meine Kurse (fast) geschenkt. Ich habe pro Kurs 50 Gutscheine erstellt mit denen du den Kurs für nur 12€ bekommst. Klicke einfach auf den für dich interessanten Kurs und du kannst den Kurs **sofort für nur 12€** kaufen! Dieses ist eine einmalige Aktion und mehr Gutschein zu diesem Preis wird es von mir nicht geben. Viel Spaß damit!
-
-[![Online-Kurs: Einstieg in C# mit 90% Rabatt]({{ site.url }}/images/UCsK-Titel-von-Udemy_klein.jpg)](https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=GEB2016_UCSK12)
-{: .pull-left}
-
-[Einstieg in C# - Software programmieren wie ein Profi](https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=GEB2016_UCSK12): Egal ob Spiele, Web-, Mobile- oder Desktop-Apps - Du brauchst Methodik und die Grundlagen von C#. Beides lernst du hier. Während der Geburtstagswochen für nur 12€!
-
-<br>
-
-[![Online-Kurs: Einstieg in GitHub mit 75% Rabatt]({{ site.url }}/images/UgiHuK-Titelbild-klein.png)](https://www.udemy.com/github-fuer-entwickler/?couponCode=GEB2016_UGIHUK12)
-{: .pull-right}
-
-[Einstieg in GitHub: Entwickle Software wie die Profis](https://www.udemy.com/github-fuer-entwickler/?couponCode=GEB2016_UGIHUK12): Lerne die Grundlagen um an Game Engines (MonoGame), Web Frameworks (Angular 2) oder deinem Traumprojekt zu entwickeln.
- Während der Geburtstagswochen für nur 12€!
-
-<br>
-
 ### GESCHENKE - Jeden Tag ein neues Video, neuer Artikel und vieles mehr
 
 Hier bekommst du eine Übersicht was im Rahmen der LernMoment's Geburtstagswochen alles geplant ist. Ich werde jeden Tag den passenden Link zu der entsprechenden Ressource einfügen. Hoffentlich ist für dich was spannendes dabei.
-
-> HINWEIS: Die geplanten Webinars in der zweiten Wochen fallen aufgrund technischer Probleme aus. Ich werde sie so schnell wie möglich nachholen. Anstelle dessen habe ich andere spannende Inhalte erstellt.
 
  - *Freitag 11.11.16* - Die Party beginnt gleich mit mehreren Dingen:
   1. Das [**Twitch-Client Tutorial - Teil #1:**](/csharp-tutorial-deutsch/twitch-client-einleitung/) Wenn du Gamer bist, dann kennst du bestimmt Twitch. In dieser Mini-Serie im Rahmen des *C# Tutorials Deutsch* gebe ich dir eine Einführung wie du mit C# einen Client (oder auch Twitch-Bot genannt) erstellst.

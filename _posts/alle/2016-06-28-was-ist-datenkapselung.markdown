@@ -64,7 +64,7 @@ Das Attribut `marke`ist nicht gekapselt. D.h. jeder kann es in jeder erdenkliche
 
 <div class="subscribe-notice">
 <h5>Lerne weitere Grundlagen von Datenkapselung und Objekt-Orientierung</h5>
-<a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=GEB2016_UCSK12" class="notice-button">Für 12€ Geburtstags-Spezial-Preis zum Online-Kurs "Einstieg in C#" >></a>
+<a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCSK_LM2016-110" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
 </div>
 
 Eine geänderte Version der Klasse `Auto` könnte zum Beispiel so aussehen:
