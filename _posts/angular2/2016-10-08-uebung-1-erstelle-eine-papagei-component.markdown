@@ -4,8 +4,8 @@ title: "Übung #1 - Ein Papagei als einfache Component"
 excerpt: "Übe das Erstellen von einfachen Angular 2 Anwendungen."
 categories: angular2
 lernmoment: Angular2
-lm-newsletter-group-id: 4
-show-lm-newsletter-subscribe-box: false
+lm-newsletter-group-id: 8
+show-lm-newsletter-subscribe-box: true
 share: true
 tags: ["Angular 2", "Übung", Plunker, Component]
 image:
@@ -107,10 +107,3 @@ Ich habe hier das HTML-Template direkt in der `app.component.ts` beschrieben, da
 Viel Spaß beim Üben
 
 Jan
-
-PS: Möchtest du mehr Übungen bekommen? Viele der kostenlosen Übungen bekommen nur meine Newsletter-Abonnenten. 
-
-<div class="subscribe-notice">
-  <h5>Hier unverbindlich und kostenlos anmelden:</h5>
-    {% include lernmoment-subscribe.html %}
-</div>
