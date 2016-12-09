@@ -11,7 +11,7 @@ tags: [Datentypen, C#, Video]
 image:
   feature: csharp-tutorial-feature.jpg
 modified:
-date: 2016-12-09T07:00:00+01:00
+date: 2016-12-08T07:00:00+01:00
 published: false
 ---
 
