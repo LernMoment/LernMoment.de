@@ -33,8 +33,8 @@ Alles weitere erfährst du hier im Video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2HDA11673pU" frameborder="0" allowfullscreen></iframe>
 
 <div class="subscribe-notice">
-<h5>Du willst eine Anwendung erstellen die konfiguriert werden kann?</h5>
-<a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCSK_LM2016-110" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
+<h5>Du willst selber einen YouTube Client oder eine andere Anwendung entwickeln?</h5>
+<a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCSK_LM2016-110" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
 </div>
 
 **FRAGEN?** Du hast noch Fragen zum Thema Konfigurationseinstellungen? Dann stelle sie mir direkt unter diesem Video in den Kommentaren oder schicke sie mir [per Mail](mailto:jan@lernmoment,de). Ich würde mich freuen, wenn ich diesen Artikel noch für dich erweitern kann.
@@ -52,7 +52,7 @@ Ein weiterer wichtiger Punkt ist, dass du `Properties.Settings.Default` spätest
  - Den Quellcode zum *"Simple YouTube Client"* (inkl. Verwendung von `Settings`) findest du [hier auf GitHub](https://github.com/LernMoment/simple-youtube-client/)
  - Die allgemeine Einführung in das Thema findest in diesem [MSDN Artikel](https://msdn.microsoft.com/de-de/library/a65txexh.aspx).
  - Antworten auf die häufigst gestellten Fragen zu diesem Thema (nur in Englisch) gibt es [in diesem Artikel](https://blogs.msdn.microsoft.com/rprabhu/2005/06/29/client-settings-faq/)
- - Dokumentation der [YouTube Data API Client Library for .NET](https://developers.google.com/api-client-library/dotnet/apis/youtube/v3).
+ - In dieser Folge des Tutorials habe ich einen einfachen YouTube Client entwickelt. Die Dokumentation der [YouTube Data API Client Library for .NET](https://developers.google.com/api-client-library/dotnet/apis/youtube/v3) hilft dir (ein wenig) bei den ersten Schritten.
  - Die *YouTube Data API* als [NuGet-Paket](https://www.nuget.org/packages/Google.Apis.YouTube.v3/).
 
 Viel Erfolg beim Konfigurieren deiner Anwendung
