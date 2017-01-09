@@ -8,11 +8,11 @@ image:
 lm-newsletter-group-id: 2
 ---
 
-> Deine Arbeitstage in der Softwareentwicklung sind häufig stressig? Du weißt nicht, was deine beruflichen Ziele sind und/oder wie du sie erreichen kannst?
-> 
-> Dann ist es Zeit, dass du deine Professionalität erhöhst. Ich zeige dir Schritt für Schritt wie du deine Zufriedenheit im Job und dein Gehalt erhöhen kannst, ohne jede Minute Freizeit opfern zu müssen.
+> Wenn du anfängst Programmieren zu lernen, dann fragst du dich bestimmt wo du anfangen sollst? **Was sind die ersten Schritten?** Wie stellst du sicher, dass du am Ball bleibst und dein Ziel - du weißt doch, warum du Programmieren lernen willst, oder? - erreichst? Wo und **wie findest du Ressourcen** (Übungen, Artikel, Videos, Tutorials, …) die zu dir passen? 
+>
+> Hier auf LernMoment.de gebe ich dir **Antworten auf diese und weitere Fragen.**
 
-<a markdown="0" href="{{ site.url }}/starte-hier/" class="notice-button">Mehr zum Konzept des LernMoments >></a>
+<a markdown="0" href="{{ site.url }}/starte-hier/" class="notice-button">Starte Hier >></a>
 
 <ul class="post-list">
 <!-- Create empty arrays -->
