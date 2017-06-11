@@ -36,6 +36,27 @@ Schritt für Schritt zeige ich dir wie du Visual Studio 2017 in der Community Ed
  - [Neues in Visual Studio 2017](https://docs.microsoft.com/de-de/visualstudio/ide/whats-new-in-visual-studio) - Artikel von Microsoft, der die wichtigsten Funktionalitäten in der aktuellen Version beschreibt.
  - [Offline Installation](https://docs.microsoft.com/en-us/visualstudio/install/create-a-network-installation-of-visual-studio) - beschreibt wie die benötigten Komponenten von Visual Studio 2017 runtergeladen werden können und dann vorbereitet werden um sie auf einem Rechner ohne Internetverbindung zu installieren. Diesen Artikel gab es auch in Deutsch, aber momentan ist er nur auf Englisch verfügbar.
 
+### Der komplette Quellcode für diese Folge:
+
+```cs
+using System;
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hallo Welt");
+
+            Console.WriteLine("Anwendung wird beendet durch drücken von 'Enter'!");
+            Console.ReadLine();
+        }
+    }
+}
+```
+
+
 Viel Erfolg für deine C# Anwendung
 
 Jan
