@@ -21,6 +21,20 @@ Nun kann ich die einzelnen Bereiche und Teilaufgaben komplett los gelöst von ei
 
 Damit ich das große Ganze im Auge behalte schreibe ich mir die einzelnen Schritte als Kommentare direkt in den Quelltext. Nun kann ich für jede Teilaufgabe unterhalb des entsprechenden Kommentars den passenden Quelltext schreiben. Damit habe ich nicht nur die Lösung und eine Dokumentation, sondern wenn ich später den Quelltext umstruktiere, kann ich anhand dieser Kommentare sehen wo potentielle Methoden sind.
 
+## Vorgehen zur Lösung von Teilaufgaben
+
+Nun sind zwar einzelne Bereiche identifiziert und Teilaufgaben vorhanden, doch wie geht es weiter?
+
+Damit du dich nicht verzettelst ist es hilfreich, wenn du dir eine gewisse Routine angewöhnst. Bei mir geht das wie folgt:
+
+ 1. Lösung überlegen
+ 2. Quellcode schreiben
+ 3. Ausführen (Kompilieren und Starten) um Änderungen zu testen
+ 4. Änderungen in die Versionsverwaltung packen
+
+Wie du sehen kannst habe ich hier nicht nur die Erstellung der Lösung drin, sondern auch die Überprüfung. Dieses ist mir sehr wichtig, weil ich versuche nie eine nihct lauffähige Version in der Versionsverwaltung zu haben.
+
+Dieses Vorgehen gibt mir Sicherheit, weil ich immer genau weiß was der nächste Schritt ist. Außerdem erlaubt es mir (vorausgesetzt die Aufgabe ist wirklich klein) immer in kleinen Zeiteinheiten zu arbeiten. So fällt es mir leichter Unterbrechungen zu verkraften, weil ich immer weiß wo ich gerade war.
 
 <br/>
 
