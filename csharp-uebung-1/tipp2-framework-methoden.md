@@ -16,8 +16,8 @@ Für die Umsetzung der Teilaufgabe *Interaktion mit dem Benutzer* (siehe [Lösun
 
 Etwas spannender wird es bei der Teilaufgabe *Text verschlüsseln*. Dabei kannst du sehr gut einige der bestehenden Methoden des Datentyps `string` verwenden:
 
- * [`string.ToUpper()`](https://msdn.microsoft.com/de-de/library/ewdd6aed(v=vs.110).aspx) - konvertiert alle Zeichen eines `string` in Großbuchstaben.
- * [`string.Replace()`](https://msdn.microsoft.com/de-de/library/fk49wtc1(v=vs.110).aspx) - ersetzt alle Vorkommnisse eines Zeichens oder Zeichenkette mit einer anderen.
+ - [`string.ToUpper()`](https://msdn.microsoft.com/de-de/library/ewdd6aed(v=vs.110).aspx) - konvertiert alle Zeichen eines `string` in Großbuchstaben.
+ - [`string.Replace()`](https://msdn.microsoft.com/de-de/library/fk49wtc1(v=vs.110).aspx) - ersetzt alle Vorkommnisse eines Zeichens oder Zeichenkette mit einer anderen.
 
 Wenn du dir die [komplette Beschreibung](https://msdn.microsoft.com/de-de/library/system.string(v=vs.110).aspx) des Datentyps `string` anschaust, wirst du feststellen, dass noch viele spannende Methoden enthalten sind die dir das Leben wesentlich leichter machen.
 
