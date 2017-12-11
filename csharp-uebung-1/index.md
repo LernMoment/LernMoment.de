@@ -44,18 +44,18 @@ Mit folgenden Texten kannst du dein Programm überprüfen ob es richtig funktion
 | Ausgangstext | Verschlüsselter Text |
 | ------------ | -------------------- |
 | Hallo | UNYYB |
-| Es ist gerade 7:21 Uhr am Dienstag Morgen | RF VFG TRENQR 7:27 HUE NZ QVRAFGNT ZBETRA |
+| Es ist gerade 7:21 Uhr am Dienstag Morgen | RF VFG TRENQR 7:21 HUE NZ QVRAFGNT ZBETRA |
 | Übung macht besser ;-) | HROHAT ZNPUG ORFFRE ;-) |
 
 ## Tipps zur Lösung
 Gerade als Anfänger ist es manchmal schwer solche Aufgaben zu lösen, einfach weil es viel zu viel Unbekannte gibt. Daher möchte ich dir hier ein paar Tipps geben die du verwenden kannst, wenn du mit der Lösung der Übung nicht weiter kommst.
 
- - [Tipp #1 - Fokussiere dich auf kleine Schritte](/csharp-uebung-1/tipp1-kleine-happen.html).
+ - [Tipp #1 - Fokussiere dich auf kleine Schritte](/csharp-uebung-1/tipp1-kleine-schritte.html).
 
 
 <br/>
 
 <div class="subscribe-notice">
-<h5>Lerne alles zur Lösung dieser Aufgabe in meinem Online-Kurs</h5>
+<h5>Lerne Konzepte, Syntax und Theorie von C#</h5>
 <a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCSK_LM2016-110" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
 </div>

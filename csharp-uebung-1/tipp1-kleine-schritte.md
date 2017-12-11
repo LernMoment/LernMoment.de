@@ -32,13 +32,13 @@ Damit du dich nicht verzettelst ist es hilfreich, wenn du dir eine gewisse Routi
  3. Ausführen (Kompilieren und Starten) um Änderungen zu testen
  4. Änderungen in die Versionsverwaltung packen
 
-Wie du sehen kannst habe ich hier nicht nur die Erstellung der Lösung drin, sondern auch die Überprüfung. Dieses ist mir sehr wichtig, weil ich versuche nie eine nihct lauffähige Version in der Versionsverwaltung zu haben.
+Wie du sehen kannst habe ich hier nicht nur die Erstellung der Lösung drin, sondern auch die Überprüfung. Dieses ist mir sehr wichtig, weil ich immer versuche eine lauffähige Version in der Versionsverwaltung zu haben. So stelle ich sicher, dass ich mich schnell wieder einfinden kann, auch wenn ich unterbrochen werde. Das kontinuierliche abgeben der Änderungen in die Versionsveraltung hat einen weiteren Vorteil. Ich sehe später in der Historie genau wie ich eine Übung abgearbeitet habe und kann dann nochmals überlegen ob ich beim nächsten Mal etwas verbessern kann.
 
 Dieses Vorgehen gibt mir Sicherheit, weil ich immer genau weiß was der nächste Schritt ist. Außerdem erlaubt es mir (vorausgesetzt die Aufgabe ist wirklich klein) immer in kleinen Zeiteinheiten zu arbeiten. So fällt es mir leichter Unterbrechungen zu verkraften, weil ich immer weiß wo ich gerade war.
 
 <br/>
 
 <div class="subscribe-notice">
-<h5>Lerne alles über C# und professionelle Softwareentwicklung</h5>
+<h5>Lerne mehr über C# und professionelle Softwareentwicklung</h5>
 <a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCSK_LM2016-110" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
 </div>
