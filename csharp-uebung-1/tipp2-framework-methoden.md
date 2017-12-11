@@ -21,7 +21,7 @@ Etwas spannender wird es bei der Teilaufgabe *Text verschlüsseln*. Dabei kannst
 
 Wenn du dir die [komplette Beschreibung](https://msdn.microsoft.com/de-de/library/system.string(v=vs.110).aspx) des Datentyps `string` anschaust, wirst du feststellen, dass noch viele spannende Methoden enthalten sind die dir das Leben wesentlich leichter machen.
 
-**WICHTIG:** Ein `string` kann nicht verändert werden (darum wird ein `String` als *immutable* bezeichnet)! Daher geben die meisten Methoden der Klasse `string` den "neuen" `string` zurück.
+**WICHTIG:** Ein `string` kann nicht verändert werden (darum wird ein `String` als *immutable* bezeichnet - mehr dazu [hier](/csharp-tutorial-deutsch/der-datentyp-string/))! Daher geben die meisten Methoden der Klasse `string` den "neuen" `string` zurück.
 
 ## Beachte deinen Übungsfokus
 
