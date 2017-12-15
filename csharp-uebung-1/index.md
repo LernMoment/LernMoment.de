@@ -50,8 +50,11 @@ Mit folgenden Texten kannst du dein Programm überprüfen ob es richtig funktion
 ## Tipps zur Lösung
 Gerade als Anfänger ist es manchmal schwer solche Aufgaben zu lösen, einfach weil es viel zu viel Unbekannte gibt. Daher möchte ich dir hier ein paar Tipps geben die du verwenden kannst, wenn du mit der Lösung der Übung nicht weiter kommst.
 
+**ACHTUNG:** in den Tipps bekommst du einige detailierte Hinweise zur Lösung. Versuche also erstmal selber eine Lösung zu finden.
+
  - [Tipp #1 - Fokussiere dich auf kleine Schritte](/csharp-uebung-1/tipp1-kleine-schritte.html).
  - [Tipp #2 - Verwende existierende Funktionalitäten](/csharp-uebung-1/tipp2-framework-methoden.html).
+ - [Tipp #3 - Konvertiere Zeichenketten in einzelne Zeichen](/csharp-uebung-1/tipp3-einzelne-zeichen.html).
 
 <br/>
 
