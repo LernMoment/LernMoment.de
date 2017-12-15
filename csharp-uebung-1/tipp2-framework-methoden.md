@@ -29,6 +29,8 @@ Bei diesem Tipp möchte ich nochmals an deinen [Übungsfokus](/alle/ueben-mit-co
 
 Möchtest du beispielsweise *das Vorgehen zur Lösung eines Problems* üben, dann bietet sich die Verwendung solcher Methoden an. Genauso würde ich die Methoden verwenden, wenn ich übe mit möglichst wenig oder mit möglichst ausdrucksstarkem Quellcode die Lösung zu erstellen. Anders wäre es schon, wenn du die absoluten Grundlagen übst. Dann wäre es schon spannend zu überlegen wie das `ToUpper` oder auch ein `Replace` händisch umgesetzt werden kann.
 
+[Weiter zu Tipp #3](/csharp-uebung-1/tipp3-einzelne-zeichen.html)
+
 <br/>
 
 <div class="subscribe-notice">

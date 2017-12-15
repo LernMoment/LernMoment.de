@@ -27,7 +27,7 @@ string eineZeichenkette = "Die Zeichenkette";
 char[] einFeldMitZeichen = eineZeichenkette.ToCharArray();
 ```
 
-Nun musst du noch überlegen wie du so ein Feld von Zeichen durchlaufen kannst und dabei jedes einzelne Zeichen bearbeiten kannst. Hört sich für mich nach einer Aufgabe für eine Schleife an.
+Nun musst du noch überlegen wie du so ein Feld von Zeichen durchlaufen kannst und dabei jedes einzelne Zeichen bearbeiten kannst. Hört sich für mich nach einer Aufgabe für eine Schleife an ;-).
 
 ## Unicode - Die Zeichenkodierung von .NET strings
 
@@ -58,6 +58,7 @@ char dasNaechsteZeichen = Convert.ToChar(codeDesNaechstenZeichens); // nun haben
 
 In der Aufgabe ist beschrieben, dass Zahlen und Sonderzeichen nicht konvertiert bzw. verschlüsselt werden sollen. Mit der `IsLetter` Methode kannst du überprüfen ob ein Zeichen ein Buchstaben oder etwas anderes ist. Mehr Tipps gebe ich jetzt aber nicht ;-).
 
+[Zurück zur Übungsbeschreibung](/csharp-uebung-1/)
 
 <br/>
 

@@ -36,6 +36,8 @@ Wie du sehen kannst habe ich hier nicht nur die Erstellung der Lösung drin, son
 
 Dieses Vorgehen gibt mir Sicherheit, weil ich immer genau weiß was der nächste Schritt ist. Außerdem erlaubt es mir (vorausgesetzt die Aufgabe ist wirklich klein) immer in kleinen Zeiteinheiten zu arbeiten. So fällt es mir leichter Unterbrechungen zu verkraften, weil ich immer weiß wo ich gerade war.
 
+[Weiter zu Tipp #2](/csharp-uebung-1/tipp2-framework-methoden.html)
+
 <br/>
 
 <div class="subscribe-notice">
