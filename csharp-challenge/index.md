@@ -31,7 +31,7 @@ Es geht also darum, dass du eine Aufgabenstellung bekommst und damit übst ein P
 <!-- Create empty arrays -->
 {% assign both_categories = '' | split: ',' %}
 <!-- Push to both_categories -->
-{% for post in site.categories.csharp-challenge '%}
+{% for post in site.categories.csharp-challenge %}
   {% assign both_categories = both_categories | push: post %}
 {% endfor %}
 {% for post in site.categories.alle %}

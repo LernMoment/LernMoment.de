@@ -18,10 +18,10 @@ lm-newsletter-group-id: 2
 <!-- Create empty arrays -->
 {% assign both_categories = '' | split: ',' %}
 <!-- Push to both_categories -->
-{% for post in site.categories.hintergrund '%}
+{% for post in site.categories.hintergrund %}
   {% assign both_categories = both_categories | push: post %}
 {% endfor %}
-{% for post in site.categories.alle '%}
+{% for post in site.categories.alle %}
   {% assign both_categories = both_categories | push: post %}
 {% endfor %}
 {% assign both_categories = both_categories | sort: 'date' %}

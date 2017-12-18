@@ -23,10 +23,10 @@ Alles Wissenswerte zum Kurs bekommst du, wenn du auf das folgende Bild klickst. 
 <!-- Create empty arrays -->
 {% assign both_categories = '' | split: ',' %}
 <!-- Push to both_categories -->
-{% for post in site.categories.einstieg-csharp '%}
+{% for post in site.categories.einstieg-csharp %}
   {% assign both_categories = both_categories | push: post %}
 {% endfor %}
-{% for post in site.categories.alle '%}
+{% for post in site.categories.alle %}
   {% assign both_categories = both_categories | push: post %}
 {% endfor %}
 {% assign both_categories = both_categories | sort: 'date' %}

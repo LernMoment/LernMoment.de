@@ -48,14 +48,14 @@ Ein Teilnehmer hat mir persönlich diese Rückmeldung geschickt über die ich mi
 <!-- Create empty arrays -->
 {% assign both_categories = '' | split: ',' %}
 <!-- Push to both_categories -->
-{% for post in site.categories.einstieg-csharp '%}
+{% for post in site.categories.einstieg-csharp %}
   {% for tag in post.tags  %}
     {% if tag == 'GitHub' or tag == 'Versionskontrolle' %}
       {% assign both_categories = both_categories | push: post %}
     {% endif %}
   {% endfor %}
 {% endfor %}
-{% for post in site.categories.alle '%}
+{% for post in site.categories.alle %}
   {% assign both_categories = both_categories | push: post %}
 {% endfor %}
 {% assign both_categories = both_categories | sort: 'date' %}
