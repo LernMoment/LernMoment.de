@@ -18,7 +18,7 @@ Diese Übung basiert auf der wunderbaren [Coding Kata "ROT-13"](http://ccd-schoo
   In dieser Übung geht es darum, dass du
 
    - lernst wie du von einer "einfachen" Problemstellung zu einem funktionsfähigen Quellcode kommst.
-   - den Datentyp [string]() inklusive einiger seiner wichtigen Funktionen verwendest.
+   - den Datentyp [string](/csharp-tutorial-deutsch/der-datentyp-string/) inklusive einiger seiner wichtigen Funktionen verwendest.
    - einzelne Zeichen eines `String` manipulierst.
    - Kontrollstrukturen wie die `for`-Schleife und die `if`-Abfrage verwendest.
    - ein `Array` verwendest.
@@ -55,6 +55,10 @@ Gerade als Anfänger ist es manchmal schwer solche Aufgaben zu lösen, einfach w
  - [Tipp #1 - Fokussiere dich auf kleine Schritte](/csharp-uebung-1/tipp1-kleine-schritte.html).
  - [Tipp #2 - Verwende existierende Funktionalitäten](/csharp-uebung-1/tipp2-framework-methoden.html).
  - [Tipp #3 - Konvertiere Zeichenketten in einzelne Zeichen](/csharp-uebung-1/tipp3-einzelne-zeichen.html).
+
+## Musterlösung
+
+Es gibt sehr viele unterschiedliche Lösungsmöglichkeiten. Die von mir gewählte erkläre ich dir [hier](/csharp-uebung-1/meine-loesung.html))
 
 <br/>
 
