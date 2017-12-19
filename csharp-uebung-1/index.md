@@ -52,13 +52,13 @@ Gerade als Anfänger ist es manchmal schwer solche Aufgaben zu lösen, einfach w
 
 **ACHTUNG:** in den Tipps bekommst du einige detailierte Hinweise zur Lösung. Versuche also erstmal selber eine Lösung zu finden.
 
- - [Tipp #1 - Fokussiere dich auf kleine Schritte](/csharp-uebung-1/tipp1-kleine-schritte.html).
- - [Tipp #2 - Verwende existierende Funktionalitäten](/csharp-uebung-1/tipp2-framework-methoden.html).
- - [Tipp #3 - Konvertiere Zeichenketten in einzelne Zeichen](/csharp-uebung-1/tipp3-einzelne-zeichen.html).
+ - [Tipp #1 - Fokussiere dich auf kleine Schritte](/csharp-uebung-1/tipp1-kleine-schritte/).
+ - [Tipp #2 - Verwende existierende Funktionalitäten](/csharp-uebung-1/tipp2-framework-methoden/).
+ - [Tipp #3 - Konvertiere Zeichenketten in einzelne Zeichen](/csharp-uebung-1/tipp3-einzelne-zeichen/).
 
 ## Musterlösung
 
-Es gibt sehr viele unterschiedliche Lösungsmöglichkeiten. Die von mir gewählte erkläre ich dir [hier](/csharp-uebung-1/meine-loesung.html))
+Es gibt sehr viele unterschiedliche Lösungsmöglichkeiten. Die von mir gewählte erkläre ich dir [hier](/csharp-uebung-1/meine-loesung/)
 
 <br/>
 
