@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Was bedeutet Debuggen?"
-excerpt: "Beim Debugging geht es darum Syntaxfehler, Laufzeitfehler, Logikfehler und Ausnahmefehler zu beseitigen. Die Grundlagen erfährst du in diesem Artikel."
+excerpt: "Beim Debugging geht es darum Syntaxfehler, Laufzeitfehler, Logikfehler und Ausnahmefehler zu beseitigen. Die Grundlagen und insbesondere wie du Haltepunkte (Breakpoints) verwendest, erfährst du in diesem Artikel."
 categories: alle
 lernmoment: C#
 lm-newsletter-group-id: 1
@@ -69,6 +69,8 @@ class Program
 ```
 
 In diesem Beispiel kann man sehen, dass es zu zwei unterschiedlichen Ergebnissen kommt, abhängig davon, ob man die Klammern gesetzt hat oder nicht. Diese Fehler kann man nur durch gezieltes Testen oder Ausprobieren finden.
+
+#### Haltepunkt (Breakpoint)
 
 Für andere logische Fehler kann es hilfreich sein, sich Haltepunkte im Programm zu setzten, um sich den momentanen Werte einer Variablen anzusehen. In diesem Beispiel wurde die Variable "Ergebnis" zwei Mal hintereinander auf unterschiedliche Wert gesetzt. Die erste Ausgabe zeigt den Wert, nach der ersten Berechnung, die zweite Ausgabe den Wert nach der zweiten Berechnung. Um nun nachvollziehen zu können, wann die Variable welchen Wert hat, kann man einen Breakpoint im Quellcode einfügen.
 
