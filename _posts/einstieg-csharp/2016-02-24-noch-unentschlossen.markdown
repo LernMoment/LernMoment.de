@@ -19,7 +19,7 @@ Die ersten Schritte in Visual Studio können ganz schön kompliziert sein. In di
 
 Das Video kannst du dir auch direkt im <a href="https://www.youtube.com/channel/UC5jCUQ6IPHtQP5r4y9byCqA" target="_blank">LernMoment.de YouTube Kanal</a> anschauen.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rtilizFAldA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rtilizFAldA" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Viel Erfolg bei deiner ersten C#-Anwendung
 
