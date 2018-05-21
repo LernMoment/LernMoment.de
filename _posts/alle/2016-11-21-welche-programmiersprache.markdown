@@ -16,7 +16,7 @@ date: 2016-11-21T01:00:00+01:00
 
 Der Einstieg in das Programmieren ist eigentlich ganz einfach. Überlege was du entwickeln willst bzw. besser gesagt auf welcher Plattform (Windows, Raspberry Pi, Mac, iOS, Android, Web, ...) du entwickeln willst. Dann nimmst du eine Sprache die auf dieser Plattform dominant ist und fängst an. Das empfehle ich dir auf jeden Fall. Wenn du mehr Details zu dieser Aussage hören willst, dann schau dir folgendes Video an und ließ den Rest des Artikels unter dem Video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/crP-uQc7fJA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/crP-uQc7fJA" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Was du nicht machen solltest ist dich in Foren, Facebook-Gruppen, Kommentaren zu Artikeln, ... von den Meinungen der Experten und solchen die noch Experte werden wollen beeinflussen zu lassen. Ganz ehrlich, jede Programmiersprache hat ihre Vor- und Nachteile. Auch ist es wahr, dass rein vom Aufbau einige Programmiersprachen für den Einstieg etwas leichter sein können als andere. Du solltest dir jedoch folgende Frage stellen: "Warum will ich Programmieren lernen?"
 
