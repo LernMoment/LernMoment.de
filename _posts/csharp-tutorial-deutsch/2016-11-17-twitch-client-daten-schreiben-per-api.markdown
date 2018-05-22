@@ -26,7 +26,7 @@ In diesem Video zeige ich dir wie du mithilfe des *AccessToken* aus deinem Twitc
 
 Wenn du verstanden hast wie du mit den hier vorgestellten Methoden umgehst, dann kannst du auch genauso alle anderen `TwitchAPI` Methoden zum manipulieren von Daten verwenden. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QQvqKV9XtSg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QQvqKV9XtSg" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Den Twitch-Client mit Menü um einzustellen das der angemeldete Benutzer einem Kanal folgt oder nicht mehr folgt wird im Video nicht komplett entwickelt. Du erfährst alles notwendige um selber eine entsprechende Anwendung zu entwickeln. Wenn du den fertigen Twitch-Client sehen möchtest, dann kannst du in diesem [GitHub-Projekt](https://github.com/LernMoment/csharp-twitch-client) den Quellcode anschauen.
 
