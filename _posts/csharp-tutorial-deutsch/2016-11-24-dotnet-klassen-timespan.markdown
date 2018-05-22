@@ -22,7 +22,7 @@ Die Struktur `TimeSpan` ist ähnlich wie [der Datentyp string](/csharp-tutorial-
 
 Alles weitere erfährst du hier im Video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kkpE-gCe2t4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kkpE-gCe2t4" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Wenn dich ein spezifisches Thema aus dem Video interessiert und du nicht das komplette Video schauen möchtest, dann habe ich im folgenden die wichtigsten Themen mit entsprechenden Einsprungpunkten in das Video. Dazu findest du jeweils einen Link der dem Im Video entspricht. So kommst du auch direkt zum passenden Quellcode.
 
