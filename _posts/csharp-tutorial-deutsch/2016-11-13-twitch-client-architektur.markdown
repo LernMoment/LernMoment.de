@@ -22,7 +22,7 @@ date: 2016-11-13T00:30:00+01:00
 
 Grundsätzlich ist eine Kommunikation mit den Twitch-Servern nur über das Internet möglich. Damit du trotzdem einen Client in C# entwickeln kannst, gibt es Bibliotheken wie die [TwitchLib]() die die Interaktion via *REST API, IRC* und *Websockets* in C# Klassen verpacken. Wie das alles zusammenhängt und funktioniert, erkläre ich dir in diesem Video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N0OPTdTGgTI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/N0OPTdTGgTI" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Hier nochmals der Überblick wofür du die verschiedenen Protokolle die dir über die *TwitchLib* angeboten werden benutzen kannst:
 
