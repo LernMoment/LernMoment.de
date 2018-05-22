@@ -24,7 +24,7 @@ Wenn du mit Elan dabei bist, bin ich voll motiviert dich bis zu meinem Umfallen 
 - Es gibt für dich eine halbe Stunde Einzelcoaching während der Challenge. D.h. wir vereinbaren einen Termin zu einem Gespräch via Skype und ich gebe dir Hinweise wie du bei deinen Probleme in der Challenge weiterkommst.
 - Nach der Challenge hast du die Möglichkeit ein weiteres Einzelgespräch mit mir zu machen. Dabei wird es um die Challenge gehen. Ich gebe dir Rückmeldung wie du dich in meinen Augen in der Challenge geschlagen hast und du erzählst mir, was dir gefallen oder auch nicht gefallen hat.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cToQYHDvEy0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cToQYHDvEy0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Informationen zu allen Boni bekommst du wenige Tage vor der Challenge von mir per Email.
 
