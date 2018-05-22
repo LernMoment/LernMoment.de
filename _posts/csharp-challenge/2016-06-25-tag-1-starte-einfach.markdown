@@ -20,7 +20,7 @@ Das Risiko dabei , wie auch vielen anderen Aktivitäten beim Projektstart, ist, 
 
 Was das insbesondere für die Lösung der heutigen Tagesaufgabe bedeutet, erkläre ich dir in diesem Video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dICsFIQnUgo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dICsFIQnUgo" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Trotz aller Qualitätsaspekte und Methodiken die ich dir im [C# Kurs](/einstieg-csharp/) immer wieder predige, fange ich ein Design erstmal ganz einfach an. Ich nehme es in Kauf, dass mein Quellcode gegen *Single Level of Abstraction (SLA)* verstößt, oder das eine Methode nicht so perfekt in eine Klasse passt.
 
