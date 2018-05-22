@@ -16,7 +16,7 @@ date: 2016-06-17T06:00:00+01:00
 
 Wenn du dir die bisherigen Informationen auf der [??? C# Challenge](/csharp-challenge/) - Seite angesehen hast und denkst, dass das alles viel zu einfach für dich ist, dann solltest du diesen Artikel lesen bzw. das Video schauen. (Gerne auch beides ;)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ijFn544tH04" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ijFn544tH04" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Die *??? C# Challenge* ist für Einsteiger in die Softwareentwicklung mit C# gedacht. Wenn du also schon weiter bist, dann hast du bei den ersten Artikeln / Videos gedacht, dass das alles viel zu einfach für dich ist.
 
