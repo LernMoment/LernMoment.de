@@ -16,7 +16,7 @@ date: 2016-04-21T13:00:00+01:00
 
 Immer wieder sehe ich, dass (angehende) Entwickler sich das Leben unnötig schwer machen. Das du einiges an Funktionalität nicht selber entwickeln musst ist dir klar, oder? Weisst du auch warum du externe Software-Pakete von *NuGet* verwenden solltest? Genau das erkläre ich dir in diesem Artikel bzw. diesem Video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WsvhwW2M7AY" frameborder="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WsvhwW2M7AY" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Das .NET Framework bietet dir bereits enorm viel Funktionalität, die du einfach in deinen Projekten verwenden kannst. Allerdings ist das nicht die einzige Quelle für tolle Bibliotheken, Erweiterungen und mehr. Wenn du ein paar Blogs und Entwicklernachrichten liest, wirst du auf das ein oder andere Projekt aufmerksam werden. So sind beispielsweise <a href="http://www.nunit.org" target="_blank">NUnit</a> oder auch <a href="http://nlog-project.org" target="_blank">NLog</a> durchaus bekannt.
 
