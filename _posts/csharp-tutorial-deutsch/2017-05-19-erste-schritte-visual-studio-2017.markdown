@@ -18,7 +18,7 @@ date: 2017-05-19T06:00:00+01:00
 
 Die ersten Schritte in Visual Studio können ganz schön kompliziert sein. In diesem Tutorial zeige ich dir Schritt für Schritt was du tun musst um deine erste C#-Anwendung mit **Visual Studio 2017** Community Edition zu erstellen. Dabei starten wir mit der Installation und hören auf mit einer fertigen (kleinen) Anwendung.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e-F-iHSYpzU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e-F-iHSYpzU" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Egal ob du in deinem Beruf weiterkommen möchtest, im Studium mit den Informatikvorlesungen nicht zurecht kommst oder einfach für dich Programmieren lernen möchtest, in diesem kostenlosen C# Tutorial in Deutsch erfährst du alles, was du brauchst um deine erste (kleine) Anwendung zu erstellen. 
 
