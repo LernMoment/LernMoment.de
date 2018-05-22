@@ -16,7 +16,7 @@ In letzter Zeit wurden mir immer wieder Fragen wie diese gestellt: **"Ich habe e
 
 JETZT werden wir gemeinsam eine kleine C# Anwendung entwickeln. Es ist nicht wie in einem Kurs in dem ich einfach alles erkläre und gut ist. Sondern es ist eine Herausforderung der du dich stellen sollst.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AIX1TzSqog" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3AIX1TzSqog" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Das Motto meiner Herausforderung ist:
 
