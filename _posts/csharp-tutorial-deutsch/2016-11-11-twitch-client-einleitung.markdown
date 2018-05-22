@@ -24,7 +24,7 @@ Im Rahmen des [C# Tutorials Deutsch](https://www.youtube.com/playlist?list=PLP2T
 
 Wenn dir Twitch bisher noch nichts sagt, dann erfährst du in diesem Video natürlich auch was das ist und warum es für viele Gamer so spannend ist. Wenn dich Twitch nicht interessiert, dann kannst du den vorgestellten Ansatz einfach auf ähnliche Plattformen wie beispielsweise [YouTube](https://www.youtube.de) anwenden.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uDDTIuk476k" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uDDTIuk476k" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 <div class="subscribe-notice">
 <h5>Lerne alles über C# und professionelle Softwareentwicklung</h5>
