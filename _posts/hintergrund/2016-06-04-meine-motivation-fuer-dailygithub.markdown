@@ -34,7 +34,7 @@ Zurück zu den Mini-Gewohnheiten. Langfristig möchte ich also verstehen welche 
 
 Nach Definition von Stephen Guise sollte eine Mini-Gewohnheit so verdammt klein sein, dass man eigentlich nur drüber lachen kann. Daher habe ich für mich beschlossen, dass eine Aktivität am Tag ausreicht. Es ist also okay, wenn ich einen Commit mache oder einen Kommentar an einem Issue erstelle. Das sollte auf jeden Fall in einer Minute möglich sein.
 
-Damit meine Mini-Gewohnheit beim aufschreiben nicht so lang ist, habe ich mir einfach **ein Commit** aufgeschrieben. Das Dokumentieren ist ein elementarer Punkt der Mini-Gewohnheiten. Daher habe ich das gleich mal in [einem Video](https://www.youtube.com/watch?v=n319RS-8LZY&list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ&index=12) und auch im [DailyGitHub Projekt auf GitHub](https://github.com/LernMoment/DailyGitHub#warum) festgehalten.
+Damit meine Mini-Gewohnheit beim aufschreiben nicht so lang ist, habe ich mir einfach **ein Commit** aufgeschrieben. Das Dokumentieren ist ein elementarer Punkt der Mini-Gewohnheiten. Daher habe ich das gleich mal in [einem Video](<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/n319RS-8LZY" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>) und auch im [DailyGitHub Projekt auf GitHub](https://github.com/LernMoment/DailyGitHub#warum) festgehalten.
 
 ### Schritt 2 - Den wahren Grund finden
 
@@ -108,7 +108,7 @@ Für mich steht eine spannende Probe gerade bevor. Ich fahre in den Urlaub. Das 
 
 Warum ich #DailyGitHub mache und wie ich daraus eine Gewohnheit entwickeln will weißt du nun. Es ist aber auch so konzipiert, dass es dich dabei unterstützt die Arbeit an deinem Projekt zu einer Mini-Gewohnheit werden zu lassen. Wenn du also ein Entwicklungsprojekt hast, welches du endlich umsetzen willst und dafür Mini-Gewohnheiten einsetzen möchtest, dann schau dir folgendes Video an. Darin erkläre ich dir, wie du die verschiedenen Elemente von #DailyGitHub für dich nutzen kannst.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5IBnrO0HVSc?list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5IBnrO0HVSc" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Nun ist aber auch zu Ende ;-).
 
