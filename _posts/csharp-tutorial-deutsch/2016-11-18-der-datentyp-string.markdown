@@ -26,7 +26,7 @@ Der Datentyp `string` kommt wohl in so ziemlich jedem Programm vor. In diesem Vi
 
 Alles weitere erfährst du hier im Video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HbZTrkIE9Io" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HbZTrkIE9Io" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 <div class="subscribe-notice">
 <h5>Du möchtest lernen wie du in C# Anwendungen entwickelst und darin strings verwendest?</h5>
