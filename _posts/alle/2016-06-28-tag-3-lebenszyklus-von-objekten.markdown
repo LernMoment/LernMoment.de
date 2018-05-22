@@ -18,8 +18,7 @@ Bisher hat meine Lösung einen eher funktionalen Ansatz. D.h. ich lege keine Obj
 
 Bei TicTacToe hat zum Beispiel das Spielbrett einen kurzen Lebenszyklus. Wenn du und ich das Spiel auf einem Blatt Papier spielen, dann werden wir das Spielbrett nach dem Spiel vernichten. In dem ich dieses Verhalten aus der Domäne in meinen Quellcode überführe, mache ich das Design tatsächlich objektorientiert. Die Details erkläre ich dir in dem folgenden Video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KEfM4b_ytr4" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KEfM4b_ytr4" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Was heute passiert ist:
 
