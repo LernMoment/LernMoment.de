@@ -30,7 +30,7 @@ In diesem Video erfährst du, wie du:
  - die Client-Id an der TwitchAPI (`TwitchAPI.SetClientId`) setzt um im nächsten Schritt Daten abzufragen und
  - Informationen über einen Twitch-Benutzer mit `TwitchAPI.GetUser` bekommst.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eO8vX7oQ1bs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eO8vX7oQ1bs" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 ### Die TwitchAPI und async / await
 
