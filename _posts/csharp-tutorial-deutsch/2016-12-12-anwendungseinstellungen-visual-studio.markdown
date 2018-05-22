@@ -30,7 +30,7 @@ Da solche Szenarien in vielen Anwendung benötigt werden hat Microsoft vorgesorg
 
 Alles weitere erfährst du hier im Video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2HDA11673pU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2HDA11673pU" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 <div class="subscribe-notice">
 <h5>Du willst selber einen YouTube Client oder eine andere Anwendung entwickeln?</h5>
