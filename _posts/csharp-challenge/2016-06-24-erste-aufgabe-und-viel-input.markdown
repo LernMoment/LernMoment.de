@@ -18,7 +18,7 @@ ENDLICH! Jetzt geht es richtig los mit der C# Challenge. Als Projekt für die Ch
 
 Im Artikel [Wann was in der Challenge passiert](/csharp-challenge/der-ablauf/) habe ich dir schon ein wenig den Ablauf geschildert. In diesem Artikel (und Video, wenn du lieber schauen magst) bekommst du dazu noch mehr Details, so dass du sofort los legen kannst.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ycf3e1LqOOE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ycf3e1LqOOE" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Die wichtigsten Informationen
 
