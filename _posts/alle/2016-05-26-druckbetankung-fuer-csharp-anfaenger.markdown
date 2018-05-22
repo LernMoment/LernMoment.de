@@ -24,7 +24,7 @@ Wenn du [#DailyGitHub](https://github.com/LernMoment/DailyGitHub) verfolgst, dan
 In letzter Zeit wurden mir immer wieder Fragen wie diese gestellt: **"Ich habe eine erste Idee der Konzepte von professioneller Softwareentwicklung (in C#) und JETZT?"**
 Wenn es dir ähnlich geht, dann erstmal meinen herzlichen Glückwunsch! Es macht mich immer glücklich, wenn sich jemand nicht nur mit der Syntax, sondern auch mit dem wichtigeren Drumherum beschäftigt.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AIX1TzSqog" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3AIX1TzSqog?" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Egal ob du einen [Kurs belegt](/einstieg-csharp/), ein Buch gelesen oder [Tutorials auf Youtube](https://www.youtube.com/playlist?list=PLP2TrPpx5VNkr-wmkjguVZAvN4T5EPJbF) gesehen hast, die nächsten Schritte sind dann ungemein schwer. Stell dir vor, jemand sagt zu dir *"Schreib doch mal ein kleines Programm, dass xyz macht."* Was kommt dir als erstes in den Sinn? 
 
