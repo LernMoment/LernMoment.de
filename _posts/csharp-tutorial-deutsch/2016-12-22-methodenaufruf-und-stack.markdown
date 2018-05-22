@@ -22,7 +22,7 @@ Diese Folge des *C# Tutorial Deutsch* ist genau solch ein Video. Darin erkläre 
 
 Alles weitere erfährst du hier im Video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ma8wA5LmNXg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ma8wA5LmNXg" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 <div class="subscribe-notice">
 <h5>Du willst mehr über Methoden erfahren?</h5>
