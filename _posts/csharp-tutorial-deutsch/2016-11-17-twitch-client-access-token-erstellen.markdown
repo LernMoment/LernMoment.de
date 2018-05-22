@@ -26,7 +26,7 @@ Links zu den im Video genannten Seiten und Ressourcen findest du am Ende dieses 
 
 Den *AccessToken* benötigst du immer dann, wenn du Daten auf dem Twitch-Server verändern willst. Das Erstellen dieses *AccessToken* ist etwas kompiliziert (zumindestens empfinde ich das so) und daher habe ich dir eine Schritt-für-Schritt-Anleitung erstellt. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vUi7Gyo9DzE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vUi7Gyo9DzE" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Die grundlegende Idee ist, dass jeder Benutzer einer Anwendung (welche bei Twitch über die Client-ID identifiziert wird) Zugriffsrecht einräumen muss. D.h. du verwendest in deinem Twitch-Client deine *Client-ID* und identifizierst damit deine Anwendung gegenüber dem Twitch-Server. 
 
