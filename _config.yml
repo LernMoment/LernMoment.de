@@ -40,7 +40,7 @@ owner:
   name: Jan Suchotzki
   avatar: jan-suchotzki-photo.jpg
   email: jan@lernmoment.de
-  disqus-shortname: lernmomentde
+  disqus-shortname:
   twitter: LernMoment
   facebook: LernMoment
   github: lernmoment
