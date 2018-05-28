@@ -1,3 +1,12 @@
+<div class="navigation-banner">
+	{% if page.banner %}
+		{% assign banner = site.data.banners[page.banner] %}
+	{% else %}
+		{% assign banner = site.data.banners[site.default-banner] %}
+	{% endif %}
+	{{ banner.label }} <a href="{{ banner.url }}" >{{ banner.title }}</a>
+</div>
+
 <div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" class="animated drop">
 	    <ul>

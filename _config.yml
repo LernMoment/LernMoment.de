@@ -11,6 +11,7 @@ enforce_ssl: www.lernmoment.de
 timezone: Europe/Berlin
 future: false
 comments: true
+default-banner: einstieg-csharp
 
 # Jekyll configuration
 
