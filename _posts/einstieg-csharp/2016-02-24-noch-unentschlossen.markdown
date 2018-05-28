@@ -5,7 +5,7 @@ excerpt: "Du bist noch unentschlossen ob der Online-Kurs etwas für dich ist? Da
 categories: einstieg-csharp
 lernmoment: C#
 show-lm-newsletter-subscribe-box: false
-share: true
+share: false
 tags: [Video, Tutorial, YouTube]
 image:
   feature:

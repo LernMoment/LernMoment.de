@@ -6,7 +6,7 @@ categories: alle
 lernmoment: C#
 lm-newsletter-group-id: 2
 show-lm-newsletter-subscribe-box: true
-share: true
+share: false
 tags: [Übung, clean code, Inspiration]
 image:
   feature: intro-code.jpg

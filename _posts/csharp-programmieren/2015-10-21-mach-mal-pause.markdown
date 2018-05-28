@@ -6,7 +6,7 @@ excerpt: Planung nächste Generation LernMoment.de
 modified: 2016-03-18T06:00:00+02:00
 categories: csharp-programmieren
 lernmoment: C#
-share: true
+share: false
 lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Konzept, Lernen]

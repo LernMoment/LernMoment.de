@@ -2,7 +2,7 @@
 layout: post
 title: "NuGet Pakete Restaurieren"
 excerpt: "Delegiert! Wie du automatisch fehlende Pakete laden lässt."
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

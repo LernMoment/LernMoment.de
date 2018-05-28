@@ -6,7 +6,7 @@ categories: alle
 lernmoment: C#
 lm-newsletter-group-id: 8
 show-lm-newsletter-subscribe-box: false
-share: true
+share: false
 tags: [C#, "TTT Challenge", GitHub]
 image:
   feature: csharp-challenge.jpg

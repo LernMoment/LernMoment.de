@@ -2,7 +2,7 @@
 layout: post
 title: Kombinierte Formatierung für Konsole, Datei, ...
 excerpt: Tipps wie du mühelos Werte in Strings einfügst und formatierst
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

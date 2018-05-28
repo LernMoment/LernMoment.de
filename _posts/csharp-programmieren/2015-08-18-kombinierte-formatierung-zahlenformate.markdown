@@ -2,7 +2,7 @@
 layout: post
 title: Kombinierte Formatierung - Zahlenformate
 excerpt: Von C wie Währung bis X wie HEXerei 
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

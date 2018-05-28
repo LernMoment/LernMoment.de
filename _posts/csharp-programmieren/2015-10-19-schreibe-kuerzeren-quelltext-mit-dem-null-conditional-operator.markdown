@@ -4,7 +4,7 @@ title: Schreibe kürzeren Quelltext mit dem null-conditional Operator.
 date: 2015-10-19T06:00:00+02:00
 excerpt: "Mit ?. zu weniger Null-Abfragen."
 modified:
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

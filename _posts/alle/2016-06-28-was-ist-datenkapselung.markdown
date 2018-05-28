@@ -6,7 +6,7 @@ categories: alle
 lernmoment: C#
 lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
-share: true
+share: false
 tags: [C#, Konzept, Professionalität]
 image:
   feature: intro-code.jpg

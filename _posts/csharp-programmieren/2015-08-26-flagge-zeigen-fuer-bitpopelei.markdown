@@ -3,7 +3,7 @@ layout: post
 title: Flag(ge) zeigen für Bitpopelei
 date: 2015-08-26T06:00:00+02:00
 excerpt: "Wie du mit [Flags] schnell ein Bitfeld aus deiner Enum machst."
-share: true
+share: false
 modified:
 categories: csharp-programmieren
 lernmoment: C#

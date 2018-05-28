@@ -2,7 +2,7 @@
 layout: post
 title: Unterstützt deine WPF-Anwendung Tastenkombinationen?
 excerpt: KeyBinding - Die einfachste Möglichkeit Tastenkombinationen zu definieren.
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

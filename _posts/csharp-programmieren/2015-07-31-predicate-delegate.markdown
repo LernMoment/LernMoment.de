@@ -2,7 +2,7 @@
 layout: post
 title: Predicate Delegate
 excerpt: "Wie du spezifische Abfragen in generischen Algorithmen verwendest."
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

@@ -5,7 +5,7 @@ excerpt: Hast du den Kurs schon absolviert und brauchst eine Herausforderung? Wi
 categories: einstieg-csharp
 lernmoment: UCsK
 show-lm-newsletter-subscribe-box: false
-share: true
+share: false
 tags: [Übungen]
 image:
   feature: MatheFormel.jpg

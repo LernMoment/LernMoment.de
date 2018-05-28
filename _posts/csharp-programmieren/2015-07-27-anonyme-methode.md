@@ -3,7 +3,7 @@ layout: post
 title: Anonyme Methoden
 excerpt: "Vereinfache deinen Quellcode mit etwas unbekanntem"
 modified:
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

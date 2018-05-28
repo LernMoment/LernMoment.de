@@ -5,7 +5,7 @@ date: 2016-02-10T13:12:29+01:00
 excerpt: Frage nicht nach dem Warum. Frage nach der schlimmsten Konsequenz und triff eine Entscheidung. Nur so kommst du voran.
 categories: kurse
 lernmoment: C#
-share: true
+share: false
 tags: [Mut, Motivation]
 image:
   feature: MatheFormel.jpg

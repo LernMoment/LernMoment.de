@@ -6,7 +6,7 @@ categories: hintergrund
 lernmoment: C#
 lm-newsletter-group-id: 8
 show-lm-newsletter-subscribe-box: true
-share: true
+share: false
 tags: [Inspiration, Mini-Gewohnheit, DailyGitHub]
 image:
   feature: intro-code.jpg

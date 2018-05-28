@@ -2,7 +2,7 @@
 layout: post
 title: "Die Klasse File"
 excerpt: Wie du einfach eine Datei bearbeitest. (Video & Artikel)
-share: true
+share: false
 categories: alle
 lernmoment: C#
 lm-newsletter-group-id: 1

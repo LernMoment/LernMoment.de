@@ -4,7 +4,7 @@ title: Kannst du den Namen einer Klasse, Methode, ... ausgeben?
 date: 2015-10-07T06:00:00+02:00
 excerpt: InspirationsMoment - nameof Operator
 modified:
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

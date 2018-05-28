@@ -6,7 +6,7 @@ categories: alle
 lernmoment: C#
 lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: false
-share: true
+share: false
 tags: [C#, Begriffe, Werkzeug]
 author: daniel_gustorff
 image:

@@ -3,7 +3,7 @@ layout: post
 title: "LernMoment wird visuell - Der LernMoment.de YouTube Kanal"
 excerpt: "Um das Lernen für dich möglichst abwechselungsreich zu machen, bekommst du jetzt auch Videos"
 categories: hintergrund
-share: true
+share: false
 tags: [YouTube]
 image:
   feature: intro-code.jpg

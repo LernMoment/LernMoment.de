@@ -2,7 +2,7 @@
 layout: post
 title: Haben deine Delegates den Func?
 excerpt: Vereinfache deinen Quelltext mit Func<...>
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

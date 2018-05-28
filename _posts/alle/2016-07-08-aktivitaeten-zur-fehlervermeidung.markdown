@@ -6,7 +6,7 @@ categories: alle
 lernmoment: Hintergrund
 lm-newsletter-group-id: 2
 show-lm-newsletter-subscribe-box: true
-share: true
+share: false
 tags: [Professionalität, Inspiration, clean code]
 image:
   feature: intro-code.jpg

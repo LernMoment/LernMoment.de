@@ -4,7 +4,7 @@ title: Pfade trennen sich auf allen Plattformen anders
 date: 2015-09-22T06:00:00+02:00
 excerpt: InspirationsMoment - System.IO.Path.Combine
 modified:
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

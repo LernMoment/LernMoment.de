@@ -4,7 +4,7 @@ title: yield return - Schlüsselwort für verzögerte Ausführung
 date: 2015-09-24T06:00:00+02:00
 excerpt: Ist deine IEnumerable eifrig oder träge?
 modified:
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

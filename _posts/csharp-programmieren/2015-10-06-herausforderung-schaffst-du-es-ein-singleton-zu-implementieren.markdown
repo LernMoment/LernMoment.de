@@ -4,7 +4,7 @@ title: Herausforderung - Schaffst du es ein Singleton zu implementieren?
 date: 2015-10-06T06:00:00+02:00
 excerpt: In 5 Minuten und ohne Hilfe?
 modified: 2015-10-07T13:00:00+02:00
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

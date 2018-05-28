@@ -6,7 +6,7 @@ categories: angular2
 lernmoment: Angular2
 lm-newsletter-group-id: 8
 show-lm-newsletter-subscribe-box: true
-share: true
+share: false
 tags: ["Angular 2", "Übung", Plunker, Component]
 image:
   feature: intro-code.jpg

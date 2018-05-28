@@ -3,7 +3,7 @@ layout: post
 title: Von Prozessen zu Tasks
 date: 2015-08-20T06:00:00+02:00
 excerpt: Die 5 wichtigsten Klassen für Parallelisierung ab .NET 4.0
-share: true
+share: false
 modified:
 categories: csharp-programmieren
 lernmoment: C#

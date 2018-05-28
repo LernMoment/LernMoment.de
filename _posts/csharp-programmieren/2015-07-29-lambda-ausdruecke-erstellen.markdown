@@ -2,7 +2,7 @@
 layout: post
 title: Lambda-Ausdrücke Erstellen
 excerpt: "=> vereinfache deinen Quellcode mit diesem Operator."
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 tags: [Syntax, Lambda, Delegate]

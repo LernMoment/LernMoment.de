@@ -2,7 +2,7 @@
 layout: post
 title: "Vorsicht Optimierung: Die Klasse StringBuilder"
 excerpt: "Regeln der Optimierung: 1.) Tue es nicht, 2.) Tue es noch nicht!"
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

@@ -4,7 +4,7 @@ title: ParallelLoopState.Break - Wie du Parallel.For und Parallel.ForEach verlas
 date: 2015-10-12T06:00:00+02:00
 excerpt: Bei der parallelen Abarbeitung von Schleifen ist das Verlassen komplizierter.
 modified:
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

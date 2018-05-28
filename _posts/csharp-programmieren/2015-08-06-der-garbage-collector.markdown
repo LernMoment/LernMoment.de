@@ -2,7 +2,7 @@
 layout: post
 title: Der Garbage Collector
 excerpt: Antworten auf die wichtigsten Fragen um Quelltext ohne Speicherlöcher zuerstellen.
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

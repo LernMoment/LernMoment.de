@@ -4,7 +4,7 @@ title: Was wächst wohl auf einer TechWiese? Wissen!
 date: 2015-10-14T06:00:00+02:00
 excerpt: "InspirationsMoment: Microsoft - TechWiese"
 modified:
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

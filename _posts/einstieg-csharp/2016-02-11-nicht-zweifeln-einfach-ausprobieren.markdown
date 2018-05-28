@@ -5,7 +5,7 @@ excerpt: In diesem Artikel geht es um das schnelle Finden einer Entscheidung.
 categories: einstieg-csharp
 lernmoment: UCsK
 show-lm-newsletter-subscribe-box: false
-share: true
+share: false
 tags: [Artikel]
 image:
   feature: MatheFormel.jpg

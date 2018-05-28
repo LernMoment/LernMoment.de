@@ -2,7 +2,7 @@
 layout: post
 title: Wartungsfreundliches INotifyPropertyChanged
 excerpt: Verwendest du immer noch strings in OnPropertyChanged?
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

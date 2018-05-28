@@ -6,7 +6,7 @@ categories: alle
 lernmoment: C#
 show-lm-newsletter-subscribe-box: false
 tags: [Weiterbildung, Professionalität, C#]
-share: true
+share: false
 image:
   feature: intro-code.jpg
 modified:

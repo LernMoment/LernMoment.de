@@ -5,7 +5,7 @@ excerpt: Lerne die Grundlagen um an Game Engines (MonoGame), Web Frameworks (Ang
 categories: alle
 lernmoment: Hintergrund
 show-lm-newsletter-subscribe-box: false
-share: true
+share: false
 tags: [Professionelle Softwareentwicklung, GitHub, Kurs]
 image:
   feature: MatheFormel.jpg

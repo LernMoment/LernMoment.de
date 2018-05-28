@@ -4,7 +4,7 @@ title: Ist dein Singleton thread-safe?
 date: 2015-10-01T06:00:00+02:00
 excerpt: Zwei Varianten wie du ein Singleton implementieren kannst. Und eine die du besser nicht verwendest.
 modified:
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

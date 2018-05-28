@@ -6,7 +6,7 @@ categories: alle
 lernmoment: Hintergrund
 lm-newsletter-group-id: 2
 show-lm-newsletter-subscribe-box: false
-share: true
+share: false
 tags: [Geburtstag, Geschenke, Kurs]
 image:
   feature: intro-code.jpg

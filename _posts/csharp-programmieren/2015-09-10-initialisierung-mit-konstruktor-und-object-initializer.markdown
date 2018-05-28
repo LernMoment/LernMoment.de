@@ -4,7 +4,7 @@ title: Initialisierung mit Konstruktor und Object Initializer
 date: 2015-09-10T06:00:00+02:00
 excerpt: Wie du Objekte sinnvoll initialisierst.
 modified:
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

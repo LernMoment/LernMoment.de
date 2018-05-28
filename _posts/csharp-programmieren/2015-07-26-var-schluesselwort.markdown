@@ -2,7 +2,7 @@
 layout: post
 title: "Var Schluesselwort"
 excerpt: "Warum einfach, wenn es auch mit implizit typisierten lokalen Variablen geht?"
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

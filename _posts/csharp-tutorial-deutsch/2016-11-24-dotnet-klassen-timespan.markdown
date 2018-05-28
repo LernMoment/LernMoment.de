@@ -6,7 +6,7 @@ categories: csharp-tutorial-deutsch
 lernmoment: C#
 lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
-share: true
+share: false
 tags: [Datentypen, C#, Video]
 image:
   feature: csharp-tutorial-feature.jpg

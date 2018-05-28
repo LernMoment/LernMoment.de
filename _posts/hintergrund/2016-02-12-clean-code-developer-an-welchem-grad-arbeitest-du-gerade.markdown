@@ -4,7 +4,7 @@ title: Clean Code Developer - An welchem Grad arbeitest du gerade?
 excerpt: "Für Einsteiger und Experten: Die Clean Code Developer Initiative"
 categories: hintergrund
 show-lm-newsletter-subscribe-box: false
-share: true
+share: false
 tags: [Inspiration, Clean Code]
 image:
   feature: intro-code.jpg

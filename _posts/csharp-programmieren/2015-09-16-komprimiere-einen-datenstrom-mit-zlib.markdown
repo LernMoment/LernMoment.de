@@ -4,7 +4,7 @@ title: Komprimiere deinen Datenstrom mit zlib
 date: 2015-09-16T06:00:00+02:00
 excerpt: InspirationsMoment - System.IO.Compression.DeflateStream
 modified:
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

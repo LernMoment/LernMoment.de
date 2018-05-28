@@ -6,7 +6,7 @@ categories: einstieg-csharp
 lernmoment: UCsK
 show-lm-newsletter-subscribe-box: false
 lm-newsletter-group-id: 4
-share: true
+share: false
 tags: [C#, Taschenrechner, GitHub]
 image:
   feature: MatheFormel.jpg

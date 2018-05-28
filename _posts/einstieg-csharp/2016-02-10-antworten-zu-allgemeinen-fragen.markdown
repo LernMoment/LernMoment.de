@@ -5,7 +5,7 @@ excerpt: Gibt es ein Rückgaberecht? Welche Voraussetzungen muss mein Rechner er
 categories: einstieg-csharp
 lernmoment: UCsK
 show-lm-newsletter-subscribe-box: false
-share: true
+share: false
 tags: [FAQ]
 image:
   feature: MatheFormel.jpg

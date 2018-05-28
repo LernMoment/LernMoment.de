@@ -4,7 +4,7 @@ title: Variablen einfangen mit Lambda-Ausdrücken
 date: 2015-09-11T10:00:00+02:00
 excerpt: Die 2 wichtigsten Grundsätze für externe Variablen in Lambda-Ausdrücken.
 modified:
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

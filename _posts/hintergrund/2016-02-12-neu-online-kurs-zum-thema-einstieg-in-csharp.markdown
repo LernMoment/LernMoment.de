@@ -5,7 +5,7 @@ excerpt: Mit diesem Kurs hast du in 30 Minuten deine erste C#-Anwendung entwicke
 categories: hintergrund
 lernmoment: UCsK
 show-lm-newsletter-subscribe-box: false
-share: true
+share: false
 tags: [Professionelle Softwareentwicklung, C#, Kurs]
 image:
   feature: MatheFormel.jpg

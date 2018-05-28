@@ -2,7 +2,7 @@
 layout: post
 title: Automatisiere Deine Installation
 excerpt: "Installierst du noch, oder entwickelst du schon?"
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

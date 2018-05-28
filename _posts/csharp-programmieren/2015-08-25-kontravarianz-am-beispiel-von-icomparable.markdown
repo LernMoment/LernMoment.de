@@ -2,7 +2,7 @@
 layout: post
 title: Was ist eigentlich Kontravarianz für Generics?
 excerpt: Verstehe das Konzept mühelos am Beispiel von IComparable.
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

@@ -4,7 +4,7 @@ title: readonly oder const? Wie konstant darf deine Konstante sein?
 date: 2015-10-08T06:00:00+02:00
 excerpt: Ein readonly Attribut ist nicht unbedingt unveränderlich!
 modified:
-share: true
+share: false
 categories: csharp-programmieren
 lernmoment: C#
 lm-newsletter-group-id: 1

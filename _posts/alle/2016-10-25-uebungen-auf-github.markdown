@@ -6,7 +6,7 @@ categories: alle
 lernmoment: Hintergrund
 lm-newsletter-group-id: 8
 show-lm-newsletter-subscribe-box: true
-share: true
+share: false
 tags: [Übung, C#, GitHub]
 image:
   feature: intro-code.jpg
