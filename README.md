@@ -1,6 +1,6 @@
 # LernMoment.de
 
-Hier findest du die kompletten Quellen für den Blog [LernMoment.de](http://www.lernmoment.de). Wie auf der Seite [Kein Copyright](kein-copyright/index.md) beschrieben, ist alles in diesem Blog ohne ein Copyright [CC0 - Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/deed.de). Das ist jedoch auf die Texte und Bilder begrenzt, die von mir für den Blog erstellt wurden.
+Hier findest du die kompletten Quellen für den Blog [LernMoment.de](https://www.lernmoment.de). Wie auf der Seite [Kein Copyright](kein-copyright/index.md) beschrieben, ist alles in diesem Blog ohne ein Copyright [CC0 - Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/deed.de). Das ist jedoch auf die Texte und Bilder begrenzt, die von mir für den Blog erstellt wurden.
 Das Theme [So Simple - von Michael Rose](https://github.com/mmistakes/so-simple-theme) verwendet die [MIT - Lizenz](LICENSE).
 
 ## Übersetzen mit Docker

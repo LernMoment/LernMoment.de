@@ -1,5 +1,5 @@
 # adapt configuration to development environment within docker
-url: http://staging.lernmoment.de
+url: https://staging.lernmoment.de
 future: false
 
 # Site owner

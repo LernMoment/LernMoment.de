@@ -51,7 +51,7 @@ public class ValueObject
 }
 ```
 
-Du kannst auch die `get` Methode mit [anonymer Methode](http://www.lernmoment.de/csharp-programmieren/anonyme-methode/) und [Lambda-Ausdruck](http://www.lernmoment.de/csharp-programmieren/lambda-ausdruecke-erstellen/) definieren:
+Du kannst auch die `get` Methode mit [anonymer Methode](/csharp-programmieren/anonyme-methode/) und [Lambda-Ausdruck](/csharp-programmieren/lambda-ausdruecke-erstellen/) definieren:
 
 ```cs
 public class ValueObject
