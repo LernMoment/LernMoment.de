@@ -4,7 +4,13 @@
 	{% else %}
 		{% assign banner = site.data.banners[site.default-banner] %}
 	{% endif %}
-	{{ banner.label }} <a href="{{ banner.url }}" >{{ banner.title }}</a>
+	{% if banner.url contains 'http' %}
+		{% assign domain = '' %}
+	{% else %}
+		{% assign domain = site.url %}
+	{% endif %}
+
+	{{ banner.label }} <a href="{{ domain }}{{ banner.url }}" >{{ banner.title }}</a>
 </div>
 
 <div class="navigation-wrapper">
