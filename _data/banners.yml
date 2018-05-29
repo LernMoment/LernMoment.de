@@ -1,12 +1,11 @@
 # banner above navigation links
 
 einstieg-csharp:
-  label: "Lerne programmieren mit"
+  label: "Lerne programmieren mit mir im Kurs:"
   title: "Einstieg in C# ->"
   url: /einstieg-csharp/
 
 einstieg-github:
-  label: "Lerne Softwareentwicklung im Team mit"
+  label: "Lerne Softwareentwicklung im Team mit mir im Kurs:"
   title: "Einstieg in GitHub ->"
   url: /einstieg-github/
-  
