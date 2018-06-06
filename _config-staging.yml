@@ -2,6 +2,8 @@
 url: https://staging.lernmoment.de
 future: false
 
+include: []
+
 # Site owner
 owner:
   google:
