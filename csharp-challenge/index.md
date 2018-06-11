@@ -10,7 +10,7 @@ lm-newsletter-group-id: 8
 date: 2016-06-02T09:30:00+01:00
 ---
 
-*UPDATE: Auch wenn die Challenge schon begonnen hat, kannst du dich immer noch anmelden (siehe unten)!*
+*UPDATE: Diese Challenge/Übung ist nicht so angekommen wie ich mir das erhofft hatte. Daher habe ich sie an einem Punkt abgebrochen, weil ich dir möglichst optimal helfen möchte. Gerne kannst du die Aufgabe nehmen und für dich umsetzen. Natürlich kannst du mich auch anschreiben und ich gebe dir sehr gerne Feedback zu deinem Quellcode.*
 
 In letzter Zeit wurden mir immer wieder Fragen wie diese gestellt: **"Ich habe eine erste Idee der Konzepte von professioneller Softwareentwicklung in C# und JETZT?"**
 
