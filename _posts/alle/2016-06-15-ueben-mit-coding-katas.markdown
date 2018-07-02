@@ -7,6 +7,7 @@ lernmoment: C#
 lm-newsletter-group-id: 2
 show-lm-newsletter-subscribe-box: true
 share: false
+banner: uebung-buchstaben
 tags: [Übung, clean code, Inspiration]
 image:
   feature: intro-code.jpg

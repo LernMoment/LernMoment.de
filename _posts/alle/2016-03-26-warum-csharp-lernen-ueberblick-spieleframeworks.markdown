@@ -7,6 +7,7 @@ lernmoment: C#
 lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: false
 share: false
+banner: einstieg-csharp
 tags: [C#, Spieleentwicklung, Frameworks]
 image:
   feature: intro-code.jpg

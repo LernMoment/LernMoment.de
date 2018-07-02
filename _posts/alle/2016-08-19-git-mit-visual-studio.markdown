@@ -7,6 +7,7 @@ lernmoment: Hintergrund
 lm-newsletter-group-id: 2
 show-lm-newsletter-subscribe-box: true
 share: false
+banner: einstieg-csharp
 tags: [Werkzeug, Versionsverwaltung]
 image:
   feature: intro-code.jpg

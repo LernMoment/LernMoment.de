@@ -6,6 +6,7 @@ categories: alle
 lernmoment: Hintergrund
 lm-newsletter-group-id: 8
 show-lm-newsletter-subscribe-box: true
+banner: uebung-buchstaben
 share: false
 tags: [Übung, C#, GitHub]
 image:

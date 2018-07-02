@@ -9,3 +9,13 @@ einstieg-github:
   label: "Lerne Softwareentwicklung im Team mit mir im Kurs:"
   title: "Einstieg in GitHub ->"
   url: /einstieg-github/
+
+tutorial-github:
+  label: "Lerne die Grundlagen von GitHub mit mir im:"
+  title: "kostenlosen GitHub Tutorial -> "
+  url: https://www.udemy.com/github-tutorial-deutsch/
+  
+uebung-buchstaben:
+  label: "Sammle Erfahrung in C# mit mir im Kurs:"
+  title: "C# Grundlagen üben mit System ->"
+  url: https://www.udemy.com/csharp-uebungskurs-einfach-verschluesselt/?couponCode=UROT-LM-10-2018

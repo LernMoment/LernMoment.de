@@ -7,6 +7,7 @@ lernmoment: C#
 lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 share: false
+banner: einstieg-csharp
 tags: [C#, Konzept, Professionalität]
 image:
   feature: intro-code.jpg

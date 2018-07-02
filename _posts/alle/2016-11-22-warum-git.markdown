@@ -9,6 +9,7 @@ show-lm-newsletter-subscribe-box: false
 share: false
 tags: [Geburtstag, Versionsverwaltung, Werkzeug]
 author: tobias_vetter
+banner: tutorial-github
 image:
   feature: HappyBirthdayFeatureImage.jpeg
 modified:

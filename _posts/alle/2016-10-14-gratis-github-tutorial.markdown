@@ -7,6 +7,7 @@ lernmoment: Hintergrund
 lm-newsletter-group-id: 4
 show-lm-newsletter-subscribe-box: false
 share: false
+banner: tutorial-github
 tags: [Werkzeug, GitHub, Kurs]
 image:
   feature: intro-code.jpg

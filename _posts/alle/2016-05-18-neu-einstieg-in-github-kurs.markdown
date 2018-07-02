@@ -6,6 +6,7 @@ categories: alle
 lernmoment: Hintergrund
 show-lm-newsletter-subscribe-box: false
 share: false
+banner: tutorial-github
 tags: [Professionelle Softwareentwicklung, GitHub, Kurs]
 image:
   feature: MatheFormel.jpg

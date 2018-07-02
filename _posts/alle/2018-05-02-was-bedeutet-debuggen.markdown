@@ -9,6 +9,7 @@ show-lm-newsletter-subscribe-box: false
 share: false
 tags: [C#, Begriffe, Werkzeug]
 author: daniel_gustorff
+banner: einstieg-csharp
 image:
   feature: csharp-programmieren.jpg
 modified:

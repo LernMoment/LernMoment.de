@@ -7,6 +7,7 @@ lernmoment: Hintergrund
 lm-newsletter-group-id: 2
 show-lm-newsletter-subscribe-box: true
 share: false
+banner: einstieg-github
 tags: [Werkzeug, Versionsverwaltung, GitHub]
 image:
   feature: intro-code.jpg

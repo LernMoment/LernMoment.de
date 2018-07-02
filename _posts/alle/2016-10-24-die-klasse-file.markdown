@@ -5,6 +5,7 @@ excerpt: Wie du einfach eine Datei bearbeitest. (Video & Artikel)
 share: false
 categories: alle
 lernmoment: C#
+banner: uebung-buchstaben
 lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [C#, File, Syntax]
