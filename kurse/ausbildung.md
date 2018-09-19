@@ -46,7 +46,7 @@ Ich bin überzuegt davon, dass passives lernen (wie du es beispielsweise haupts�
 
 Genau an dieser Stelle setzt die LernMoment-Community an. Für einen monatlichen Betrag von 10€ bekommst du:
  - Eine von mir angeleitete Übung im Live-Stream (alle 2 Wochen für ca. 45 Minuten)
- - Code-Reading eines C# OpenSource-Projektes im Live-Stream (alle 2 WOchen für ca. 45 Minuten)
+ - Code-Reading eines C# OpenSource-Projektes im Live-Stream (alle 2 Wochen für ca. 45 Minuten)
  - Die Möglichkeit jederzeit Fragen an mich und die anderen angehenden C# Entwickler zu stellen
  - Die Möglichkeit zu lernen in dem du Fragen von anderen angehenden C# Entwicklern beantwortest
  - Die Chance basierend auf deinen Fähigkeiten ausgewählt zu werden für die Mitarbeit in einem Projekt
