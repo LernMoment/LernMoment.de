@@ -19,3 +19,8 @@ uebung-buchstaben:
   label: "Sammle Erfahrung in C# mit mir im Kurs:"
   title: "C# Grundlagen üben mit System ->"
   url: https://www.udemy.com/csharp-uebungskurs-einfach-verschluesselt/?couponCode=UROT-LM-10-2018
+
+ausbildung-csharp:
+  label: "Mache mit mir die komplette Ausbildung zum:"
+  title: "Junior C# Entwickler ->"
+  url: /kurse/ausbildung/

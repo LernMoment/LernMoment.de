@@ -3,7 +3,7 @@ layout: page
 title: "Modul #2 - Wiederverwendung in C#"
 excerpt: Egal ob Spiele, Web-, Mobile- oder Desktopanwendungen, für etwas komplexere Programme ist Wiederverwendung eines der wichtigsten Themen die dir die Arbeit leichter machen.
 search_omit: true
-banner: einstieg-csharp
+banner: ausbildung-csharp
 modified:
 lm-newsletter-group-id: 4
 date: 2018-09-16T07:30:00+01:00
