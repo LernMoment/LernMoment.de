@@ -1,8 +1,15 @@
+_asset_bundler_cache
 _site
+.bundle
 .DS_Store
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+*.gem
 *.sublime-project
 *.sublime-workspace
 codekit-config.json
 node_modules
-.sass-cache
+npm-debug.log*
+vendor
 *.tgz
