@@ -65,7 +65,7 @@ rm -rf $SITE_SOURCE
 rm -f $ZIPPED_SITE
 
 echo "Local #2 -> Erstelle Seite neu für $ENV"
-docker run --rm -v $(pwd):/src -e "TZ=Europe/Berlin" -e "LANG=C.UTF-8" --entrypoint="/bin/bash" -p 4000:4000 grahamc/jekyll -c "bundle install && jekyll build --config $SITE_CONFIG --no-watch"
+docker run --rm -v $(pwd):/srv/jekyll -v $(pwd)/vendor/bundle:/usr/local/bundle -e "TZ=Europe/Berlin" -e "LANG=C.UTF-8" jekyll/jekyll:4.0 jekyll build --config $SITE_CONFIG --no-watch
 tar cvzf $ZIPPED_SITE $SITE_SOURCE
 
 echo "Local #3 -> Kopiere neue Version auf Server nach: $ENV"
