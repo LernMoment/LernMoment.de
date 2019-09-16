@@ -1,10 +1,11 @@
 Jekyll:
-  image: jekyll-env
+  image: jekyll/jekyll:4.0
   ports:
     - "4000:4000"
   volumes:
-    - .:/src/LernMoment.de
-  command: /bin/bash
+    - .:/srv/jekyll
+    - ./vendor/bundle:/usr/local/bundle
+  command: jekyll serve
   environment:
     - TZ=Europe/Berlin
     - LANG=C.UTF-8
