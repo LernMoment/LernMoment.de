@@ -42,5 +42,5 @@ Dieses Vorgehen gibt mir Sicherheit, weil ich immer genau weiß was der nächste
 
 <div class="subscribe-notice">
 <h5>Lerne mehr über C# und professionelle Softwareentwicklung</h5>
-<a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCSK_LM2016-110" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
+<a markdown="0" href="https://einstieg-in-csharp.lernmoment.de/lernmoment/" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
 </div>

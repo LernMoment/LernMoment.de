@@ -26,7 +26,7 @@ Alles weitere erfährst du hier im Video:
 
 <div class="subscribe-notice">
 <h5>Du willst mehr über Methoden erfahren?</h5>
-<a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCSK_LM2016-110" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
+<a markdown="0" href="https://einstieg-in-csharp.lernmoment.de/lernmoment/" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
 </div>
 
 ### Was ist ein Stack?

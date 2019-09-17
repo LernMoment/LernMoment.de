@@ -90,8 +90,8 @@ Insbesondere im Verlauf siehst du warum gute *Commit-Beschreibungen* wichtig sin
 Möchtest du den Verlauf für das ganze Projekt sehen, dann musst du den `Team Explorer` bemühen. Darin gehst du am besten über das Haussymbol zur `Startseite` wechseln. Dort wählst du dann `Branches` aus. Üblicherweise siehst du in der folgenden Auflistung nur den Projektnamen und dadrunter den Eintrag `master`. Solltest du mehrere *Branches* haben, dann wird dir der Aktive mit fettgedruckten Buchstaben angezeigt.
 
 <div class="subscribe-notice">
-<h5>Du kennst dich noch nicht mit Visual Studio 2015 aus?</h5>
-<a markdown="0" href="https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCSK_LM2016-110" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
+<h5>Du kennst dich noch nicht mit Visual Studio aus?</h5>
+<a markdown="0" href="https://einstieg-in-csharp.lernmoment.de/lernmoment/" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
 </div>
 
 Auf dem gewünschten Branch kannst du im *Kontextmenü* ebenfalls `Verlauf anzeigen...` auswählen. Dann siehst du alle Commits die es bisher in dem ausgewählten Branch gegeben hat.
