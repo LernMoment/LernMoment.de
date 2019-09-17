@@ -27,7 +27,7 @@ Egal ob du in deinem Beruf weiterkommen möchtest, im Studium mit den Informatik
 Schritt für Schritt zeige ich dir wie du Visual Studio 2019 in der Community Edition installierst, damit dein erstes Projekt erstellst, was Quellcode ist, wie du Quellcode in C# schreibst, wie Quellcode kompiliert wird, was kompilieren überhaupt bedeutet und wie du deine eigene Anwendung in der Konsole ausführst. 
 
 <div class="subscribe-notice">
-<h5>Lerne alles über C# und professionelle Softwareentwicklung</h5>
+<h5>LernMoment sagt Danke: Über 50% RABATT auf C#-Kurs!</h5>
 <a markdown="0" href="https://einstieg-in-csharp.lernmoment.de/vs2019-tutorial/" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
 </div>
 
