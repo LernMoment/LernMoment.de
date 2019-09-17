@@ -15,7 +15,7 @@ Mit diesem Kurs hast du in 30 Minuten deine erste C#-Anwendung entwickelt. Viel 
 
 Alles Wissenswerte zum Kurs bekommst du, wenn du auf das folgende Bild klickst. Für dich als Leser meines Blogs gibt es auch einen Rabatt. Weiter unten findest du (kostenloses) Bonusmaterial zum Kurs. 
 <figure>
-	<a href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=VS19-DANKE-LMTUT80" target="_blank"><img src="/images/UCsK_LandingPage_VS19Tut_Rabatt.jpg" alt="image"></a>
+	<a href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=VS19-DANKE-LMTUT801" target="_blank"><img src="/images/UCsK_LandingPage_VS19Tut_Rabatt.jpg" alt="image"></a>
 </figure>
 
 ## Details und weitere Ressourcen zum Kurs
