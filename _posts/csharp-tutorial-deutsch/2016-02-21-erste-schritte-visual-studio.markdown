@@ -10,11 +10,11 @@ share: false
 tags: [Tutorial, C#, Video]
 image:
   feature: csharp-tutorial-feature.jpg
-modified:
+modified: 2019-09-17T06:00:00+01:00
 date: 2016-02-21T06:00:00+01:00
 ---
 
-> **UPDATE:** Dieser Teil des Tutorials ist in einer [neueren Version](/csharp-tutorial-deutsch/erste-schritte-visual-studio-2017/) (u.a. für Visual Studio 2017) verfügbar.
+> **UPDATE:** Dieser Teil des Tutorials ist in einer [neueren Version](/csharp-tutorial-deutsch/erste-schritte-visual-studio-2019/) (für Visual Studio 2019) verfügbar.
 
 Die ersten Schritte in Visual Studio können ganz schön kompliziert sein. In diesem Tutorial zeige ich dir Schritt für Schritt was du tun musst um deine erste C#-Anwendung mit Visual Studio 2015 Community Edition zu erstellen. Dabei starten wir mit der Installation und hören auf mit einer fertigen (kleinen) Anwendung.
 
