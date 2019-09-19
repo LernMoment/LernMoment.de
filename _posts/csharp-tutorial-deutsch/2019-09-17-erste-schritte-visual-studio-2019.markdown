@@ -37,6 +37,7 @@ Schritt für Schritt zeige ich dir wie du Visual Studio 2019 in der Community Ed
  - [Offizielle Installationsanleitung](https://docs.microsoft.com/de-de/visualstudio/install/install-visual-studio) - hier hat Microsoft im Detail beschrieben was du bei der Installation machen und beachten sollst. Habe ich dir im Video aber soweit alles erklärt.
  - [Neues in Visual Studio 2019](https://docs.microsoft.com/de-de/visualstudio/ide/whats-new-visual-studio-2019?view=vs-2019) - Artikel von Microsoft, der die wichtigsten Funktionalitäten in der aktuellen Version beschreibt.
  - [Offline Installation](https://docs.microsoft.com/de-de/visualstudio/install/create-an-offline-installation-of-visual-studio?view=vs-2019) - beschreibt wie die benötigten Komponenten von Visual Studio 2019 runtergeladen werden können und dann vorbereitet werden um sie auf einem Rechner ohne Internetverbindung zu installieren. Diesen Artikel gab es auch in Deutsch, aber momentan ist er nur auf Englisch verfügbar.
+ - [C# Sprachreferenz](https://docs.microsoft.com/de-de/dotnet/csharp/language-reference/index) Als solches ist die C# SPrachreferenz für den Einstieg sicherlich nicht geeignet, ABER um z.B. alle Schlüsselwörter zu sehen und eine gute Erklärung zubekommen was damit gemeint ist, finde ich die Seiten schon gut.
 
 ### Der komplette Quellcode für diese Folge:
 
