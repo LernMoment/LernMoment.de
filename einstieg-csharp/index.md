@@ -2,6 +2,7 @@
 layout: page
 title: Einstieg in C# - Software programmieren wie ein Profi
 excerpt: Online-Kurs bei dem du professionelle Softwareentwicklung und die Grundlagen von C# lernst.
+banner: aus
 image:
   feature: MatheFormel.jpg
 modified:

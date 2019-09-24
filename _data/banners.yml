@@ -1,5 +1,10 @@
 # banner above navigation links
 
+aus:
+  label: "Es wird kein Banner angezeigt"
+  title: ""
+  url:
+
 einstieg-csharp:
   label: "Lerne programmieren mit mir im Kurs:"
   title: "Einstieg in C# ->"
