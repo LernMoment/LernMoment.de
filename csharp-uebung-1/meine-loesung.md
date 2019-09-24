@@ -27,5 +27,5 @@ Zusätzlich zum Video in dem ich dir meine Lösung beschreibe, findest du hier d
 
 <div class="subscribe-notice">
 <h5>Lerne Konzepte, Syntax und Theorie von C#</h5>
-<a markdown="0" href="https://einstieg-in-csharp.lernmoment.de/lernmoment/" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
+<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=LM19_150_UCSK" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
 </div>

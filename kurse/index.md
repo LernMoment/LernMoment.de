@@ -11,13 +11,13 @@ date: 2018-07-02T09:30:00+01:00
 
 Hier bekommst du einen Überblick über alle Online-Kurse.
 
-[![Einstieg in C# - Kurs-Titelbild]({{ site.url }}/images/UCsK-Titel-von-Udemy_klein.jpg)](https://einstieg-in-csharp.lernmoment.de/lernmoment/)
+[![Einstieg in C# - Kurs-Titelbild]({{ site.url }}/images/UCsK-Titel-von-Udemy_klein.jpg)](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=LM19_150_UCSK)
 {: .pull-left}
 
 ## Einstieg in C# - Der Topseller!
 
 Mit diesem Kurs hast du in 30 Minuten deine erste C#-Anwendung entwickelt. Viel wichtiger ist jedoch, dass du nicht nur Programmieren lernst, sondern die Arbeitsweise, die professionelle Softwareentwickler verwenden, um herausragende Anwendungen zu entwickeln.
-[Direkt zum Kurs (inkl. Rabatt)](https://einstieg-in-csharp.lernmoment.de/lernmoment/) oder [zu den kostenlosen Ressourcen zum Kurs](/einstieg-csharp/)
+[Direkt zum Kurs (inkl. Rabatt)](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=LM19_150_UCSK) oder [zu den kostenlosen Ressourcen zum Kurs](/einstieg-csharp/)
 
 [![C# Übungskurs - Kurs-Titelbild]({{ site.url }}/images/URot-Titelbild-klein.jpg)](https://www.udemy.com/csharp-uebungskurs-einfach-verschluesselt/?couponCode=UROT-LM-10-2018)
 {: .pull-right}
