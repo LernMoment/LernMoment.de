@@ -18,9 +18,9 @@ date: 2019-09-17T06:00:00+01:00
 
 Die ersten Schritte in Visual Studio können ganz schön kompliziert sein. In diesem Tutorial zeige ich dir Schritt für Schritt was du tun musst um deine erste C#-Anwendung mit **Visual Studio 2019** Community Edition zu erstellen. Dabei starten wir mit der Installation und hören auf mit einer fertigen (kleinen) Anwendung.
 
-*Hinweis:* Da das Video etwas lang geworden ist, kannst du direkt zu den einzelnen Teilen springen. Die entsprechenden Links sind in der [Videobeschreibung auf YouTube](https://youtu.be/xhD1HCVj5V0) verfügbar.
+*Hinweis:* Da das Video etwas lang geworden ist, kannst du direkt zu den einzelnen Teilen springen. Die entsprechenden Links sind in der [Videobeschreibung auf YouTube](https://www.youtube.com/watch?v=xhD1HCVj5V0&list=PLP2TrPpx5VNkv4w1XbappnU0bfEwF_j-5) verfügbar.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xhD1HCVj5V0?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLP2TrPpx5VNkv4w1XbappnU0bfEwF_j-5" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Egal ob du in deinem Beruf weiterkommen möchtest, im Studium mit den Informatikvorlesungen nicht zurecht kommst oder einfach für dich Programmieren lernen möchtest, in diesem kostenlosen C# Tutorial in Deutsch erfährst du alles, was du brauchst um deine erste (kleine) Anwendung zu erstellen. 
 
