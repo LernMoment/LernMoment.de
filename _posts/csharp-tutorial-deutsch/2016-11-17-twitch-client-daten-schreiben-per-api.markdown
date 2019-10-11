@@ -32,7 +32,7 @@ Den Twitch-Client mit Menü um einzustellen das der angemeldete Benutzer einem K
 
 <div class="subscribe-notice">
 <h5>Du kennst static nicht, oder weißt nicht wie du Methoden definierst?</h5>
-<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=LM19_150_UCSK" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
+<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCSK_O150_LM-ALL" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
 </div>
 
 ### Weitere Links

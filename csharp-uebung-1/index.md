@@ -64,5 +64,5 @@ Es gibt sehr viele unterschiedliche Lösungsmöglichkeiten. Die von mir gewählt
 
 <div class="subscribe-notice">
 <h5>Lerne Konzepte, Syntax und Theorie von C#</h5>
-<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=LM19_150_UCSK" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
+<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCSK_O150_LM-ALL" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
 </div>
