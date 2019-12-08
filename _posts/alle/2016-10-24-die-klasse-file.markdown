@@ -35,7 +35,7 @@ Mehr über Pfade erfährst du auch im Artikel [Pfade trennen sich auf allen Plat
 
 <div class="subscribe-notice">
 <h5>Lerne alles über C# und professionelle Softwareentwicklung</h5>
-<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCSK_N150_LM-ALL" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
+<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?referralCode=73784B79162D93219DEC" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
 </div>
 
 Der nächste Schritt ist schon die Verwendung einer `File.Read*`, `File.Write*` oder `File.Append*` Methode. Die unterschiedlichen Ausprägungen dieser Methoden sind [hier](https://msdn.microsoft.com/de-de/library/system.io.file(v=vs.110).aspx) beschrieben. Diese Methoden öffnen bzw. erstellen eine Datei, lesen oder schreiben den angegebenen Inhalt und schließen die Datei wieder. Um beispielsweise den Inhalt einer Datei zeilenweise zu lesen und auf der Console auszugeben, schreibst du einfach folgendes:

@@ -43,7 +43,7 @@ Ganz egal was der Grund für das Zweifeln ist, die Konsequenzen sind überschaub
 
 Wenn ich merke, dass ich in diese innere Diskussion eintauche, dann frage ich mich "Was ist das schlimmste was passieren kann?" Wenn ich dann ehrlich zu mir selbst bin, gibt es verdammt Weniges, was schlimm ist. Blutige Nase? Na und? Davon sterbe ich nicht. Alle finden den Kurs scheiße? Na und? Ich muß ihn eben überarbeiten. Ich denke, dass Leute mich scheiß finden, weil sie den Kurs scheiße finden? Na und? Ich kann mir nicht sicher sein, dass es tatsächlich so ist. Außerdem habe ich den Kurs fertig und es kann auch viele Leute geben, die ihn toll finden!
 
-Heutzutage gibt es für fast alles ein Rückgaberecht (übrigens auch für meinen Kurs ["Einstieg in C#"](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCSK_N150_LM-ALL), wie auch alle anderen Kurse auf Udemy ;-). Brauchst du dieses Rückgaberecht tatsächlich?
+Heutzutage gibt es für fast alles ein Rückgaberecht (übrigens auch für meinen Kurs ["Einstieg in C#"](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?referralCode=73784B79162D93219DEC), wie auch alle anderen Kurse auf Udemy ;-). Brauchst du dieses Rückgaberecht tatsächlich?
 
 Ich habe für mich festgestellt, dass ich es in den seltesten Fällen benötige. Durch meine inneren Diskussionen, meinen Zweifel und die Einstellung, dass die meisten Sachen eh nichts für mich sind, habe ich mich eh schon gegen einen Kauf, eine Aufgabe oder eine Unternehmung entschieden. Somit brauche ich auch kein Rückgaberecht.
 

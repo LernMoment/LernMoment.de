@@ -12,14 +12,14 @@ date: 2016-02-03T09:30:00+01:00
 
 <div class="subscribe-notice">
 <h5>Hast du noch Fragen?</h5>
-<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCSK_N150_LM-ALL" class="notice-button">Nö! Ich will sofort C# lernen >></a>
+<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?referralCode=73784B79162D93219DEC" class="notice-button">Nö! Ich will sofort C# lernen >></a>
 </div>
 
 Mit diesem Kurs hast du in 30 Minuten deine erste C#-Anwendung entwickelt. Viel wichtiger ist jedoch, dass du nicht nur Programmieren lernst, sondern die Arbeitsweise, die professionelle Softwareentwickler verwenden, um herausragende Anwendungen zu entwickeln. Ich verdiene seit über 13 Jahren mit Softwareentwicklung mein Geld und erkläre dir in diesem Kurs anhand vieler Beispiele, Übungen und direktem Feedback die wichtigsten Aspekte der professionellen Softwareentwicklung.
 
-Alles Wissenswerte zum Kurs bekommst du, wenn du auf [diesen Link](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCSK_N150_LM-ALL) oder das folgende Bild klickst. Für dich als Leser meines Blogs gibt es auch einen Rabatt. Weiter unten findest du (kostenloses) Bonusmaterial zum Kurs. 
+Alles Wissenswerte zum Kurs bekommst du, wenn du auf [diesen Link](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?referralCode=73784B79162D93219DEC) oder das folgende Bild klickst. Für dich als Leser meines Blogs gibt es auch einen Rabatt. Weiter unten findest du (kostenloses) Bonusmaterial zum Kurs. 
 <figure>
-	<a href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCSK_N150_LM-ALL" target="_blank"><img src="/images/UCsK-LandingPage-Rabatt.jpg" alt="image"></a>
+	<a href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?referralCode=73784B79162D93219DEC" target="_blank"><img src="/images/UCsK-LandingPage-Rabatt.jpg" alt="image"></a>
 </figure>
 
 ## Details und weitere Ressourcen zum Kurs

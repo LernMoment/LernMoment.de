@@ -36,7 +36,7 @@ Wenn dich ein spezifisches Thema aus dem Video interessiert und du nicht das kom
 
 <div class="subscribe-notice">
 <h5>Du möchtest lernen wie du in C# Anwendungen entwickelst und darin TimeSpan verwendest?</h5>
-<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=UCSK_N150_LM-ALL" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
+<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?referralCode=73784B79162D93219DEC" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
 </div>
 
 ### Weitere Links
