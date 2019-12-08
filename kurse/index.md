@@ -33,7 +33,7 @@ Du erstellst mit grundlegenden Konzepten und C#-Syntax eigenständig ein Program
 ## Einstieg in GitHub
 
 GitHub ist der Turbo für deine Karriere als Softwareentwickler, deine privaten Softwareentwicklungsprojekte und deine Fähigkeiten im Bereich der professionellen Softwareentwicklung. In diesem Kurs zeige ich dir Schritt für Schritt wie du GitHub professionell verwendest um möglichst schnell zu den gewünschten Ergebnissen zu kommen.
-[Direkt zum Kurs (inkl. Rabatt)](https://www.udemy.com/github-fuer-entwickler/?couponCode=UGIK_N15-19_LMYT) oder [zu den kostenlosen Ressourcen zum Kurs](/einstieg-github/)
+[Direkt zum Kurs (inkl. Rabatt)](https://www.udemy.com/github-fuer-entwickler/?referralCode=D2FD5CBAC0A15B17A09E) oder [zu den kostenlosen Ressourcen zum Kurs](/einstieg-github/)
 
 [![GitHub Tutorial - Titelbild]({{ site.url }}/images/UGiHuk-Tut-Titelbild-klein.jpg)](https://www.udemy.com/github-tutorial-deutsch/)
 {: .pull-right}

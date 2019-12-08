@@ -30,7 +30,7 @@ In dieser Kurzanleitung zeige ich dir die wichtigsten Schritte um mit *Visual St
 
 <div class="subscribe-notice">
 <h5>Lerne GitHub mit Visual Studio zu verwenden!</h5>
-<a markdown="0" href="https://www.udemy.com/github-fuer-entwickler/?couponCode=UGIK_N15-19_LMYT" class="notice-button">Zur AKTION Online-Kurs "Einstieg in GitHub" für 15€ >></a>
+<a markdown="0" href="https://www.udemy.com/github-fuer-entwickler/?referralCode=D2FD5CBAC0A15B17A09E" class="notice-button">Zur AKTION Online-Kurs "Einstieg in GitHub" für 15€ >></a>
 </div>
 
 ## Ein Projekt erstellen
