@@ -64,5 +64,5 @@ In der Aufgabe ist beschrieben, dass Zahlen und Sonderzeichen nicht konvertiert 
 
 <div class="subscribe-notice">
 <h5>Lerne mehr über C# und professionelle Softwareentwicklung</h5>
-<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?referralCode=73784B79162D93219DEC" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
+<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?referralCode=73784B79162D93219DEC" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
 </div>

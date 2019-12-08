@@ -30,7 +30,7 @@ In dieser Kurzanleitung zeige ich dir die wichtigsten Schritte um mit *Visual St
 
 <div class="subscribe-notice">
 <h5>Lerne GitHub mit Visual Studio zu verwenden!</h5>
-<a markdown="0" href="https://www.udemy.com/github-fuer-entwickler/?referralCode=D2FD5CBAC0A15B17A09E" class="notice-button">Zur AKTION Online-Kurs "Einstieg in GitHub" für 15€ >></a>
+<a markdown="0" href="https://www.udemy.com/github-fuer-entwickler/?referralCode=D2FD5CBAC0A15B17A09E" class="notice-button">Zum Online-Kurs "Einstieg in GitHub" >></a>
 </div>
 
 ## Ein Projekt erstellen
@@ -91,7 +91,7 @@ Möchtest du den Verlauf für das ganze Projekt sehen, dann musst du den `Team E
 
 <div class="subscribe-notice">
 <h5>Du kennst dich noch nicht mit Visual Studio aus?</h5>
-<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?referralCode=73784B79162D93219DEC" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" (inkl. Rabatt ;) >></a>
+<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?referralCode=73784B79162D93219DEC" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
 </div>
 
 Auf dem gewünschten Branch kannst du im *Kontextmenü* ebenfalls `Verlauf anzeigen...` auswählen. Dann siehst du alle Commits die es bisher in dem ausgewählten Branch gegeben hat.

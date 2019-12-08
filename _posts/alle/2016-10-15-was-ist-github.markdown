@@ -25,7 +25,7 @@ Eines der Kernelemente auf [GitHub](https://github.com/) ist das Verzeichnis (en
 
 <div class="subscribe-notice">
 <h5>Lerne die Konzepte und Bedienung von GitHub</h5>
-<a markdown="0" href="https://www.udemy.com/github-fuer-entwickler/?referralCode=D2FD5CBAC0A15B17A09E" class="notice-button">Zur AKTION Online-Kurs "Einstieg in GitHub" für 15€ >></a>
+<a markdown="0" href="https://www.udemy.com/github-fuer-entwickler/?referralCode=D2FD5CBAC0A15B17A09E" class="notice-button">Zum Online-Kurs "Einstieg in GitHub" >></a>
 </div>
 
 
