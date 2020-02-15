@@ -9,25 +9,7 @@ modified:
 lm-newsletter-group-id: 1
 date: 2020-02-12T09:30:00+01:00
 ---
-# Beschreibung
-- Ausgangspunkt:
-  - Leser hat eine grundlegende Idee was VisualStudio ist und möchte es nun intensiver nutzen um C# zu lernen und seine ersten Anwendungen zu erstellen.
-- Problem:
-  - Leser hat noch keinen Überblick was es alles in VS gibt
-  - VS ist sehr umfangreich und so weiß der Leser nicht womit er sich zu erst beschäftigen sollte
-  - Der Leser benutzt einige der Funktionalitäten, aber weiß nicht was die Konzepte dahinter bedeuten
-- Nicht im Fokus:
-  - Einfach die Inhalte aus Videos oder Artikeln in schriftlicher Form präsentieren!
-- Nach der LernMail:
-  - Kann der Leser die grundlegenden Funktionen von VS sicher anwenden
-  - Weiß wie er besser werden kann in der Verwendung von VS
-- Vermittelte Konzepte:
-- Code / GitHub Projekte:
-- Community:
-- Übung:
-- Typ:
 
-# Inhalt LernMail
 Mmmmmoin und willkommen zur LernMail #1!
 
 Und? Ist Visual Studio DAS Schweizertaschenmesser für C# Entwickler? Nach meiner Meinung definitiv! Warum ich davon überzeugt bin und wieso ich vorschlage die Kommandozeile zu nutzen um Visual Studio zu verstehen erkläre ich dir im "VIP-Video 11/20". Solch ein Video bekommst du exklusiv als Abonnent der LernMail mit jeder Ausgabe.
@@ -84,7 +66,7 @@ Im Kontext vom Debugger gibt es auch das für mich wichtigste Tastaturkürzel in
 
 Die ersten Schritte mit dem Debugger erkläre ich dir ebenfalls im [Visual Studio 2019 Tutorial](https://youtu.be/xhD1HCVj5V0?t=3486) (wieder ein Link zu der passenden Stelle).
 
-Insbesondere wenn deine Anwendung größer wird und viele Dateien und viele Zeilen Quellcode umfasst, dann ist der Callstack bzw. das Fenster *Aufrufhierarchie* wirklich wichtig? Bei der Ausführung wird dein Quellcode ja "der Reihe nach" abgearbeitet. Dabei wird von einer Methode in die Nächste gesprungen und du kannst leicht den Überblick verlieren aus welchem Kontext eine Methode aufgerufen wurde und wie ein Fehler entsteht. Dann ist es wirklich hilfreich einen *Breakpoint* zusetzen und in den *Callstack* zu schauen. Was überhaupt passiert wenn eine Methode aufgerufen wird das erkläre ich dir in [diesem Artikel (inkl. Video)](https://www.lernmoment.de/csharp-tutorial-deutsch/methodenaufruf-und-stack/).
+Insbesondere wenn deine Anwendung größer wird und viele Dateien und viele Zeilen Quellcode umfasst, dann ist der Callstack bzw. das Fenster *Aufrufhierarchie* wirklich wichtig. Bei der Ausführung wird dein Quellcode ja "der Reihe nach" abgearbeitet. Dabei wird von einer Methode in die Nächste gesprungen und du kannst leicht den Überblick verlieren aus welchem Kontext eine Methode aufgerufen wurde und wie ein Fehler entsteht. Dann ist es wirklich hilfreich einen *Breakpoint* zusetzen und in den *Callstack* zu schauen. Was überhaupt passiert wenn eine Methode aufgerufen wird das erkläre ich dir in [diesem Artikel (inkl. Video)](https://www.lernmoment.de/csharp-tutorial-deutsch/methodenaufruf-und-stack/).
 
 ### Die Quellcodeverwaltung
 > Was ist die Quellcodeverwaltung? Wie kannst du dein Projekt dort hinzufügen? Wie kannst du Änderungen "commiten" und was bedeutet das?
@@ -153,12 +135,17 @@ Da *Visual Studio* DAS Werkzeug ist, welches du als C# Entwickler am meisten ein
 
 Microsoft bietet [hier](https://docs.microsoft.com/de-de/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2019) einen Überblick aller verfügbaren Tastaturkürzel. Leider wird dich als Einsteiger das selten wirklich weiter bringen. Daher solltest du in *Visual Studio* selber nach den Tastaturkürzeln ausschau halten (z.B. werde diese häufig in den Menüs / Kontext-Menüs angezeigt). Eine Suche mit dem Namen der Funktionalität und der Phrase "Tastaturkürzel in Visual Studio 2019" sollte dich auch weiterbringen. Natürlich kannst du auch gerne mir eine Frage dazustellen.
 
-### Weniger tippen mit Code-Snippets
+### Weniger tippen mit Codeausschnitten
 > Was ist ein Codeausschnitt (Code-Snippet)? Welche verwendest du bereits?
 
 Beim Thema Produktivität dürfen Codeausschnitte (bzw. Code-Snippets auf Englisch) nicht fehlen. *Visual Studio* hat für Elemente wie eine `foreach`-Schleife, `if`-Abfragen und vieles mehr bereits Codeausschnitte definiert. Wenn du diese verwendest, dann braquchst du nur 2-3 Buchstaben tippen, 2x die Tabulatortaste drücken und *Visual Studio* fügt automatisch einen Codeausschnitt ein. Bei der `if`-Abfrage bekommst du so z.B. die runden und geschweiften Klammern direkt eingefügt. Ein paar mehr Details dazu habe ich in [hier erklärt](https://youtu.be/teb_83Vxou4?t=295).
 
 [Hier](https://docs.microsoft.com/de-de/visualstudio/ide/code-snippets?view=vs-2019) gibt es ein paar Hintergrundinformationen zu Code-Snippets von Microsoft und [hier](https://docs.microsoft.com/de-de/visualstudio/ide/visual-csharp-code-snippets?view=vs-2019) sind alle "Standardcodeausschnitte" aufgelistet und kurz erklärt.
+
+Zusätzlich haben sich jedoch schon viele Entwickler Gedanken gemacht welche weiteren *Codeausschnitte* noch hilfreich wären. So findest du mit etwas Suchen einige wirklich **hilfreiche *Codeausschnitte* im Netz**. Es gibt da z.B. [diese Seite](https://www.benday.com/2019/06/20/code-snippets-for-visual-studio-visual-studio-code-and-visual-studio-for-mac/) oder auch [diese Seite](http://www.visualstudiocodesnippets.com).
+**WICHTIG:** Wie mit allen Dingen die du aus dem Internet lädst solltest du schauen was du tatsächlich bekommst. Microsoft erklärt [hier](https://docs.microsoft.com/de-de/visualstudio/ide/best-practices-for-using-code-snippets?view=vs-2019#downloaded-code-snippets) worauf du bei *Codeausschnitten* aus dem Internet achten solltest.
+
+Wenn dir das alles nicht reicht, oder du gute Ideen für ***Codeausschnitte*** hast, dann kannst du auch **selber welche erstellen**. Deine eigenen *Codeausschnitte* kannst du entweder als einzelne Dateien speichern oder du kannst sogar deine eigene *Visual Studio* Erweiterung mit mehreren *Codeausschnitten* erstellen. In [diesem Artikel](https://docs.microsoft.com/de-de/visualstudio/ide/walkthrough-creating-a-code-snippet?view=vs-2019) gibt es eine erste Einführung zu beiden Wegen. Ich werde dazu auch demnächst ein Video veröffentlichen. Solltest du also noch nicht den LernMoment-YouTube-Kanal abonniert haben, kannst du das [hier](https://www.youtube.com/channel/UC5jCUQ6IPHtQP5r4y9byCqA?sub_confirmation=1) machen ;-).
 
 *Tipps für Fortgeschrittene: [Hier](https://docs.microsoft.com/de-de/visualstudio/ide/productivity-features?view=vs-2019) hat Microsoft einige weitere Produktivitätstipps für Visual Studio zusammengestellt. [Auf entwickler.de](https://entwickler.de/online/windowsdeveloper/visual-studio-text-editor-funktionen-254658.html) gibt es ebenfalls einen tollen Artikel mit teilweise etwas exotischeren Tipps.*
 
@@ -167,58 +154,35 @@ Beim Thema Produktivität dürfen Codeausschnitte (bzw. Code-Snippets auf Englis
 
 Als wäre die Funktionalität von *Visual Studio* noch nicht umfangreich genug, bekommst du noch jede Menge Erweiterungen im [Visual Studio Marketplace](https://marketplace.visualstudio.com). Microsoft selber stellt mit Erweiterungen wie der [GitHub Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio) oder auch den [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017) schon einige Erweiterungen bereit. Zusätzlich gibt es aber auch jede Menge Erweiterungen wie beispielsweise [SQLite/SQL Server Compact Toolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox) von anderen Entwicklern.
 
-Über das Menü `Erweiterungen -> Erweiterungen verwalten` kannst du direkt in *Visual Studio* auf den Marketplace zugreifen und auch die Erweiterungen installieren. Damit gibt es dann auch Updates automatisch bzw. dir wird mitgeteilt, wenn für eine Erweiterung ein Update bereit steht.
+Über das Menü `Erweiterungen -> Erweiterungen verwalten` kannst du direkt in *Visual Studio* auf den Marketplace zugreifen und auch die **Erweiterungen installieren**. Damit gibt es dann auch Updates automatisch bzw. dir wird mitgeteilt, wenn für eine Erweiterung ein Update bereit steht.
 
 *50 Tipps & Tricks zu Visual Studio. [EBook von Microsoft Deutschland.](https://www.microsoft.com/de-de/techwiese/aktionen/Visual-Studio-Tipps-und-Tricks-eBook-Vol-1.aspx) Danke an Daniel Meixner! - Das Buch ist schon älter, aber die meisten Tipps sollten immer noch so funktionieren. Tipp 46 ist nicht mehr gültig, weil es die Extension nicht mehr gibt.*
 
 
-## Dein ERFOLG mit einer Code-Snippet-Sammlung auf GitHub
-- Erstelle ein Verzeichnis mit Code-Snippets die du häufig verwendest. 
-  - Sicherheit bei heruntergeladenen Snippets: https://docs.microsoft.com/de-de/visualstudio/ide/best-practices-for-using-code-snippets?view=vs-2019#downloaded-code-snippets
-  - Tutorial von MS: https://docs.microsoft.com/de-de/visualstudio/ide/walkthrough-creating-a-code-snippet?view=vs-2019
+## Dein (Lern-) ERFOLG auf GitHub dokumentieren
+Zum Abschluss möchte ich dir noch eine Idee mit an die Hand geben. Wie ich dir letzte Woche erklärt habe gibt es 3 große Themenbereiche bei LernMoment:
 
+1. **Dein WEG** - Du findest heraus was du als Softwareentwickler machen willst und was du dafür lernen solltest.
+2. **Dein WERKZEUG** - Du lernst das Rüstzeug und die Zusammenhänge der Softwareentwicklung in C# und sammelst Erfahrung wie diese in der Praxis angewendet werden.
+3. **Dein ERFOLG** - Während deiner Lernzeit erarbeitest du ein „Portfolio“ welches du in der Bewerbungsphase nutzen kannst um dein Know-How zu zeigen und so deinen ersten Job als C# Entwickler bekommst.
 
-# Inhalt Udemy-Nachricht
+Die ersten beiden Themenbereich hast du sicherlich in dieser LernMail erkannt. Wie aber kannst du nun potentiellen Arbeit-/Auftraggebern zeigen was du so alles über Visual Studio gelernt hast?
 
-# Ideen
-- Ein paar Dinge aus dem VS2019 Tutorial nehmen und detaillieren. Dazu verweisen auf spezifische Teile in dem Video oder diese sogar neu machen?
-- Die einzelnen Bestandteile der IDE vorstellen (es gibt auch schon Artikel z.B. von Daniel zum Thema Debugger)
-- Aus dem "Einstieg in WPF" Video die relevanten Teile bezüglich VS nehmen.
-- Den besonderen "Trick" mit dem Debugger zur Analyse wann welche Events auftreten beschreiben
-- VIP-LernMoment bezüglich IDE vs. Kommandozeile erstellen
-- Überlegen ob das Visual Studio Tips & Tricks Video verwendet werden sollte
-- Visual Studio Extensions (insbesondere oder am Beispiel GitHub)
-- Überlegen ob ich aus dem ganzen ein PDF erstelle welches ich dann zum Download anbiete? Oder vielleicht sollte mein Ziel sein die Inhalte aus der LernMail nach und nach zu einem eBook zusammen zufassen und dieses für 5€ oder gar gratis als Freebie anzubieten.
-- Über entsprechende Themen im Buch "Einstieg in C#" berichten.
-- Bei docs.microsoft gibt es einige gute Links 
-  - https://docs.microsoft.com/de-de/visualstudio/debugger/debugging-absolute-beginners?view=vs-2019
-  - https://docs.microsoft.com/de-de/visualstudio/debugger/?view=vs-2019
-  - https://visualstudio.microsoft.com/de/vs/getting-started/
+Eine gute Möglichkeit ist, dass du deine angepasst Visual Studio Umgebung beschreibst. Also z.B. 
+- welche Extensions verwendest du und warum und wofür?
+- welche Tastaturkürzel sind wichtig für dich?
+- welche Codeausschnitte verwendest du?
 
+So etwas kannst du beispielsweise gut in einem *GitHub*-Verzeichnis machen. Das könnte dann *Meine Entwicklungsumgebung* heißen und du beschreibst die relevanten Dinge dort im *README.md* ([Hier](https://youtu.be/RUGPwI5iGGc) eine Einführung wie du ein *README.md* erstellst). Da über dein *Microsoft-Konto* einige der *Visual Studio* Einstellungen sowieso synchronisiert werden (Details dazu [hier](https://docs.microsoft.com/de-de/visualstudio/ide/synchronized-settings-in-visual-studio?view=vs-2019)), solltest du dir überlegen was genau du dokumentierst.
 
-- Analyse, Design, Implementierung, Test, Release(?) - Zyklus und wo VS eine Rolle spielt
-- Debugging in VisualStudio (Artikel von Daniel, Teil des VS Tutorials über Debugging, )
-- Wie kannst du VS lernen?
-  - Programme auf der Konsole übersetzen (csc.exe / msbuild.exe)
-  - Was kennst du schon von VS (Auflistung der wichtigsten Bestandteile / Features)
-  - tastenkombinationen
-- Warum ist es wichtig VS zu beherrschen?
-- Mit welchen Features von VS solltest du dich wann beschäftigen?
+[Hier](https://github.com/hdayakar/visual-studio-shortcuts) ein Beispiel für ein *GitHub*-Projekt welches Tastaturkürzel beschreibt. Natürlich macht es wenig Sinn einfach nur eine Kopie der Tastaturkürzel von Microsoft anzulegen. Es sollte schon klar sein, dass das die Tastaturkürzel sind die du auch aktiv verwenden kannst.
 
-- Editor
-  - Code Snippets (was ist das? welche gibt es? wie kannst du sie verwenden? wie kannst du eigene erstellen?)
-  - Was machen die folgenden Tastaturkürzel im Editor?
-  - Wie kannst du dir Tipparbeit ersparen? -> CodeSnippets
-  - Wie kannst du eine Methode (überall) umbenennen?
-- Projektmappenexplorer
-  - was ist der Unterschied zwischen Projekt und Projektmappe? 
-  - was ist ein Startprojekt? 
-  - wofür werden Ordner in einem Projekt verwendet?
-  - welche Ansichten gibt es und wie unterscheiden die sich?
+Wenn du dann mit deinem Wissen über *Visual Studio* etwas weiter bist, kannst du ein solches *GitHub*-Projekt auch gut um eigene *Codeausschnitte* ergänzen.
 
+Nun ist aber auch gut! Ich hoffe die erste Ausgabe von LernMoments LernMail hat dir gefallen. Sie ist wesentlich umfangreicher geworden als ich gedacht habe und ich würde mich wirklich freuen von dir zuhören ob sie dir einen Nutzen gebracht hat.
 
-- Egal welche Domain und welche Rolle du in der Softwareentwicklung einnehmen willst, VS ist das Werkzeug welches du meistens täglich benutzt und dir wirklich helfen kann effizient zu arbeiten. Daher ist es wichtig, dass du dich wirklich damit beschäftigst.
-  - Wann was lernen?
-- Was sind Alternativen zu VS und wann solltest du dich mit denen beschäftigen -> VIP Video
-- Tipp am Rande: VS gibt es auch für DB-Entwickler
+Die nächste Ausgabe gibt es am 14.3.2020 und wird sich mit dem Thema **Entwicklung von Oberflächen mit WPF** beschäftigen.
 
+Bis dahin wünsche ich dir viel Spaß beim Lernen und Üben mit Visual Studio
+
+Jan von [LernMoment.de](https://www.lernmoment.de)
