@@ -10,7 +10,7 @@ share: false
 tags: [C#, Werkzeug, NuGet]
 image:
   feature: intro-code.jpg
-modified:
+modified: 2020-02-14T08:00:00+01:00
 date: 2016-04-21T13:00:00+01:00
 ---
 
@@ -88,7 +88,7 @@ Ich denke mittlerweile ist dir klar, dass ich überzeugt bin von *NuGet* und vor
 Damit dieser Artikel bzw. das Video nicht nur ein passives Vergnügen für dich ist, habe ich noch eine kleine praktische Übung.
 
 Suche in der <a href="http://www.nuget.org" target="_blank">NuGet-Gallery</a> ein Paket, welches du in deinem aktuellen oder zukünftigen Projekt benutzen wirst. Am besten du machst es sofort, nicht das du es noch vergisst ;-). 
-Es wäre genial, wenn du [mir](mailto:jan@lernmoment.de) und den anderen Lesern dein Ergebnis als Kommentar zu diesem Artikel oder gerne auch als Tweet [@LernMoment](https://twitter.com/LernMoment) mitteilst.
+Es wäre genial, wenn du dein Ergebnis als Kommentar [zum Video](https://youtu.be/WsvhwW2M7AY) oder per [Mail](mailto:jan@lernmoment.de) teilst.
 
 Viel Spaß bei der Verwendung von *NuGet*
 
