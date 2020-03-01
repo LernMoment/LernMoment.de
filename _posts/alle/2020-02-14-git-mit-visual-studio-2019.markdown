@@ -39,6 +39,8 @@ In dieser Kurzanleitung zeige ich dir die wichtigsten Schritte um mit *Visual St
 
 Jedesmal, wenn du ein *neues Projekt* erstell hast, kannst du über die *Auswahlbox:* `Zur Quellcodeverwaltung hinzufügen` (unten rechts in der Status-Bar von Visual Studio) *Git* auswählen. Wählst du diese Option, was du eigentlich immer machen solltest ;-), wird automatisch im obersten Verzeichnis deines Projektes ein Ordner mit dem Namen `.git` angelegt. Darin werden sämtliche Informationen von *Git* gespeichert.
 
+![Zur Quellcodeverwaltung hinzufügen]({{ site.url }}/images/git-mit-vs2019/zur-quellcodeverwaltung-hinzufuegen.jpg)
+
 Zusätzlich zum `.git` Verzeichnis werden auch gleich 2 *Commits* erstellt. Damit sind dann bereits alle zum Projekt gehörenden Dateien zur Versionsverwaltung hinzugefügt. Dieses wird dir im `Projektmappen-Explorer` in *Visual Studio* angezeigt. Dort siehst du vor den Dateien (z.B. `App.config`) ein Symbol welches aussieht wie ein Vorhängeschloss. Damit wird dir angezeigt, dass alle Änderungen in *Git* gespeichert sind.
 
 Sobald du in einer Datei eine Änderung vornimmst, ändert sich das Symbol und zeigt einen *roten Haken* an. Dieser sagt dir, dass es Änderungen in der Datei gibt, für die bisher noch kein *Commit in Git* erstellt wurde.
@@ -67,19 +69,19 @@ Hast du mehrere Dateien geändert, dann weiß *Git* auch nicht welche Änderunge
 
 Der einfachste Weg alle deine aktuellen Änderungen in einen Commit zu packen ist, dass du in den `Team Explorer` gehst und dort den Bereich `Änderungen` auswählst. Dieser wird dir üblicherweise direkt angezeigt. Sollte das nicht der Fall sein, dann kannst du über das Haussymbol (`Startseite`) eine Übersichtsseite aufrufen und dort `Änderungen` auswählen.
 
+![Änderungen-Seite im Team-Explorer]({{ site.url }}/images/git-mit-vs2019/aenderungen-dialog.jpg)
+{: .pull-left}
+
 Unterhalb vom gelben Textfeld siehst du alle aktuellen Änderungen aufgelistet. Diese Auflistung umfasst alle Dateien, die du seit dem letzten *Commit* geändert hast. Wenn du nun einfach eine Beschreibung für diese Änderung(en) in das gelbe Textfeld eingibst und den Button `Commit für alle` betätigst, hast du einen Commit erstellt. Damit verschwindet die Auflistung der Änderungen, weil diese ja nun in einem *Commit* beschrieben sind.
 
 Diesen Prozess solltest du zukünftig kontinuierlich wiederholen. Damit kannst du dann im nächsten Schritt sehen welche Änderungen du wann und warum gemacht hast.
 
 **Die wichtigsten Schritte:**
 
-Im `Team Explorer:`
+Im `Team Explorer`:
 
-```
-Commit-Beschreibung eingeben
-
-"Commit für alle" betätigen
-```
+1. Commit-Beschreibung eingeben
+2. `Commit für alle` Button betätigen
 
 ## Aktuellen Verlauf anzeigen
 
