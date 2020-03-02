@@ -23,7 +23,7 @@ Zusätzlich haben sich jedoch schon viele Entwickler Gedanken gemacht welche wei
 
 Wenn dir das alles nicht reicht, oder du gute Ideen für ***Codeausschnitte*** hast, dann kannst du auch **selber welche erstellen**. Deine eigenen *Codeausschnitte* kannst du entweder als einzelne Dateien speichern oder du kannst sogar deine eigene *Visual Studio Erweiterung* mit mehreren *Codeausschnitten* erstellen. In [diesem Artikel](https://docs.microsoft.com/de-de/visualstudio/ide/walkthrough-creating-a-code-snippet?view=vs-2019) gibt es eine erste Einführung zu beiden Wegen. Ich werde dazu auch demnächst ein Video veröffentlichen. Solltest du also noch nicht den LernMoment-YouTube-Kanal abonniert haben, kannst du das [hier](https://www.youtube.com/channel/UC5jCUQ6IPHtQP5r4y9byCqA?sub_confirmation=1) machen ;-).
 
-*Tipps für Fortgeschrittene: [Hier](https://docs.microsoft.com/de-de/visualstudio/ide/productivity-features?view=vs-2019) hat Microsoft einige weitere Produktivitätstipps für Visual Studio zusammengestellt. [Auf entwickler.de](https://entwickler.de/online/windowsdeveloper/visual-studio-text-editor-funktionen-254658.html) gibt es ebenfalls einen tollen Artikel mit teilweise etwas exotischeren Tipps.*
+*Tipps für Fortgeschrittene:* [*Hier*](https://docs.microsoft.com/de-de/visualstudio/ide/productivity-features?view=vs-2019) *hat Microsoft einige weitere Produktivitätstipps für Visual Studio zusammengestellt.* [*Auf entwickler.de*](https://entwickler.de/online/windowsdeveloper/visual-studio-text-editor-funktionen-254658.html) *gibt es ebenfalls einen tollen Artikel mit teilweise etwas exotischeren Tipps.*
 
 Viel Spaß auf deinem Weg vom Einsteiger zum C# Entwickler
 
