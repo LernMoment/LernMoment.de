@@ -5,7 +5,7 @@ Jekyll:
   volumes:
     - .:/srv/jekyll
     - ./vendor/bundle:/usr/local/bundle
-  command: jekyll serve --unpublished
+  command: jekyll serve --unpublished --config _config.yml,_config-devenv.yml
   environment:
     - TZ=Europe/Berlin
     - LANG=C.UTF-8
