@@ -1,12 +1,11 @@
 ---
 layout: page
-title: "LernMails"
-excerpt: "Die LernMails"
+title: "LernMail #1"
+excerpt: "Visual Studio Deep Dive"
 search_omit: true
 image:
   feature: 
 modified:
-lm-newsletter-group-id: 1
 date: 2020-02-12T09:30:00+01:00
 ---
 
