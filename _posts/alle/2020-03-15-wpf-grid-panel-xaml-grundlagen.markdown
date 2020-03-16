@@ -6,7 +6,7 @@ categories: alle
 lernmoment: C#
 lm-newsletter-group-id: 1
 share: false
-show-lm-newsletter-subscribe-box: true
+show-lm-newsletter-subscribe-box: false
 tags: [WPF, XAML, Controls]
 image:
   feature: csharp-tutorial-feature.jpg
