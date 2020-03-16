@@ -33,7 +33,7 @@ So viel zu der Neuausrichtung der LernMail. Nun aber zum Wichtigsten, der Umsetz
 
 Ein wichtiger Bestandteil von *WPF* ist die e*X*tensible *A*pplication *M*arkup *L*anguage (kurz *XAML*). Damit ist es möglich die komplette Oberfläche in einer Art XML zu beschreiben. *XAML* wird nicht nur in *WPF* eingesetzt, sondern auch für die Entwicklung von *Windows Store Apps* verwendet.
 
-Grund genung, dass du dich mit *WPF* beschäftigst und erstmal die Grundlagen davon lernst. Dazu habe ich den kostenlosen [**TicTacToe Übungskurs für Einsteiger in WPF**](/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/) erstellt. Nach dem Kurs kannst du:
+Grund genung, dass du dich mit *WPF* beschäftigst und erstmal die Grundlagen davon lernst. Dazu habe ich den kostenlosen [**TicTacToe Übungskurs für Einsteiger in WPF**](/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/tag1-spielfeld-anlegen/) erstellt. Nach dem Kurs kannst du:
 - Eine Oberfläche in XAML erstellen
 - Den passenden Quellcode schreiben um die Oberfläche zum Leben zu erwecken
 - Ein `DataGrid` mit einfacher *Datenbindung* anlegen
@@ -42,7 +42,7 @@ Dazu bekommst du im Abstand von 3 Tagen jeweils eine Mail mit einer **neuen Teil
 
 ![Fertige WPF Oberfläche des zu entwickelnden TicTacToe-Spiels]({{ site.url }}/images/lernmails/2-ttt-final-ui.png)
 
-**Los gehts:** [Klicke einfach auf diesen Link und du bekommst direkt die erste Teilaufgabe in deine Inbox.](/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/)
+**Los gehts:** [Klicke einfach auf diesen Link und du kommst direkt zur ersten Teilaufgabe.](/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/tag1-spielfeld-anlegen/)
 
 Zusätzlich zu den Mails und darin enthaltenen Videos bekommst du Zugriff auf ein GitHub-Projekt. Denn **gemeinsam lernt und übt es sich besser**. So kannst du sehen wie andere die Übungen lösen und kannst zu deiner eigenen Lösung Rückmeldung bekommen.
 
@@ -51,7 +51,7 @@ Ich hoffe du bist dabei!
 ## Frage/Übung der Woche: Wie private Methoden testen?
 Das automatische Testen von Quellcode mithilfe von *Unit-Tests* ist nicht nur eine **qualitätssteigernde Maßnahme**, sondern kann manchmal auch etwas kompliziert werden.
 
-Markus hat im Rahmen meines Online-Kurses [Einstieg in C#](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_95-0320_EXISTING) seine ersten *Unit-Tests* geschrieben. Dabei ist er auf die wirklich gute Fragen gekommen:
+Markus hat im Rahmen meines Online-Kurses [Einstieg in C#](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_95-0320_EXISTING) seine ersten *Unit-Tests* geschrieben. Dabei fragte er sich:
 
 > Hallo Jan, beim Unit Test habe ich die Möglichkeit öffentliche Methoden einer Klasse zu testen. Was ist aber mit den privaten Methoden die es in der gleichen Klasse gibt? Ignoriert man diese beim Test, weil diese indirekt mit den öffenlichen mit getestet werden oder wie geht man damit um? - [Markus](https://github.com/LernMoment/community-fragen#tes-1-wie-sollten-private-methoden-einer-klasse-getestet-werden)
 
@@ -59,9 +59,9 @@ Markus hat im Rahmen meines Online-Kurses [Einstieg in C#](https://www.udemy.com
 
 ## Neue und beliebte LernMomente
 Hier einige neue LernMomente und das beliebteste aus dem Archiv:
-- [**Lernen durch Rückmeldung - Dein Weg zum C# Entwickler**](https://youtu.be/2gNVyMGfZTI) [Video] - Alleine den Einstieg in C# zu meistern kann schwer sein. Dabei ist es egal ob du tolle kostenlose Tutorials hast oder viel Geld für Online- oder auch "Offline"-Kurse ausgibst. Es gibt jedoch eine recht einfache Methode wie du auch ohne einen Mentor, Trainer oder erfahrenen Kollegen gute Rückmeldung bekommst. Wie das geht erkläre ich dir in [diesem Video](https://youtu.be/2gNVyMGfZTI).
-- [**Versionskontrolle mit Git und Visual Studio 2019**](/alle/git-mit-visual-studio-2019/) [Artikel] - Eine der häufigsten Reaktionen von Einsteigern beim Thema Versionskontrolle ist *"Brauche ich nicht!"* Dabei ist es **eine der wichtigsten Fähigkeiten** die du in jedem Job als C# Entwickler benötigst. Dazu kommt, dass der Einstieg in *Git* mit *Visual Studio 2019* wirklich einfach ist. [Probiere es doch mal aus](/alle/git-mit-visual-studio-2019/).
-- [**ObjektOrientierung - Der schnelle Einstieg**](https://www.youtube.com/playlist?list=PLP2TrPpx5VNl4t9kS2MMWNveEWl41gEKX) [Video-Playlist] - Beim Anschauen dieser Videos musste ich schmunzeln wie sehr sich meine Videos in den letzten Jahren doch verändert haben. Das Thema *Objekt-Orientierung* ist jedoch absolut elementar für angehende C# Entwickler. Sobald du also eine erste Idee der grundlegenden Elemente von C# (Variablen, Datentypen, Schleifen und co.) hast, solltest du dich unbedingt dem Thema *Objekt-Orientierung* widmen.
+- [**Lernen durch Rückmeldung - Dein Weg zum C# Entwickler**](https://youtu.be/2gNVyMGfZTI) [Video - NEU] - Alleine den Einstieg in C# zu meistern kann schwer sein. Dabei ist es egal ob du tolle kostenlose Tutorials hast oder viel Geld für Online- oder auch "Offline"-Kurse ausgibst. Es gibt jedoch eine recht einfache Methode wie du auch ohne einen Mentor, Trainer oder erfahrenen Kollegen gute Rückmeldung bekommst. Wie das geht erkläre ich dir in [diesem Video](https://youtu.be/2gNVyMGfZTI).
+- [**Versionskontrolle mit Git und Visual Studio 2019**](/alle/git-mit-visual-studio-2019/) [Artikel - NEU] - Eine der häufigsten Reaktionen von Einsteigern beim Thema Versionskontrolle ist *"Brauche ich nicht!"* Dabei ist es **eine der wichtigsten Fähigkeiten** die du in jedem Job als C# Entwickler benötigst. Dazu kommt, dass der Einstieg in *Git* mit *Visual Studio 2019* wirklich einfach ist. [Probiere es doch mal aus](/alle/git-mit-visual-studio-2019/).
+- [**ObjektOrientierung - Der schnelle Einstieg**](https://www.youtube.com/playlist?list=PLP2TrPpx5VNl4t9kS2MMWNveEWl41gEKX) [Video-Playlist - ARCHIV] - Beim Anschauen dieser Videos musste ich schmunzeln wie sehr sich meine Videos in den letzten Jahren doch verändert haben. Das Thema *Objekt-Orientierung* ist jedoch absolut elementar für angehende C# Entwickler. Sobald du also eine erste Idee der grundlegenden Elemente von C# (Variablen, Datentypen, Schleifen und co.) hast, solltest du dich unbedingt dem Thema *Objekt-Orientierung* widmen.
 
 ## Kurz vorgestellt: "C# Grundlagen üben mit System"
 In dieser Rubik stelle ich dir in jeder LernMail eines meiner kostenpflichtigen Angebote vor. Heute dreht es sich... TROMMELWIRBEL... ums Üben!!! 🥳🙄 Ja ich weiß, dass gefühlt jeder 2. Satz das Wort "üben" beinhaltet. Es ist aber einfach das Wichtigste damit du C# Entwickler wirst.
@@ -78,7 +78,7 @@ Zum Einsteiger mit erster Erfahrung, der
 - Erfahren hat was an seiner Lösung „gut“ ist und was verbessert werden kann
 - Der den Prozess verstanden hat wie eine Aufgabe zu lösen ist und weiß wo es weitere Hilfe gibt
 
-[Belege den Kurs bis zum 18.03.20 mit dem LernMail-Abonnenten Rabatt. Los gehts!](https://www.udemy.com/course/csharp-uebungskurs-einfach-verschluesselt/?couponCode=UROT_AKTION_0320_BP)
+[Belege den Kurs bis zum 21.03.20 mit dem LernMail-Abonnenten Rabatt. Los gehts!](https://www.udemy.com/course/csharp-uebungskurs-einfach-verschluesselt/?couponCode=UROT_AKTION1_0320_BP)
 
 LernMail #3 erscheint bereits am 28.03.2020.
 
