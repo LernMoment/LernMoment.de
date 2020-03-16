@@ -8,7 +8,7 @@ image:
 modified:
 lm-newsletter-group-id: 1
 date: 2020-03-01T09:30:00+01:00
-published: false
+published: true
 ---
 
 Visual Studio ist eines der wichtigsten Werkzeuge auf deinem Weg zum C# Entwickler (und darüberhinaus ;). Es ist also Zeit, dass du es wirklich kennen und beherrschen lernst. Los gehts!

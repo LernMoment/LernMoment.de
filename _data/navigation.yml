@@ -3,11 +3,14 @@
 - title: Home
   url: /
 
-- title: Starte hier
-  url: /starte-hier/
-
 - title: "Kurse"
   url: /kurse/
+
+- title: "Schwerpunkte"
+  url: /schwerpunkt/
+
+- title: Starte hier
+  url: /starte-hier/
 
 - title: "C# Tutorial"
   url: /csharp-tutorial-deutsch/
