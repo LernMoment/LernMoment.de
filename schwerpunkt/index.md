@@ -35,10 +35,14 @@ Vielen Dank, dass du hier bist und mir vertraust bei deiner Ausbildung zum C# En
 ### Dieses solltest du früher oder später wissen
 Die einzelnen Schwerpunktthemen befinden sich momentan noch im Aufbau. Schau einfach von Zeit zu Zeit hier vorbei um zu sehen was es neues gibt!
 
-- **Dein WEG**
-  - Dieser Bereich ist noch im Aufbau 🙃
-- **Dein WERKZEUG**
-  - [Visual Studio](/schwerpunkt/visual-studio/)
-  - Weitere Themen folgen in kürze
-- **Dein ERFOLG**
-  - Dieser Bereich ist noch im Aufbau 🙃
+[![Titelbild für Schwerpunkt Visual Studio]({{ site.url }}/images/schwerpunkt/visual-studio/titelbild.jpg)](/schwerpunkt/visual-studio/)
+{: .pull-left}
+
+[**Visual Studio meistern**](/schwerpunkt/visual-studio/)
+
+Visual Studio ist eines der wichtigsten Werkzeuge auf deinem Weg zum C# Entwickler (und darüberhinaus ;). Es ist also Zeit, dass du es wirklich kennen und beherrschen lernst. [Los gehts!](/schwerpunkt/visual-studio/)
+
+
+
+**Weitere Schwerpunktthemen folgen in kürze**
+
