@@ -42,7 +42,3 @@ Die einzelnen Schwerpunktthemen befinden sich momentan noch im Aufbau. Schau ein
 
 Visual Studio ist eines der wichtigsten Werkzeuge auf deinem Weg zum C# Entwickler (und darüberhinaus ;). Es ist also Zeit, dass du es wirklich kennen und beherrschen lernst. [Los gehts!](/schwerpunkt/visual-studio/)
 
-
-
-**Weitere Schwerpunktthemen folgen in kürze**
-
