@@ -39,3 +39,9 @@ Vom Grundsatz her orientieren wir uns in den ersten Schritten sehr am [*BallSpie
 
 - Einen Überblick über die verschiedenen Bereiche / Fenster (z.B. XAML-Editor und Designer) zu WPF in Visual Studio gebe ich dir [hier](https://youtu.be/ugji-_yWoRk?t=143)
 - Das [Tutorial: Erstellen einer einfachen (WPF-) Anwendung mit C#](https://docs.microsoft.com/de-de/visualstudio/get-started/csharp/tutorial-wpf?toc=%2Fdotnet%2Fdesktop-wpf%2Ftoc.json&bc=%2Fdotnet%2Fbreadcrumb%2Ftoc.json&view=vs-2019) auf *Microsoft Docs* zeigt dir auch nochmals die wichtigsten Schritte beim Anlegen einer WPF-Anwendungen.
+
+Ich hoffe du hast nun genügend Material um die Aufgabe für dich lösen zu können. In 3 Tagen bekommst du eine weitere Mail von mir mit meiner Musterlösung und der nächtsen Teilaufgabe.
+
+Bis dahin wünsche ich dir viel Spaß beim Üben
+
+Jan von LernMoment.de
