@@ -10,7 +10,7 @@ share: false
 banner: einstieg-csharp
 tags: [C#, Konzept, Professionalität]
 image:
-  feature: intro-code.jpg
+  feature: lernmoment-csharp-banner.jpg
 modified: 2016-10-24T20:00:00+01:00
 date: 2016-06-28T10:00:00+01:00
 ---

@@ -10,7 +10,7 @@ share: false
 banner: einstieg-github
 tags: [Werkzeug, Versionsverwaltung, GitHub]
 image:
-  feature: intro-code.jpg
+  feature: lernmomment-github-banner.jpg
 modified:
 date: 2016-10-15T06:00:00+01:00
 ---

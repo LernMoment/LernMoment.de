@@ -10,7 +10,7 @@ share: false
 banner: uebung-buchstaben
 tags: [Geburtstag, Übung, Professionalität]
 image:
-  feature: HappyBirthdayFeatureImage.jpeg
+  feature: lernmoment-csharp-banner.jpg
 date: 2016-11-25T06:00:00+02:00
 ---
 
