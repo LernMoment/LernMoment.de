@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Konzept, Memory Leak, Event]
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-csharp-banner.jpg
 ---
 
 Hast du eine Ahnung was in fast jedem Artikel zum Thema *Memory Leak* in .NET vorkommt? Es ist das Abmelden von Events. Nun bin ich bei *Stack Overflow* über [eine Aussage](http://stackoverflow.com/questions/4526829/why-and-how-to-avoid-event-handler-memory-leaks/4526840#4526840) von C# Autorität [Jon Skeet](http://stackoverflow.com/users/22656/jon-skeet) gestolpert, die mich verwundert hat:

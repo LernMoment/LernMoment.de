@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Syntax, WPF, Datentypen]
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-wpf-banner.jpg
 ---
 
 Hast du schon versucht eine Liste von Objekten in einer [ListBox][MSDN_ListBox] darzustellen? Dann weisst du bestimmt auch, dass WPF dies über die `ToString` Methode versucht. Obwohl das logisch ist, denn woher soll WPF nun wissen welche Daten aus deinem Objekt es wie darstellen soll, führt es häufig dazu, dass in deiner [ListBox][MSDN_ListBox] lediglich der Klassenname steht.

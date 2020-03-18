@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Inspiration, C# 6.0, WPF]
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-wpf-banner.jpg
 ---
 
 

@@ -9,7 +9,7 @@ show-lm-newsletter-subscribe-box: true
 share: false
 tags: [Datentypen, C#, Video]
 image:
-  feature: csharp-tutorial-feature.jpg
+  feature: lernmoment-csharp-banner.jpg
 modified:
 date: 2016-11-24T07:00:00+01:00
 ---

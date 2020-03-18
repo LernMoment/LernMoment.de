@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Syntax, Datentypen, Enum]
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-csharp-banner.jpg
 ---
 
 Insbesondere wenn du Daten mit eingebetteten Systemen austauschst, kommst du früher oder später an den Punkt, dass du auf einzelne Bits zugreifen musst. Für die Wartbarkeit und Verständlichkeit deines Quelltextes ist es da gut, wenn du `Enum` verwendest. So können auch andere verstehen was die Bits und Bytes bedeuten.

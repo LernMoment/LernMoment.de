@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Syntax, Serialisierung, XML]
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-csharp-banner.jpg
 ---
 
 Im LernMoment ["DataContract - Die Flatrate zum Serialisieren deiner Objekte"](/csharp-programmieren/datacontract-flatrate-zum-serialisieren-deiner-objekte/) hast du gesehen, wie du deine Klasse erstellen kannst, die über `DataContract` serialisiert werden kann. Obwohl die Klasse nun vorbereitet ist, hast du immer noch nicht deine Objekte in einer XML-Datei. Dafür verwendest du die Klassen `DataContractSerializer`, `XmlWriter` und `XmlDictionaryWriter`.

@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Syntax, Datentypen, Methoden]
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-csharp-banner.jpg
 ---
 
 Mit *Extension Methods*, oder *Erweiterungsmethoden* wie sie auf Deutsch heißen, kannst du auch Klassen erweitern, von denen du keinen Quelltext hast. Dabei solltest du allerdings aufpassen, dass du nicht plötzlich eine Sammlung von Funktionalität hast, die du sonst nirgendwo unterbringen konntest. Denn das ist ein (erstes) klares Indiz, dass dein *Design* ein Problem hat.

@@ -9,7 +9,7 @@ tags: [Syntax, Lambda, Delegate]
 lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-csharp-banner.jpg
 modified: 2016-03-18T08:00:00+02:00
 date: 2015-07-29T08:00:00+02:00
 ---

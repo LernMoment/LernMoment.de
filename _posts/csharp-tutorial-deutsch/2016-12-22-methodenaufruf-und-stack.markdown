@@ -9,7 +9,7 @@ show-lm-newsletter-subscribe-box: true
 share: false
 tags: [Methoden, C#, Video, Tutorial]
 image:
-  feature: csharp-tutorial-feature.jpg
+  feature: lernmoment-csharp-banner.jpg
 modified:
 date: 2016-12-22T06:00:00+01:00
 ---

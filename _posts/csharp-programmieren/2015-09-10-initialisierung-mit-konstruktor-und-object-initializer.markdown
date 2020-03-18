@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Syntax, Datentypen, Initialisierung]
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-csharp-banner.jpg
 ---
 
 Der Vergleich von Konstruktor und *Object Initializer* ist unfair. Denn ein Konstruktor ist Bürger erster Klasse in C# und der *Object Initializer* ist lediglich ein kleines Hilfsmittel um Quelltext zu verschönern. Trotzdem kannst du mit beiden einem Objekt Initialwerte geben.

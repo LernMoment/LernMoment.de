@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Konzept, Async, Schleifen]
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-csharp-banner.jpg
 ---
 
 Im LernMoment ["Parallel.ForEach und thread-lokale Variablen"](/csharp-programmieren/parallel-foreach-und-threadlokale-daten/) hast du gesehen, wie einfach die parallele Ausführung von komplexeren Schleifen sein kann. Willst du deine parallel laufende Schleife allerdings verlassen, dann wird es komplizierter.

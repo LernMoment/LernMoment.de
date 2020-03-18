@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Inspiration, Async, TPL]
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-csharp-banner.jpg
 ---
 
 Bereits im LernMoment ["Ist dein Singleton thread-safe?"](/csharp-programmieren/ist-dein-singleton-thread-safe/) hast du die Klasse `Interlocked` verwendet. Es handel sich dabei um eine statische Klasse im Namensraum `System.Threading`. Somit ist sie nicht Bestandteil der TPL. Die Klasse existiert schon wesentlich länger als die TPL, aber du kannst sie auch im Kontext von TPL einsetzen.

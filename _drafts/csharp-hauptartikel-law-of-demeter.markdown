@@ -8,7 +8,7 @@ lernmoment: C#
 lm-newsletter-group-id: 2
 tags: [Konzept]
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-csharp-banner.jpg
 date: 2015-10-22T06:00:00+02:00
 published: true
 ---

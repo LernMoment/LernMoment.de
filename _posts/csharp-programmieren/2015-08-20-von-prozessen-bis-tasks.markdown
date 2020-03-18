@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Konzept, Async, TPL]
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-csharp-banner.jpg
 ---
 
 Im LernMoment [Asynchron abgekürzt](/csharp-programmieren/tap-eap-apm-asynchron-abgekuerzt/) hast du dir die drei Konzepte für asynchrone Methoden angeschaut. Für das nebenläufige Ausführen von Aufgaben hat Microsoft nicht nur verschiedene Konzepte eingeführt, sondern auch viele verschiedene Klassen.

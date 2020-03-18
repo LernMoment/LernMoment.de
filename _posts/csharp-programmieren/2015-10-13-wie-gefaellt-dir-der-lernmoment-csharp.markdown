@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Umfrage]
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-csharp-banner.jpg
 ---
 
 Gestern habe ich die 50. Mail an meinen ersten Abonnenten für den LernMoment C# verschickt. Seit 10 Wochen gibt es also täglich einen kleinen Lernhappen für dich. Ich möchte mich bei dir bedanken, dass du konsequent, wenn auch nicht immer ganz regelmäßig ;), diesen LernMoment verfolgst. Hoffentlich macht dir das Lesen und Lernen genauso viel Freude wie mir das Lernen und Schreiben.

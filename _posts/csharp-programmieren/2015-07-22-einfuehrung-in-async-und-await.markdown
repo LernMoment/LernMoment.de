@@ -10,7 +10,7 @@ show-lm-newsletter-subscribe-box: true
 excerpt: "wie du einfach asynchron Daten liest"
 tags: [Async, File]
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-csharp-banner.jpg
 date: 2015-07-22T09:25:00+00:00
 ---
 

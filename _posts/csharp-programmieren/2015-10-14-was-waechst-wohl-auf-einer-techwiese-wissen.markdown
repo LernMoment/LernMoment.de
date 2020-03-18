@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Inspiration, Lernen, Werkzeug]
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-csharp-banner.jpg
 ---
 
 > Hast du schon die Umfrage "Wie gefällt dir der LernMoment C#?" gemacht? Ich würde mich wahnsinnig freuen, deine Probleme beim Lernen besser zu verstehen und mit neuen LernMomenten zu lösen. [Hier](https://docs.google.com/forms/d/1TgZ0nMdTO3yJ4tmwfZcUFLW45LK63B1iryzjTGbtHdI/viewform?usp=send_form) kommst du direkt zur Umfrage. DANKE!

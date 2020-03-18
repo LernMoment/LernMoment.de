@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Syntax, Ausnahme]
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-csharp-banner.jpg
 ---
 
 Die Verwendung von *Ausnahmen* ist für dich nicht neu. Bestimmt hast du auch schon mal gesehen, dass es die Eigenschaft `Exception.InnerException` gibt. Im Englischen spricht man übrigens von *"wrapped Exception"*. Kannst du diese denn auch verwenden ohne in der Dokumentation nachzuschauen?

@@ -9,7 +9,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Syntax, WPF, MVVM]
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-wpf-banner.jpg
 modified:
 date: 2015-08-31T06:00:00+02:00
 ---
