@@ -45,22 +45,57 @@ Das wichtigste bei der Verwendung von Visual Studio ist jedoch dies:
 >
 > -- <cite>Jan (von LernMoment.de) Suchotzki</cite>
 
-### Das beste deutsche Visual Studio 2019 Tutorial auf YouTube für die ersten Schritte
+### Das beste deutsche Visual Studio 2019 Tutorial auf YouTube
 
 Die ersten Schritte mit Visual Studio können etwas überfordernd sein. Welche von den vielen Optionen bei der Installation sind wichtig? Mit welcher Projektvorlage startest du Visual Studio zum Erstenmal? Was machst du in den vielen Fenstern? Welche Schaltflächen und Menüeinträge sind wichtig für den Start?
 Fragen über Fragen! In diesem Video-Tutorial gehen wir gemeinsam auf eine Entdeckungsreise von Visual Studio. Ich gebe dir zu allen Fragen die passenden Antworten und du erstellst sogar dein erstes Programm. Eine Übung gibst natürlich auch zum Ende. Lass uns los legen!
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLP2TrPpx5VNkv4w1XbappnU0bfEwF_j-5" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
+**Tipp:** *Microsoft stellt als Teil der Dokumentation eine Übersicht über die Neuerungen in den jeweiligen Visual Studio Versionen bereit. Die Neuerungen in VisualStudio 2019 sind* [hier](https://docs.microsoft.com/de-de/visualstudio/ide/whats-new-visual-studio-2019?view=vs-2019) *beschrieben.*
+
+### Der Online-Kurs: Einstieg in C# mit Visual Studio 2019
+In diesem Kurs lernst du auch C# Syntax, die Verwendung von Visual Studio und Objektorientierung, aber insbesondere lernst du **Probleme zu lösen**. Den viel wichtiger als die meisten technischen Details ist, dass du Abläufe und Methoden kennst, um eine Aufgabe (die Entwicklung einer Anwendung), in kleine Teile zu zerlegen und sie dann systematisch umzusetzen. Dieser Kurs legt das Fundament für deinen Weg vom Einsteiger zum C# Entwickler.
+
+[Erfahre mehr über den Online-Kurs ->](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_95-0320_EXISTING)
+
+[![Einsteig in C# - Online-Kurs]({{ site.url }}/images/ucsk-titelbild-neu.jpg)](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_95-0320_EXISTING)
+
 ### Weitere Artikel und Tutorials
 
 Die folgenden Artikel und Tutorials vertiefen einzelne Themen rund um Visual Studio und können auch für Fortgeschrittene Benutzer interessant sein.
 
-**Tipp:** *Microsoft stellt als Teil der Dokumentation eine Übersicht über die Neuerungen in den jeweiligen Visual Studio Versionen bereit. Die Neuerungen in VisualStudio 2019 sind* [hier](https://docs.microsoft.com/de-de/visualstudio/ide/whats-new-visual-studio-2019?view=vs-2019) *beschrieben.*
+[![Überblick der Fenster in Visual Studio]({{ site.url }}/images/schwerpunkt/visual-studio/fenster.jpg)](/csharp-tutorial-deutsch/visual-studio-2019-ueberblick/)
+{: .pull-left}
 
-- [Überblick zu Visual Studio](/csharp-tutorial-deutsch/visual-studio-2019-ueberblick/)
-- Eine der wichtigsten Funktionalitäten in Visual Studio ist sicherlich der Debugger. Was Debugging überhaupt ist, was die 2 wichtigsten Arten von Fehlern sind und wie du *Breakpoints* (oder auf Deutsch: *Haltepunkte*) verwendest hat Daniel in [diesem Artikel](/alle/was-bedeutet-debuggen/) erklärt.
-- Die ersten und wichtigsten Schritte mit *Visual Studio 2019* und *git* erkläre ich dir in [diesem Artikel](/alle/git-mit-visual-studio-2019/).
-- Die 5 wichtigsten Tastaturkürzel in Visual Studio 2019 erkläre ich dir in [diesem Artikel](/csharp-tutorial-deutsch/wichtige-tastaturkuerzel-visual-studio/)
-- Codeausschnitte (/csharp-tutorial-deutsch/einfuehrung-code-snippets/)
-- Neben den vielen *Bibliotheken* die das *.NET Framework* von sich schon mit bringt, gibt es noch ein riesiges Verzeichnis von *Bibliotheken* die Entwickler erstellt haben und überlicherweise ein spezifisches Problem lösen. ***NuGet*** ist dabei die Technologie von Microsoft mit der es wirklich einfach ist eine **Bibliothek mit der passenden Funktionalität** zu finden und diese in deine Anwendung zu integrieren. Im Video [Warum NuGet](https://youtu.be/WsvhwW2M7AY) erkläre ich dir genauer was *NuGet* ist und im Video [Bibliotheken von NuGet integrieren](https://youtu.be/bsuEqUelxvg) zeige ich dir ein praktisches Beispiel. Achja, *NuGet* kannst du natürlich komfortabel über Visual Studio bedienen. 
+### [Die wichtigsten Fenster in Visual Studio](/csharp-tutorial-deutsch/visual-studio-2019-ueberblick/)
+Dieser Artikel erklärt dir als Einsteiger in Visual Studio und C# welches die wichtigsten Fenster sind und was sie bedeuten. So findest du dich schnell zurecht in der etwas kompliziert anmutenden Oberfläche.
+
+
+[![Debugging mit Visual Studio]({{ site.url }}/images/schwerpunkt/visual-studio/debugging.jpg)](/alle/was-bedeutet-debuggen/)
+{: .pull-right}
+
+### [Was bedeutet Debuggen?](/alle/was-bedeutet-debuggen/)
+Eine der wichtigsten Funktionalitäten in Visual Studio ist sicherlich der Debugger. Was Debugging überhaupt ist, was die 2 wichtigsten Arten von Fehlern sind und wie du *Breakpoints* (oder auf Deutsch: *Haltepunkte*) verwendest hat Daniel in [diesem Artikel](/alle/was-bedeutet-debuggen/) erklärt.
+
+[![Git mit Visual Studio]({{ site.url }}/images/schwerpunkt/visual-studio/vs-git.jpg)](/alle/git-mit-visual-studio-2019/)
+{: .pull-left}
+
+### [Einstieg in Git mit Visual Studio](/alle/git-mit-visual-studio-2019/)
+Git ist DIE dezentrale Versionsverwaltung. Cool 😎! Aber was soll das sein und wofür ist das überhaupt gut? Das erkläre ich dir in [diesem Artikel](/alle/git-mit-visual-studio-2019/).
+
+[![Codeausschnitte in Visual Studio]({{ site.url }}/images/schwerpunkt/visual-studio/code-snippets.jpg)](/csharp-tutorial-deutsch/einfuehrung-code-snippets/)
+{: .pull-right}
+
+### [Codeausschnitte in Visual Studio](/csharp-tutorial-deutsch/einfuehrung-code-snippets/)
+Sobald du die grundlegenden Funktionen von Visual Studio kennst und verwendest, wird es Zeit, dass du einige der Funktionen zur Produktivitätssteigerung kennen lernst. Eine davon sind [Codeausschnitte](/csharp-tutorial-deutsch/einfuehrung-code-snippets/).
+
+[![Tastaturkürzel in Visual Studio]({{ site.url }}/images/schwerpunkt/visual-studio/short-cuts.jpg)](/csharp-tutorial-deutsch/wichtige-tastaturkuerzel-visual-studio/)
+{: .pull-left}
+
+### [Visual Studios wichtigste Tastaturkürzel](/csharp-tutorial-deutsch/wichtige-tastaturkuerzel-visual-studio/)
+Ein weiterer Schritt zu mehr Produktivität sind Tastaturkürzel. Die 5 wichtigsten Tastaturkürzel in Visual Studio 2019 erkläre ich dir in [diesem Artikel](/csharp-tutorial-deutsch/wichtige-tastaturkuerzel-visual-studio/).
+
+### NuGet - unendliche ~~Weiten~~ Erweiterungen
+
+Neben den vielen *Bibliotheken* die das *.NET Framework* von sich schon mit bringt, gibt es noch ein riesiges Verzeichnis von *Bibliotheken* die Entwickler erstellt haben und überlicherweise ein spezifisches Problem lösen. ***NuGet*** ist dabei die Technologie von Microsoft mit der es wirklich einfach ist eine **Bibliothek mit der passenden Funktionalität** zu finden und diese in deine Anwendung zu integrieren. Im Video [Warum NuGet](https://youtu.be/WsvhwW2M7AY) erkläre ich dir genauer was *NuGet* ist und im Video [Bibliotheken von NuGet integrieren](https://youtu.be/bsuEqUelxvg) zeige ich dir ein praktisches Beispiel. Achja, *NuGet* kannst du natürlich komfortabel über Visual Studio bedienen. 
