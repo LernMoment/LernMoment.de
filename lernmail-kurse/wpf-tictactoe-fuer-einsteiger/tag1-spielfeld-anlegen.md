@@ -4,7 +4,7 @@ title: "WPF-Übungskurs: Tag 1 - Spielfeld anlegen"
 excerpt: "Im ersten Teil des Übungskurses geht es darum, dass du ein neues WPF-Projekt anlegst, das Fenster konfigurierst und das Spielfeld mithilfe des XAML-Grid-Panels erstellst."
 search_omit: true
 image:
-  feature: 
+  feature: lernmoment-wpf-banner.jpg
 modified:
 date: 2020-03-13T09:30:00+01:00
 ---

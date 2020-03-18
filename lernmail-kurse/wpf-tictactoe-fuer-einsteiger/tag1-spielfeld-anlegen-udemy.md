@@ -6,7 +6,7 @@ lm-newsletter-group-id: 16
 show-lm-newsletter-subscribe-box: false
 search_omit: true
 image:
-  feature: 
+  feature: lernmoment-wpf-banner.jpg
 modified:
 date: 2020-03-13T09:30:00+01:00
 ---

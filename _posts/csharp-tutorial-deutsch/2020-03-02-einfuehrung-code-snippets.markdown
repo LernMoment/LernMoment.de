@@ -9,7 +9,7 @@ share: false
 show-lm-newsletter-subscribe-box: true
 tags: [Werkzeug, Visual Studio]
 image:
-  feature: csharp-tutorial-feature.jpg
+  feature: lernmoment-vs-banner.jpg
 modified:
 date: 2020-03-02T18:13:09+01:00
 ---

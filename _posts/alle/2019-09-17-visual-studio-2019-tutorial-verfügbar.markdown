@@ -10,7 +10,7 @@ share: false
 tags: [C#, Syntax, Werkzeug]
 banner: einstieg-csharp
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-csharp-banner.jpg
 modified:
 date: 2019-09-17T01:00:00+01:00
 ---

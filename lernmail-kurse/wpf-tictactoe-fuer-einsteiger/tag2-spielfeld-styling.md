@@ -4,7 +4,7 @@ title: "TicTacToe-WPF-Übungskurs - Spielfeld verschönern"
 excerpt: "Im zweiten Teil des Übungskurses geht es bereits um eine sehr mächtige Funktion von WPF. Du verschönerst die Buttons mithilfe eines Styles."
 search_omit: true
 image:
-  feature: 
+  feature: lernmoment-wpf-banner.jpg
 modified:
 date: 2020-03-17T09:30:00+01:00
 ---

@@ -11,7 +11,7 @@ tags: [C#, Begriffe, Werkzeug]
 author: daniel_gustorff
 banner: einstieg-csharp
 image:
-  feature: csharp-programmieren.jpg
+  feature: lernmoment-csharp-banner.jpg
 modified:
 date: 2018-05-02T01:00:00+01:00
 ---

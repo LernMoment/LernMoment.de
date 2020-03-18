@@ -9,7 +9,7 @@ share: false
 show-lm-newsletter-subscribe-box: false
 tags: [WPF, XAML, Controls]
 image:
-  feature: csharp-tutorial-feature.jpg
+  feature: lernmoment-wpf-banner.jpg
 modified:
 date: 2020-03-15T11:00:09+01:00
 ---
