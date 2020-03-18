@@ -6,7 +6,8 @@ search_omit: false
 image:
   feature: 
 modified:
-lm-newsletter-group-id: 1
+lm-newsletter-group-id: 32
+show-lm-newsletter-subscribe-box: false
 date: 2020-03-01T09:30:00+01:00
 published: true
 ---
@@ -99,3 +100,8 @@ Ein weiterer Schritt zu mehr Produktivität sind Tastaturkürzel. Die 5 wichtigs
 ### NuGet - unendliche ~~Weiten~~ Erweiterungen
 
 Neben den vielen *Bibliotheken* die das *.NET Framework* von sich schon mit bringt, gibt es noch ein riesiges Verzeichnis von *Bibliotheken* die Entwickler erstellt haben und überlicherweise ein spezifisches Problem lösen. ***NuGet*** ist dabei die Technologie von Microsoft mit der es wirklich einfach ist eine **Bibliothek mit der passenden Funktionalität** zu finden und diese in deine Anwendung zu integrieren. Im Video [Warum NuGet](https://youtu.be/WsvhwW2M7AY) erkläre ich dir genauer was *NuGet* ist und im Video [Bibliotheken von NuGet integrieren](https://youtu.be/bsuEqUelxvg) zeige ich dir ein praktisches Beispiel. Achja, *NuGet* kannst du natürlich komfortabel über Visual Studio bedienen. 
+
+<div class="subscribe-notice">
+  <h5>Bekomme neue Artikel, Videos und Übungen zu Visual Studio in deine Inbox:</h5>
+    {% include lernmoment-subscribe.html %}
+</div>
