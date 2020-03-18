@@ -6,14 +6,18 @@ search_omit: true
 image:
   feature: 
 modified:
-date: 2020-03-13T09:30:00+01:00
+date: 2020-03-17T09:30:00+01:00
 ---
 
-Mmmmmoin und willkommen zur ersten Übung im TicTacToe Übungskurs für WPF Einsteiger!
+Mmmmmoin und willkommen zur zweiten Übung im TicTacToe Übungskurs für WPF Einsteiger!
 
-Solltest du *Tic-Tac-Toe* tatsächlich nicht kennen, dann findest du alle wichtigen Informationen dazu auf [Wikipedia](https://de.wikipedia.org/wiki/Tic-Tac-Toe).
+Heute geht es darum, dass wird das *Spielfeld* etwas schöner machen wollen. In der ersten Übung habe ich dir dazu schon einiges über `Grid` erklärt. Jetzt lernst du eine der mächtigsten Funktionen für die Gestaltung der Oberfläche in *WPF* kennen. Du sollst nämlich heute einen `Style` anlegen der allen `Button` im *Spielfeld* ein einheitliches Aussehen gibt.
 
-## Die Aufgabe
+Bevor ich nun jedoch weiter ins Detail bezüglich der neuen Aufgabe gehe, hier die Lösung der ersten Aufgabe.
+
+## Musterlösung der letzten Aufgabe
+
+## Die neue Aufgabe
 Im ersten Schritt geht es darum, dass du das WPF-Projekt anlegst und das Spielfeld für TicTacToe erstellst.
 
 5. [optional] Sofern du es noch nicht getan hast, mache einen `Commit` für deine ganzen Änderungen und schiebe alles via *Sync* auf GitHub.
