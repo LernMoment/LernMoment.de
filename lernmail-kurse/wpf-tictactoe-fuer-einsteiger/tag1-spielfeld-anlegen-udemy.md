@@ -5,6 +5,7 @@ excerpt: "Im ersten Teil des Übungskurses geht es darum, dass du ein neues WPF-
 lm-newsletter-group-id: 16
 show-lm-newsletter-subscribe-box: false
 search_omit: true
+banner: uebung-buchstaben
 image:
   feature: lernmoment-wpf-banner.jpg
 modified:

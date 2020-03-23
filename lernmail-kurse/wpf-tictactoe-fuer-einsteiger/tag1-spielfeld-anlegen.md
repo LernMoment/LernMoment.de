@@ -3,6 +3,7 @@ layout: page
 title: "WPF-Übungskurs: Tag 1 - Spielfeld anlegen"
 excerpt: "Im ersten Teil des Übungskurses geht es darum, dass du ein neues WPF-Projekt anlegst, das Fenster konfigurierst und das Spielfeld mithilfe des XAML-Grid-Panels erstellst."
 search_omit: true
+banner: uebung-buchstaben
 image:
   feature: lernmoment-wpf-banner.jpg
 modified:
@@ -19,7 +20,7 @@ Solltest du *Tic-Tac-Toe* tatsächlich nicht kennen, dann findest du alle wichti
 Im ersten Schritt geht es darum, dass du das WPF-Projekt anlegst und das Spielfeld für TicTacToe erstellst.
 
 1. Erstelle ein *WPF-App (.NET Core)*-Projekt in *Visual Studio 2019*
-2. Passe das *MainWindow* an
+2. Passe das `MainWindow` an
   - Gib dem Fenster einen passenden `Title` (z.B. "Mein TicTacToe")
   - Setze die Fenstergröße (`Width` und `Height`) auf 500x500
 3. Erstelle ein `Grid` mit *"spielfeld"* als `Name` in *XAML*. Das `spielfeld` soll je 3 Spalten und Zeilen gleicher Größe haben.

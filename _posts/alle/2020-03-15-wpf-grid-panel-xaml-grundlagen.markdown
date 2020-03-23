@@ -4,7 +4,8 @@ title: "Grundlagen des WPF Grid-Panels in XAML"
 excerpt: "Einer der wichtigsten Container in XAML ist das WPF Grid Panel. Damit kannst du Controls in Tabellenform anordnen und vieles mehr."
 categories: alle
 lernmoment: C#
-lm-newsletter-group-id: 1
+lm-newsletter-group-id: 16
+banner: uebung-buchstaben
 share: false
 show-lm-newsletter-subscribe-box: false
 tags: [WPF, XAML, Controls]
