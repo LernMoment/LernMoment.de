@@ -4,7 +4,7 @@ title: "Grundlagen vom WPF Style Element in XAML"
 excerpt: "Eine der coolsten Funktionalitäten von WPF ist das Styling. Hier lernst du die Grundlagen anhand eines Beispiels kennen."
 categories: alle
 lernmoment: C#
-lm-newsletter-group-id: 16
+lm-newsletter-group-id: 64
 banner: uebung-buchstaben
 share: false
 show-lm-newsletter-subscribe-box: false
