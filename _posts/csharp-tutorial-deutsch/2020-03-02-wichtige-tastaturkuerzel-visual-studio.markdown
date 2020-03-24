@@ -10,7 +10,7 @@ show-lm-newsletter-subscribe-box: true
 tags: [Werkzeug, Visual Studio]
 image:
   feature: lernmoment-vs-banner.jpg
-modified:
+modified: 2020-03-24T07:00:00+01:00
 date: 2020-03-02T16:13:09+01:00
 ---
 
@@ -21,6 +21,9 @@ date: 2020-03-02T16:13:09+01:00
 - `UMSCHALT`+`F12` (Alle Verweise suchen) - Wenn der Cursor im Editor auf einem Element steht (z.B. einer Methodendefinition) sucht *Visual Studio* alle Verweise und gibt sie dir in einem *...-Verweise* Fenster aus.
 - `STRG`+`-` (Zurück) - Bist du mit `F12` an eine andere Stelle gesprungen, dann bringt dich diese Tastenkombination wieder an die vorherige Stelle zurück. Das geht übrigens nicht nur bei `F12` sondern ganz allgemein bei der Navigation im Editor.
 - `STRG`+`.` ("Glühbirne ausführen") - Steht der Cursor im Editor auf einem Hinweis der eine "Glühbirne" anzeigt (z.B. Ein Fehler der rot unterstrichen ist), kannst du mit dieser Tastenkombination den Dialog der "Glühbirne" öffnen und dann mit den Pfeiltasten darin navigieren. Dieses benutze ich häufig um beispielsweise `using` Anweisung aufzunehmen.
+- Bonus: 
+  - `STRG` + `K` -> `C` (markierte Zeilen kommentieren) - Wenn du mehrere Zeilen in deinem Quellcode markierst, dann die `STRG` Taste drückst (und gedrückt hälst) und *nacheinander* die Taste `K` und `C` drückst, wird vor jeder Zeile die markiert ist das Kommentarzeichen (z.B. `//` für C# oder `<!-- -->` für XAML) eingefügt.
+  - `STRG` + `K` -> `U` (Kommentarzeichen aus markierten Zeilen entfernen) - Macht die vorherige Aktion wieder rückgängig.
 
 *Hinweis: Einige dieser Tastaturkürzel und weitere Produktivitätstricks erkläre ich dir im Detail in* [*diesem Video*](https://youtu.be/teb_83Vxou4).
 
