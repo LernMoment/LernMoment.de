@@ -31,13 +31,13 @@ Bevor ich nun jedoch weiter ins Detail bezüglich der neuen Aufgabe gehe, hier d
 ## Die neue Aufgabe
 Für die "Verschönerung" des Spielfelds darfst du heute einen neuen `Style` anlegen:
 
-1. Mach das Layout für **einen** `Button` (z.B. den in der Mitte) über seine Eigenschaften:
+1. Mach das Layout für **einen** `Button` (z.B. den oben links) über seine Eigenschaften:
   - Wähle eine dunklere Farbe für den Hintergrund. Probiere verschiedene bis dir eine gefällt. (Ich verwende das "LernMoment"-Türkis `#00A8C6`)
   - Wähle eine hellere Farbe für die Schrift. Probiere verschiedene bis dir eine gefällt. (Ich verwende das "LernMoment"-Beige `#F9F2E7`)
   - Erhöhe die Schriftgröße so das es "gut" ;-) aussieht. (Ich verwende `70`)
   - Die Buttons sollen eine dünne Abgrenzung zu einander haben die nicht zu hell und nicht zu dunkel ist.
 2. Erstelle nun einen `Style` der **alle** `Buttons` mit diesem Aussehen versieht.
-3. Beim Klick auf einen Button soll die Hintergrundfarbe und die Textfarbe invertiert werden. (Dieses braucht nur einmalig geschehen, weil wir in der nächsten Übung noch weitere Änderungen vornehmen.) *Hinweis:* Lösung in `MainWindow.xaml.cs` (code-behind) und nicht XAML!
+3. Beim Klick auf einen Button deiner Wahl (z.B. wieder oben links) soll die Hintergrundfarbe und die Textfarbe invertiert werden. (Dieses braucht nur einmalig geschehen, weil wir in der nächsten Übung noch weitere Änderungen vornehmen.) *Hinweis:* Lösung in `MainWindow.xaml.cs` (code-behind) und nicht XAML!
 4. [optional] Sofern du es noch nicht getan hast, mache einen `Commit` für deine ganzen Änderungen und schiebe alles via *Sync* auf GitHub.
 
 ## Lösungshinweise
