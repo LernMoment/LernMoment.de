@@ -90,6 +90,8 @@ Damit dieser Artikel bzw. das Video nicht nur ein passives Vergnügen für dich 
 Suche in der <a href="http://www.nuget.org" target="_blank">NuGet-Gallery</a> ein Paket, welches du in deinem aktuellen oder zukünftigen Projekt benutzen wirst. Am besten du machst es sofort, nicht das du es noch vergisst ;-). 
 Es wäre genial, wenn du dein Ergebnis als Kommentar [zum Video](https://youtu.be/WsvhwW2M7AY) oder per [Mail](mailto:jan@lernmoment.de) teilst.
 
+[**NEU: Fortsetzung dieses Artikels im Video "NuGet Teil 2"**](https://www.youtube.com/watch?v=bsuEqUelxvg&feature=youtu.be)
+
 Viel Spaß bei der Verwendung von *NuGet*
 
 Jan
