@@ -1,19 +1,13 @@
 # Site navigation links
 
-- title: Home
-  url: /
-
 - title: "Kurse"
   url: /kurse/
 
-- title: "Schwerpunkte"
+- title: "Dein Weg zum C# Entwickler"
   url: /schwerpunkt/
 
-- title: Starte hier
-  url: /starte-hier/
+- title: "Entwicklung & Mentoring"
+  url: /projekt-start/
 
-- title: "C# Tutorial"
+- title: "Blog"
   url: /csharp-tutorial-deutsch/
-
-- title: "C# Artikel"
-  url: /csharp-programmieren/
