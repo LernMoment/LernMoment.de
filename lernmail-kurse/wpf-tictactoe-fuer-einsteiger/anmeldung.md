@@ -2,7 +2,7 @@
 layout: page
 title: "TicTacToe Übungskurs für Einsteiger in WPF (C#)"
 excerpt: "In diesem Übunsgkurs bekommst du einen einfachen Einstieg in WPF. Alle 3 Tage erhälst du eine Mail mit der nächsten Übung und der Lösung zur vorherigen Übung."
-lm-newsletter-group-id: 16
+lm-newsletter-group-id: 64
 show-lm-newsletter-subscribe-box: false
 search_omit: true
 banner: uebung-buchstaben
