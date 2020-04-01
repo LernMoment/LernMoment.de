@@ -11,8 +11,8 @@ banner: einstieg-csharp
 tags: [Visual Studio, GitHub, Versionsverwaltung]
 image:
   feature: lernmoment-git-banner.jpg
-modified: 2020-03-28T06:00:00+01:00
-date: 2020-02-14T06:00:00+01:00
+modified: 
+date: 2020-03-28T06:00:00+01:00
 ---
 
 In [Versionskontrolle mit Git und Visual Studio 2019](/alle/git-mit-visual-studio-2019/) habe ich dir gezeigt, wie du dein C# Projekt in *Visual Studio 2019* mit *git* verwalten kannst. Im nächsten Schritt gibt es viele Gründe dein Projekt auch auf *GitHub* zu bringen:
