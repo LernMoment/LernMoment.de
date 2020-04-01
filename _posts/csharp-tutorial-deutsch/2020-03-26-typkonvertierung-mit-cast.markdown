@@ -129,19 +129,69 @@ private void Kaestchen_0_0_Click(object sender, RoutedEventArgs e)
 
 Wie du siehst ist die Lösung ganz einfach. Ich verwende einen *Cast* um den `sender` vom Typ `object` in einen `Button` zu wandeln mit dem ich dann arbeiten kann. In diesem Fall habe ich mich für den *Cast* entschieden, weil ich die Gefahr einer `InvalidCastException` für vertretbar halte. Solange ich den *EventHandler* nicht an einem Steuerelemente anmelde welches nicht vom Typ `Button` ist, läuft alles ohne Probleme.
 
-### `is` Operator als Sicherheitsnetz für einen *Cast*
-Bisher habe ich immer auf die Gefahren des *Cast* hingewiesen. Um diese abzumildern, gibt es 2 weitere Operatoren in C# die dich bei Typumwandlungen unterstützen. Einer davon ist `is`.
+### `as` Operator als Sicherheitsnetz für die Typkonvertierung
+Bisher habe ich immer auf die Gefahren des *Cast* hingewiesen. Um diese abzumildern, gibt es 2 weitere Operatoren in C# die dich bei Typumwandlungen unterstützen. Einer davon ist `as`.
 
-Bevor ich in die Details gehe, gibt es eine Frage die du dir im Zusammenhang mit einem *Cast* eines Referenztypen stellen solltest:
+Bevor ich in die Details gehe, gibt es eine Frage die du dir im Zusammenhang mit einem *Cast* eines **Referenztypen** stellen solltest:
 
 *Wie sicher ist es, dass die Referenz auf ein Objekt zeigt, welches vom gewünschten Typ ist?*
 
 Im Beispiel mit dem `Button` ist also die Frage wie sicher bin ich mir, dass hinter dem `sender` tatsächlich ein `Button` steckt? Dafür möchte ich 2 mögiche Antworten betrachten:
 
 1. *`sender` **sollte** auf einen `Button` zeigen* -> Wenn `sender` nicht auf einen `Button` zeigt ist irgendwas komplett falsch gelaufen. In diesem Beispiel könnte es sein, dass ich z.B. den *EventHandler* an einem anderen Steuerelement als einem `Button` anmelde. Das ist jedoch ein Fehler und die `InvalidCastException` die durch den *Cast* entsteht macht dieses eindeutig.
-2. *`sender` **könnte** auf einen `Button` zeigen* -> Wenn ich beispielsweise eine Auflistung von verschiedenen Steuerelementen durchlaufe und möchte eine gewisse Aktion für alle `Button` darin ausführen, dann ist der *Cast* nicht das passenden Mittel. Vorhang auf für den `is` Operator!
+2. *`sender` **könnte** auf einen `Button` zeigen* -> Wenn ich beispielsweise eine Auflistung von verschiedenen Steuerelementen durchlaufe und möchte eine gewisse Aktion für alle `Button` darin ausführen, dann ist der *Cast* nicht das passenden Mittel. Ich gehe ja von Anfang an davon aus, dass auch etwas anderes als ein `Button` kommt und somit wäre eine `InvalidCastException` nicht der richtige Weg. Vorhang auf für den `as` Operator!
 
+Dazu ein weiteres Beispiel aus dem [kostenlosen WPF-Übungskurs](/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/tag1-spielfeld-anlegen-new-sub/):
 
+```csharp
+// "Spielfeld" ist eine Instanz vom Grid-Steuerelement
+private bool IstSpielfeldVoll()
+{
+    foreach (var item in Spielfeld.Children)
+    {
+        Button kaestchen = item as Button;
+
+        if (kaestchen == null || kaestchen.Content.ToString() == "")
+        {
+            return false;
+        }
+    }
+
+    return true;
+}
+```
+
+Der `as` Operator probiert (zur Laufzeit) ob eine Konvertierung möglich ist. Wenn ja, dann wird die Konvertierung durchgeführt und wenn nein, dann gibt der Operator `null` zurück. Somit ist es wichtig, dass nach der Verwendung des `as`-Operator, **immer** das Resultat auf `null` überprüft wird.
+
+Im Gegensatz zum *Cast*, gibt es beim `as`-Operator keine `InvalidCastException`!
+
+### Alternative: `is`-Operator mit Pattern-Matching (ab C# 7.0)
+2017 wurde die [Sprachversion 7.0 von C#](https://docs.microsoft.com/de-de/dotnet/csharp/whats-new/csharp-7) eingeführt. Verwendest du *Visual Studio 2019* oder auch *Visual Studio 2017* in der aktuellsten Version, dann hast du immer mindestens die C#-Sprachversion 7.0 verfügbar. [Hier ein Artikel auf Microsoft Docs](https://docs.microsoft.com/de-de/dotnet/csharp/language-reference/configure-language-version) der dir die ganzen Details der Sprachversionen erklärt.
+
+Ab C# 7.0 gibt es eine Funktionalität die nennt sich *Pattern Matching*. Ohne hier im Detail weiter darauf einzugehen (Thema für den nächsten Artikel ;), möchte ich dir diese Schreibweise noch zeigen. Sie ist dem `as`-Operator sehr ähnlich, aber sogar noch etwas kürzer:
+
+```csharp
+// "Spielfeld" ist eine Instanz vom Grid-Steuerelement
+private bool IstSpielfeldVoll()
+{
+    foreach (var item in Spielfeld.Children)
+    {
+        if (item is Button kaestchen)
+        {
+            if (kaestchen.Content.ToString() == "")
+            {
+                return false;
+            }
+        }
+    }
+
+    return true;
+}
+```
+
+Wie su siehst wird durch den `is` Operator getestet ob `item` ein `Button` ist. Zusätzlich wird, **wenn die Bedingung erfüllt ist**, direkt eine Variable mit dem Namen `kaestchen` angelegt. **Wichtig:** Auf diese Weise ist die Variable `kaestchen` innerhalb der `foreach`-Schleife verfügbar. Es wird jedoch **nicht** garantiert, dass sie auch tatsächlich auf einen `Button` zeigt. **Nur innerhalb** der `if`-Abfrage kannst du dich darauf verlassen, dass du über die Variable einen `Button` ansprechen kannst. Außerhalb der `if`-Abfrage ist `kaestchen null`, wenn `item` kein `Button` ist.
+
+Es gibt noch viele weitere spannende Punkte bezüglich Typkonvertierung, aber an dieser Stelle hast du erstmal das wichtigste im Kontext eines *Cast* gelernt. Weiteres dann in späteren Artikeln.
 
 Viel Spaß auf deinem Weg vom Einsteiger zum C# Entwickler
 
