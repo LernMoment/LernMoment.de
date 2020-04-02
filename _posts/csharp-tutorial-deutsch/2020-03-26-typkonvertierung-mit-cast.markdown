@@ -191,7 +191,9 @@ private bool IstSpielfeldVoll()
 
 Wie su siehst wird durch den `is` Operator getestet ob `item` ein `Button` ist. Zusätzlich wird, **wenn die Bedingung erfüllt ist**, direkt eine Variable mit dem Namen `kaestchen` angelegt. **Wichtig:** Auf diese Weise ist die Variable `kaestchen` innerhalb der `foreach`-Schleife verfügbar. Es wird jedoch **nicht** garantiert, dass sie auch tatsächlich auf einen `Button` zeigt. **Nur innerhalb** der `if`-Abfrage kannst du dich darauf verlassen, dass du über die Variable einen `Button` ansprechen kannst. Außerhalb der `if`-Abfrage ist `kaestchen null`, wenn `item` kein `Button` ist.
 
-Es gibt noch viele weitere spannende Punkte bezüglich Typkonvertierung, aber an dieser Stelle hast du erstmal das wichtigste im Kontext eines *Cast* gelernt. Weiteres dann in späteren Artikeln.
+Es gibt noch viele weitere spannende Punkte bezüglich Typkonvertierung, aber an dieser Stelle hast du erstmal das wichtigste im Kontext eines *Cast* gelernt. Einige der Informationen in diesem Artikel habe ich einer sehr guten Antwort von Jon Skeet auf StackOverflow entnommen. Wenn du etwas mehr ins Detail gehen möchtest, z.B. auch was die Performance angeht, dann kann ich dir [diese Antwort (in Englisch)](https://stackoverflow.com/a/496167/5258906) absolut empfehlen.
+
+Weiteres (auf Deutsch und von mir) dann in späteren Artikeln.
 
 Viel Spaß auf deinem Weg vom Einsteiger zum C# Entwickler
 
