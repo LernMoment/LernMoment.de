@@ -3,6 +3,7 @@ layout: page
 title: "TicTacToe-WPF-Übungskurs - Spielsteine setzen"
 excerpt: "Im dritten Teil des Übungskurses fügst du dem Spiel die erste Logik hinzu. Es soll durch Klick in ein Kästchen immer abwechselnd ein Spielstein gesetzt werden."
 search_omit: true
+lm-newsletter-group-id: 16
 banner: uebung-buchstaben
 image:
   feature: lernmoment-wpf-banner.jpg
@@ -65,7 +66,12 @@ Die Arbeit im *XAML* ist nun erstmal beendet. Heute geht es darum, dass du durch
 ## Weiterführende Artikel / Videos
 Diese Aufgabe beinhaltet bereits sehr viel Futter für dich. Daher gibt es heute keine weiteren Ressourcen!
 
-In wenigen Tagen bekommst du eine weitere Mail von mir mit meiner Musterlösung und der nächtsen Teilaufgabe.
+*Du möchtest automatisch informiert werden und alle 3 Tage die Musterlösung und nächste Teilaufgabe bekommen? Dann melde dich hier an:*
+
+<div class="subscribe-notice">
+  <h5>Melde dich jetzt (unverbindlich und kostenlos) für den WPF Übungskurs an:</h5>
+    {% include lernmoment-subscribe.html %}
+</div>
 
 Bis dahin wünsche ich dir viel Spaß beim Üben
 
