@@ -52,7 +52,7 @@ Was bei der Verwendung von `async` und `await` passiert, habe ich im Artikel [Ei
 
 <div class="subscribe-notice">
 <h5>Du kennst static nicht, oder weißt nicht wie du Methoden definierst?</h5>
-<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_95-0320_EXISTING" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
+<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_95-0420_EXISTING" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
 </div>
 
 ### In wenigen Schritten die passenden Daten bekommen
