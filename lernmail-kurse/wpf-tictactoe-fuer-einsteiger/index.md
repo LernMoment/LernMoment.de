@@ -7,15 +7,15 @@ show-lm-newsletter-subscribe-box: false
 search_omit: true
 banner: uebung-buchstaben
 image:
-  feature: 
+  feature: lernmoment-wpf-banner.jpg
 modified:
 date: 2020-03-11T09:30:00+01:00
 ---
 
 Mmmmmoin und willkommen zum WPF Übungskurs für Einsteiger!
 
-Super, dass du mit dem WPF Übungskurs starten möchtest. Nach dem Kurs kannst du:
-- Eine Oberfläche für Windows-Anwendungen in **XAML** erstellen
+Super, dass du mit diesem kostenlosen Übungskurs deine Erfahrung im Bereich Entwicklung von **Oberflächen für Windows-Anwendungen** erweitern willst. Nach dem Kurs kannst du:
+- Eine Oberfläche in **XAML** erstellen
 - Den passenden Quellcode schreiben um die Oberfläche zum Leben zu erwecken
 - Deine **WPF (.NET Core) Anwendung** so erstellen, dass sie strukturiert und wartbar ist
 
