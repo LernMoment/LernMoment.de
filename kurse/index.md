@@ -29,8 +29,17 @@ Du erstellst mit grundlegenden Konzepten und C#-Syntax eigenständig ein Program
 
 [Hier gibt es mehr Informationen zum Kurs (und einen kleinen Rabatt ;)](https://www.udemy.com/course/csharp-uebungskurs-einfach-verschluesselt/?couponCode=ROT_14-0420_EXISTING)
 
-[![Einstieg in GitHub - Titelbild]({{ site.url }}/images/UgiHuK-Titelbild-klein.png)](https://www.udemy.com/course/github-fuer-entwickler/?couponCode=GH_15-0420_EXISTING)
+[![WPF Übungskurs - Kurs-Titelbild]({{ site.url }}/images/wpf-uebungskurs-ttt-einsteiger-gratis-klein.jpg)](/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/)
 {: .pull-left}
+
+## Erfahrung sammeln in C# - Übung: Oberfläche erstellen
+
+Auch mit diesem kostenlosen Kurs kannst du viel Erfahrung sammeln. Es geht darum, dass du anhand vieler Übungen eine eigene Windows-Anwendung mit Oberfläche erstellst. Dabei verwendest du WPF (inkl. XAML), .NET Core und natürlich C#. Das Ziel dieses Übungskurses ist es, dass selber ein kleines Spiel programmierst. Dabei übst die Verwendung der grundlegenden Technologien von WPF. Du kennst dich bisher nur sehr wenig mit WPF aus? Kein Problem! Ich biete dir Verweise auf viele Artikel und Videos. So kannst du direkt während der Übung das fehlende Wissen aufbauen. Probier es einfach aus!
+
+[Hier gibt es mehr Informationen zum kostenlosen Kurs](/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/)
+
+[![Einstieg in GitHub - Titelbild]({{ site.url }}/images/UgiHuK-Titelbild-klein.png)](https://www.udemy.com/course/github-fuer-entwickler/?couponCode=GH_15-0420_EXISTING)
+{: .pull-right}
 
 ## Einstieg in GitHub
 
@@ -39,7 +48,7 @@ GitHub ist der Turbo für deine Karriere als Softwareentwickler, deine privaten 
 [Hier gibt es mehr Informationen zum Kurs (und einen kleinen Rabatt ;)](https://www.udemy.com/course/github-fuer-entwickler/?couponCode=GH_15-0420_EXISTING)
 
 [![GitHub Tutorial - Titelbild]({{ site.url }}/images/UGiHuk-Tut-Titelbild-klein.jpg)](https://www.udemy.com/github-tutorial-deutsch/)
-{: .pull-right}
+{: .pull-left}
 
 ## Das kostenlose GitHub Tutorial
 
