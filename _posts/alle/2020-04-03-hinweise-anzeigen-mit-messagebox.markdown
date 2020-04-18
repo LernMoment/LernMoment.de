@@ -88,7 +88,7 @@ Damit solltest du die wichtigsten Funktionen von `MessageBox.Show()` kennen. Mö
 
 <div class="subscribe-notice">
   <h5>Setze die MessageBox jetzt im kostenlosen WPF Übungskurs ein:</h5>
-    {% include lernmoment-subscribe.html %}
+  <a markdown="0" href="{{ site.url }}/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/" class="notice-button">Erfahre mehr >></a>
 </div>
 
 

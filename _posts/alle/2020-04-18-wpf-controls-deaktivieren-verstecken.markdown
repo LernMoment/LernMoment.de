@@ -74,7 +74,10 @@ Nachfolgend noch der *XAML*-Code den ich verwendet habe für die beiden Bilder. 
 
 Möchtest du dein Wissen testen und etwas Erfahrung in der Erstellung von Windows-Oberflächen mit WPF und C# sammeln?
 
-[Dann melde dich hier zum kostenlosen WPF Übungskurs für Einsteiger an.](/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/)
+<div class="subscribe-notice">
+<h5>Dann melde dich hier zum kostenlosen WPF Übungskurs für Einsteiger an.</h5>
+<a markdown="0" href="{{ site.url }}/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/" class="notice-button">Erfahre mehr >></a>
+</div>
 
 Viel Spaß auf deinem Weg vom Einsteiger zum C# Entwickler
 

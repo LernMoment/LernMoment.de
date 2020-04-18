@@ -151,7 +151,7 @@ Nun kennst du die 3 wichtigsten Arten um auf die Steuerelemente im *code-behind*
 
 <div class="subscribe-notice">
   <h5>Melde dich jetzt (unverbindlich und kostenlos) für den WPF Übungskurs an:</h5>
-    {% include lernmoment-subscribe.html %}
+  <a markdown="0" href="{{ site.url }}/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/" class="notice-button">Los gehts >></a>
 </div>
 
 

@@ -121,6 +121,12 @@ Die relevanten Eigenschaften sind also:
 - `Grid.Column` - damit wird an einem Steuerelemente definiert in welcher **Spalte** es angezeigt werden soll. **Wichtig:** die erste Spalte (also ganz links) hat den Index 0!
 - `Grid.Row` - damit wird an einem Steuerelemente definiert in welcher **Zeile** es angezeigt werden soll. **Wichtig:** die erste Zeile (also ganz oben) hat den Index 0!
 
+<div class="subscribe-notice">
+  <h5>Hast du die Schnauze voll von Theorie?</h5>
+  <h5>Praxis mit dem Grid bekommst du im kostenlosen WPF-Übungskurs:</h5>
+  <a markdown="0" href="{{ site.url }}/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/" class="notice-button">Erfahre mehr >></a>
+</div>
+
 Insbesondere wenn du viele Steuerelemente in einem `Grid` hast, dann kann es also schon etwas unübersichtlich werden. Daher habe ich in diesem Beispiel auch per *XAML*-Kommentar (`<!--Zeile 0-->`) festgehalten in welcher Zeile die folgenden Steuerelemente angezeigt werden. Für Visual Studio ist das zwar total egal, aber es hilft mir (mit ein wenig Disziplin ;) den Überblick zubehalten.
 
 ### Zeilenübergreifende/Spaltenübergreifende Steuerelemente
@@ -208,6 +214,7 @@ Solltest du noch weiteren Klärungsbedarf zum `Grid` haben, dann kann ich dir di
 - [Das Grid-Steuerelement - Openbook vom Rheinwerk Verlag](http://openbook.rheinwerk-verlag.de/visual_csharp_2012/1997_19_001.html#dodtp55f29b28-56fc-4781-943e-56e903b0bd27)
 - [Übersicht über Panel-Elemente - Microsoft Docs](https://docs.microsoft.com/de-de/dotnet/framework/wpf/controls/panels-overview)
 - [Die Grid Klasse - Microsoft Docs](https://docs.microsoft.com/de-de/dotnet/api/system.windows.controls.grid?view=netcore-3.1)
+- [WPF-Übungskurs für Einsteiger - LernMoment](/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/)
 
 Ich hoffe dieser Artikel hat dir geholfen. Wenn du Fragen oder Rückmeldung dazu hast, dann [freue ich mich über eine Mail](mailto:jan@lernmoment.de).
 

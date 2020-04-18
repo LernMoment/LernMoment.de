@@ -101,7 +101,7 @@ Fazit:
 <div class="subscribe-notice">
   <h5>Hast du die Schnauze voll von Theorie?</h5>
   <h5>Melde dich jetzt für den kostenlosen WPF Übungskurs an:</h5>
-    {% include lernmoment-subscribe.html %}
+  <a markdown="0" href="{{ site.url }}/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/" class="notice-button">Los gehts >></a>
 </div>
 
 

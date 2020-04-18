@@ -205,8 +205,8 @@ Mit dieser Definition ist der `Style` im `ersterStack` verfügbar, aber nicht im
 Möchtest du das hier gelernte direkt in die Praxis umsetzen? Dann probiere meinen WPF-Übungskurs aus. Schon in der 2. Einheit geht es um das Styling.
 
 <div class="subscribe-notice">
-  <h5>Melde dich jetzt (unverbindlich und kostenlos) für den WPF Übungskurs an:</h5>
-    {% include lernmoment-subscribe.html %}
+  <h5>Melde dich jetzt für den kostenlosen WPF Übungskurs an:</h5>
+  <a markdown="0" href="{{ site.url }}/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/" class="notice-button">Los gehts >></a>
 </div>
 
 So viel erstmal zu den absoluten Grundlagen im Bereich `Style`. Es gibt noch viel mehr spannende Funktionalitäten wie beispielsweise:
