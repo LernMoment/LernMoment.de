@@ -6,6 +6,8 @@ search_omit: true
 banner: einstieg-csharp
 modified:
 lm-newsletter-group-id: 4
+image:
+  feature: banner/lernmoment-main.jpg
 date: 2020-03-25T09:30:00+01:00
 ---
 
