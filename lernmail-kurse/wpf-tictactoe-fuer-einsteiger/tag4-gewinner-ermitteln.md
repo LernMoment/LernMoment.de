@@ -26,7 +26,7 @@ Heute ist es soweit! Du fügst die weitere Logik hinzu und hast damit bereits ei
 3. [Überprüfung ob Kästchen bereits belegt ist](https://github.com/LernMoment/tictactoe-wpf/commit/863fea9c1e1ee2d2493115f5206cef7849e93915)
 4. [Spielfeld leeren vor Spielbeginn](https://github.com/LernMoment/tictactoe-wpf/commit/ef436ba596b6804bb3fcdfdb3a382f6978f7b621)
 5. [Neustart des Spiels, wenn alle Kästchen belegt](https://github.com/LernMoment/tictactoe-wpf/commit/9807f02b25c3c46d9ba3258200d3660563e5d5f5)
-6. [optional] [Unterschiedliche Farben für die Spieler](https://github.com/LernMoment/tictactoe-wpf/commit/5304b8eaf53e0c9f957b15007550f1cd19f3bc3d)
+6. [optional] [Unterschiedliche Farben für die Spieler](https://github.com/LernMoment/tictactoe-wpf/commit/5304b8eaf53e0c9f957b15007550f1cd19f3bc3d) - Die Erkärung dieses Schrittes habe ich im Video nicht mehr gemacht, weil das Video schon sehr lang war. Wenn du Probleme hast, dann schreib mir eine Mail. Ich beantworte deine Fragen gerne!
 
 **Bonus:** Welche Fehlerquellen hast du in deinem Quellcode gefunden? Teile sie mit uns oder schaue was andere Teilnehmer an ihrer Lösung für Fehlerquellen erkannt haben. [An diesem GitHub Issue](https://github.com/LernMoment/tictactoe-wpf/issues/1) kannst du in die Diskussion einsteigen.
 
