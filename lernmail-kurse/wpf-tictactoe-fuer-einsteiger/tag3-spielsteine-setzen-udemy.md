@@ -1,17 +1,17 @@
 ---
 layout: page
-title: "TicTacToe-WPF-Übungskurs - Spielsteine setzen"
+title: "Übung #3: Spielsteine setzen"
 excerpt: "Im dritten Teil des Übungskurses fügst du dem Spiel die erste Logik hinzu. Es soll durch Klick in ein Kästchen immer abwechselnd ein Spielstein gesetzt werden."
 search_omit: true
-lm-newsletter-group-id: 16
+lm-newsletter-group-id: 128
 banner: uebung-buchstaben
 image:
-  feature: lernmoment-wpf-banner.jpg
+  feature: banner/lernmoment-wpf-ttt.jpg
 modified:
 date: 2020-03-17T09:30:00+01:00
 ---
 
-Mmmmmoin und willkommen zur **dritten Übung** im TicTacToe Übungskurs für WPF Einsteiger!
+Mmmmmoin und willkommen zur **dritten Übung** im WPF-Übungskurs für Einsteiger!
 
 Nun haben wir zwar ein "schönes" Spielfeld (liegt sicherlich im Auge des Betrachters ;), aber von einem Spiel sind noch entfernt. Also wirst du heute die erste Logik einfügen. Die Spieler sollen abwechselnd auf ein leeres Kästchen klicken können und dadurch wird ihr Spielstein dort gesetzt.
 

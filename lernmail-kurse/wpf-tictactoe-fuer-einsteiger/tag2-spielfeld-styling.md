@@ -1,16 +1,16 @@
 ---
 layout: page
-title: "TicTacToe-WPF-Übungskurs - Spielfeld verschönern"
+title: "Übung #2: Spielfeld verschönern"
 excerpt: "Im zweiten Teil des Übungskurses geht es bereits um eine sehr mächtige Funktion von WPF. Du verschönerst die Buttons mithilfe eines Styles."
 search_omit: true
 banner: uebung-buchstaben
 image:
-  feature: lernmoment-wpf-banner.jpg
+  feature: banner/lernmoment-wpf-ttt.jpg
 modified:
 date: 2020-03-17T09:30:00+01:00
 ---
 
-Mmmmmoin und willkommen zur **zweiten Übung** im TicTacToe Übungskurs für WPF Einsteiger!
+Mmmmmoin und willkommen zur **zweiten Übung** im WPF-Übungskurs für Einsteiger!
 
 Heute geht es darum, dass wird das *Spielfeld* etwas schöner machen wollen. In der ersten Übung habe ich dir dazu schon einiges über das `Grid` erklärt. Jetzt lernst du eine der mächtigsten Funktionen für die Gestaltung der Oberfläche in *WPF* kennen. Du sollst nämlich heute einen `Style` anlegen der allen `Button` im *Spielfeld* ein einheitliches Aussehen gibt.
 

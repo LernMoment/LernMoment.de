@@ -1,17 +1,17 @@
 ---
 layout: page
-title: "TicTacToe-WPF-Übungskurs - Gewinner ermitteln und anzeigen"
+title: "Übung #4: Gewinner ermitteln und anzeigen"
 excerpt: "In diesem Teil geht es darum, dass du ermittelst ob ein Spieler gewonnen hat und die Gewinnerreihe hervor hebst."
 search_omit: true
-lm-newsletter-group-id: 16
+lm-newsletter-group-id: 128
 banner: uebung-buchstaben
 image:
-  feature: lernmoment-wpf-banner.jpg
+  feature: banner/lernmoment-wpf-ttt.jpg
 modified:
 date: 2020-03-24T09:30:00+01:00
 ---
 
-Mmmmmoin und willkommen zur **vierten Übung** im TicTacToe Übungskurs für WPF Einsteiger!
+Mmmmmoin und willkommen zur **vierten Übung** im WPF-Übungskurs für Einsteiger!
 
 Heute ist es soweit! Du fügst die weitere Logik hinzu und hast damit bereits ein **komplett funktionsfähiges TicTacToe-Spiel**. Damit sind wir zwar noch nicht am Ende des Übungskurses, schließlich will ich dir noch coole Dinge wie das `DataGrid` und *Datenbindung* zeigen, aber du hast einen ersten wichtigen Meilenstein geschafft.
 

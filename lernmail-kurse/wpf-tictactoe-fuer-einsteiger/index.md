@@ -12,7 +12,7 @@ modified:
 date: 2020-03-11T09:30:00+01:00
 ---
 
-Mmmmmoin und willkommen zum WPF Übungskurs für Einsteiger!
+Mmmmmoin und willkommen zum WPF-Übungskurs für Einsteiger!
 
 Super, dass du mit diesem kostenlosen Übungskurs deine Erfahrung im Bereich Entwicklung von **Oberflächen für Windows-Anwendungen** erweitern willst. Nach dem Kurs kannst du:
 - Eine Oberfläche in **XAML** erstellen

@@ -1,16 +1,16 @@
 ---
 layout: page
-title: "WPF-Übungskurs: Tag 1 - Spielfeld anlegen"
+title: "Übung #1: Spielfeld anlegen"
 excerpt: "Im ersten Teil des Übungskurses geht es darum, dass du ein neues WPF-Projekt anlegst, das Fenster konfigurierst und das Spielfeld mithilfe des XAML-Grid-Panels erstellst."
 search_omit: true
 banner: uebung-buchstaben
 image:
-  feature: lernmoment-wpf-banner.jpg
+  feature: banner/lernmoment-wpf-ttt.jpg
 modified:
 date: 2020-03-13T09:30:00+01:00
 ---
 
-Mmmmmoin und willkommen zur ersten Übung im TicTacToe Übungskurs für WPF Einsteiger!
+Mmmmmoin und willkommen zur **ersten Übung** im WPF-Übungskurs für Einsteiger!
 
 Solltest du *Tic-Tac-Toe* tatsächlich nicht kennen, dann findest du alle wichtigen Informationen dazu auf [Wikipedia](https://de.wikipedia.org/wiki/Tic-Tac-Toe). Ein einfaches Beispiel für Tic-Tac-Toe könnte so aussehen:
 
