@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Syntax, Initialisierung, Datentypen]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 ---
 
 Gerade erst im LernMoment ["Ist dein Singleton thread-safe?"](/csharp-programmieren/ist-dein-singleton-thread-safe/) hast du das Schlüsselwort `readonly` verwendet. Was aber kann denn dadurch nur gelesen werden? Und welche Unterschiede gibt es zu `const` und Eigenschaften mit nur `get`?

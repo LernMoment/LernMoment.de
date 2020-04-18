@@ -4,7 +4,7 @@ title:
 excerpt: "Beherrsche Softwareentwicklung in kontinuierlichen, aber kleinen Schritten. Vom Anfänger zum Profi in C#, Git, GitHub und mehr."
 search_omit: true
 image:
-  feature: lernmoment-main-banner.jpg
+  feature: banner/lernmoment-main.jpg
 lm-newsletter-group-id: 2
 ---
 

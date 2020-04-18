@@ -10,7 +10,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Syntax, Delegate, Lambda]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 date: 2015-07-27T08:00:00+02:00
 ---
 

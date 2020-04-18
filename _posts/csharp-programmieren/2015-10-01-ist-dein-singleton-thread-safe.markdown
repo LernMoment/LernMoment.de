@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Syntax, Pattern, Async]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 ---
 
 In C# gibt es einige Möglichkeiten ein *Singleton* zu implementieren. Die Hauptunterschiede dieser Varianten liegen darin ob sie *thread-safe* sind und wie einfach sie zu verstehen sind. Unabhängig davon welche Realisierungsvariante du verwendest, solltest du folgende Punkte berücksichtigen:

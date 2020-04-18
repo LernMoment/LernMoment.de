@@ -9,7 +9,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Konzept, Metrik, Qualität]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 modified:
 date: 2015-08-27T06:00:00+02:00
 ---

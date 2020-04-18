@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Konzept, TPL, Schleifen]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 ---
 
 Neben der Aufgabenparallelität, hat die [TPL](/csharp-programmieren/von-prozessen-bis-tasks/) auch die Datenparallelität eingeführt. Damit kannst du mühelos eine `for` oder `foreach` Schleife parallelisieren. So ist wenigstens die Idee. Auch wenn die Entwickler der TPL einen brillianten Job gemacht haben, hast du es immer noch mit nebenläufiger Programmierung zutun. Daher solltest du dir bei jeder Schleife überlegen welche Auswirkungen eine Parallelisierung haben kann.

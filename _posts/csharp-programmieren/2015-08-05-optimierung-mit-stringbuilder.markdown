@@ -9,7 +9,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Methoden, string]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 modified:
 date: 2015-08-05T06:00:00+02:00
 ---

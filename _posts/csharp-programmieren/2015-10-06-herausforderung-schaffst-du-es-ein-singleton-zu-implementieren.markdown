@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Übung, Pattern, Async]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 ---
 
 Heute will ich es wissen. Bist du zu 100% bereit ein Meister der Softwareentwicklung in C# zu werden? Hier auf LernMoment.de findest du verschiedene Wege dein Wissen und deine Fähigkeiten zu erweitern. Du bekommst kleine Lerneinheiten und kontinuierliche Wissensabfrage. Es fehlt aber noch das Üben.

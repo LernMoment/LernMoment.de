@@ -9,7 +9,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Werkzeug, Installation]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 modified:
 date: 2015-07-30T08:00:00+02:00
 ---

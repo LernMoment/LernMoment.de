@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Syntax, String, Datentypen]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 ---
 
 Insbesondere die Konsole ist nun nicht gerade der Ort für eine schöne Benutzerschnittstelle, aber gerade in technischen Bereichen hilft dir eine Konsolenanwendung häufig weiter. Die Ausrichtungskomponente ist Teil der kombinierten Formatierung. Damit kannst du auch auf der Konsole (oder in Dateien) deine Daten übersichtlich anzeigen. Gerade für Log-Dateien ist beispielsweise die tabellarische Ausgabe relevant.

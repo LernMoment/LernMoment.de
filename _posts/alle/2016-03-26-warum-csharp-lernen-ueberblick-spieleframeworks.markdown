@@ -10,7 +10,7 @@ share: false
 banner: einstieg-csharp
 tags: [C#, Spieleentwicklung, Frameworks]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 modified:
 date: 2016-03-26T14:21:07+01:00
 ---

@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Konzept, Methoden, Generics]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 ---
 
 Wenn du eine eigene Methode zum Iterieren von Auflistungen (das muss nicht unbedingt eine *Collection* sein) schreibst, dann kann dir `yield return` Arbeit abnehmen. Dabei musst du dich entscheiden, ob du alle Elemente auf einmal bearbeitest (*eager evaluation*), oder ob du ein Element immer nur dann bearbeitest, wenn es gerade gebraucht wird (*lazy evaluation*).

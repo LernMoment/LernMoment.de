@@ -9,7 +9,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Syntax, WPF, MVVM]
 image:
-  feature: lernmoment-wpf-banner.jpg
+  feature: banner/lernmoment-wpf.jpg
 modified:
 date: 2015-07-26T16:47:19+02:00
 ---

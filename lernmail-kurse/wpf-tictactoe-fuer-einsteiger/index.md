@@ -7,7 +7,7 @@ show-lm-newsletter-subscribe-box: false
 search_omit: true
 banner: uebung-buchstaben
 image:
-  feature: lernmoment-wpf-banner.jpg
+  feature: banner/lernmoment-wpf.jpg
 modified:
 date: 2020-03-11T09:30:00+01:00
 ---

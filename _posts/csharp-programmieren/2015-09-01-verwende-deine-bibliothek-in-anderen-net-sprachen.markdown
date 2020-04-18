@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Konzept, Compiler, Runtime]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 ---
 
 Knapp 60 Programmiersprachen werden, laut [Wikipedia](https://de.wikipedia.org/wiki/Liste_von_.NET-Sprachen), aktuell von .NET unterstützt. Dabei hat jede ihre Stärken und Schwächen. Du kannst, je nach Aufgabe entsprechend, dir eine passende auswählen. So kannst du beispielsweise für die Automatisierung von Administrationsaufgaben Windows Power Shell oder auch IronRuby verwenden. Du könntest auch entscheiden, dass du einige Algorithmen in F#, aber die Oberfläche deiner Anwendung lieber in C# mit WPF, entwickeln möchtest.

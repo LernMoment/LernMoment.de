@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Konzept, Lambda, Delegate]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 ---
 
 Weißt du noch wie der kürzeste Lambda-Ausdruck zum multiplizieren zweier Zahlen ist? Wenn nicht, lies nochmals den LernMoment [Lambda-Ausdrücke erstellen](/csharp-programmieren/lambda-ausdruecke-erstellen/) bevor du hier weiter machst.

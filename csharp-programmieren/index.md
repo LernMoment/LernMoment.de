@@ -3,7 +3,7 @@ layout: page
 title: C# (.NET / Mono)
 excerpt: "Alle bisher veröffentlichten LernMomente für die Programmiersprache C#."
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 search_omit: true
 lm-newsletter-group-id: 1
 ---

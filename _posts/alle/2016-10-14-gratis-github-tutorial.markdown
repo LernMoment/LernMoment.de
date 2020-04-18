@@ -10,7 +10,7 @@ share: false
 banner: tutorial-github
 tags: [Werkzeug, GitHub, Kurs]
 image:
-  feature: lernmoment-github-banner.jpg
+  feature: banner/lernmoment-github.jpg
 modified: 2016-10-25T06:00:00+01:00 
 date: 2016-10-14T06:00:00+01:00
 ---

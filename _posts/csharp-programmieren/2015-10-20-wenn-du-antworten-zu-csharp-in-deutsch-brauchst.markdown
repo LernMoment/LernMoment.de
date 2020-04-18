@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Inspiration, Lernen, Werkzeug]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 ---
 
 ... kannst du mir gerne deine Frage [schicken](jan@lernmoment.de). Du kannst allerdings auch zu dem größten Forum für C# und .NET im deutschsprachigem Raum gehen. Dieses findest du unter [myCSharp.de](http://www.mycsharp.de).

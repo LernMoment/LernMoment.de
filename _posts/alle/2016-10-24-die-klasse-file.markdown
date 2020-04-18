@@ -10,7 +10,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [C#, File, Syntax]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 date: 2016-10-24T06:00:00+02:00
 ---
 

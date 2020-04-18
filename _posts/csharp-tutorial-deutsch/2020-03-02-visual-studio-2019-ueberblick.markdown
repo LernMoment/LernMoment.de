@@ -9,7 +9,7 @@ share: false
 show-lm-newsletter-subscribe-box: true
 tags: [Werkzeug, Visual Studio]
 image:
-  feature: lernmoment-vs-banner.jpg
+  feature: banner/lernmoment-vs.jpg
 modified:
 date: 2020-03-02T13:13:09+01:00
 ---

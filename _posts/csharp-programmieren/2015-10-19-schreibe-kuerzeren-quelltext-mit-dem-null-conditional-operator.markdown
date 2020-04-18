@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Syntax, C# 6.0, Operator]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 ---
 
 Wie häufig hast du schon am Anfang einer Methode die Parameter auf `null` überprüft um eine `NullReferenceException` zu vermeiden? In C# 6.0 kommt Microsoft dir zur Hilfe. In dieser Version wurde ein Operator eingeführt, der direkt beim Zugriff auf ein Objekt dieses auf `null` überprüft.

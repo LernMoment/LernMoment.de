@@ -9,7 +9,7 @@ tags: [Syntax, Lambda, Delegate]
 lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 modified: 2016-03-18T08:00:00+02:00
 date: 2015-07-29T08:00:00+02:00
 ---

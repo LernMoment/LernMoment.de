@@ -9,7 +9,7 @@ show-lm-newsletter-subscribe-box: true
 share: false
 tags: [C#, Werkzeug, NuGet]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 modified: 2020-02-14T08:00:00+01:00
 date: 2016-04-21T13:00:00+01:00
 ---

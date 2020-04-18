@@ -4,7 +4,7 @@ title: "LernMail #1"
 excerpt: "Visual Studio Deep Dive"
 search_omit: true
 image:
-  feature: lernmoment-vs-banner.jpg
+  feature: banner/lernmoment-vs.jpg
 modified:
 date: 2020-02-12T09:30:00+01:00
 ---

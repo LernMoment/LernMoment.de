@@ -9,7 +9,7 @@ share: false
 show-lm-newsletter-subscribe-box: true
 tags: [Syntax, Konzept, Datentypen]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 modified:
 date: 2020-03-26T09:13:09+01:00
 ---

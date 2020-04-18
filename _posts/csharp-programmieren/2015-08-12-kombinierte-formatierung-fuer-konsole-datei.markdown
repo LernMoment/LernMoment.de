@@ -9,7 +9,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Syntax, Konzept, String]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 modified: 2015-09-03T17:00:00+02:00
 date: 2015-08-12T06:00:00+02:00
 ---

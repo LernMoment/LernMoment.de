@@ -10,7 +10,7 @@ share: false
 tags: [C#, Syntax, Werkzeug]
 banner: einstieg-csharp
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 modified:
 date: 2019-09-17T01:00:00+01:00
 ---

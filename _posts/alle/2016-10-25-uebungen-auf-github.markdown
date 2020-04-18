@@ -10,7 +10,7 @@ banner: uebung-buchstaben
 share: false
 tags: [Übung, C#, GitHub]
 image:
-  feature: lernmoment-github-banner.jpg
+  feature: banner/lernmoment-github.jpg
 modified:
 date: 2016-10-25T06:00:00+01:00
 ---

@@ -10,7 +10,7 @@ share: false
 banner: einstieg-csharp
 tags: [Visual Studio, GitHub, Versionsverwaltung]
 image:
-  feature: lernmoment-git-banner.jpg
+  feature: banner/lernmoment-git.jpg
 modified: 
 date: 2020-03-28T06:00:00+01:00
 ---

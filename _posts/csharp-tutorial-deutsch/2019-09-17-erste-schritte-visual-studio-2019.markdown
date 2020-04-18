@@ -9,7 +9,7 @@ show-lm-newsletter-subscribe-box: true
 share: false
 tags: [Tutorial, C#, Video]
 image:
-  feature: lernmoment-vs-banner.jpg
+  feature: banner/lernmoment-vs.jpg
 modified:
 date: 2019-09-17T06:00:00+01:00
 ---

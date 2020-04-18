@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Inspiration, C# 6.0, Versionen]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 ---
 
 Immer wieder lese ich in Artikeln und Beschreibungen, dass eine bestimmte Funktionalität der Sprache C# ab Version X.Y verfügbar ist. Das ist nun zwar interessant, aber um zu wissen ob du diese Funktionalität in deinem Projekt verwenden kannst, ist einzig die .NET - Version relevant. Denn die ist es, die du in deinem Projekt verwendest.

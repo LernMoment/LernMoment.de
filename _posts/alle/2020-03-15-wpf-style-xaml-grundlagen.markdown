@@ -10,7 +10,7 @@ share: false
 show-lm-newsletter-subscribe-box: false
 tags: [WPF, XAML, Controls]
 image:
-  feature: lernmoment-wpf-banner.jpg
+  feature: banner/lernmoment-wpf.jpg
 modified:
 date: 2020-03-21T11:00:09+01:00
 ---

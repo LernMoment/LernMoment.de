@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Konzept, Lernen]
 image:
-  feature: lernmoment-csharp-banner.jpg
+  feature: banner/lernmoment-csharp.jpg
 ---
 
 In den letzten 12 Wochen hat es mit wenigen Ausnahmen einen täglichen LernMoment für C# gegeben. Du hast dadurch hoffentlich neues Wissen aufgebaut und einige Inspirationen bekommen, was sonst noch so relevant ist. Mir hat es ermöglicht mich weiter zu bilden und mit dem Konzept des LernMomentes zu experimentieren. Gerade in den letzten Wochen habe ich viele Gespräche über das Konzept, die Reichweite und den Nutzen für dich geführt. Das Resultat ist, dass ich das Konzept besser anpassen muss, um dir den größtmöglichen Nutzen zu bieten.

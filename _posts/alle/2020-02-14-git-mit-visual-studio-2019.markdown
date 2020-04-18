@@ -10,7 +10,7 @@ share: false
 banner: einstieg-csharp
 tags: [Werkzeug, Versionsverwaltung]
 image:
-  feature: lernmoment-git-banner.jpg
+  feature: banner/lernmoment-git.jpg
 modified:
 date: 2020-02-14T06:00:00+01:00
 ---

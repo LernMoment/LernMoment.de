@@ -4,7 +4,7 @@ title: "Visual Studio das Werkzeug für C# Entwickler"
 excerpt: "Visual Studio ist das Werkzeug eines C# Entwicklers. Hier erfährst du alles über den Einstieg, "
 search_omit: false
 image:
-  feature: lernmoment-vs-banner.jpg
+  feature: banner/lernmoment-vs.jpg
 modified:
 lm-newsletter-group-id: 32
 show-lm-newsletter-subscribe-box: false

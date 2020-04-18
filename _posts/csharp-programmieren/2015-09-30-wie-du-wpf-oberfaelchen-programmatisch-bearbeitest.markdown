@@ -11,7 +11,7 @@ lm-newsletter-group-id: 1
 show-lm-newsletter-subscribe-box: true
 tags: [Inspiration, WPF]
 image:
-  feature: lernmoment-wpf-banner.jpg
+  feature: banner/lernmoment-wpf.jpg
 ---
 
 
