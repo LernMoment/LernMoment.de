@@ -91,7 +91,7 @@ Möchtest du den Verlauf für das ganze Projekt sehen, dann musst du den `Team E
 
 <div class="subscribe-notice">
 <h5>Du kennst dich noch nicht mit Visual Studio aus?</h5>
-<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_17-0520_EXISTING" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
+<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_25-0620_LMDE" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
 </div>
 
 Auf dem gewünschten Branch kannst du im *Kontextmenü* ebenfalls `Verlauf anzeigen...` auswählen. Dann siehst du alle Commits die es bisher in dem ausgewählten Branch gegeben hat.
