@@ -14,22 +14,17 @@ lm-newsletter-group-id: 2
 
 <a markdown="0" href="{{ site.url }}/starte-hier/" class="notice-button">Starte Hier >></a>
 
+### Die aktuellsten LernMomente:
 <ul class="post-list">
-<!-- Create empty arrays -->
-{% assign both_categories = '' | split: ',' %}
-<!-- Push to both_categories -->
-{% for post in site.categories.hintergrund %}
-  {% assign both_categories = both_categories | push: post %}
-{% endfor %}
-{% for post in site.categories.alle %}
-  {% assign both_categories = both_categories | push: post %}
-{% endfor %}
-{% assign both_categories = both_categories | sort: 'date' %}
-
-{% for post in both_categories reversed %} 
+<!-- Create array for sorting ALL posts -->
+{% assign items = site.posts | sort: 'date' | reverse %}
+<!-- Show the 5 most recent posts -->
+{% for post in items limit:5 %} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date">{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
+
+<a markdown="0" href="{{ site.url }}/blog/" class="notice-button">Lese weitere LernMomente >></a>
 
 <div class="subscribe-notice">
 	<h5>Informiere mich, wenn es was neues gibt:</h5>
