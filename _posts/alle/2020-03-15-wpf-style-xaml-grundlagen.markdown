@@ -36,7 +36,7 @@ Natürlich könntest du auch etwas wagen und deinem `Button` einen Farbverlauf s
   </Button>
 ```
 
-Möchtest du jedoch viele `Buttons` in dieser Art anpassen (wie z.B. im kostenlosen [WPF-Übungskurs](/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/anmeldung/)), dann führt das zu ziemlich viel kopieren und redudantem XAML-Code. Daher gibt es in WPF den `Style`.
+Möchtest du jedoch viele `Buttons` in dieser Art anpassen (wie z.B. im kostenlosen [WPF-Übungskurs](/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/)), dann führt das zu ziemlich viel kopieren und redudantem XAML-Code. Daher gibt es in WPF den `Style`.
 
 **Merke:** Mit einem `Style` kannst du das Aussehen von Steuerelementen verändern. Dabei kann ein `Style` an zentraler Stelle zur Verfügung gestellt werden und nach verschiedenen Kriterien den existierenden Steuerelementen zugewiesen werden.
 

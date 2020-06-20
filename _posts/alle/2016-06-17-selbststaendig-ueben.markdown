@@ -10,10 +10,12 @@ share: false
 banner: uebung-buchstaben
 tags: [C#, "TTT Challenge", GitHub]
 image:
-  feature: csharp-challenge.jpg
-modified:
+  feature: banner/lernmoment.csharp.jpg
+modified: 2020-06-20T06:00:00+01:00
 date: 2016-06-17T06:00:00+01:00
 ---
+
+> **UPDATE: Die hier beschriebene C# Challenge gibt es so nicht mehr. Eine neuere Version findest du [hier](/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/)**
 
 Wenn du dir die bisherigen Informationen auf der [??? C# Challenge](/csharp-challenge/) - Seite angesehen hast und denkst, dass das alles viel zu einfach für dich ist, dann solltest du diesen Artikel lesen bzw. das Video schauen. (Gerne auch beides ;)
 

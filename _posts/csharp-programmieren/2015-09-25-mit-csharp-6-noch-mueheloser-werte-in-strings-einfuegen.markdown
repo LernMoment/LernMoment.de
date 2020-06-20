@@ -14,7 +14,7 @@ image:
   feature: banner/lernmoment-csharp.jpg
 ---
 
-Du weißt nicht was ein InspirationsMoment ist? Im Hintergrundartikel ["Mehr Output! Weniger Input!"](/hintergrund/mehr-output-weniger-input/) bekommst du mehr Informationen dazu.
+Du weißt nicht was ein InspirationsMoment ist? Mit jedem InspirationsMoment zeige ich dir eine kleine Klasse, Methode oder Idee die dir helfen kann deinen C# Code zu verbessern. Dazu gibt es Links zu weiteren Details damit du selber recherchieren kannst wie du es für dich am besten umsetzt.
 
 ### String Interpolation - Der Turbo für "Kombinierte Formatierung"
 

@@ -9,10 +9,12 @@ show-lm-newsletter-subscribe-box: false
 share: false
 tags: [C#, "TTT Challenge", GitHub]
 image:
-  feature: csharp-challenge.jpg
-modified:
+  feature: banner/lernmoment-csharp.jpg
+modified: 2020-06-20T06:00:00+01:00
 date: 2016-06-28T06:00:00+01:00
 ---
+
+> **UPDATE: Die hier beschriebene C# Challenge gibt es so nicht mehr. Eine neuere Version findest du [hier](/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/)**
 
 Bisher hat meine Lösung einen eher funktionalen Ansatz. D.h. ich lege keine Objekte der Klasse `Spielbrett` an und diese Klasse bietet auch nur Member und Methoden an, die `static` sind. Wenn du dir jedoch die Domäne anschaust, dann stellst du schnell fest, dass Objekte immer einen Lebenszyklus haben.
 
@@ -28,11 +30,3 @@ Bei TicTacToe hat zum Beispiel das Spielbrett einen kurzen Lebenszyklus. Wenn du
 Viel Spaß beim Spielen
 
 Jan
-
-
-PS: Wenn du noch nicht zur Challenge angemeldet bist, aber trotzdem teilnehmen möchtest und [die vielen Boni](/csharp-challenge/deine-vorteile-bei-anmeldung/) bekommen möchtest, dann melde dich schnell an! Unter anderem bekommst du **ein kostenloses Einzelcoaching** mit mir:
-
-<div class="subscribe-notice">
-  <h5>Hier unverbindlich und kostenlos anmelden:</h5>
-    {% include lernmoment-subscribe.html %}
-</div>

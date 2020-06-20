@@ -2,6 +2,7 @@
 layout: post
 title: Komprimiere deinen Datenstrom mit zlib
 date: 2015-09-16T06:00:00+02:00
+update: 2020-06-20T06:00:00+01:00
 excerpt: InspirationsMoment - System.IO.Compression.DeflateStream
 modified:
 share: false
@@ -14,7 +15,7 @@ image:
   feature: banner/lernmoment-csharp.jpg
 ---
 
-Willkommen zum ersten InspirationMoment. Wenn du davon noch nichts gehört hast, bekommst du im Hintergrundartikel ["Mehr Output! Weniger Input!"](/hintergrund/mehr-output-weniger-input/) mehr Informationen dazu.
+Willkommen zum ersten InspirationMoment. Mit jedem InspirationsMoment zeige ich dir eine kleine Klasse, Methode oder Idee die dir helfen kann deinen C# Code zu verbessern. Dazu gibt es Links zu weiteren Details damit du selber recherchieren kannst wie du es für dich am besten umsetzt.
 
 ### DeflateStream
 
