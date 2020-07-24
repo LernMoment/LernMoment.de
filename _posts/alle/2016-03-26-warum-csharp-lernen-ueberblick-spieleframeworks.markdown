@@ -17,7 +17,7 @@ date: 2016-03-26T14:21:07+01:00
 
 Gerade wenn du anfängst mit Softwareentwicklung wirst du dir die Frage stellen, was kann ich nun mit meinem neuen Wissen anfangen. Eine Möglichkeit ist die Entwicklung von Spielen. Ich selber habe nicht viel Erfahrung mit der Spieleentwicklung in C#. Für mich standen bisher eher technischen Anwendungen im Vordergrund.
 
-Allerdings hat <a href="https://blog-vetter.rhcloud.com/" target="_blank">Tobias Vetter</a>, einer meiner Absolventen des Online-Kurses ["Einstieg in C#"](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_25-0620_LMDE), ein klares Ziel vor Augen. Er will nicht nur C# lernen, sondern sich auch mit dem Thema Spieleentwicklung beschäftigen.
+Allerdings hat <a href="https://blog-vetter.rhcloud.com/" target="_blank">Tobias Vetter</a>, einer meiner Absolventen des Online-Kurses ["Einstieg in C#"](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_25-0820_LMDE), ein klares Ziel vor Augen. Er will nicht nur C# lernen, sondern sich auch mit dem Thema Spieleentwicklung beschäftigen.
 
 Dazu stellt er dir im folgenden Gastartikel 3 der großen Spieleframeworks für C# vor. Solch eine Analyse von bestehenden Frameworks oder auch Bibliotheken ist ein wichtiger Schritt in der professionellen Softwareentwicklung und wird in jedem Entwicklungsprojekt während des Grobdesigns ausgeführt. Dabei geht es häufig um die sogenannte "Make or Buy"-Entscheidung. Es wird also analysiert ob die ganze zu entwickelnde Lösung oder Teile davon gekauft werden können, oder ob alles neu entwickelt werden muss. Nun aber zu Tobias und seinen Ergebnissen.
 
@@ -55,5 +55,5 @@ PS: Wenn du eine noch detailliertere Einführung in diese und weitere Spielefram
 
 <div class="subscribe-notice">
 <h5>Heute deine erste C#-Anwendung und morgen dein erstes Spiel?</h5>
-<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_25-0620_LMDE" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
+<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_25-0820_LMDE" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
 </div>
