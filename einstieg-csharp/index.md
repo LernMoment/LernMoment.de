@@ -12,14 +12,14 @@ date: 2016-02-03T09:30:00+01:00
 
 <div class="subscribe-notice">
 <h5>Hast du noch Fragen?</h5>
-<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_25-0820_LMDE" class="notice-button">Nö! Ich will sofort C# lernen >></a>
+<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0920_LMDE" class="notice-button">Nö! Ich will sofort C# lernen >></a>
 </div>
 
 Mit diesem Kurs hast du in 30 Minuten deine erste C#-Anwendung entwickelt. Viel wichtiger ist jedoch, dass du nicht nur Programmieren lernst, sondern die Arbeitsweise, die professionelle Softwareentwickler verwenden, um herausragende Anwendungen zu entwickeln. Ich verdiene seit über 13 Jahren mit Softwareentwicklung mein Geld und erkläre dir in diesem Kurs anhand vieler Beispiele, Übungen und direktem Feedback die wichtigsten Aspekte der professionellen Softwareentwicklung.
 
-Alles Wissenswerte zum Kurs bekommst du, wenn du auf [diesen Link](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_25-0820_LMDE) oder das folgende Bild klickst.
+Alles Wissenswerte zum Kurs bekommst du, wenn du auf [diesen Link](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0920_LMDE) oder das folgende Bild klickst.
 <figure>
-	<a href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_25-0820_LMDE" target="_blank"><img src="/images/UCsK-LandingPage-Rabatt.jpg" alt="image"></a>
+	<a href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0920_LMDE" target="_blank"><img src="/images/UCsK-LandingPage-Rabatt.jpg" alt="image"></a>
 </figure>
 
 ## Details und weitere Ressourcen zum Kurs
