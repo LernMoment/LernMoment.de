@@ -68,7 +68,7 @@ Sowohl das Hinzufügen deines Projektes wie auch das spätere Synchronisieren (s
 
 <div class="subscribe-notice">
 <h5>Lerne GitHub mit Visual Studio zu verwenden!</h5>
-<a markdown="0" href="https://www.udemy.com/course/github-fuer-entwickler/?couponCode=GH_14-1120_LMDE" class="notice-button">Zum Online-Kurs "Einstieg in GitHub" >></a>
+<a markdown="0" href="https://www.udemy.com/course/github-fuer-entwickler/?couponCode=GH_14-1220_LMDE" class="notice-button">Zum Online-Kurs "Einstieg in GitHub" >></a>
 </div>
 
 ![Projekt auf GitHub veröffentlichen]({{ site.url }}/images/github-mit-vs2019/projekt-veroeffentlichen.jpg)

@@ -58,9 +58,9 @@ Fragen über Fragen! In diesem Video-Tutorial gehen wir gemeinsam auf eine Entde
 ### Der Online-Kurs: Einstieg in C# mit Visual Studio 2019
 In diesem Kurs lernst du auch C# Syntax, die Verwendung von Visual Studio und Objektorientierung, aber insbesondere lernst du **Probleme zu lösen**. Den viel wichtiger als die meisten technischen Details ist, dass du Abläufe und Methoden kennst, um eine Aufgabe (die Entwicklung einer Anwendung), in kleine Teile zu zerlegen und sie dann systematisch umzusetzen. Dieser Kurs legt das Fundament für deinen Weg vom Einsteiger zum C# Entwickler.
 
-[Erfahre mehr über den Online-Kurs ->](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-1120_LMDE)
+[Erfahre mehr über den Online-Kurs ->](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-1220_LMDE)
 
-[![Einsteig in C# - Online-Kurs]({{ site.url }}/images/ucsk-titelbild-neu.jpg)](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-1120_LMDE)
+[![Einsteig in C# - Online-Kurs]({{ site.url }}/images/ucsk-titelbild-neu.jpg)](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-1220_LMDE)
 
 ### Weitere Artikel und Tutorials
 
