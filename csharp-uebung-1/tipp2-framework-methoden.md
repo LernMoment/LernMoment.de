@@ -35,5 +35,5 @@ Möchtest du beispielsweise *das Vorgehen zur Lösung eines Problems* üben, dan
 
 <div class="subscribe-notice">
 <h5>Lerne mehr über C# und professionelle Softwareentwicklung</h5>
-<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-1220_LMDE" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
+<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0121_LMDE" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
 </div>
