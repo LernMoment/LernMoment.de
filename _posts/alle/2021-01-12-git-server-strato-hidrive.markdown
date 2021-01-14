@@ -61,7 +61,8 @@ Sobald man sich bei HiDrive angemeldet hat, blickt man auf seinen privaten Cloud
 
 Hier haben wir bereits einen Ordner **Repositories**, in welchem wir unsere Remote-Repositorys ablegen werden.
 
-2021-01-02_15h57_08.png
+![HiDrive mit erzeugtem Ordner Repositories]({{ site.url }}/images/git-server-hidrive/2021-01-02_15h57_08.png)
+{: .pull-left}
 
 Wir wechseln durch Klicken in den Ordner **Repositories**, der noch leer ist:
 
