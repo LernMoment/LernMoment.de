@@ -61,11 +61,13 @@ Sobald man sich bei HiDrive angemeldet hat, blickt man auf seinen privaten Cloud
 
 Hier haben wir bereits einen Ordner **Repositories**, in welchem wir unsere Remote-Repositorys ablegen werden.
 
-2021-01-02_15h57_08.png
+![HiDrive - Ansicht mit zuvor erzeugtem Ordner Repositories]({{ site.url }}/images/git-server-hidrive/2021-01-02_15h57_08.png)
+{: .pull-left}
 
 Wir wechseln durch Klicken in den Ordner **Repositories**, der noch leer ist:
 
-2021-01-02_16h00_17.png
+![HiDrive - Ein neues Repository anlegen]({{ site.url }}/images/git-server-hidrive/2021-01-02_16h00_17.png)
+{: .pull-left}
 
 Wir erstellen jetzt innerhalb HiDrive ein neues Git-Repository.
 
@@ -73,11 +75,13 @@ Wir erstellen jetzt innerhalb HiDrive ein neues Git-Repository.
 
 Dort wählen wir den Eintrag `Git-Repository erstellen` (2)
 
-2021-01-02_16h03_52.png
+![HiDrive - Git-Repositoriy erstellen]({{ site.url }}/images/git-server-hidrive/2021-01-02_16h03_52.png)
+{: .pull-left}
 
 Wir geben hier als Name des Repositorys **MyRepository** ein (1) und klicken auf die Schaltfläche `Erstellen` (2):
 
-2021-01-02_16h06_04.png
+![HiDrive - Link zum erzeugten Repository]({{ site.url }}/images/git-server-hidrive/2021-01-02_16h06_04.png)
+{: .pull-left}
 
 Zur Bestätigung wird uns ein Dialog angezeigt, in welchem der Pfad zu unserem Repository eingetragen ist
 (hier: /users/\[userName\]/Repositories/MyRepository.git)
@@ -88,11 +92,13 @@ Den Pfad `Kopieren` wir uns in die Zwischenablage (1) und klicken anschließend 
 
 Nun sehen wir im Ordner **Repositories** das eben erzeugt Repository **MyRepository**:
 
-2021-01-02_16h09_24.png
+![HiDrive - das neue MyRepository.git]({{ site.url }}/images/git-server-hidrive/2021-01-02_16h09_24.png)
+{: .pull-left}
 
 Wir wechseln nun in das Repository **MyRepository.git** (1):
 
-2021-01-02_16h12_00.png
+![HiDrive - Inhalt von MyRepository.git]({{ site.url }}/images/git-server-hidrive/2021-01-02_16h12_00.png)
+{: .pull-left}
 
 Wir sehen die typischen Verzeichnisse und Dateien eines git-Repositorys.
 
@@ -104,13 +110,15 @@ Damit sind wir innerhalb von HiDrive fertig.
 
 Für diese Anleitung erstelle ich ein Test-Projekt mit dem Namen **TestProjekt** als C# WPF-Anwendung:
 
-2021-01-02_16h58_19.png
+![VS2019 - Neues Projekt konfigurieren]({{ site.url }}/images/git-server-hidrive/2021-01-02_16h58_19.png)
+{: .pull-left}
 
 Wir geben also einen `Projektnamen` ein (1), wählen den `Ort`, wo wir unsere Repositorys ablegen (2) und klicken auf `Erstellen` (3).
 
 Wir schauen uns das Ergebnis im Windows Explorer an:
 
-2021-01-02_17h02_52.png
+![Explorer - Die neue Projektmappe]({{ site.url }}/images/git-server-hidrive/2021-01-02_17h02_52.png)
+{: .pull-left}
 
 Zur Verdeutlichung habe ich die unsichtbaren Elemente im **Windows Explorer** sichtbar geschaltet.
 
@@ -118,15 +126,17 @@ Hier sehen wir das *.vs* Verzeichnis, das Visual Studio angelegt hat (1).
 
 Sobald das Projekt in Visual Studio 2019 erzeugt wurde, findet sich unten rechts im Visual Studio 2019 Fenster der Hinweis auf die Quellcodeverwaltung:
 
-2021-01-02_17h00_14.png
+![VS2019 - Zur Quellcodeverwaltung hinzufügen]({{ site.url }}/images/git-server-hidrive/2021-01-02_17h00_14.png)
+{: .pull-left}
 
 Hier klickt man zuerst auf `Zur Quellcodeverwaltung hinzufügen` (1)
 
 Anschließend sollte `Git` angeboten werden, worauf wir dann klicken (2):
 
-Jetzt öffnet sich der Dialog **GIT-Repository** erstellen:
+Jetzt öffnet sich der Dialog **GIT-Repository erstellen**:
 
-2021-01-02_17h03_56.png
+![VS2019 - GIT-Repository erstellen]({{ site.url }}/images/git-server-hidrive/2021-01-02_17h03_56.png)
+{: .pull-left}
 
 Da wir zuerst nur ein lokales git-Repository initialisieren, wählen wir `Nur lokal` aus (1).
 
@@ -136,7 +146,8 @@ Zum Initialisieren des lokalen git-Repositorys klicken wir abschließend auf die
 
 Schauen wir uns das Ergebnis abermals im **Windows Explorer** an:
 
-2021-01-02_17h24_37.png
+![Explorer - Lokales Git-Repository und git-Files]({{ site.url }}/images/git-server-hidrive/2021-01-02_17h24_37.png)
+{: .pull-left}
 
 Im Ordner unserer Projektmappe ist nun ein weiteres unsichtbares Verzeichnis - unser lokales git-Repository - **.git** (1) entstanden.
 
@@ -150,7 +161,8 @@ Im folgenden Abschnitt werden wir nun eine Verbindung zu unserem Remote-Reposito
 
 Innerhalb von Visual Studio 2019 gibt es standardmäßig auf der rechten Seite neben dem Projektmappen Explorer einen zweiten Reiter mit der Beschriftung **Git-Änderungen: TestProjekt:**
 
-2021-01-02_17h38_01.png
+![VS2019 - Git-Änderungen: TestProjekt]({{ site.url }}/images/git-server-hidrive/2021-01-02_17h38_01.png)
+{: .pull-left}
 
 Wir aktivieren den Reiter `Git-Änderungen: TestProjekt` (1) und geben ggf. in das Textfeld `Nachricht eingeben` (2) einen sinnvollen Kommentar ein, z. B. "Initiale Anlage des Projekts". Anschließend klicken wir auf die Schaltfläche `Push` (3).
 
@@ -158,7 +170,8 @@ Wir aktivieren den Reiter `Git-Änderungen: TestProjekt` (1) und geben ggf. in d
 
 Es öffnet sich nun wieder der Dialog **GIT-Repository erstellen**:
 
-2021-01-02_17h55_00.png
+![VS2019 - GIT-Repository erstellen]({{ site.url }}/images/git-server-hidrive/2021-01-02_17h55_00.png)
+{: .pull-left}
 
 Hier wählen wir jetzt `Vorhandenes Remoterepository` (1)
 
@@ -172,11 +185,13 @@ Abschließend klicken wir auf `Push` (3)
 
 Nun folgt der Dialog **Enter Password**:
 
-2021-01-02_18h23_50.png
+![VS2019 - Enter Password für Push]({{ site.url }}/images/git-server-hidrive/2021-01-02_18h23_50.png)
+{: .pull-left}
 
 Hier müssen wir noch das **Passwort** für den Zugriff auf HiDrive eingeben (1) und mittels `OK` (2) bestätigen:
 
-2021-01-02_18h28_42.png
+![VS2019 - 'master' wurde erfolgreich nach 'origin' gepusht]({{ site.url }}/images/git-server-hidrive/2021-01-02_18h28_42.png)
+{: .pull-left}
 
 Wenn alles geklappt hat, sehen wir rechts im Reiter `Git-Änderungen: TestProjekt` die entsprechende Erfolgsmeldung (1).
 
@@ -186,11 +201,13 @@ Um nun den Kreis zu schließen, soll hier noch kurz dargestellt werden, wie man 
 
 Hierzu starten wir Visual Studio neu:
 
-2021-01-02_21h52_48.png
+![VS2019 - Los geht's: Repository klonen]({{ site.url }}/images/git-server-hidrive/2021-01-02_21h52_48.png)
+{: .pull-left}
 
 Jetzt wählen wir `Repository klonen` (1)
 
-2021-01-02_21h54_33.png
+![VS2019 - Repository klonen]({{ site.url }}/images/git-server-hidrive/2021-01-02_21h54_33.png)
+{: .pull-left}
 
 Beim `Repositoryspeicherort` geben wir den Pfad ein, den wir vom Pushen bereits kennen.
 
@@ -204,7 +221,8 @@ Abschließend starten wir durch Klicken auf die Schaltfläche `Klonen` den Abruf
 
 Wir müssen uns wieder bei HiDrive anmelden, es folgt also der Dialog **Enter Password**:
 
-2021-01-02_18h23_50.png
+![VS2019 - Enter Password für Clone]({{ site.url }}/images/git-server-hidrive/2021-01-02_18h23_50.png)
+{: .pull-left}
 
 Wir geben das **Passwort** für den Zugriff auf HiDrive ein (1) und bestätigen mittels `OK` (2)
 
@@ -212,7 +230,8 @@ Das Projekt ist nun in Visual Studio 2019 verfügbar.
 
 Das Ergebnis sehen wir uns noch im **Windows Explorer** an:
 
-2021-01-02_22h11_03.png
+![Explorer - Projektmappe 'ProjektTest']({{ site.url }}/images/git-server-hidrive/2021-01-02_22h11_03.png)
+{: .pull-left}
 
 Wir sehen, dass ein neues Verzeichnis **ProjektTest** als Projektmappe angelegt wurde (1)
 
