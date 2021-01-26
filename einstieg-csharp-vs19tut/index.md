@@ -15,7 +15,7 @@ Mit diesem Kurs hast du in 30 Minuten deine erste C#-Anwendung entwickelt. Viel 
 
 Alles Wissenswerte zum Kurs bekommst du, wenn du auf das folgende Bild klickst.
 <figure>
-	<a href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-1220_LMDE" target="_blank"><img src="/images/UCsK_LandingPage_VS19Tut_Rabatt.jpg" alt="image"></a>
+	<a href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0121_LMDE" target="_blank"><img src="/images/UCsK_LandingPage_VS19Tut_Rabatt.jpg" alt="image"></a>
 </figure>
 
 ## Details und weitere Ressourcen zum Kurs

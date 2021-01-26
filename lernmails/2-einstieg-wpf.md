@@ -51,7 +51,7 @@ Ich hoffe du bist dabei!
 ## Frage/Übung der Woche: Wie private Methoden testen?
 Das automatische Testen von Quellcode mithilfe von *Unit-Tests* ist nicht nur eine **qualitätssteigernde Maßnahme**, sondern kann manchmal auch etwas kompliziert werden.
 
-Markus hat im Rahmen meines Online-Kurses [Einstieg in C#](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-1220_LMDE) seine ersten *Unit-Tests* geschrieben. Dabei fragte er sich:
+Markus hat im Rahmen meines Online-Kurses [Einstieg in C#](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0121_LMDE) seine ersten *Unit-Tests* geschrieben. Dabei fragte er sich:
 
 > Hallo Jan, beim Unit Test habe ich die Möglichkeit öffentliche Methoden einer Klasse zu testen. Was ist aber mit den privaten Methoden die es in der gleichen Klasse gibt? Ignoriert man diese beim Test, weil diese indirekt mit den öffenlichen mit getestet werden oder wie geht man damit um? - [Markus](https://github.com/LernMoment/community-fragen#tes-1-wie-sollten-private-methoden-einer-klasse-getestet-werden)
 
