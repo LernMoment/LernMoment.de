@@ -15,20 +15,22 @@ image:
 date: 2021-01-12T01:00:00+01:00
 ---
 
+> Dies ist ein Gastartikel von Raul Katos. Vielen Dank an Raul für die viele Mühe und die detailierte Anleitung!
+
 Mit Visual Studio 2019 ist die Integration von git in den Entwicklungsprozess ein Leichtes geworden. Mit einem einfachen Mausklick wird ein lokales git-Repository erstellt, in welches man seine Versionsstände committen kann. Auch die Anbindung an GitHub zu einem Remote-Repository ist sehr einfach, sofern man bereits über einen GitHub-Account verfügt. Doch es gibt Situationen, da möchte man nicht auf GitHub gehen, und dann stellt sich die Frage, wie man ein **Remote-Repository** selbst erstellen und an Visual Studio anbinden kann, so dass auch andere Benutzer darauf zugreifen können. Dieser Beitrag beschreibt eine Möglichkeit, über **HiDrive** (das ist die Daten-Cloud von Strato) genau das zu erreichen.
 
 Auch wenn diese Anleitung sehr ausführlich ist, die Durchführung der Schritte ist in **wenigen Minuten** erledigt!
 
 ### Inhalt
 
-- Vorüberlegungen
-- Die Ausgangssituation
-- Erstellen des git Remote-Repositorys in HiDrive
-- Erstellen des lokalen Repositorys in Visual Studio 2019
-- Pushen in das git Remote-Repository in HiDrive
-- Clonen des git Remote-Repositorys in HiDrive
-- Zusammenfassung
-- Abschließende Anmerkungen
+- [Vorüberlegungen](#vorüberlegungen)
+- [Die Ausgangssituation](#die-ausgangssituation)
+- [Erstellen des git Remote-Repositorys in HiDrive](#erstellen-des-git-remote-repositorys-in-hidrive)
+- [Erstellen des lokalen Repositorys in Visual Studio 2019](#erstellen-des-lokalen-repositorys-in-visual-studio-2019)
+- [Pushen in das git Remote-Repository in HiDrive](#pushen-in-das-git-remote-repository-in-hidrive)
+- [Clonen des git Remote-Repositorys in HiDrive](#clonen-des-git-remote-repositorys-in-hidrive)
+- [Zusammenfassung](#zusammenfassung)
+- [Abschließende Anmerkungen](#abschließende-anmerkungen)
 
 ## Vorüberlegungen
 Prinzipiell kann man als einzelner Entwickler die git-Funktionalität von Visual Studio 2019 jederzeit sofort für sein Projekt aktivieren. Ab diesem Zeitpunkt ist es möglich, Änderungen an den Quelldateien zu versionieren und damit nachvollziehen zu können. Ein so erstelltes **lokales Repository** kann dabei auf der lokalen Festplatte liegen oder auch auf einem Netzlaufwerk. Ein **Remote-Repository** kann prinzipiell auf einem Netzlaufwerk liegen, so dass ein **Push** vom lokalen ins Remote-Repository möglich ist. Sofern mehr als ein Entwickler an einem Projekt beteiligt sind, können diese aus dem Remote-Repository ihr lokales Repository **Clonen**.
@@ -76,12 +78,10 @@ Wir erstellen jetzt innerhalb HiDrive ein neues Git-Repository.
 Dort wählen wir den Eintrag `Git-Repository erstellen` (2)
 
 ![HiDrive - Git-Repositoriy erstellen]({{ site.url }}/images/git-server-hidrive/2021-01-02_16h03_52.png)
-{: .pull-left}
 
 Wir geben hier als Name des Repositorys **MyRepository** ein (1) und klicken auf die Schaltfläche `Erstellen` (2):
 
 ![HiDrive - Link zum erzeugten Repository]({{ site.url }}/images/git-server-hidrive/2021-01-02_16h06_04.png)
-{: .pull-left}
 
 Zur Bestätigung wird uns ein Dialog angezeigt, in welchem der Pfad zu unserem Repository eingetragen ist
 (hier: /users/\[userName\]/Repositories/MyRepository.git)
@@ -231,7 +231,6 @@ Das Projekt ist nun in Visual Studio 2019 verfügbar.
 Das Ergebnis sehen wir uns noch im **Windows Explorer** an:
 
 ![Explorer - Projektmappe 'ProjektTest']({{ site.url }}/images/git-server-hidrive/2021-01-02_22h11_03.png)
-{: .pull-left}
 
 Wir sehen, dass ein neues Verzeichnis **ProjektTest** als Projektmappe angelegt wurde (1)
 
