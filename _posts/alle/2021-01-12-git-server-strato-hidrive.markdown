@@ -7,7 +7,7 @@ lernmoment: Hintergrund
 lm-newsletter-group-id: 2
 show-lm-newsletter-subscribe-box: true
 share: false
-tags: [Visual Studio, Versionsverwaltung, Werkzeug]
+tags: [Visual Studio, Git, Werkzeug]
 author: raul_katos
 banner: einstieg-csharp
 image:

@@ -7,7 +7,7 @@ lernmoment: Hintergrund
 lm-newsletter-group-id: 2
 show-lm-newsletter-subscribe-box: false
 share: false
-tags: [Geburtstag, Versionsverwaltung, Werkzeug]
+tags: [Geburtstag, Git, Werkzeug]
 author: tobias_vetter
 banner: tutorial-github
 image:
