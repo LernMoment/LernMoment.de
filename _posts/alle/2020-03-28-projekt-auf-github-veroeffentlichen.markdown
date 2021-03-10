@@ -11,9 +11,11 @@ banner: einstieg-csharp
 tags: [Visual Studio, GitHub, Git]
 image:
   feature: banner/lernmoment-git.jpg
-modified: 
+modified: 2021-03-10T06:00:00+01:00
 date: 2020-03-28T06:00:00+01:00
 ---
+
+> **WICHTIG:** Aufgrund einer neuen Oberfläche für die Bedienung von Git in Visual Studio 2019 (ab Version 16.8) ist dieser Artikel nur für ältere Versionen von Visual Studio 2019 relevant. Eine Aktualisierung dieses Artikels folgt demnächst. Das einfache Klonen eines Projektes mit der neuen Oberfläche habe ich bereits [hier](/alle/projekt-klonen-von-github/) beschrieben.
 
 In [Versionskontrolle mit Git und Visual Studio 2019](/alle/git-mit-visual-studio-2019/) habe ich dir gezeigt, wie du dein C# Projekt in *Visual Studio 2019* mit *git* verwalten kannst. Im nächsten Schritt gibt es viele Gründe dein Projekt auch auf *GitHub* zu bringen:
 - Du kann von mir [Rückmeldung zu deinem Projekt](https://youtu.be/2gNVyMGfZTI) bekommen

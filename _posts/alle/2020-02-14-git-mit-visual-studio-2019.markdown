@@ -11,9 +11,11 @@ banner: einstieg-csharp
 tags: [Werkzeug, Git]
 image:
   feature: banner/lernmoment-git.jpg
-modified:
+modified: 2021-03-10T06:00:00+01:00
 date: 2020-02-14T06:00:00+01:00
 ---
+
+> **WICHTIG:** Aufgrund einer neuen Oberfläche für die Bedienung von Git in Visual Studio 2019 (ab Version 16.8) ist dieser Artikel nur für ältere Versionen von Visual Studio 2019 relevant. Eine Aktualisierung dieses Artikels folgt demnächst. Das einfache Klonen eines Projektes mit der neuen Oberfläche habe ich bereits [hier](/alle/projekt-klonen-von-github/) beschrieben.
 
 *Git* ist DIE dezentrale Versionsverwaltung. Cool 😎! Aber was soll das sein und wofür ist das überhaupt gut? Das erkläre ich dir in diesem Artikel.
 
@@ -132,7 +134,7 @@ Wenn nun der `master` Branch aktiv ist, kannst du auf ihm im `Team Explorer` per
 
 Nun kann es passieren, dass du noch *Konflikte* auflösen musst. Dabei solltest du dir alles im Detail anschauen, aber üblicherweise kannst du immer die Änderungen aus der `Quelle` übernehmen.
 
-Hoffentlich hat dir diese Anleitung ein wenig geholfen beim Umgang mit Git und Visual Studio. Momentan fehlen dieser Anleitung noch ein paar Bilder. Diese werde ich in den nächsten Tagen nachliefern.
+Hoffentlich hat dir diese Anleitung ein wenig geholfen beim Umgang mit Git und Visual Studio.
 
 Viel Erfolg beim Verwalten deiner Versionen mit Git und Visual Studio
 
