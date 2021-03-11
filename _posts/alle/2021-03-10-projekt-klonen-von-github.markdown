@@ -40,14 +40,15 @@ Nun öffnest du Visual Studio und auf dem Bildschirm (mit der hilfreichen Übers
 
 Danach öffnet sich bereits das Projekt in Visual Studio. Nun kannst du im *"Projektmappen-Explorer"* die zum Projekt gehörenden Dateien sehen und das Projekt natürlich auch kompilieren.
 
+## 3 - Nächste Schritte
+In diesem Projekt kannst du nun Änderungen vornehmen und sie auch lokal speichern bzw. in git committen. Allerdings bekommst du die Änderungen dann **nicht** zurück auf GitHub. Das liegt daran, dass du hier einen *Clone* und keinen *Fork* erstellt hast. Wenn du den Unterschied zwischen *Clone* und *Fork* nicht kennst, dann kann ich dir mein [kostenloses GitHub Tutorial](https://www.udemy.com/github-tutorial-deutsch/) empfehlen.
 
-HIER FEHLT NOCH WAS!!!
-
+Weitere Aktivitäten die du mit der "neuen" Git-Oberfläche in Visual Studio 2019 machen kannst, hat Microsoft in [diesem Artikel](https://docs.microsoft.com/de-de/visualstudio/ide/git-with-visual-studio?view=vs-2019) beschrieben. Etwas konkreter und einsteigerfreundlicher wirst du das auch bald hier nachlesen können. Du willst über neue Artikel von mir informiert werden? Kein Problem! Meine wöchentliche LernMail unterstützt dich als Einsteiger auf dem Weg zum C# Entwickler beim Lernen und Entwickeln. Am Ende des Artikels kannst du dich anmelden.
 
 Hoffentlich hat dir diese Anleitung ein wenig geholfen beim Umgang mit *GitHub* und *Visual Studio*. Über jegliche Rückmeldung zu diesem Artikel würde ich mich sehr freuen:
 
 <a markdown="0" href="mailto:jan@lernmoment?subject=Frage%20zum%20Artikel:%20GitHub%20mit%20VisualStudio2019" class="notice-button">Fragen / Kommentare >></a>
 
-Viel Erfolg beim Veröffentlichen deines *VisualStudio*-Projektes auf *GitHub*
+Viel beim durchschauen der Projekte von GitHub
 
-Jan
+Jan von LernMoment.de
