@@ -4,7 +4,7 @@ title: "LernMail 4/21 - (Clean) Code: Wie kurz ist zu kurz?"
 excerpt: ""
 search_omit: true
 image:
-  feature: 
+  feature: banner/lernmoment-csharp.jpg
 modified:
 date: 2021-03-17T09:30:00+01:00
 ---
@@ -12,10 +12,10 @@ date: 2021-03-17T09:30:00+01:00
 Mmmmmoin und willkommen zu deiner LernMail!
 
 Wenn es darum geht sauberen und lesbaren Quellcode zu schreiben, dann gibt es sehr unterschiedliche Ideen was das bedeutet. Insbesondere bei der Länge und Komplexität von Methoden solltest du dir die folgenden Fragen stellen:
- - "Wie lang ist zu lang?"
- - "Wie kurz ist zu kurz?" 
+ - Wie lang ist zu lang?
+ - Wie kurz ist zu kurz?
 
-### "Wie lang ist zu lang?"
+### Wie lang ist zu lang?
 Eine allgemeine Antwort auf diese Frage gibt es nicht. Robert C. Martin (auch bekannt als Uncle Bob) sieht es in seinem Buch "Clean Code" so:
 
 > "The first rule of functions is that they should be small. **The second rule of functions is that they should be smaller than that.**" - Robert C. Martin
@@ -28,7 +28,7 @@ Es geht ihm darum, dass Funktionen, der Begriff Methode steht in diesem Fall syn
 
 Somit können wir die Frage *"Wie lang soll eine Methode sein?"* also beantworten. Möglichst kurz. In den Beispielen die im Buch gegeben werden sind es üblicherweise 3-5 Zeilen. Das mag dich überraschen, aber auch aus meiner Erfahrung ist das eine gute Richtlinie (die ich selber nicht immer erfülle ;). Darüber könnten wir sicherlich lange diskutieren, aber in dieser Mail möchte ich den Fokus auf die 2. Frage legen.
 
-### "Wie kurz ist zu kurz?"
+### Wie kurz ist zu kurz?
 Immer wieder sehe (und schreibe) ich Quellcode wie diesen:
 
 ```csharp
@@ -79,6 +79,6 @@ Jan von LernMoment.de
 PS: Du solltest in der `Main`-Methode drei Mal `Console.ReadLine()` gefunden haben.
 
 ### Links zu diesem Thema:
-- http://clean-code-developer.de/ - Clean Code Developer Initiative von Ralf Westphal und Stefan Lieser
-- https://www.lernmoment.de/csharp-programmieren/schreibe-kuerzeren-quelltext-mit-dem-null-conditional-operator/ - Schreibe kürzeren Quellcode mit dem null-conditional Operator (für Fortgeschrittene)
-- https://www.lernmoment.de/alle/aktivitaeten-zur-fehlervermeidung/ - Warum Clean Code dir hilft Fehler zu vermeiden
+- [http://clean-code-developer.de/](http://clean-code-developer.de/) - Clean Code Developer Initiative von Ralf Westphal und Stefan Lieser
+- [https://www.lernmoment.de/csharp-programmieren/schreibe-kuerzeren-quelltext-mit-dem-null-conditional-operator/](https://www.lernmoment.de/csharp-programmieren/schreibe-kuerzeren-quelltext-mit-dem-null-conditional-operator/) - Schreibe kürzeren Quellcode mit dem null-conditional Operator (für Fortgeschrittene)
+- [https://www.lernmoment.de/alle/aktivitaeten-zur-fehlervermeidung/](https://www.lernmoment.de/alle/aktivitaeten-zur-fehlervermeidung/) - Warum Clean Code dir hilft Fehler zu vermeiden
