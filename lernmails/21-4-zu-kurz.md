@@ -6,7 +6,7 @@ search_omit: true
 image:
   feature: 
 modified:
-date: 2021-17-12T09:30:00+01:00
+date: 2021-03-17T09:30:00+01:00
 ---
 
 Mmmmmoin und willkommen zu deiner LernMail!
