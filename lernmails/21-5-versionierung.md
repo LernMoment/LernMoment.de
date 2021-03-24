@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "LernMail 5/21 - AssemblyInfo & Versionsnummern in .NET 5"
+title: "LernMail 5/21 - Automatische Versionsnummern in .NET 5.0?"
 excerpt: ""
 search_omit: true
 image:
@@ -11,43 +11,59 @@ date: 2021-03-24T09:30:00+01:00
 
 Mmmmmoin und willkommen zu deiner LernMail!
 
-Wenn du ein neues Projekt in VisualStudio startest, bekommst du erstmal an ganz vielen Stellen Standardwerte eingesetzt. Das macht Sinn, weil VisualStudio nicht wirklich weiß was deine Anwendung machen soll. So ist es auch mit den Meta-Informationen.
+Es gibt gute Gründe warum es hilfreich ist eine Version deiner Anwendung identifizieren zu können. Nehmen wir folgendes Beispiel:
 
-Mit Meta-Informationen meine ich beispielsweise den Namen deiner Anwendung (so wie du ihn im Datei-Explorer in den Eigenschaften siehst oder auch, in einer Übersicht, wenn deine Anwendung auf einem Rechner installiert wurde). Neben dem Anwendungsnamen gehören beispielsweise der Firmenname oder auch der Herausgebername mit zu den Meta-Informationen.
+Du entwickelst einen Taschenrechner (🙄 ja, ich weiß 😉). Einen ersten Prototypen hast du soweit fertig und gibst ihm deinem Kumpel zum "Ausprobieren" (Testen beim Kunden wird ja heutzutage sehr viel gemacht). Selber stellst du fest, dass eine Division durch Null erfolgt und du behebst diesen Fehler. Dein Kumpel kommt einige Wochen später um die Ecke und beschwert sich, dass dein Taschenrechner einfach abstürzt. Hat dein Kumpel nun die Version ohne deine Fehlerbehebung oder mit und hat einen neuen Fehler gefunden?
 
-Im .NET Framework wurden diese Informationen in der Datei `AssemblyInfo.cs` gespeichert. Diese konntest du in VisualStudio direkt editieren. Seit .NET Core ist dies etwas anders. Wie du die Meta-Informationen jetzt änderst und es schaffst eindeutige Versionsnummer bei jedem Erstellen zu erzeugen, erkläre ich dir in dieser LernMail.
+Hätte dein Taschenrechner nun eine Versionsnummer, dann könntest du deinen Kumpel danach fragen und dann herausfinden ob darin die Fehlerbehebung enthalten ist oder eben nicht. Dazu solltest du wissen, dass du eine (von vielen verschiedenen Versionsnummern) an jeder *\*.exe* Datei im Datei-Explorer in Windows sehen kannst.
 
-### Wo sind die Meta-Informationen in .NET 5 (und .NET Core)?
-Seit .NET Core 2.0 (und somit auch in .NET 5) werden alle Meta-Informationen die du anpasst in der Projektdatei (also \*.csproj) gespeichert. Allerdings ist es so, dass du darin nicht die Standardwerte findest. Dies kannst du selber überprüfen in dem du ein neues .NET 5 Projekt (z.B. Konsolenanwendung) in Visual Studio erstellst. Dann gehst du im Projektmappen-Explorer ins Kontextmenü (rechte Maustaste) und wählst dort den Eintrag *Projektdatei bearbeiten*.
+Damit scheint es also erstmal ratsam jedes Projekt so aufzusetzen, dass mit jeden kompilieren eine eindeutige Versionsnummer generiert wird und an deine Anwendung "angehängt" wird. Dieses war im *.NET Framework* in der Datei `AssemblyInfo.cs` lange Zeit möglich und von Microsoft auch so vorgesehen. Damit brauchst du nicht daran zu denken, dass du manuell eine Versionsnummer vergibst, bevor du eine Version an deinen Kumpel schickst.
 
-Bei mir sieht das ungefähr so aus:
+Bereits seit einiger Zeit ist das allerdings nicht mehr (so einfach) möglich und wird auch nicht mehr empfohlen.
 
-```xml
-<Project Sdk="Microsoft.NET.Sdk">
+### Dein Build sollte deterministisch sein
+Immer wieder bekomme ich Nachfragen, weil es Fehlermeldungen wie diese gibt:
 
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>net5.0</TargetFramework>
-  </PropertyGroup>
+> Fehler	CS8357	Die angegebene Versionszeichenfolge enthält Platzhalter, die mit Determinismus nicht kompatibel sind. Entfernen Sie die Platzhalter aus der Versionszeichenfolge, oder deaktivieren Sie Determinismus für diese Kompilierung.
 
-</Project>
-```
+*Deterministisch* bedeutet in diesem Zusammenhang, dass sich 2 *Builds* aus dem exakt gleichen Qullcode **nicht** unterschieden sollen. Als *Build* wird bezeichnet, wenn du den Compiler deinen Quellcode in binären Code übersetzen lässt. Das ist der Fall, wenn du beispielsweise *Projektmappe neu erstellen* im Menü *Erstellen* in VisualStudio aufrufst oder auch einfach nur deine Anwendung über den *Starten*-Button (oder *F5*) startest.
 
-Daraus folgt, dass die Standardwerte nicht hier gespeichert werden. Tatsächlich werden sie beim Compiliern automatisch erzeugt und in eine generierte `AssemblyInfo.cs` (die wir allerdings nirgendwo zu Gesicht bekommen) geschrieben.
+Warum soll ein *Build* aber nun deterministisch sein? Eine Überlegung ist sicherlich, dass es Sicherheit gibt, wenn man den Quellcode zu einem späteren Zeitpunkt nochmals übersetzt und hat dann das exakt gleiche Ergebnis. Es gibt aber noch einen wesentlich wichtigeren Aspekt und das ist Sicherheit. Willst du deine Anwendung verteilen und sicherstellen, dass sie auf dem Weg zum Kunden (oder Kumpel ;) nicht modifiziert wird, ist es hilfreich wenn dein Kunde überprüfen kann, dass es sich 1-zu-1 um den Build von dir handelt.
 
-Möchtest du nun deine eigenen Meta-Informationen für deine Anwendung eintragen, dann könntest du das direkt in der Projektdatei machen. Dafür musst du allerdings wissen wie die einzelnen Eigenschaften in den Meta-Informationen heißen. Leider konnte ich bisher keine Seite finden wo die aufgelistet sind.
+Der Determinismus wird noch viel wichtiger, wenn es sich um größere Projekte handelt. Dabei wird dann ein Build nicht nur lokal auf der Maschine eines (oder mehrerer) Entwicklers erstellt, sondern es gibt dediziert Server die den Quellcode nehmen und daraus ein Release erstellen. Auch hier muss wieder sichergestellt werden, dass das Ergebnis auf dem Server nicht von dem der Entwicklungsrechner abweicht, weil dann an irgend einer Stelle sich ein Fehler oder schlimmer noch Virus oder Hacker eingeschlichen hat.
 
-Natürlich kommt uns VisualStudio zur Hilfe. In den Projekteigenschaften (also Projektmappen-Explorer -> Kontextmenü am Projekt -> Eigenschaften) findest du den Tab *Paket*. Auch wenn es den Eindruck macht, dass es dort nur um *NuGet-Pakete* geht, sind dies die tatsächlichen Meta-Informationen für dein Projekt. Dies kannst du einfach überprüfen, wenn du hier beispielsweise bei *Autoren* oder auch *Produkt* etwas einträgst.
+Was hat das nun alles mit dem Fehler zutun? Ganz einfach. Hast du dein Projekt so konfiguriert, dass jeder Build eine andere Versionsnummer an deine Anwendung hängt, dann unterscheiden sich 2 Builds von dem selben Quellcodestand. Es wird also gegen die Determinismus-"Regel" verstoßen. Das will dir VisualStudio mit dem Fehler (und ich mit meiner langen Beschreibung ;) sagen.
 
-Kontrollierst du anschließend den Inhalt der Projektdatei, dann wirst du die geänderten Informationen darin finden. Gehst du nun noch den nächsten Schritt und kompilierst deine Anwendung. Dann kannst du im Datei-Explorer (also außerhalb von Visual Studio) in den Details der Eigenschaften der erzeugten *\*.exe* Datei die entsprechenden Informationen finden.
+Aus diesem Grund rät Microsoft mittlerweile von der automatischen Generierung einer Versionsnummer mit jeden Build ab. Damit dies auch umgesetzt wird, hat VisualStudio bereits vor einiger Zeit die `<Deterministic>` Eigenschaft bekommen. Diese ist seit einer Version von VisualStudio 2017 standardmäßig eingeschalten und führt zu dem oben genannten Fehler.
 
-### Das Spiel mit den Versionsnummern
-Wenn du dir die Eigenschaften auf dem Tab *Paket* genau angeschaut hast, dann siehst du mehrere Versionsnummern. Da das komplette Thema Versionsnummern 2-3 LernMails umfassen wird, möchte ich mir hier nur auf eine Versionsnummer beziehen.
+### Eine einfache Lösung?
+Wie du der Beschreibung des Problems entnehmen kannst, ist es für kleine Entwicklungsprojekt nicht ganz so relevant. Bestimmt ist es für einen Einsteiger in die C#-Entwicklung auch nicht ganz so einfach zu verstehen. Daher gibt es die Möglichkeit das ganze in VisualStudio zu umgehen und jeden einzelnen Build automatisch mit einer (meistens) eindeutigen Versionsnummer versehen zu lassen.
 
-Bevor wir uns die Details anschauen, solltest du dich jedoch fragen warum brauchst du überhaupt eine Versionsnummer. Aus meiner Sicht ist es wirklich sehr hilfreich, wenn du deine Anwendung klar identifizieren kannst. Im einfachsten Fall hast du nicht mal eine Installationsroutine und kannst einfach die *\*.exe* Datei auf einem anderen Rechner (oder bei einem Freund) ausführen.
+Dazu musst du ein paar Änderungen durchführen. Als erstes musst du in deiner Projektdatei definieren, dass du **keinen** deterministischen Build haben willst und das du eine eigene `AssemblyInfo.cs` verwenden möchtest. Ebenfalls seit einiger Zeit gibt es diese Datei nicht mehr (automatisch) in VisualStudio. Viele der Eigenschaften aus der Datei `AssemblyInfo.cs` findest du mittlerweile in den Projekteigenschaften im Tab *Paket*, aber darüber lässt sich die automatische Versionierung nicht umsetzen.
 
-Üblicherweise ist es so, dass du nun weiter entwickelst und irgendwann findest du (oder dein Freund) in dieser älteren Version einen Fehler. Dann stellt sich allerdings die Frage kann der überhaupt noch in der neuen Version enthalten sein?
+Hier also die passenden Schritte:
+1. Öffne deine Projektdatei im Bearbeitungsmodus (*Projektmappen-Explorer -> rechte Maustaste auf das Projekt -> Projektdatei bearbeiten*)
+2. Füge in die `PropertyGroup` die beiden folgenden Eigenschaften ein:
+    - `<Deterministic>false</Deterministic>`
+    - `<GenerateAssemblyInfo>false</GenerateAssemblyInfo>`
+3. Füge deinem Projekt die Datei `AssemblyInfo.cs` hinzu (*Projektmappen-Explorer -> rechte Maustaste auf das Projekt -> Hinzufügen -> Neues Element -> Assemblyinformationsdatei als Vorlage in der Mitte auswählen*)
+4. In der `AssemblyInfo.cs` Datei kannst du den Eintrag `[assembly: AssemblyFileVersion("1.0.0.0")]` entfernen und den Eintrag `AssemblyVersion` wie folgt anpassen: `[assembly: AssemblyVersion("1.0.*")]`
 
-Hast du keine eindeutige Versionsnummer verwendet bzw. hast du an den Versionsnummern überhaupt nichts verändert, dann siehst du an der *\*.exe* (wieder in den Eigenschaften im Datei-Explorer) zwar eine Versionsnummer, aber diese ist immer *1.0.0.0*. MIST :-)!
+### Eine bessere (einfache) Lösung!
+Auch wenn du wie im letzten Abschnitt beschrieben die Versionierung ohne Determinismus umsetzen kannst, kann ich es **nicht** empfehlen. Es gibt, wie bereits beschrieben, Gründe warum der "alte Weg" nicht mehr empfohlen ist. Außerdem weichst du so vom Standardweg in VisualStudio ab. Gerade als Einsteiger kann dir das relativ schnell zum Verhängnis werden.
 
-Nun hast du hoffentlich gesehen, dass bei den Meta-Informationen 
+Sobald Microsoft wieder Änderungen an VisualStudio macht, wird es einen einfachen Migrationsweg für den "Standardweg" geben, aber "Extrawürste" wie vorher beschrieben haben dann häufig ein Problem.
+
+Was also tun? Wenn du schon erfahrener bist, dann ist eine Möglichkeit, dass du dich mit einem *Continuous Integration (CI)*-System beschäftigst. Das ist üblicherweise ein separater Rechner oder Server in der Cloud der deinen Quellcode immer neu übersetzt, wenn (beispielsweise) ein neuer Commit in der Versionsverwaltung erkannt wird. Darin ist es (mehr oder weniger einfach) eine automatische Versionierung umzusetzen die der Determinismus-"Regel" gerecht wird.
+
+Bist du gerade erst am Anfang, dann solltest du einen manuellen Prozess verwenden. Wie bereits gesagt, kannst du über die Projekteigenschaften im Tab *Paket* die Meta-Informationen für deine Anwendung anpassen. Dort gibt es auch die Eigenschaft `Paketversion`. Diese kannst du händisch verändern. Das führt dazu das die `AssemblyVersion` und `AssemblyFileVersion` automatisch mit angepasst werden. Außerdem werden diese Änderungen in der *\*.csproj* Datei gespeichert, so dass sie mit in die Versionsverwaltung gehen.
+
+Möchtest du nun also eine Version erzeugen, die du weitergibst, dann erhöhst du (beispielsweise die letzte Stelle) der `Paketversion`. D.h. du musst immer daran denken, dass du die Version erhöhst. Allerdings ist dies auch nicht bei jedem Build nötig, sondern nur, wenn du eine Version erzeugst, die du weitergeben möchtest.
+
+Konnte ich dir mit dieser LernMail helfen, oder hat es dich eher verwirrt? [Über eine kurze Rückmeldung](mailto:jan@lernmoment.de) würde ich mich wie immer wahnsinnig freuen.
+
+Nun wünsche ich dir erstmal ein wunderschönes Wochenende!
+
+Deterministische Grüße aus Bielefeld
+
+Jan von [LernMoment.de](https://www.lernmoment.de)
