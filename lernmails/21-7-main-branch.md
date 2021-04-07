@@ -31,7 +31,7 @@ Wenn du dir mal ein paar Projekte auf GitHub ansiehst, wirst du schnell sehen, d
 ### Umbenennung von `master` zu `main`
 Natürlich ist die Thematik der Umbenennung schon einigen Entwicklern und Autoren aufgefallen. Daher verweise ich einfach auf [diese Anleitung von Peter Müller](https://pmueller.de/github-branch-master-main/). Ich habe sie so ausprobiert und kann sagen es funktioniert alles.
 
-Wenn du bisher Git nur in Visual Studio verwendet hast, dann solltest du für eine Umbenennung besser ins *Terminal* wechseln. Natürlich ist die Umbenennung auch in Visual Studio möglich, aber die 3 *git*-Befehle sind doch einfacher als einiges Klicken in Visual Studio. Alle Informationen die dir in Visual Studio bezüglich *Git* angezeigt werden, stammen alle von *Git*. D.h. sobald du die Umbenennung übers *Terminal* gemacht hast, wird die Visual Studio die passenden Änderungen anzeigen.
+Wenn du bisher Git nur in Visual Studio verwendet hast, dann solltest du für eine Umbenennung besser ins *Terminal* wechseln. Natürlich ist die Umbenennung auch in Visual Studio möglich, aber die 3 *git*-Befehle sind doch einfacher als einiges Klicken in Visual Studio. Alle Informationen die dir in Visual Studio bezüglich *Git* angezeigt werden, stammen alle von *Git*. D.h. sobald du die Umbenennung übers *Terminal* gemacht hast, wird dir Visual Studio die passenden Änderungen anzeigen.
 
 Hast du Fragen zum Thema *Branch*? Dann [antworte mir doch](mailto:jan@lernmoment.de) einfach auf diese LernMail.
 
