@@ -46,7 +46,7 @@ Aus meiner (persönlichen) Sicht (und Erfahrung) ist weder das Wissen über Kund
 ### Wie bringst du Kundennutzen in deine Software?
 Wie so häufig, war das bisher viel Theorie (oder sogar Philosophie 🤔). Daher nun zu einem Werkzeug, welches dir hilft zu verstehen, welchen Kundennutzen deine Anwendung liefern sollte. Es handelt sich dabei um das *User Story Mapping*.
 
-> Ziel einer Story Map ist ein gemeinsames Verständnis vom Wert, der geschaffen werden soll. Ein Verständnis über das Produkt. Die Vision und die größere Idee hinter dem Projekt. - [Thorsten Diekhof](tbd)
+> Ziel einer Story Map ist ein gemeinsames Verständnis vom Wert, der geschaffen werden soll. Ein Verständnis über das Produkt. Die Vision und die größere Idee hinter dem Projekt. - [Thorsten Diekhof](https://www.udemy.com/course/user-story-mapping-agile-projectmanagement/?couponCode=LERNMAIL10)
 
 Dabei bietet dir eine *Story Map* aber noch mehr:
  - Du erkennst Unterschiede in der Art und Weise wie verschiedene Rollen eine Anwendung benutzen
@@ -58,9 +58,9 @@ Einen ersten Eindruck vom *Story Mapping* bekommst du in [diesem YouTube-Video](
 
 Wenn dich das Thema interessiert, dann kann ich dich an einen wirklich guten Freund, Dozent und Experte u.a. für *Story Maps* verweisen. Thorsten Diekhof veröffentlicht seit einigen Jahren Online-Kurse auf Udemy. Seinen Kurs [User Story Mapping: Erschaffe geniale Produkte]() habe ich bereits Mitte 2018 gekauft und es war für mich die beste Investition in einen Udemy-Kurs überhaupt.
 
-Wenn du Interesse am Kurs von Thorsten hast, dann kannst du ihn bis zum 5.5.2021 zum "LernMail-Super-Preis 🤪" hier kaufen:
+Wenn du Interesse am Kurs von Thorsten hast, dann kannst du ihn **bis zum 5.5.2021 (9:30 Uhr)** zum "LernMail-Super-Preis 🤪" hier kaufen:
 
-[Zum Kurs: "User Story Mapping: Erschaffe geniale Produkte"](tbd)
+[Zum Kurs: "User Story Mapping: Erschaffe geniale Produkte"](https://www.udemy.com/course/user-story-mapping-agile-projectmanagement/?couponCode=LERNMAIL10)
 
 ### Übungsmoment #2 - Deine erste Story Map
 Bevor wir zum heutigen Übungsmoment kommen, möchte ich mich erstmal bei Michael bedanken. Er hat eine sehr schöne Antwort zum letzten Übungsmoment geschrieben. Die Antwort von Michael findest du [hier](https://github.com/LernMoment/community-fragen/issues/13)
@@ -69,7 +69,7 @@ Natürlich passt der heutige Übungsmoment zum Thema *Story Map*. Es geht darum,
 
 Also starte doch mal damit eine *Story Map* zu erstellen. Wenn den grundlegenden Ablauf definiert hast und dann konkretere Aktivitäten hinzufügst, wirst du sicherlich schneller feststellen, was du für eine "kleinste lauffähige Version" umsetzen solltest. Damit hast du dann einen ersten Einstieg wie du deine Anwendung erstellen kannst. Letztlich geht es ja darum zu üben.
 
-Sofern du den Kurs [User Story Mapping: Erschaffe geniale Produkte](tbd) von Thorsten nicht kaufen möchtest, hilft dir [dieser Artikel](https://www.lise.de/blog/artikel/user-story-mapping-die-perfekte-methode-anforderungen-zu-definieren/) dabei zu lernen was genau eine *Story Map* ist und wie du sie erstellst.
+Sofern du den Kurs [User Story Mapping: Erschaffe geniale Produkte](https://www.udemy.com/course/user-story-mapping-agile-projectmanagement/?couponCode=LERNMAIL10) von Thorsten nicht kaufen möchtest, hilft dir [dieser Artikel](https://www.lise.de/blog/artikel/user-story-mapping-die-perfekte-methode-anforderungen-zu-definieren/) dabei zu lernen was genau eine *Story Map* ist und wie du sie erstellst.
 
 #### Erinnerung
 **Akzeptierst du diese Übung?** Klicke auf folgenden Link damit wir dich in ein paar Tagen nochmals daran erinnern, dass du die Übung machen wolltest: [Ja, erinnere mich an diese Übung in ein paar Tagen](mailto:jan@lernmoment?subject=[LernMail%210-21]%20Übungsmoment%20akzeptiert). (Kannst du einfach so abschicken und die Magie passiert. Wenn mehr Lesern die Idee gefällt, wird das natürlich automatisiert ;).
