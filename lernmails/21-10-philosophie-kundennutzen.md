@@ -77,10 +77,10 @@ Sofern du den Kurs [User Story Mapping: Erschaffe geniale Produkte](https://www.
 #### Lösung
 Für diese Übung gibt es leider keine Musterlösung. Ich werde in den nächsten Wochen einen zusätzlichen Artikel veröffentlichen in dem ich (oder vielleicht auch Thorsten) dir zeigen wie wir eine *Story Map* für ein konkretes Projekt erstellen.
 
-**Deine Lösung** kannst du [mir gerne schicken](mailto:jan@lernmoment?subject=[LernMail%210-21]%20Übungsmoment%20Lösung). Sofern möglich werde ich dir dazu ein kleines Feedback schicken.
+**Deine Lösung** kannst du [uns gerne schicken](mailto:jan@lernmoment?subject=[LernMail%210-21]%20Übungsmoment%20Lösung). Sofern möglich werde ich dir dazu ein kleines Feedback schicken.
 
 Nachdem das nun schon wieder eine seeeehhhhrr lange LernMail geworden ist, sind wir gespannt was du dazu sagst. Wie immer freuen wir uns über jede [Rückmeldung](mailto:jan@lernmoment.de?subject=Rückmeldung%20LernMail%210-21)
 
-Mit "gemappten" Grüßen aus Bielefeld
+Mit "hoffentlich nutzbringenden" Grüßen aus Bielefeld
 
 Jan von [LernMoment.de](https://www.lernmoment.de)
