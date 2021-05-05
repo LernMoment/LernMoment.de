@@ -26,7 +26,7 @@ Wenn du in Visual Studio eine neue Desktopanwendung erstellst, dann bekommst du 
 
 Genau an dem Punkt setzt WinTS an. Es erlaubt über einen erweiterten Projekterzeugungs-Wizard die Auswahl von wichtigen Funktionen, Diensten, ... So wird dir dein Projekt mit den Aspekten erstellt die du benötigst.
 
-Die Kern-Funktionalitäten um diese sich WinTS kümmert
+Die Kern-Funktionalitäten um die sich WinTS kümmert
  - Navigation zwischen verschiedenen Views 
    - Ribbon
    - Menü
@@ -65,7 +65,7 @@ Wie bereits erklärt ist der Hauptbestandteil ein Wizard der bei der Projekterst
 
 Die Installation von WinTS erfolgt als [Erweiterung für Visual Studio 2019 über den Marketplace](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WindowsTemplateStudio). Sobald du diese Erweiterung installiert hast und VS neugestartet hast, sind neue Projektvorlagen in VS verfügbar. Du findest sie am einfachsten, wenn du bei der Auswahl einer Projektvorlage in Visual Studio den *Projekttyp-Filter* auf *Windows Template Studio* stellst.
 
-#### Das Beste zum Schluß
+#### Das Beste zum Schluss
 Was mich wirklich begeistert ist die bereits fortgeschrittene Unterstützung für *WinUI 3*. Das Projekt in dem ich WinTS zu erst ausprobiert habe ist nämlich ein *WinUI 3* Projekt mit Fluent Design.
 
 Momentan ist die Unterstützung von *WinUI 3* nur über den *nightly build* verfügbar, aber funktioniert mit ein paar kleinen Anpassungen wirklich super. 
