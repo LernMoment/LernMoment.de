@@ -50,7 +50,7 @@ WinTS bietet also schon wirklich viele Möglichkeiten an.
 #### Wie ist das Resultat?
 Aus meiner Erfahrung ist es so, dass erzeugter Code immer die ein oder andere Schwachstelle hat, weil er zwar angepasst ist, aber halt nicht alle Details berücksichtig werden können. So ist es auch beim WinTS.
 
-[Hier](https://github.com/LernMoment/UebungsMomentReminder) findest du ein Beispielprojekt welches ich mit WinTS erzeugt habe. Es handelt sich um eine WPF-Anwendung  Dort werden ich nach und nach eine kleine Anwendung entwickeln, die es mir erlaubt Interessenten automatisch an den Übungsmoment zu erinnern. Hast du eigentlich schon einen der Übungsmomente gemacht 🧐?
+[Hier](https://github.com/LernMoment/UebungsMomentReminder) findest du ein Beispielprojekt welches ich mit WinTS erzeugt habe. Es handelt sich um eine WPF-Anwendung. Dort werde ich nach und nach eine kleine Anwendung entwickeln, die es mir erlaubt Interessenten automatisch an den Übungsmoment zu erinnern. Hast du eigentlich schon einen der Übungsmomente gemacht 🧐?
 
 Was mir erstmal sehr gut gefällt ist die Trennung in ein WPF-Projekt und ein Projekt in dem ich die eigentliche Geschäftslogik umsetzen kann. Das ist etwas was ich sowohl in meinen Kursen wie auch den Mentorings immer wieder predige. Damit schaffst du es, dass die Kernlogik unabhängig von der Oberflächen-Technologie ist. So kannst du das was deine Anwendung wirklich ausmacht auch mit einer anderen Oberfläche (z.B. Web, WinUI, Xamarin, ...) zur Verfügung stellen.
 
