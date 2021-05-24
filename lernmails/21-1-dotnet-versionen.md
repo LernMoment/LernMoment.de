@@ -5,6 +5,7 @@ excerpt: ""
 search_omit: true
 image:
   feature: banner/lernmoment-csharp.jpg
+lm-newsletter-group-id: 1
 modified:
 date: 2021-02-27T09:30:00+01:00
 ---
@@ -48,3 +49,9 @@ Ich freue mich darauf von dir zu hören.
 Viele Grüße
 
 Jan von [LernMoment.de](https://www.lernmoment.de)
+
+
+<div class="subscribe-notice">
+  <h5>Dir gefällt diese LernMail? Dann melde dich auch für die nächste an ;-)</h5>
+	{% include lernmoment-subscribe.html %}
+</div>

@@ -5,6 +5,7 @@ excerpt: ""
 search_omit: true
 image:
   feature: banner/lernmoment-csharp.jpg
+lm-newsletter-group-id: 1
 modified:
 date: 2021-03-17T09:30:00+01:00
 ---
@@ -82,3 +83,9 @@ PS: Du solltest in der `Main`-Methode drei Mal `Console.ReadLine()` gefunden hab
 - [http://clean-code-developer.de/](http://clean-code-developer.de/) - Clean Code Developer Initiative von Ralf Westphal und Stefan Lieser
 - [https://www.lernmoment.de/csharp-programmieren/schreibe-kuerzeren-quelltext-mit-dem-null-conditional-operator/](https://www.lernmoment.de/csharp-programmieren/schreibe-kuerzeren-quelltext-mit-dem-null-conditional-operator/) - Schreibe kürzeren Quellcode mit dem null-conditional Operator (für Fortgeschrittene)
 - [https://www.lernmoment.de/alle/aktivitaeten-zur-fehlervermeidung/](https://www.lernmoment.de/alle/aktivitaeten-zur-fehlervermeidung/) - Warum Clean Code dir hilft Fehler zu vermeiden
+
+
+<div class="subscribe-notice">
+  <h5>Dir gefällt diese LernMail? Dann melde dich auch für die nächste an ;-)</h5>
+	{% include lernmoment-subscribe.html %}
+</div>

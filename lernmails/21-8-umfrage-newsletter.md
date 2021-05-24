@@ -5,6 +5,7 @@ excerpt: ""
 search_omit: true
 image:
   feature: banner/lernmoment-csharp.jpg
+lm-newsletter-group-id: 1
 modified:
 date: 2021-04-14T09:30:00+01:00
 ---
@@ -37,3 +38,9 @@ Viele Grüße aus dem "verschneiten" Bielefeld
 Jan von [LernMoment.de](https://www.lernmoment.de)
 
 PS: Hast du die Umfrage schon gemacht? NEIN? Dann aber los: [Hier gehts direkt zur Umfrage](https://docs.google.com/forms/d/1RPjRzbL_vcQ5Vy3D04C-dU-1Z5oeau1HIjAi_x4_pBU)
+
+
+<div class="subscribe-notice">
+  <h5>Dir gefällt diese LernMail? Dann melde dich auch für die nächste an ;-)</h5>
+	{% include lernmoment-subscribe.html %}
+</div>

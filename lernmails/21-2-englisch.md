@@ -5,6 +5,7 @@ excerpt: "Wie fit musst du als C#-Entwickler in Englisch sein?"
 search_omit: true
 image:
   feature: banner/lernmoment-csharp.jpg
+lm-newsletter-group-id: 1
 modified:
 date: 2021-03-03T09:30:00+01:00
 ---
@@ -41,3 +42,9 @@ P.S.: Hier noch ein paar Links, falls du mehr zu dem Thema erfahren möchtest:
 - https://www.youtube.com/watch?v=26pb9Q0NO98 - Tom vertritt in diesem Video eine ähnliche Meinung, aber bringt es etwas "schöner" rüber (viel Spaß ;)
 - https://www.e-fellows.net/e-fellows.net-Stipendium/Infos-speziell-fuer/Informatiker/Wissen-fuer-ITler/Englischkenntnisse-Englisch-Informatiker-ITler/(page)/all Hier eine Betrachtung was bezüglich Englisch zu berücksichtigen ist, wenn du in einem internationalen Konzern als Entwickler arbeiten möchtest.
 - https://www.neuland-bfi.de/blog/programmieren-auf-deutsch - Auch der Aspekt ob Deutsch im Quellcode gut ist, sollte berücksichtigt werden. Allerdings stimme ich Alexander nicht zu 100% zu. Aber das ist genügend Stoff für eine andere LernMail ;-)
+
+
+<div class="subscribe-notice">
+  <h5>Dir gefällt diese LernMail? Dann melde dich auch für die nächste an ;-)</h5>
+	{% include lernmoment-subscribe.html %}
+</div>

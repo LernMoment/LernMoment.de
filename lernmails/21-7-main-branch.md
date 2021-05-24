@@ -5,6 +5,7 @@ excerpt: ""
 search_omit: true
 image:
   feature: banner/lernmoment-csharp.jpg
+lm-newsletter-group-id: 1
 modified:
 date: 2021-04-07T09:30:00+01:00
 ---
@@ -38,3 +39,9 @@ Hast du Fragen zum Thema *Branch*? Dann [antworte mir doch](mailto:jan@lernmomen
 Ich zweige jetzt noch einen Gruß an dich ab und freue mich auf die nächste LernMail ;-)
 
 Jan von [LernMoment.de](https://www.lernmoment.de)
+
+
+<div class="subscribe-notice">
+  <h5>Dir gefällt diese LernMail? Dann melde dich auch für die nächste an ;-)</h5>
+	{% include lernmoment-subscribe.html %}
+</div>
