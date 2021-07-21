@@ -1,5 +1,5 @@
 Jekyll:
-  image: jekyll/jekyll:4.0
+  image: jekyll/jekyll:4.2.0
   ports:
     - "4000:4000"
   volumes:
