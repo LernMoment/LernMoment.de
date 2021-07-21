@@ -57,21 +57,13 @@ Es ist wichtig, dass du das ganze aufschreibst. Das bietet uns zum einen die Gru
 [Dokumentiere deine Überlegungen zum Verbesserungspotential. Lost gehts!](https://github.com/LernMoment/tictactoe-wpf/issues)
 
 ## Wie geht es weiter?
-Wie schon gesagt ist das heute erstmal die letzte Übung. Allerdings gibt es in den nächsten Tagen noch einen Bonus für dich. Als eine Art Lösung für die heutige Aufgabe habe ich ein längeres Video erstellt in dem ich dir zeige wie ich meine bisherige Lösung komplett überarbeite um verschiedenste Aspekt im Quellcode zu verbessern. Natürlich erkläre ich dir darin auch warum ich das mache.
+Wie schon gesagt ist das heute erstmal die letzte Übung. Wobei, vielleicht habe ich ja in den nächsten Tagen noch einen kleinen Bonus für dich ;-).
 
-Dir hat dieser Übungskurs gefallen? Dann ist vielleicht der **Übungsmoment** genau das richtige für dich. Der Übungsmoment erscheint **einmal pro Woche** und bietet dir, ähnlich wie die einzelnen Teile in diesem Übungskurs, 
- - eine **Übung** (zu Themen die du selber mitbestimmen kannst), 
- - das notwendige **Lernmaterial** zur Lösung, 
- - eine **Musterlösung** (inkl. Erklärungsvideo),
- - **individuelle Rückmeldung** zu deiner Lösung (Optional) und
- - eine **Community** die dir hilft.
+Wie du hoffentlich an diesem Übungskurs gesehen hast, ist es wichtig, dass du selber aktiv wirst. Je nach deinem Wissen, ist es sicherlich nicht immer so einfach mal gerade eine kleine Oberfläche zu erstellen. Am einfachsten kommst du allerdings voran, wenn du es trotzdem machst. Dabei wird es u.U. etwas länger dauern und auch nicht so einfach sein, wie du vielleicht hoffst. Trotzdem solltest du Erfahrung sammeln in dem du kleine Oberflächen erstellst.
 
-Habe ich dein Interesse geweckt? Dann erfahre hier mehr über den **Übungsmoment**
+Wenn dir nichts einfällt oder du gar nicht weiter kommst, dann kannst du mir gerne eine [Mail schreiben](mailto:jan@lernmoment.de). Sobald ich etwas Zeit habe, werde ich dir antworten. Vielleicht ist dir jetzt aber auch schon klar, dass du etwas intensivere Unterstützung von mir benötigst. Dann ist vielleicht eines [dieser Angebote](/projekt-start/) für dich interessant!?!
 
-<div class="subscribe-notice">
-<h5>Übungsmoment - kontinuierliches und systematisches Üben auf deinem Weg zum C# Entwickler</h5>
-<a markdown="0" href="/uebungsmoment/" class="notice-button">Erfahre mehr >></a>
-</div>
+So oder so möchte ich mich bedanken bei dir, dass du diesen Kurs belegt hast. Ich hoffe, dass du etwas lernen konntest und das WPF und Oberflächenentwicklung dich ähnlich begeistert wie mich. Somit bleibt mir nur Tschüß zu sagen und ich freue mich auf ein baldiges Wiedersehen.
 
 Bis dahin wünsche ich dir viel Spaß beim Üben
 
