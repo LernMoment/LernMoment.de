@@ -24,25 +24,6 @@ Ein Mentoring ist auch möglich, wenn du bereits als C# Entwickler arbeitest und
 
 <a markdown="0" href="mailto:jan@lernmoment.de?subject=[Mentoring-Anfrage]%20worum%20geht%20es?" class="notice-button">Unverbindliche Anfrage zum Mentoring >></a>
 
-### Dein erstes Projekt starten - Projektstart-Workshop (remote)
-Du hast bereits einiges an C# gelernt und möchtest nun dein erstes "richtiges" Projekt strukturiert umsetzen. Zwar hast du eine Idee was am Ende herauskommen soll, aber Antworten auf Fragen wie diese hast du nicht:
-- Welche Werkzeuge, Komponenten, Tools und Bibliotheken brauche ich überhaupt?
-- Wie richte ich meine Werkzeuge (Visual Studio, GitHub, Azure DevOps, ...) passend für mein Projekt ein?
-- Wie kann ich eine mögliche Lösung strukturieren (Softwarearchitektur)?
-- Wie identifiziere ich verschiedene Komponenten die ich in meiner Lösung benötige?
-- Welche der vielen Arbeitsabläufe und Methoden soll ich verwenden?
-- Kann ich Open Source Software ohne Bedenken einsetzen? Wenn ja, wie geht das? Wenn nein, was sind gute Alternativen?
-
-Um diese ganzen Fragen zu klären biete ich dir meinen Projektstart-Workshop (Videokonferenz & Screensharing) an. Nach ca. einem halben Tag hast du:
-- eine Idee wie du dein Projekt planen kannst (inkl. den ersten Aufgaben die du nach dem Workshop direkt umsetzen kannst)
-- eine erste Idee wie du deine Lösung strukturieren kannst
-- eine Visual-Studio Projektmappe mit einem oder mehreren Projekten (abhängig von der erarbeiteten Struktur) und einer funktionsfähigen Anbindung an die Versionsverwaltung
-- ...
-
-Mit meiner Hilfe strukturierst du dein Projekt und wir setzen die ersten wichtigen Schritte gemeinsam um. So hast du nach diesem Paket das wichtigste fertig eingerichtet und die Grundlagen verstanden um dein Projekt dann selber umzusetzen.
-
-<a markdown="0" href="mailto:jan@lernmoment.de?subject=[Projektstart-Workshop]%20worum%20geht%20es?" class="notice-button">Unverbindliche Anfrage zum Projektstart-Workshop >></a>
-
 ### Entwicklung
 Manchmal brauchst du einfach jemanden der die eigentliche Entwicklung für dich macht. Entweder fehlt dir einfach das KnowHow für eine bestimmte Komponente, oder willst die Anwendung möglichst schnell in deinen Händen halten (oder besser auf dem Rechner deines Kunden haben ;).
 
