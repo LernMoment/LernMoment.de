@@ -3,7 +3,14 @@
       <input type="hidden" name="id" value="8845c28e62">
       <input type="email" class="subscribe-notice-input-box" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" placeholder="Deine E-Mail-Adresse">
       <input type="text" class="subscribe-notice-input-box" name="MERGE1" id="MERGE1" size="25" value="" placeholder="Dein Vorname (optional)">
-      {% if page.lm-newsletter-group-id %}
+      {% if page.lm-newsletter-group-id == 128 %}
+        <div>
+          <input type="checkbox" id="0815" name="group[20205][{{ 256 }}]" value="1">
+          <label for="0815">Ich möchte die wöchentlichen LernMails bekommen!</label>
+          <input type="checkbox" id="group_{{ page.lm-newsletter-group-id }}" name="group[20205][{{ page.lm-newsletter-group-id }}]" value="1" checked="true" style="display:none">
+        </div>
+      {% elsif page.lm-newsletter-group-id %}
+        <input type="checkbox" id="group_256" name="group[20205][256]" value="1" checked="true" style="display:none">
         <input type="checkbox" id="group_{{ page.lm-newsletter-group-id }}" name="group[20205][{{ page.lm-newsletter-group-id }}]" value="1" checked="true" style="display:none">
       {% endif %}
       <input type="submit" class="subscribe-notice-button" name="submit" value="Ich bin dabei!">
