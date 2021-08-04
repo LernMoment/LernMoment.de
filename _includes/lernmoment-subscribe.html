@@ -4,15 +4,20 @@
       <input type="email" class="subscribe-notice-input-box" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" placeholder="Deine E-Mail-Adresse">
       <input type="text" class="subscribe-notice-input-box" name="MERGE1" id="MERGE1" size="25" value="" placeholder="Dein Vorname (optional)">
       {% if page.lm-newsletter-group-id == 128 %}
-        <div>
-          <input type="checkbox" id="0815" name="group[20205][{{ 256 }}]" value="1">
-          <label for="0815">Ich möchte die wöchentlichen LernMails bekommen!</label>
+        <div class="subscribe-notice-checkbox-wrapper">
+          <input type="checkbox" id="0815" name="group[20205][{{ 256 }}]" value="1" class="subscribe-notice-checkbox">
+          <label for="0815" class="subscribe-notice-checkbox-label">Ich möchte auch die kostenlosen LernMails bekommen!</label>
           <input type="checkbox" id="group_{{ page.lm-newsletter-group-id }}" name="group[20205][{{ page.lm-newsletter-group-id }}]" value="1" checked="true" style="display:none">
         </div>
-      {% elsif page.lm-newsletter-group-id %}
+        <input type="submit" class="subscribe-notice-button" name="submit" value="Ich bin dabei!">
+        <legend class="subscribe-notice-legend">Du meldest dich hier für den Übungskurs an. Nur wenn du oben noch den Haken setzt, bekommst du den kostenlosen wöchentliche Newsletter von LernMoment. Wenn du WPF lernen willst, ist das ein Muss ;-)!</legend>
+        {% elsif page.lm-newsletter-group-id %}
         <input type="checkbox" id="group_256" name="group[20205][256]" value="1" checked="true" style="display:none">
         <input type="checkbox" id="group_{{ page.lm-newsletter-group-id }}" name="group[20205][{{ page.lm-newsletter-group-id }}]" value="1" checked="true" style="display:none">
-      {% endif %}
-      <input type="submit" class="subscribe-notice-button" name="submit" value="Ich bin dabei!">
-      <legend class="subscribe-notice-legend">Du bekommst in unregelmäßigen Abständen Mails von mir, in denen ich dich auf neue Artikel oder Angebote hinweise, die in das gleiche Themengebiet fallen wie dieser Artikel.</legend>
+        <input type="submit" class="subscribe-notice-button" name="submit" value="Ich bin dabei!">
+        <legend class="subscribe-notice-legend">Du bekommst wöchentlich eine Mail von mir, mit der du ein spezifisches Thema auf deinem Weg zum C# Entwickler lernen kannst. Manchmal bekommst du auch Hinweise zu neuen Angeboten von LernMoment.</legend>
+        {% else %}
+        <input type="submit" class="subscribe-notice-button" name="submit" value="Ich bin dabei!">
+        <legend class="subscribe-notice-legend">Du bekommst wöchentlich eine Mail von mir, mit der du ein spezifisches Thema auf deinem Weg zum C# Entwickler lernen kannst. Manchmal bekommst du auch Hinweise zu neuen Angeboten von LernMoment.</legend>
+        {% endif %}
     </form>
