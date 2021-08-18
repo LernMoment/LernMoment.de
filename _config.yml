@@ -13,6 +13,11 @@ future: false
 comments: true
 default-banner: einstieg-csharp
 
+collections:
+  lernmails:
+    output: true
+    permalink: /:collection/:path/
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/
