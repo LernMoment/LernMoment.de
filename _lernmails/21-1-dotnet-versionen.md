@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "LernMail 1/21 - Vom .NET Framework über .NET Standard und Core zu .NET 5"
-excerpt: ""
+excerpt: "Schluss mit dem Verwirrspiel um die ganzen .NET Namen und Versionen!"
 search_omit: true
 image:
   feature: banner/lernmoment-csharp.jpg

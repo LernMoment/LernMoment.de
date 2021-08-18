@@ -28,4 +28,4 @@ Das ist ja schon fast eine Frechheit. Ganz offensichtlich ist da bei uns etwas s
 
 Du hast ein Problem bei der Anmeldung? Du bist zwar angemeldet, aber die LernMails kommen einfach nicht in deinem Postfach an? Du hast sonstige Probleme mit der LernMail?
 
-Dann wende dich einfach an die [gute Fee von LernMoment](mailto:lara@lernmoment.de). Bei den organisatorischen Problemen kann Sie dir helfen. Auch bei sonstigen Wünschen rund um LernMoment und LernMails ist sie der erste Ansprechpartner. Sie heißt übrigens Lara und hält den Laden hier am Laufen ;-).
+Dann wende dich einfach an die [gute Fee von LernMoment](mailto:lara@lernmoment.de). Bei den organisatorischen Problemen kann sie dir helfen. Auch bei sonstigen Wünschen rund um LernMoment und die LernMails ist sie deine erste Ansprechpartnerin. Sie heißt übrigens Lara und hält den Laden hier am Laufen ;-).
