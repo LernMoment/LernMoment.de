@@ -4,15 +4,14 @@ title: "LernMail 18/21 - Git/GitHub in meinem Arbeitsalltag"
 excerpt: ""
 search_omit: true
 image:
-  feature: banner/lernmoment-csharp.jpg
+  feature: banner/lernmoment-vs.jpg
 lm-newsletter-group-id: 1
+published: false
 modified:
 date: 2021-07-14T09:30:00+01:00
 ---
 
 Mmmmmoin und willkommen zu deiner LernMail!
-
-Wie bereits letzte Woche angekündigt, ist dies die letzte LernMail... NEIN! Nicht für immer ;-)! Nur die letzte LernMail vor der Sommerpause. Am 21.07.2021 geht es mit spannenden Themen und einigen neuen Konzepten weiter! Lara und ich werden die Sommerpause nutzen um an einigen Ideen zu arbeiten. Natürlich erfährst du davon dann als erstes.
 
 Heute geht es erstmal um ein paar grundlegende Aspekte meines Arbeitsalltags. Nicht, weil ich so gerne über mich spreche, sondern, weil ich in Mentorings und Projekten in den letzten Wochen immer wieder festgestellt habe, wie wichtig es ist eine strukturierte Arbeitsweise zu haben. Zusätzlich haben wir mit Tools wie Git und GitHub tolle Möglichkeiten.
 
