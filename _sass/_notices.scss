@@ -56,6 +56,18 @@
   margin-bottom: 0.5em;
 }
 
+.subscribe-notice-checkbox-wrapper {
+  white-space: nowrap;
+}
+.subscribe-notice-checkbox {
+  vertical-align:text-top;
+  display: inline-block;
+}
+.subscribe-notice-checkbox-label {
+  white-space: normal;
+  display: inline-block;
+}
+
 .lernmomentgroup {
   padding: 8px 20px;
   overflow: auto;  
