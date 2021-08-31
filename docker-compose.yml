@@ -1,11 +1,12 @@
-Jekyll:
-  image: jekyll/jekyll:4.2.0
-  ports:
-    - "4000:4000"
-  volumes:
-    - .:/srv/jekyll
-    - ./vendor/bundle:/usr/local/bundle
-  command: jekyll serve --unpublished --config _config.yml,_config-devenv.yml
-  environment:
-    - TZ=Europe/Berlin
-    - LANG=C.UTF-8
+services:
+  Jekyll:
+    image: jekyll/jekyll:4.2.0
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/srv/jekyll
+      - ./vendor/bundle:/usr/local/bundle
+    command: jekyll serve --unpublished --config _config.yml,_config-devenv.yml
+    environment:
+      - TZ=Europe/Berlin
+      - LANG=C.UTF-8
