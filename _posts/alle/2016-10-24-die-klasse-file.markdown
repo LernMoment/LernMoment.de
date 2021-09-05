@@ -35,7 +35,7 @@ Mehr über Pfade erfährst du auch im Artikel [Pfade trennen sich auf allen Plat
 
 <div class="subscribe-notice">
 <h5>Lerne alles über C# und professionelle Softwareentwicklung</h5>
-<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0121_LMDE" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
+<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0921_LMDE" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
 </div>
 
 Der nächste Schritt ist schon die Verwendung einer `File.Read*`, `File.Write*` oder `File.Append*` Methode. Die unterschiedlichen Ausprägungen dieser Methoden sind [hier](https://msdn.microsoft.com/de-de/library/system.io.file(v=vs.110).aspx) beschrieben. Diese Methoden öffnen bzw. erstellen eine Datei, lesen oder schreiben den angegebenen Inhalt und schließen die Datei wieder. Um beispielsweise den Inhalt einer Datei zeilenweise zu lesen und auf der Console auszugeben, schreibst du einfach folgendes:
@@ -78,7 +78,7 @@ Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherige
 
 ### Weitere Informationen
 
--	Grundlagen C# und professionelle Softwareentwicklung lernen im Online-Kurs [Einstieg in C#](https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0121_LMDE)
+-	Grundlagen C# und professionelle Softwareentwicklung lernen im Online-Kurs [Einstieg in C#](https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0921_LMDE)
 -	Das komplette Beispielprogramm zu diesem LernMoment findest du [hier](https://github.com/LernMoment/csharp/tree/master/DieKlasseFile)
 -	Die ganzen Methoden der Klasse `File` sind sehr gut [hier](https://msdn.microsoft.com/de-de/library/system.io.file(v=vs.110).aspx) beschrieben.
 -	Mehr über Pfade erfährst du auch im Artikel [Pfade trennen sich auf allen Plattformen anders](/csharp-programmieren/pfade-trennen-sich-auf-allen-plattformen-anders/).

@@ -26,7 +26,7 @@ Schritt für Schritt zeige ich dir wie du Visual Studio 2017 in der Community Ed
 
 <div class="subscribe-notice">
 <h5>Lerne alles über C# und professionelle Softwareentwicklung</h5>
-<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0121_LMDE" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
+<a markdown="0" href="https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0921_LMDE" class="notice-button">Hier geht's zum Online-Kurs "Einstieg in C#" >></a>
 </div>
 
 ### Weitere Links

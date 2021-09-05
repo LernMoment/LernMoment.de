@@ -13,14 +13,14 @@ date: 2018-07-02T09:30:00+01:00
 
 Hier bekommst du einen Überblick über alle Online-Kurse.
 
-[![Einstieg in C# - Kurs-Titelbild]({{ site.url }}/images/ucsk-titelbild-neu-klein.jpg)](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0121_LMDE)
+[![Einstieg in C# - Kurs-Titelbild]({{ site.url }}/images/ucsk-titelbild-neu-klein.jpg)](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0921_LMDE)
 {: .pull-left}
 
 ## Einstieg in C# - Der Topseller!
 
 Mit diesem Kurs hast du in 30 Minuten deine erste C#-Anwendung entwickelt. Viel wichtiger ist jedoch, dass du nicht nur Programmieren lernst, sondern die Arbeitsweise, die professionelle Softwareentwickler verwenden, um herausragende Anwendungen zu entwickeln.
 
-[Hier gibt es mehr Informationen zum Kurs (und einen kleinen Rabatt ;)](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0121_LMDE)
+[Hier gibt es mehr Informationen zum Kurs (und einen kleinen Rabatt ;)](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0921_LMDE)
 
 [![C# Übungskurs - Kurs-Titelbild]({{ site.url }}/images/URot-Titelbild-klein.jpg)](https://www.udemy.com/course/csharp-uebungskurs-einfach-verschluesselt/?couponCode=ROT_13-0121_LMDE)
 {: .pull-right}
