@@ -22,14 +22,14 @@ Mit diesem Kurs hast du in 30 Minuten deine erste C#-Anwendung entwickelt. Viel 
 
 [Hier gibt es mehr Informationen zum Kurs (und einen kleinen Rabatt ;)](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?couponCode=CS_20-0921_LMDE)
 
-[![C# Übungskurs - Kurs-Titelbild]({{ site.url }}/images/URot-Titelbild-klein.jpg)](https://www.udemy.com/course/csharp-uebungskurs-einfach-verschluesselt/?couponCode=ROT_13-0121_LMDE)
+[![C# Übungskurs - Kurs-Titelbild]({{ site.url }}/images/URot-Titelbild-klein.jpg)](https://www.udemy.com/course/csharp-uebungskurs-einfach-verschluesselt/?couponCode=ROT_13-0921_LMDE)
 {: .pull-right}
 
 ## Erfahrung sammeln in C# - Übung: Buchstaben verschieben
 
 Du erstellst mit grundlegenden Konzepten und C#-Syntax eigenständig ein Programm welches einen beliebigen Text (einfach) verschlüsselt und erfährst somit, dass du bereits in der Lage bist eigenständig Probleme mithilfe eines Programms in C# zu lösen. Es geht also darum, dass du Erfahrung sammelst und erkennst, dass du, selbst wenn du noch nicht viel von C# weist, bereits in der Lage bist eine Aufgabe eigenstzändig zu lösen.
 
-[Hier gibt es mehr Informationen zum Kurs (und einen kleinen Rabatt ;)](https://www.udemy.com/course/csharp-uebungskurs-einfach-verschluesselt/?couponCode=ROT_13-0121_LMDE)
+[Hier gibt es mehr Informationen zum Kurs (und einen kleinen Rabatt ;)](https://www.udemy.com/course/csharp-uebungskurs-einfach-verschluesselt/?couponCode=ROT_13-0921_LMDE)
 
 [![WPF Übungskurs - Kurs-Titelbild]({{ site.url }}/images/wpf-uebungskurs-ttt-einsteiger-gratis-klein.jpg)](/lernmail-kurse/wpf-tictactoe-fuer-einsteiger/)
 {: .pull-left}
