@@ -29,3 +29,8 @@ ausbildung-csharp:
   label: "Mache mit mir die komplette Ausbildung zum:"
   title: "Junior C# Entwickler ->"
   url: /kurse/ausbildung/
+
+uebung-buchstaben:
+  label: "Erstelle deine erste Oberfläche mit mir im Kurs:"
+  title: "Übung: Oberflächen mit WPF ->"
+  url: /lernmail-kurse/wpf-tictactoe-fuer-einsteiger/
